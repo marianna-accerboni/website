@@ -1,22 +1,17 @@
 ---
-import { useTranslations, type Locale } from '../i18n/ui';
 import { href } from '../lib/url';
-import LanguageSwitcher from '../components/LanguageSwitcher.vue';
 
 interface Props {
   title?: string;
-  locale: Locale;
-  currentPath: string;
 }
 
-const { title, locale, currentPath } = Astro.props;
-const t = useTranslations(locale);
-const homeHref = href(locale === 'it' ? '/it/' : '/');
-const pageTitle = title ? `${title} — ${t('site.title')}` : t('site.title');
+const { title } = Astro.props;
+const siteTitle = 'Marianna Accerboni';
+const pageTitle = title ? `${title} — ${siteTitle}` : siteTitle;
 ---
 
 <!doctype html>
-<html lang={locale}>
+<html lang="it">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -26,17 +21,16 @@ const pageTitle = title ? `${title} — ${t('site.title')}` : t('site.title');
   </head>
   <body>
     <header class="site-header">
-      <a class="site-title" href={homeHref}>{t('site.title')}</a>
+      <a class="site-title" href={href('/')}>{siteTitle}</a>
       <nav class="site-nav">
-        <a href={homeHref}>{t('nav.home')}</a>
-        <LanguageSwitcher client:load currentPath={currentPath} locale={locale} />
+        <a href={href('/')}>Home</a>
       </nav>
     </header>
     <main class="site-main">
       <slot />
     </main>
     <footer class="site-footer">
-      <p>&copy; {new Date().getFullYear()} {t('site.title')}. {t('footer.rights')}</p>
+      <p>&copy; {new Date().getFullYear()} {siteTitle}. Tutti i diritti riservati.</p>
     </footer>
   </body>
 </html>

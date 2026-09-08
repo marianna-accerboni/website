@@ -1,37 +1,34 @@
 ---
 import { render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { useTranslations } from '../../i18n/ui';
 import { getExhibitions } from '../../lib/exhibitions';
 import { href } from '../../lib/url';
 
 export async function getStaticPaths() {
-  const exhibitions = await getExhibitions('en');
+  const exhibitions = await getExhibitions();
   return exhibitions.map((entry) => ({
     params: { slug: entry.data.slug },
     props: { entry }
   }));
 }
 
-const locale = 'en';
-const t = useTranslations(locale);
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const { title, artists, venue, city, startDate, endDate, coverImage, gallery, attachments, videos } = entry.data;
 
 const formatDate = (d: Date) =>
-  d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+  d.toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' });
 ---
 
-<BaseLayout title={title} locale={locale} currentPath={Astro.url.pathname}>
+<BaseLayout title={title}>
   <article class="exhibition">
     <h1>{title}</h1>
     <p class="meta">
-      <strong>{t('exhibition.artists')}:</strong> {artists.join(', ')}<br />
-      <strong>{t('exhibition.venue')}:</strong> {venue}, {city}<br />
-      <strong>{t('exhibition.dates')}:</strong>
-      {t('exhibition.from')} {formatDate(startDate)}
-      {endDate && <span> {t('exhibition.to')} {formatDate(endDate)}</span>}
+      <strong>Artisti:</strong> {artists.join(', ')}<br />
+      <strong>Sede:</strong> {venue}, {city}<br />
+      <strong>Date:</strong>
+      Dal {formatDate(startDate)}
+      {endDate && <span> al {formatDate(endDate)}</span>}
     </p>
 
     {coverImage && <img class="cover" src={href(coverImage)} alt={title} />}
@@ -43,7 +40,7 @@ const formatDate = (d: Date) =>
     {
       gallery.length > 0 && (
         <section>
-          <h2>{t('exhibition.gallery')}</h2>
+          <h2>Galleria</h2>
           <div class="gallery">
             {gallery.map((img) => (
               <img src={href(img)} alt={title} loading="lazy" />
@@ -56,7 +53,7 @@ const formatDate = (d: Date) =>
     {
       videos.length > 0 && (
         <section>
-          <h2>{t('exhibition.video')}</h2>
+          <h2>Video</h2>
           {videos.map((url) => (
             <div class="video-wrapper">
               <iframe src={url} title={title} allowfullscreen loading="lazy" />
@@ -69,7 +66,7 @@ const formatDate = (d: Date) =>
     {
       attachments.length > 0 && (
         <section>
-          <h2>{t('exhibition.attachments')}</h2>
+          <h2>Allegati</h2>
           <ul>
             {attachments.map((a) => (
               <li>
@@ -81,7 +78,7 @@ const formatDate = (d: Date) =>
       )
     }
 
-    <p><a href={href('/')}>&larr; {t('exhibition.backToList')}</a></p>
+    <p><a href={href('/')}>&larr; Torna alle mostre</a></p>
   </article>
 </BaseLayout>
 

@@ -1,6 +1,4 @@
 # Decap CMS configuration
-# NOTE: replace YOUR_GITHUB_USERNAME/YOUR_REPO with the real repository,
-# and set base_url to your deployed OAuth gateway (see plan: OAuth gateway todo).
 backend:
   name: github
   repo: marianna-accerboni/website
@@ -14,10 +12,10 @@ media_folder: public/media
 public_folder: /media
 
 collections:
-  - name: exhibitions_en
-    label: Mostre (English)
-    label_singular: Mostra (English)
-    folder: src/content/exhibitions/en
+  - name: exhibitions
+    label: Mostre
+    label_singular: Mostra
+    folder: src/content/exhibitions
     create: true
     slug: "{{fields.slug}}"
     extension: md
@@ -27,58 +25,7 @@ collections:
       - label: Slug
         name: slug
         widget: string
-        hint: Identificativo univoco della mostra, uguale per EN e IT (es. mostra-vernice-2026)
-      - label: Lingua
-        name: locale
-        widget: hidden
-        default: en
-      - label: Artisti
-        name: artists
-        widget: list
-        field: { label: Artista, name: artist, widget: string }
-      - { label: Sede, name: venue, widget: string }
-      - { label: "Città", name: city, widget: string }
-      - { label: Data inizio, name: startDate, widget: datetime, date_format: YYYY-MM-DD, time_format: false }
-      - { label: Data fine, name: endDate, widget: datetime, date_format: YYYY-MM-DD, time_format: false, required: false }
-      - { label: Immagine di copertina, name: coverImage, widget: image, required: false }
-      - label: Galleria immagini
-        name: gallery
-        widget: list
-        required: false
-        field: { label: Immagine, name: image, widget: image }
-      - label: Allegati (PDF)
-        name: attachments
-        widget: list
-        required: false
-        fields:
-          - { label: Etichetta, name: label, widget: string }
-          - { label: File, name: file, widget: file }
-      - label: Video (URL embed YouTube/Vimeo)
-        name: videos
-        widget: list
-        required: false
-        field: { label: URL, name: video, widget: string }
-      - { label: Bozza, name: draft, widget: boolean, default: false }
-      - { label: Testo, name: body, widget: markdown }
-
-  - name: exhibitions_it
-    label: Mostre (Italiano)
-    label_singular: Mostra (Italiano)
-    folder: src/content/exhibitions/it
-    create: true
-    slug: "{{fields.slug}}"
-    extension: md
-    format: frontmatter
-    fields:
-      - { label: Titolo, name: title, widget: string }
-      - label: Slug
-        name: slug
-        widget: string
-        hint: Identificativo univoco della mostra, uguale per EN e IT (es. mostra-vernice-2026)
-      - label: Lingua
-        name: locale
-        widget: hidden
-        default: it
+        hint: Identificativo univoco della mostra, usato nell'URL (es. mostra-vernice-2026)
       - label: Artisti
         name: artists
         widget: list

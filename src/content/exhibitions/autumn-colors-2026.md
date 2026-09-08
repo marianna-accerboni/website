@@ -1,7 +1,6 @@
 ---
 title: "Colori d'Autunno"
 slug: "autumn-colors-2026"
-locale: "it"
 artists:
   - "Mario Rossi"
   - "Elena Bianchi"

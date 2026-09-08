@@ -1,19 +1,16 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ExhibitionCard from '../components/ExhibitionCard.astro';
-import { useTranslations } from '../i18n/ui';
 import { getExhibitions, splitByDate } from '../lib/exhibitions';
 
-const locale = 'en';
-const t = useTranslations(locale);
-const { upcoming, past } = splitByDate(await getExhibitions(locale));
+const { upcoming, past } = splitByDate(await getExhibitions());
 ---
 
-<BaseLayout locale={locale} currentPath={Astro.url.pathname}>
+<BaseLayout>
   {
     upcoming.length > 0 && (
       <section>
-        <h2>{t('home.comingExhibitions')}</h2>
+        <h2>Prossime mostre</h2>
         <div class="exhibition-grid">
           {upcoming.map((e) => (
             <ExhibitionCard
@@ -25,7 +22,6 @@ const { upcoming, past } = splitByDate(await getExhibitions(locale));
               startDate={e.data.startDate}
               endDate={e.data.endDate}
               coverImage={e.data.coverImage}
-              locale={locale}
             />
           ))}
         </div>
@@ -34,7 +30,7 @@ const { upcoming, past } = splitByDate(await getExhibitions(locale));
   }
 
   <section>
-    <h2>{t('home.latestExhibitions')}</h2>
+    <h2>Ultime mostre</h2>
     <div class="exhibition-grid">
       {
         past.map((e) => (
@@ -47,7 +43,6 @@ const { upcoming, past } = splitByDate(await getExhibitions(locale));
             startDate={e.data.startDate}
             endDate={e.data.endDate}
             coverImage={e.data.coverImage}
-            locale={locale}
           />
         ))
       }

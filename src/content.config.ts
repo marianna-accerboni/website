@@ -4,14 +4,11 @@ import { glob } from 'astro/loaders';
 const exhibitions = defineCollection({
   loader: glob({
     pattern: '**/*.md',
-    base: './src/content/exhibitions',
-    // Entry IDs must be unique across locales; the localized slug lives in frontmatter.
-    generateId: ({ entry }) => entry.replace(/\.md$/, '')
+    base: './src/content/exhibitions'
   }),
   schema: z.object({
     title: z.string(),
     slug: z.string(),
-    locale: z.enum(['en', 'it']),
     artists: z.array(z.string()),
     venue: z.string(),
     city: z.string(),

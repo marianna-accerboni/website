@@ -1,7 +1,6 @@
 ---
 title: "Retrospettiva di Primavera"
 slug: "spring-retrospective-2025"
-locale: "it"
 artists:
   - "Luigi Verdi"
 venue: "Palazzo delle Esposizioni"

@@ -1,11 +1,9 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
-import type { Locale } from '../i18n/ui';
 
 export type Exhibition = CollectionEntry<'exhibitions'>;
 
-export async function getExhibitions(locale: Locale): Promise<Exhibition[]> {
-  const all = await getCollection('exhibitions', ({ data }) => !data.draft);
-  return all.filter((entry) => entry.data.locale === locale);
+export async function getExhibitions(): Promise<Exhibition[]> {
+  return getCollection('exhibitions', ({ data }) => !data.draft);
 }
 
 export function splitByDate(exhibitions: Exhibition[], now = new Date()) {
@@ -18,12 +16,4 @@ export function splitByDate(exhibitions: Exhibition[], now = new Date()) {
     .sort((a, b) => b.data.startDate.getTime() - a.data.startDate.getTime());
 
   return { upcoming, past };
-}
-
-export async function findLocalizedPair(slug: string) {
-  const all = await getCollection('exhibitions');
-  return {
-    en: all.find((e) => e.data.slug === slug && e.data.locale === 'en'),
-    it: all.find((e) => e.data.slug === slug && e.data.locale === 'it')
-  };
 }

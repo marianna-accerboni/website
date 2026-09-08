@@ -10,12 +10,5 @@ export default defineConfig({
   integrations: [vue()],
   redirects: {
     '/admin': '/admin/index.html'
-  },
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'it'],
-    routing: {
-      prefixDefaultLocale: false
-    }
   }
 });
