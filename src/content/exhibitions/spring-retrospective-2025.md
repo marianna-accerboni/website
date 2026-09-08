@@ -18,6 +18,6 @@ Una retrospettiva dedicata a **Luigi Verdi**, che ripercorre quarant'anni di
 ricerca artistica dalle prime opere astratte fino al più recente periodo
 figurativo.
 
-<img src="/media/illustration1.jpg" alt="" />
+![](/media/illustration3.jpg)
 
 Ciao come va?
