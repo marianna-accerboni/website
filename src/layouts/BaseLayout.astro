@@ -1,5 +1,6 @@
 ---
 import { useTranslations, type Locale } from '../i18n/ui';
+import { href } from '../lib/url';
 import LanguageSwitcher from '../components/LanguageSwitcher.vue';
 
 interface Props {
@@ -10,7 +11,7 @@ interface Props {
 
 const { title, locale, currentPath } = Astro.props;
 const t = useTranslations(locale);
-const homeHref = locale === 'it' ? '/it/' : '/';
+const homeHref = href(locale === 'it' ? '/it/' : '/');
 const pageTitle = title ? `${title} — ${t('site.title')}` : t('site.title');
 ---
 
@@ -20,7 +21,7 @@ const pageTitle = title ? `${title} — ${t('site.title')}` : t('site.title');
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href={href('/favicon.svg')} />
     <title>{pageTitle}</title>
   </head>
   <body>

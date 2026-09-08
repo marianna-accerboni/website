@@ -6,15 +6,23 @@ const props = defineProps<{
   locale: 'en' | 'it';
 }>();
 
+// Astro base path (e.g. "/website" on GitHub Pages, "/" in dev)
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
 const target = computed(() => {
+  // Strip the base prefix from the current path first
+  const path = props.currentPath.startsWith(base)
+    ? props.currentPath.slice(base.length) || '/'
+    : props.currentPath;
+
   if (props.locale === 'it') {
     // Switch to English: strip the /it prefix
-    const stripped = props.currentPath.replace(/^\/it(\/|$)/, '/');
-    return { href: stripped || '/', label: 'English' };
+    const stripped = path.replace(/^\/it(\/|$)/, '/');
+    return { href: `${base}${stripped}` || '/', label: 'English' };
   }
   // Switch to Italian: add the /it prefix
-  const path = props.currentPath === '/' ? '' : props.currentPath;
-  return { href: `/it${path}/`.replace(/\/+$/, '/'), label: 'Italiano' };
+  const rest = path === '/' ? '' : path;
+  return { href: `${base}/it${rest}/`.replace(/\/+$/, '/'), label: 'Italiano' };
 });
 </script>
 

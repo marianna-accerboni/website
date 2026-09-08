@@ -3,6 +3,7 @@ import { render } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { useTranslations } from '../../../i18n/ui';
 import { getExhibitions } from '../../../lib/exhibitions';
+import { href } from '../../../lib/url';
 
 export async function getStaticPaths() {
   const exhibitions = await getExhibitions('it');
@@ -33,7 +34,7 @@ const formatDate = (d: Date) =>
       {endDate && <span> {t('exhibition.to')} {formatDate(endDate)}</span>}
     </p>
 
-    {coverImage && <img class="cover" src={coverImage} alt={title} />}
+    {coverImage && <img class="cover" src={href(coverImage)} alt={title} />}
 
     <div class="content">
       <Content />
@@ -45,7 +46,7 @@ const formatDate = (d: Date) =>
           <h2>{t('exhibition.gallery')}</h2>
           <div class="gallery">
             {gallery.map((img) => (
-              <img src={img} alt={title} loading="lazy" />
+              <img src={href(img)} alt={title} loading="lazy" />
             ))}
           </div>
         </section>
@@ -72,7 +73,7 @@ const formatDate = (d: Date) =>
           <ul>
             {attachments.map((a) => (
               <li>
-                <a href={a.file} target="_blank" rel="noopener">{a.label}</a>
+                <a href={href(a.file)} target="_blank" rel="noopener">{a.label}</a>
               </li>
             ))}
           </ul>
@@ -80,7 +81,7 @@ const formatDate = (d: Date) =>
       )
     }
 
-    <p><a href="/it/">&larr; {t('exhibition.backToList')}</a></p>
+    <p><a href={href('/it/')}>&larr; {t('exhibition.backToList')}</a></p>
   </article>
 </BaseLayout>
 

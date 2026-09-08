@@ -1,5 +1,6 @@
 ---
 import type { Locale } from '../i18n/ui';
+import { href } from '../lib/url';
 
 interface Props {
   slug: string;
@@ -15,7 +16,7 @@ interface Props {
 
 const { slug, title, artists, venue, city, startDate, endDate, coverImage, locale } = Astro.props;
 
-const href = locale === 'it' ? `/it/exhibitions/${slug}/` : `/exhibitions/${slug}/`;
+const link = href(locale === 'it' ? `/it/exhibitions/${slug}/` : `/exhibitions/${slug}/`);
 
 const formatDate = (d: Date) =>
   d.toLocaleDateString(locale === 'it' ? 'it-IT' : 'en-GB', {
@@ -30,7 +31,7 @@ const dateRange = endDate
 ---
 
 <article class="exhibition-card">
-  <a href={href} class="exhibition-card-link">
+  <a href={link} class="exhibition-card-link">
     {coverImage && <img src={coverImage} alt={title} loading="lazy" />}
     <div class="exhibition-card-body">
       <h3>{title}</h3>
