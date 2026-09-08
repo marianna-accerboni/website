@@ -53,4 +53,6 @@ collections:
         required: false
         field: { label: URL, name: video, widget: string }
       - { label: Bozza, name: draft, widget: boolean, default: false }
-      - { label: Testo, name: body, widget: markdown }
+      - label: Testo
+        name: body
+        widget: markdown

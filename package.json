@@ -18,5 +18,9 @@
   },
   "allowScripts": {
     "esbuild": true
+  },
+  "devDependencies": {
+    "@astrojs/markdown-remark": "^7.3.0",
+    "rehype-raw": "^7.0.0"
   }
 }
