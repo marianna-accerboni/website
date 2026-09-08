@@ -22,3 +22,5 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+oauth-worker/node_modules/
+oauth-worker/.wrangler/
