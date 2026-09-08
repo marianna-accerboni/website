@@ -1,4 +1,4 @@
-// Decap CMS GitHub OAuth gateway — Cloudflare Worker.
+// Sveltia CMS GitHub OAuth gateway — Cloudflare Worker.
 // Flow: /auth redirects to GitHub; GitHub redirects back to /callback with a
 // code; we exchange it for an access token and post it back to the CMS window.
 
@@ -42,7 +42,7 @@ export default {
         return new Response(`OAuth error: ${data.error_description ?? 'unknown'}`, { status: 401 });
       }
 
-      // Hand the token back to Decap CMS via postMessage.
+      // Hand the token back to the CMS via postMessage.
       const message = JSON.stringify({ token: data.access_token, provider: 'github' });
       const html = `<!doctype html><html><body><script>
         (function () {

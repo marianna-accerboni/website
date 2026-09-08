@@ -1,7 +1,7 @@
 # Marianna Accerboni — Art Exhibitions Website
 
 Bilingual (English default, Italian at `/it/`) art-exhibitions website built with
-**Astro** (SSG) + **Vue** components, **Decap CMS** for content administration,
+**Astro** (SSG) + **Vue** components, **Sveltia CMS** for content administration,
 and **GitHub Pages** for hosting. No database, no server — content lives as
 Markdown in this repository.
 
@@ -10,7 +10,7 @@ Markdown in this repository.
 | Concern | Technology |
 |---|---|
 | Front-end | Astro (static site generation) + Vue islands |
-| Admin / CMS | Decap CMS at `/admin/` (GitHub backend) |
+| Admin / CMS | Sveltia CMS at `/admin/` (GitHub backend) |
 | Content | Markdown files in `src/content/exhibitions/{en,it}/` |
 | Media | `public/media/` (committed to the repo) |
 | Hosting | GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`) |
@@ -56,7 +56,7 @@ Body text in Markdown.
 
 1. **Create the GitHub repository** and push this project.
 2. **Enable GitHub Pages**: repo Settings → Pages → Source: "GitHub Actions".
-3. **OAuth gateway for the CMS**: Decap CMS with the GitHub backend needs a
+3. **OAuth gateway for the CMS**: Sveltia CMS with the GitHub backend needs a
    small OAuth endpoint. Deploy a free serverless gateway (e.g.
    [`decap-cms-github-oauth`](https://github.com/ukutaht/decap-cms-github-oauth)
    or equivalent on Vercel/Cloudflare Workers free tier), then update

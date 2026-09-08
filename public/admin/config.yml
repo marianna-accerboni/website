@@ -1,4 +1,4 @@
-# Decap CMS configuration
+# Sveltia CMS configuration
 backend:
   name: github
   repo: marianna-accerboni/website
