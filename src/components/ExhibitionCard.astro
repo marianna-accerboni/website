@@ -1,0 +1,77 @@
+---
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  slug: string;
+  title: string;
+  artists: string[];
+  venue: string;
+  city: string;
+  startDate: Date;
+  endDate?: Date;
+  coverImage?: string;
+  locale: Locale;
+}
+
+const { slug, title, artists, venue, city, startDate, endDate, coverImage, locale } = Astro.props;
+
+const href = locale === 'it' ? `/it/exhibitions/${slug}/` : `/exhibitions/${slug}/`;
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString(locale === 'it' ? 'it-IT' : 'en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric'
+  });
+
+const dateRange = endDate
+  ? `${formatDate(startDate)} – ${formatDate(endDate)}`
+  : formatDate(startDate);
+---
+
+<article class="exhibition-card">
+  <a href={href} class="exhibition-card-link">
+    {coverImage && <img src={coverImage} alt={title} loading="lazy" />}
+    <div class="exhibition-card-body">
+      <h3>{title}</h3>
+      <p class="artists">{artists.join(', ')}</p>
+      <p class="venue">{venue}, {city}</p>
+      <p class="dates">{dateRange}</p>
+    </div>
+  </a>
+</article>
+
+<style>
+  .exhibition-card {
+    border: 1px solid #eee;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  .exhibition-card-link {
+    color: inherit;
+    text-decoration: none;
+    display: block;
+  }
+
+  .exhibition-card img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    display: block;
+  }
+
+  .exhibition-card-body {
+    padding: 1rem;
+  }
+
+  .exhibition-card h3 {
+    margin: 0 0 0.25rem;
+  }
+
+  .exhibition-card p {
+    margin: 0.15rem 0;
+    color: var(--color-muted, #666);
+    font-size: 0.9rem;
+  }
+</style>

@@ -1,0 +1,117 @@
+---
+import { useTranslations, type Locale } from '../i18n/ui';
+import LanguageSwitcher from '../components/LanguageSwitcher.vue';
+
+interface Props {
+  title?: string;
+  locale: Locale;
+  currentPath: string;
+}
+
+const { title, locale, currentPath } = Astro.props;
+const t = useTranslations(locale);
+const homeHref = locale === 'it' ? '/it/' : '/';
+const pageTitle = title ? `${title} — ${t('site.title')}` : t('site.title');
+---
+
+<!doctype html>
+<html lang={locale}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-title" href={homeHref}>{t('site.title')}</a>
+      <nav class="site-nav">
+        <a href={homeHref}>{t('nav.home')}</a>
+        <LanguageSwitcher client:load currentPath={currentPath} locale={locale} />
+      </nav>
+    </header>
+    <main class="site-main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>&copy; {new Date().getFullYear()} {t('site.title')}. {t('footer.rights')}</p>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --color-bg: #ffffff;
+    --color-text: #1a1a1a;
+    --color-muted: #666666;
+    --color-accent: #8a6d3b;
+    --max-width: 72rem;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', serif;
+    color: var(--color-text);
+    background: var(--color-bg);
+    line-height: 1.6;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .site-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #eee;
+    max-width: var(--max-width);
+    margin: 0 auto;
+  }
+
+  .site-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .site-nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .site-nav a {
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .site-nav a:hover {
+    color: var(--color-accent);
+  }
+
+  .site-main {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+
+  .site-footer {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+    border-top: 1px solid #eee;
+    color: var(--color-muted);
+    font-size: 0.875rem;
+  }
+</style>

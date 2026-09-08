@@ -1,0 +1,21 @@
+// @ts-check
+import { defineConfig } from 'astro/config';
+
+import vue from '@astrojs/vue';
+
+// https://astro.build/config
+export default defineConfig({
+  site: 'https://marianna-accerboni.github.io',
+  base: '/website/',
+  integrations: [vue()],
+  redirects: {
+    '/admin': '/admin/index.html'
+  },
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'it'],
+    routing: {
+      prefixDefaultLocale: false
+    }
+  }
+});
