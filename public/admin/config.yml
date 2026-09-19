@@ -12,47 +12,169 @@ media_folder: public/media
 public_folder: /media
 
 collections:
-  - name: exhibitions
-    label: Mostre
-    label_singular: Mostra
-    folder: src/content/exhibitions
+  - name: events
+    label: Eventi
+    label_singular: Evento
+    folder: src/content/events
     create: true
-    slug: "{{fields.slug}}"
+    # slug/filename auto-generated from the title (not user-facing)
+    slug: "{{fields.title | slug}}"
     extension: md
     format: frontmatter
     fields:
       - { label: Titolo, name: title, widget: string }
-      - label: Slug
-        name: slug
-        widget: string
-        hint: Identificativo univoco della mostra, usato nell'URL (es. mostra-vernice-2026)
-      - label: Artisti
-        name: artists
-        widget: list
-        field: { label: Artista, name: artist, widget: string }
-      - { label: Sede, name: venue, widget: string }
-      - { label: "Città", name: city, widget: string }
-      - { label: Data inizio, name: startDate, widget: datetime, date_format: YYYY-MM-DD, time_format: false }
-      - { label: Data fine, name: endDate, widget: datetime, date_format: YYYY-MM-DD, time_format: false, required: false }
-      - { label: Immagine di copertina, name: coverImage, widget: image, required: false }
-      - label: Galleria immagini
-        name: gallery
-        widget: list
-        required: false
-        field: { label: Immagine, name: image, widget: image }
-      - label: Allegati (PDF)
-        name: attachments
-        widget: list
+      - { label: Slug, name: slug, widget: string, hidden: true }
+      - { label: Immagine evento, name: coverImage, widget: image, required: false }
+      - label: Informazioni evento
+        name: info
+        widget: object
+        collapsed: true
         required: false
         fields:
-          - { label: Etichetta, name: label, widget: string }
-          - { label: File, name: file, widget: file }
-      - label: Video (URL embed YouTube/Vimeo)
-        name: videos
+          - { label: Data inaugurazione, name: openingDate, widget: datetime, date_format: YYYY-MM-DD, time_format: HH:mm, required: false }
+          - label: Sede
+            name: venue
+            widget: relation
+            collection: venues
+            value_field: name
+            display_fields: [name]
+            search_fields: [name]
+            dropdown_threshold: 0
+            required: false
+          - { label: Periodo - inizio, name: periodStart, widget: datetime, date_format: YYYY-MM-DD, time_format: false, required: false }
+          - { label: Periodo - fine, name: periodEnd, widget: datetime, date_format: YYYY-MM-DD, time_format: false, required: false }
+          - { label: Orario, name: time, widget: string, required: false, hint: "es. da martedì a sabato 10.00-13.00 / 16.00-19.00" }
+          - label: Curatela
+            name: curator
+            widget: string
+            default: Marianna Accerboni
+            required: false
+          - { label: Catalogo, name: hasCatalog, widget: boolean, default: false, required: false }
+          - { label: Info e contatti, name: infoContacts, widget: markdown, required: false, minimal: true }
+          - label: Invito
+            name: invitations
+            widget: file
+            multiple: true
+            required: false
+      - label: Eventi correlati
+        name: subEvents
         widget: list
         required: false
-        field: { label: URL, name: video, widget: string }
-      - { label: Bozza, name: draft, widget: boolean, default: false }
+        field:
+          label: Evento correlato
+          name: subEvent
+          widget: relation
+          collection: subEvents
+          value_field: title
+          display_fields: [title]
+          search_fields: [title]
+          dropdown_threshold: 0
+          multiple: true
+          required: false
+      - label: Comunicato stampa
+        name: press
+        widget: object
+        collapsed: false
+        required: false
+        fields:
+          - { label: Comunicato stampa, name: pressRelease, widget: markdown, required: false }
+      - label: Galleria
+        name: gallerySection
+        widget: object
+        collapsed: true
+        required: false
+        fields:
+          - label: Galleria immagini
+            name: gallery
+            widget: list
+            required: false
+            fields:
+              - { label: Immagine, name: image, widget: image }
+              - { label: Alt text, name: alt, widget: string, required: false }
+              - { label: Titolo, name: title, widget: string, required: false }
+      - label: Bozza
+        name: draft
+        widget: boolean
+        default: false
+
+  - name: subEvents
+    label: News eventi
+    label_singular: News evento
+    folder: src/content/sub-events
+    create: true
+    slug: "{{fields.title | slug}}"
+    extension: md
+    format: frontmatter
+    summary: "{{title}} → {{parent}}"
+    fields:
+      - { label: Titolo, name: title, widget: string }
+      - label: Evento principale
+        name: parent
+        widget: relation
+        collection: events
+        value_field: title
+        display_fields: [title]
+        search_fields: [title]
+        dropdown_threshold: 0
+      - { label: Immagine evento, name: coverImage, widget: image, required: false }
+      - label: Informazioni
+        name: info
+        widget: object
+        collapsed: true
+        required: false
+        fields:
+          - { label: Data, name: date, widget: datetime, date_format: YYYY-MM-DD, time_format: HH:mm, required: false }
+          - label: Sede
+            name: venue
+            widget: relation
+            collection: venues
+            value_field: name
+            display_fields: [name]
+            search_fields: [name]
+            dropdown_threshold: 0
+            required: false
+          - { label: Orario, name: time, widget: string, required: false }
+          - { label: Info e contatti, name: infoContacts, widget: markdown, required: false, minimal: true }
+          - label: Invito
+            name: invitations
+            widget: file
+            multiple: true
+            required: false
       - label: Testo
-        name: body
-        widget: markdown
+        name: bodySection
+        widget: object
+        collapsed: true
+        required: false
+        fields:
+          - { label: Testo, name: body, widget: markdown, required: false }
+      - label: Galleria
+        name: gallerySection
+        widget: object
+        collapsed: true
+        required: false
+        fields:
+          - label: Galleria immagini
+            name: gallery
+            widget: list
+            required: false
+            fields:
+              - { label: Immagine, name: image, widget: image }
+              - { label: Alt text, name: alt, widget: string, required: false }
+              - { label: Titolo, name: title, widget: string, required: false }
+      - label: Bozza
+        name: draft
+        widget: boolean
+        default: false
+
+  # Option banks that feed the Sede dropdown.
+  # New values are added by creating entries in this collection (visible in the sidebar).
+  - name: venues
+    label: Sedi
+    label_singular: Sede
+    folder: src/data/venues
+    create: true
+    slug: "{{fields.name | slug}}"
+    extension: md
+    format: frontmatter
+    fields:
+      - { label: Nome, name: name, widget: string }

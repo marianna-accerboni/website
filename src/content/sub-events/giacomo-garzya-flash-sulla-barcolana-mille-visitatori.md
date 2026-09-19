@@ -1,0 +1,21 @@
+---
+title: "Giacomo Garzya. Flash sulla Barcolana: Alle Luci della Sera. Più di mille visitatori in meno di due settimane alla sala comunale d'arte di Trieste per la personale del fotografo e poeta napoletano, che il 9 maggio riceverà a Firenze un importante riconoscimento al prestigioso premio letterario La Ginestra"
+parent: "Giacomo Garzya. Flash sulla Barcolana: alle luci della sera. Mercoledì 15 aprile 2026 alla Sala Comunale d’Arte di Trieste inaugurazione della personale del fotografo e poeta napoletano"
+coverImage: /media/garzya-407/inaugurazione_1.jpg
+info: null
+bodySection:
+  body: |-
+    **Più di mille persone hanno visitato in meno di due settimane alla Sala Comunale d'Arte** (piazza Unità d'Italia 4) **di Trieste, la mostra personale del fotografo e poeta napoletano Giacomo Garzya, curata da Marianna Accerboni. La rassegna, intitolata "Flash sulla Barcolana: alle luci della sera", è stata oggetto di grande apprezzamento da parte del pubblico e della critica, in particolare per l'interpretazione insolita e "mediterranea" della storica regata: vi è esposta fino al 4 maggio una selezione di immagini fotografiche realizzate dall'autore con il mezzo digitale nel 2025 e nel 2024** (orario ogni giorno 10 - 13 e 17 – 20 / +39 339 1051815 - +39 335 6750946).
+
+    **È inoltre di questi giorni la notizia che Garzya**, nato a Napoli nel 1952 da padre leccese, napoletano d'adozione, e madre belga, **riceverà il 9 maggio a Firenze l'importante riconoscimento al prestigioso Premio letterario "La Ginestra" con una segnalazione particolare della giuria, presieduta da Silvio Ramat e Marino Biondi, per il suo libro "Viaggio poetico tra luoghi e storia", già premiato nel 2025 al Premio Firenze a Palazzo Vecchio**.
+
+    Laureato in Storia moderna all'Università Federico II di Napoli, borsista dell'Istituto Italiano per gli Studi Storici e ricercatore del CNR, docente di Materie letterarie, Garzya ha pubblicato saggi storici, una ventina di raccolte di poesie e diversi libri di fotografie. Ha partecipato a vari concorsi di poesia, risultando secondo al _IV Premio Internazionale Fëdor Dostoevskij_ (2023) e ottenendo, tra gli altri riconoscimenti, il titolo di Alfiere della Cultura al _XIX Premio Internazionale Mario Luzi_ 2023/2024. Molte sue poesie sono state tradotte in inglese, greco moderno, francese, spagnolo, tedesco e arabo classico. Biografia completa sul sito web _Giacomo Garzya – Le Immagini e la Poesia_ / https://www.maree2001.it.
+
+    È autore di più 16.000 diapositive, scattate dal 1981 al 2009 quasi sempre con ottiche Zeiss, e di oltre 30.000 foto realizzate in digitale dal 2009 a oggi.
+
+    L'artista poeta ha avuto dal 1994 stretti rapporti di amicizia e di collaborazione con il grande fotografo Pepi Merisio, da cui ha tratto ripetutamente linfa e incoraggiamento per affrontare l'arte del terz'occhio sul piano professionale. Ed è stato inoltre incoraggiato nel campo della poesia sia dal famoso storico Giuseppe Galasso, che gli è stato Maestro negli studi, stilando inoltre la prefazione del suo secondo libro di poesie _Maree_ (Napoli, 2001), che da Giuseppe Pontiggia.
+
+    Trasferitosi da sei anni a Trieste, Garzya ne apprezza molto la luce, l'architettura e la storia: "A Napoli – afferma – emerge forse un po' di più la fantasia. Essendo anche Trieste una città aperta e cosmopolita, ma con una sua certa severità asburgica, risulta di fatto più ordinata, anche in considerazione che qui ci sono 220.000 abitanti contro i 920.000 di Napoli e quindi la situazione è più facile da gestire. E poi i triestini sono avidi di cultura, hanno una grande curiosità intellettuale e Trieste è una delle poche città in cui si legge ancora tanto, seguendo anche la tradizione mitteleuropea, ed esistono ancora le librerie storiche, tra cui quella celebre del poeta libraio Umberto Saba, recentemente restaurata, e i caffè storici, tra cui il San Marco, frequentato anche da Claudio Magris. A Napoli sono rimaste, tra le altre, la Mondadori e la Feltrinelli, dove ci si incontra e si socializza come nell'agorà, secondo la consuetudine partenopea legata alle radici greche".
+gallerySection: null
+draft: false
+---

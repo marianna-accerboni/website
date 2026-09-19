@@ -1,0 +1,210 @@
+---
+import { getCollection } from 'astro:content';
+import { createMarkdownProcessor } from '@astrojs/markdown-remark';
+import rehypeRaw from 'rehype-raw';
+import { visit } from 'unist-util-visit';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { href } from '../../lib/url';
+
+const base = import.meta.env.BASE_URL;
+
+/** Prefix root-relative src/href with the site base URL. */
+function rehypeBaseUrls() {
+  return (tree) => {
+    visit(tree, 'element', (node) => {
+      for (const attr of ['src', 'href']) {
+        const value = node.properties?.[attr];
+        if (typeof value === 'string' && value.startsWith('/') && !value.startsWith(base)) {
+          node.properties[attr] = base.replace(/\/$/, '') + value;
+        }
+      }
+    });
+  };
+}
+
+const processor = await createMarkdownProcessor({
+  rehypePlugins: [rehypeRaw, rehypeBaseUrls]
+});
+
+export async function getStaticPaths() {
+  const events = await getCollection('events', ({ data }) => !data.draft);
+  return events.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry }
+  }));
+}
+
+const { entry } = Astro.props;
+const { title, coverImage, info, press, gallerySection } = entry.data;
+
+const subEvents = (
+  await getCollection('subEvents', ({ data }) => !data.draft && (data.parent === entry.data.slug || data.parent === entry.data.title))
+).sort((a, b) => {
+  const ad = a.data.info?.date?.getTime() ?? 0;
+  const bd = b.data.info?.date?.getTime() ?? 0;
+  return ad - bd;
+});
+
+const subEventsWithBody = await Promise.all(
+  subEvents.map(async (s) => ({
+    ...s,
+    bodyHtml: s.data.bodySection?.body
+      ? (await processor.render(s.data.bodySection.body)).code
+      : null,
+    infoContactsHtml: s.data.info?.infoContacts
+      ? await renderInfoContacts(s.data.info.infoContacts)
+      : null
+  }))
+);
+
+const infoContactsHtml = info?.infoContacts
+  ? await renderInfoContacts(info.infoContacts)
+  : null;
+
+const formatDate = (d?: Date) =>
+  d ? d.toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' }) : '';
+
+/** Render plain-text URLs as clickable links. */
+function linkify(text: string): string {
+  return text.replace(
+    /(https?:\/\/[^\s<>"']+|www\.[^\s<>"']+)/g,
+    (url) => {
+      const href = url.startsWith('http') ? url : `https://${url}`;
+      return `<a href="${href}" target="_blank" rel="noopener">${url}</a>`;
+    }
+  );
+}
+
+/** Render infoContacts (markdown or plain text) as HTML. */
+async function renderInfoContacts(text: string): Promise<string> {
+  if (text.includes('[') && text.includes('](')) {
+    // Already markdown — render it
+    return (await processor.render(text)).code;
+  }
+  // Plain text — linkify URLs
+  return linkify(text);
+}
+
+/** Derive a readable caption from an image filename: strip directory,
+ *  extension and any "prefix-" event tag, then turn underscores into spaces. */
+const captionFromFile = (path: string) =>
+  path
+    .split('/')
+    .pop()!
+    .replace(/\.[^.]+$/, '')
+    .replace(/^[a-z0-9]+-(?=[A-Z])/, '')
+    .replace(/_+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+---
+
+<BaseLayout title={title}>
+  <article class="event">
+    <h1>{title}</h1>
+
+    {coverImage && <img class="cover" src={href(coverImage)} alt={title} />}
+
+    <div class="meta">
+      {info?.openingDate && <p><strong>Data inaugurazione:</strong> {formatDate(info.openingDate)}</p>}
+      {info?.venue && <p><strong>Sede:</strong> {info.venue}</p>}
+      {
+        (info?.periodStart || info?.periodEnd) && (
+          <p>
+            <strong>Periodo:</strong> {formatDate(info.periodStart)}
+            {info.periodEnd && <span> – {formatDate(info.periodEnd)}</span>}
+          </p>
+        )
+      }
+      {info?.time && <p><strong>Orario:</strong> {info.time}</p>}
+      {info?.curator && <p><strong>Curatela:</strong> {info.curator}</p>}
+      {info?.hasCatalog && <p><strong>Catalogo:</strong> disponibile</p>}
+      {infoContactsHtml && <p><strong>Info e contatti:</strong> <span set:html={infoContactsHtml} /></p>}
+      {
+        info?.invitations && info.invitations.length > 0 && (
+          <p>
+            <strong>Invito:</strong>
+            {info.invitations.map((file) => (
+              <a href={href(file)} target="_blank" rel="noopener"> scarica</a>
+            ))}
+          </p>
+        )
+      }
+    </div>
+
+    {
+      press?.pressRelease && (
+        <section class="press">
+          <h2>Comunicato stampa</h2>
+          <div set:html={(await processor.render(press.pressRelease)).code} />
+        </section>
+      )
+    }
+
+    {
+      gallerySection?.gallery && gallerySection.gallery.length > 0 && (
+        <section>
+          <h2>Galleria</h2>
+          <div class="gallery">
+            {gallerySection.gallery.map((item) => (
+              <img
+                src={href(item.image)}
+                alt={item.alt || captionFromFile(item.image)}
+                title={item.title || captionFromFile(item.image)}
+                loading="lazy"
+              />
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    {
+      subEventsWithBody.length > 0 && (
+        <section>
+          <h2>News</h2>
+          <ul>
+            {subEventsWithBody.map((s) => (
+              <li>
+                {s.data.coverImage && (
+                  <img src={s.data.coverImage} alt={s.data.title} loading="lazy" />
+                )}
+                <p class="news-title">
+                  {s.data.info?.date && <span>{formatDate(s.data.info.date)} — </span>}
+                  {s.data.title}
+                </p>
+                {s.infoContactsHtml && (
+                  <p><strong>Info e contatti:</strong> <span set:html={s.infoContactsHtml} /></p>
+                )}
+                {s.bodyHtml && <div set:html={s.bodyHtml} />}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <p><a href={href('/')}>&larr; Torna agli eventi</a></p>
+  </article>
+</BaseLayout>
+
+<style>
+  .cover {
+    border-radius: 6px;
+    margin: 1rem 0;
+  }
+
+  .meta {
+    color: var(--color-muted, #666);
+  }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+  }
+
+  .gallery img {
+    border-radius: 6px;
+    display: block;
+  }
+</style>

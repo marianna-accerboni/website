@@ -1,0 +1,38 @@
+/* Make rich-text/markdown editors taller and roomier */
+[data-field-type='markdown'] [contenteditable='true'],
+[data-field-type='richtext'] [contenteditable='true'],
+[data-field-type='markdown'] textarea,
+[data-field-type='richtext'] textarea {
+  min-height:174px !important;
+}
+
+/* Add right padding to collection list views so the New button aligns with the top toolbar's Local button */
+[role="grid"] {
+  padding-right: 24px !important;
+}
+
+[role="gridcell"] {
+  padding-right: 24px !important;
+}
+
+.sui-collection-view .sui-grid,
+.sui-collection-view .sui-grid-container,
+.sui-collection-content .sui-grid,
+.sui-collection-content .sui-grid-container {
+  padding-right: 24px !important;
+}
+
+/* Ensure toolbar doesn't get padding */
+.sui-toolbar,
+.sui-collection-header {
+  padding-right: 0 !important;
+}
+
+/* Move the "Add X" checkboxes of optional object widgets to the right,
+   away from the expand/collapse control, to avoid accidental toggling. */
+[data-field-type='object'] .sui.checkbox {
+  display: flex !important;
+  flex-direction: row-reverse !important;
+  justify-content: space-between !important;
+  width: 100%;
+}

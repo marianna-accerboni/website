@@ -1,63 +1,53 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import ExhibitionCard from '../components/ExhibitionCard.astro';
-import { getExhibitions, splitByDate } from '../lib/exhibitions';
+import { getCollection } from 'astro:content';
+import { href } from '../lib/url';
 
-const { upcoming, past } = splitByDate(await getExhibitions());
+const events = (await getCollection('events', ({ data }) => !data.draft))
+  .map((e) => ({
+    slug: e.data.slug,
+    title: e.data.title,
+    coverImage: e.data.coverImage,
+    info: e.data.info
+  }))
+  .sort((a, b) => {
+    const ad = a.info?.openingDate?.getTime() ?? 0;
+    const bd = b.info?.openingDate?.getTime() ?? 0;
+    return bd - ad;
+  });
+
+const formatDate = (d?: Date) =>
+  d ? d.toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' }) : '';
 ---
 
 <BaseLayout>
-  {
-    upcoming.length > 0 && (
-      <section>
-        <h2>Prossime mostre</h2>
-        <div class="exhibition-grid">
-          {upcoming.map((e) => (
-            <ExhibitionCard
-              slug={e.data.slug}
-              title={e.data.title}
-              artists={e.data.artists}
-              venue={e.data.venue}
-              city={e.data.city}
-              startDate={e.data.startDate}
-              endDate={e.data.endDate}
-              coverImage={e.data.coverImage}
-            />
-          ))}
-        </div>
-      </section>
-    )
-  }
-
   <section>
-    <h2>Ultime mostre</h2>
-    <div class="exhibition-grid">
+    <h2>Eventi</h2>
+    <ul class="event-list">
       {
-        past.map((e) => (
-          <ExhibitionCard
-            slug={e.data.slug}
-            title={e.data.title}
-            artists={e.data.artists}
-            venue={e.data.venue}
-            city={e.data.city}
-            startDate={e.data.startDate}
-            endDate={e.data.endDate}
-            coverImage={e.data.coverImage}
-          />
+        events.map((e) => (
+          <li>
+            <a href={href(`/events/${e.slug}/`)}>{e.title}</a>
+            {e.info?.venue && <span class="meta"> — {e.info.venue}</span>}
+            {e.info?.openingDate && <span class="meta"> ({formatDate(e.info.openingDate)})</span>}
+          </li>
         ))
       }
-    </div>
+    </ul>
   </section>
 </BaseLayout>
 
 <style>
-  section {
-    margin-bottom: 3rem;
+  .event-list {
+    list-style: none;
+    padding: 0;
   }
 
-  .exhibition-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1.5rem;
+  .event-list li {
+    margin: 0.5rem 0;
+  }
+
+  .meta {
+    color: var(--color-muted, #666);
   }
 </style>
