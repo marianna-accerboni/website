@@ -1,5 +1,5 @@
 ---
-title: "Sabato 13 dicembre 2025 alla sala xenia di Trieste. Inaugurazione della mostra “Fabio Colussi. Orizzonti di luce”"
+title: Sabato 13 dicembre 2025 alla sala xenia di Trieste. Inaugurazione della mostra “Fabio Colussi. Orizzonti di luce”
 slug: fabio-colussi-orizzonti-di-luce
 coverImage: /media/Trieste_Piazza_Unita_2025_-_olio_su_tela_-_cm._20x30.jpg
 info:
@@ -33,7 +33,6 @@ press:
 
     _Trieste, tramonto sul mare, 2025 - olio su tavola - cm. 44x44_ 
 
-
     _Dotato di un talento naturale, che ha saputo coltivare nel tempo con passione e tenacia, Colussi è riuscito a delineare una propria maniera intensa e precisa ma nel contempo sobria, essenziale e sottilmente poetica. Che fa vivere il paesaggio soprattutto della luce (diurna o notturna che essa sia), ottenuta attraverso ripetute e raffinate velature e un cromatismo deciso ma morbido._
 
     _Equilibrio e sensibilità caratterizzano i suoi dipinti, nei quali il pittore sa legare molto armoniosamente il linguaggio del passato con le esigenze di linearità di quello moderno. Ne escono_ - conclude Accerboni - _delle vedute marine che poggiano la loro veridicità sulla storia e sulla luce e in cui le antiche e raffinate architetture si fondono con un cielo e un mare intensamente azzurri, che riflettono e suggeriscono, sempre mediante la luce, un senso di pace e atarassia, che appare anche nei dipinti dedicati alla laguna._
@@ -44,22 +43,22 @@ press:
 gallerySection:
   gallery:
     - image: /media/Castello_di_Duino_momento_magico_2025_-_olio_su_tela_-_cm._50x100.jpg
-      alt: "Castello di duino momento magico 2025 - olio su tela - cm. 50x100"
-      title: "Castello di duino momento magico 2025 - olio su tela - cm. 50x100"
+      alt: Castello di duino momento magico 2025 - olio su tela - cm. 50x100
+      title: Castello di duino momento magico 2025 - olio su tela - cm. 50x100
     - image: /media/Trieste_Piazza_Unita_2025_-_olio_su_tela_-_cm._20x30.jpg
-      alt: "Trieste piazza unita 2025 - olio su tela - cm. 20x30"
-      title: "Trieste piazza unita 2025 - olio su tela - cm. 20x30"
+      alt: Trieste piazza unita 2025 - olio su tela - cm. 20x30
+      title: Trieste piazza unita 2025 - olio su tela - cm. 20x30
     - image: /media/Trieste_la_Sacchetta_2024_-_olio_su_tela_cartonata_-_cm._25x25.jpg
-      alt: "Trieste la sacchetta 2024 - olio su tela cartonata - cm. 25x25"
-      title: "Trieste la sacchetta 2024 - olio su tela cartonata - cm. 25x25"
+      alt: Trieste la sacchetta 2024 - olio su tela cartonata - cm. 25x25
+      title: Trieste la sacchetta 2024 - olio su tela cartonata - cm. 25x25
     - image: /media/Trieste_tramonto_dorato_2025_-_olio_su_tela_-_cm._38x48.jpg
-      alt: "Trieste tramonto dorato 2025 - olio su tela - cm. 38x48"
-      title: "Trieste tramonto dorato 2025 - olio su tela - cm. 38x48"
+      alt: Trieste tramonto dorato 2025 - olio su tela - cm. 38x48
+      title: Trieste tramonto dorato 2025 - olio su tela - cm. 38x48
     - image: /media/Trieste_tramonto_sul_mare_2025_-_olio_su_tavola_-_cm._44x44.jpg
-      alt: "Trieste tramonto sul mare 2025 - olio su tavola - cm. 44x44"
-      title: "Trieste tramonto sul mare 2025 - olio su tavola - cm. 44x44"
+      alt: Trieste tramonto sul mare 2025 - olio su tavola - cm. 44x44
+      title: Trieste tramonto sul mare 2025 - olio su tavola - cm. 44x44
     - image: /media/Venezia_2024_-_olio_su_tela_-_cm._30x60.jpg
-      alt: "Venezia 2024 - olio su tela - cm. 30x60"
-      title: "Venezia 2024 - olio su tela - cm. 30x60"
+      alt: Venezia 2024 - olio su tela - cm. 30x60
+      title: Venezia 2024 - olio su tela - cm. 30x60
 draft: false
 ---

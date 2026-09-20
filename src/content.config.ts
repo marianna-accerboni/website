@@ -1,11 +1,16 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
+const optionalDate = z.preprocess(
+  (v) => (v === '' || v == null ? undefined : v),
+  z.coerce.date().optional()
+);
+
 const infoSection = z.object({
-  openingDate: z.coerce.date().optional(),
+  openingDate: optionalDate,
   venue: z.string().optional(),
-  periodStart: z.coerce.date().optional(),
-  periodEnd: z.coerce.date().optional(),
+  periodStart: optionalDate,
+  periodEnd: optionalDate,
   time: z.string().optional(),
   curator: z.string().optional(),
   hasCatalog: z.boolean().default(false),
@@ -27,7 +32,7 @@ const gallerySection = z.object({
       })
     )
     .default([])
-});
+}).nullable();
 
 const events = defineCollection({
   loader: glob({
@@ -38,7 +43,7 @@ const events = defineCollection({
     title: z.string(),
     slug: z.string(),
     coverImage: z.string().optional(),
-    info: infoSection.optional(),
+    info: infoSection.nullable().optional(),
     press: pressSection.optional(),
     gallerySection: gallerySection.optional(),
     subEvents: z.array(z.string()).default([]).optional(),
@@ -58,14 +63,14 @@ const subEvents = defineCollection({
     coverImage: z.string().optional(),
     info: z
       .object({
-        date: z.coerce.date().optional(),
+        date: optionalDate,
         venue: z.string().optional(),
         time: z.string().optional(),
         infoContacts: z.string().optional(),
         invitations: z.array(z.string()).default([])
       })
-      .optional(),
-    bodySection: z.object({ body: z.string().optional() }).optional(),
+      .nullable().optional(),
+    bodySection: z.object({ body: z.string().optional() }).nullable().optional(),
     gallerySection: gallerySection.optional(),
     draft: z.boolean().default(false)
   })

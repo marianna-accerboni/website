@@ -1,5 +1,6 @@
 ---
 title: Giovedì 23 aprile alla sala Bobi Bazlen di palazzo Gopcevich a Trieste presentazione degli ultimi due libri di fotografie del fotografo poeta Giacomo Garzya
+slug: giovedi-23-aprile-alla-sala-bobi-bazlen-di-palazzo-gopcevich-di-trieste-presentazione-degli-ultimi-due-libri-di-fotografie-del-fotografo-poeta-giacomo-garzya
 parent: "Giacomo Garzya. Flash sulla Barcolana: alle luci della sera. Mercoledì 15 aprile 2026 alla Sala Comunale d’Arte di Trieste inaugurazione della personale del fotografo e poeta napoletano"
 coverImage: /media/garzya-407/Ritratto_fotografico_di_Garzya.jpg
 info: null

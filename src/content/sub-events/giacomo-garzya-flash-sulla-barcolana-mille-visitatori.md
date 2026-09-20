@@ -1,5 +1,6 @@
 ---
 title: "Giacomo Garzya. Flash sulla Barcolana: Alle Luci della Sera. Più di mille visitatori in meno di due settimane alla sala comunale d'arte di Trieste per la personale del fotografo e poeta napoletano, che il 9 maggio riceverà a Firenze un importante riconoscimento al prestigioso premio letterario La Ginestra"
+slug: giacomo-garzya-flash-sulla-barcolana-alle-luci-della-sera-piu-di-mille-visitatori-in-meno-di-due-settimane-alla-sala-comunale-darte-di-trieste-per-la-personale-del-fotografo-e-poeta-napoletano-che-il-9-maggio-ricevera-a-firenze-un-importante-riconoscimento-al-prestigioso-premio-letterario-la-ginestra
 parent: "Giacomo Garzya. Flash sulla Barcolana: alle luci della sera. Mercoledì 15 aprile 2026 alla Sala Comunale d’Arte di Trieste inaugurazione della personale del fotografo e poeta napoletano"
 coverImage: /media/garzya-407/inaugurazione_1.jpg
 info: null
