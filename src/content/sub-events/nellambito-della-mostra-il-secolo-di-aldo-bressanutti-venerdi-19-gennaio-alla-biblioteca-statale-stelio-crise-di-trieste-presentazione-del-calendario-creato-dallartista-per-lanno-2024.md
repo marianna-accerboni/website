@@ -1,0 +1,11 @@
+---
+title: 'Nell’ambito della mostra il Secolo di Aldo Bressanutti venerdì 19 gennaio alla biblioteca statale Stelio Crise di Trieste presentazione del calendario creato dall’artista per l’anno 2024'
+slug: nellambito-della-mostra-il-secolo-di-aldo-bressanutti-venerdi-19-gennaio-alla-biblioteca-statale-stelio-crise-di-trieste-presentazione-del-calendario-creato-dallartista-per-lanno-2024
+parent: 'Prende il via il 13 ottobre alla Biblioteca statale Stelio Crise di Trieste la mostra diffusa Il secolo di Aldo Bressanutti'
+bodySection:
+  body: |-
+    **Nell’ambito della mostra Il secolo di Aldo Bressanutti**, prorogata alla **Biblioteca statale Stelio Crise di Trieste** **fino** **al 15 febbraio in un nuovo allestimento al 1° piano, venerdì 19 gennaio alle 18.30 la curatrice Marianna Accerboni e il figlio dell’artista, Furio, presenteranno il calendario d’arte creato dal pittore per il 2024, che verrà dato in omaggio a tutti i visitatori. Seguirà un vin d’honneur con una degustazione della Tenuta Baroni del Mestri.**
+    **Il calendario propone l’ultimo quadro dipinto dall’artista, completato alla fine di settembre del 2023. Esposto anche in mostra, il dipinto rappresenta un interno corredato degli elementi tipici espressi da un pittore centenario che guarda al suo futuro con terrore, per esorcizzare il quale v’inserisce anche un’urna contenente le sue ceneri. Il nuovo allestimento presenta una nuova selezione tematica di opere in buona parte storiche, tra cui un’ampia sequenza di importanti interni mai esposti in Biblioteca.** **La mostra è corredata da un corposo volume, curato da Furio Bressanutti, che documenta per temi la vastissima produzione dell’artista e la sua evoluzione, e  da** un interessante **video**, realizzato da Katia Bonaventura con la collaborazione di Furio, che racconta il quotidiano del padre attraverso un’intervista a quest’ultimo.
+    **La sezione dedicata agli interni di Cittavecchia documenta i luoghi dove l’artista visse poveramente e in solitudine da bambino e che ora rievoca nei suoi dipinti, testimoniando anche un modo di vivere che non esiste più, come accade per altro anche nelle vedute di esterni di Cittavecchia, che narrano di un mondo scomparso.**
+draft: false
+---
