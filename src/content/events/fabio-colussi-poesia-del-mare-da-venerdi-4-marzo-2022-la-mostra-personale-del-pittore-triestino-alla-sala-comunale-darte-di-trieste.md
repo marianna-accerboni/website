@@ -13,7 +13,8 @@ info:
   infoContacts: +39 333 6133178 · +39 335 6750946
   invitations:
     - /media/colussi_2022-invito.pdf
-subEvents: []
+subEvents:
+  - "Ultimi giorni per visitare la mostra Fabio Colussi. Poesia del mare alla Sala Comunale d'Arte di Trieste fino al 30 marzo"
 press:
   pressRelease: |-
     **![Tramonto in sacchetta, 2018 - olio su tela - cm 60x120](/media/colussi_2022-tramonto-in-sacchetta-2018---olio-su-tela---cm-60x120.jpg "Tramonto in sacchetta, 2018 - olio su tela - cm 60x120")**
