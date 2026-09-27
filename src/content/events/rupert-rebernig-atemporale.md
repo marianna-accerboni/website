@@ -1,6 +1,6 @@
 ---
 title: "Rupert Rebernig: Atemporale. La bora non genera ombre. Inaugurazione sabato 1 giugno 2024 alla Sala Comunale d'Arte di Trieste"
-slug: rupert-rebernig-atemporale
+slug: rupert-rebernig-atemporale-la-bora-non-genera-ombre-inaugurazione-sabato-1-giugno-2024-alla-sala-comunale-darte-di-trieste
 coverImage: /media/rebernig-Senza_titolo_2023___acrilico_su_tela___cm._40x40.jpg
 info:
   openingDate: 2024-06-01 19:00
@@ -14,7 +14,7 @@ info:
   invitations:
     - /media/rebernig-invito.pdf
 subEvents:
-  - Prosegue con successo e visite guidate giornaliere fino al 25 giugno alla Sala Comunale d'Arte di Trieste la mostra del pittore carinziano Rupert Rebernig
+  - - Prosegue con successo e visite guidate giornaliere fino al 25 giugno alla Sala Comunale d'Arte di Trieste la mostra del pittore carinziano Rupert Rebernig
 press:
   pressRelease: |-
     Sabato 1 giugno 2024 alle ore 19 s’inaugura alla Sala Comunale d’arte di Trieste (piazza dell’Unità d’Italia 4) la personale intitolata Atemporale. La bora non genera ombre dell’artista austriaco Rupert Rebernig, curata dall’architetto Marianna Accerboni. In mostra più di una ventina di opere realizzate dall’artista molto di recente ad acrilico su tela. 

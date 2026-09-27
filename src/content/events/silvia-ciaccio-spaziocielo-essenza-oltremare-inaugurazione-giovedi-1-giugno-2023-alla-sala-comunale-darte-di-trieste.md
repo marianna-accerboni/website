@@ -16,8 +16,7 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Senza titolo 1, 2020/ 2022 - colore acrilico su carta velina - cm 150x100](/media/spaziocielo-senza-titolo-1-2020-2022-colore-acrilico-su-carta-velina-cm-150x100.jpg "Senza titolo 1, 2020/ 2022 - colore acrilico su carta velina - cm 150x100") Senza titolo 1, 2020/ 2022
-    colore acrilico su carta velina - cm 150x100
+    ![Senza titolo 1, 2020/ 2022 - colore acrilico su carta velina - cm 150x100](/media/spaziocielo-senza-titolo-1-2020-2022-colore-acrilico-su-carta-velina-cm-150x100.jpg "Senza titolo 1, 2020/ 2022 - colore acrilico su carta velina - cm 150x100") 
 
     **Giovedì 1 giugno alle ore 18 s’inaugura alla Sala Comunale d’arte di Trieste (piazza dell’Unità d’Italia 4) la personale SPAZIOCIELO ESSENZA OLTREMARE dell’artista SILVIA CIACCIO,** **curata dall’architetto Marianna Accerboni. In mostra una ventina di raffinate ed essenziali interpretazioni dell’immensità, intesa come ampiezza degli spazi del mare e del cielo, ma anche come vastità di pensiero. Un messaggio criptico e raffinatamente concettuale che l’artista milanese - figlia d’arte (il padre Roberto era pittore di chiara fama, dalle frequentazioni internazionali), laureata in estetica e da sempre profondamente legata a Trieste - propone di fronte alla linea d’orizzonte infinito su cui si apre la sala che ospita l’esposizione.**
 

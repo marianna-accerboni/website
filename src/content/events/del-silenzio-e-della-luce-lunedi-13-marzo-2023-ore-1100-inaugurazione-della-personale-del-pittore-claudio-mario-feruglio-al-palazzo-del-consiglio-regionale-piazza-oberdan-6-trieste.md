@@ -18,9 +18,6 @@ press:
   pressRelease: |-
     ![Claudio Mario Feruglio, Al divino architetto,acrilico su tela cm 50x50, 2016](/media/feruglio_2023-claudio-mario-feruglio-al-divino-architettoacrilico-su-tela-cm-50x50-2016.jpg "Claudio Mario Feruglio, Al divino architetto,acrilico su tela cm 50x50, 2016")
 
-    Claudio Mario Feruglio,, Al divino architetto
-    acrilico su tela cm 50x50, 2016
-
     Giovedì 2 marzo alle ore 11,00 il Presidente del Consiglio inaugurerà al Palazzo del Consiglio regionale la mostra personale dell’artista **Claudio Mario Feruglio** intitolata _Del silenzio e della luce_. Voluta dalla Presidenza nell’ambito delle iniziative di promozione e valorizzazione della cultura e delle arti in Regione presenta una quarantina di opere scelte realizzate dal maestro friulano dal 2000 al 2022 ispirate alla poetica del silenzio e dell’ascolto interiore, temi a lui particolarmente cari. Introduzione critica di Marianna Accerboni.
 
     Di Feruglio hanno scritto autorevoli personalità del mondo della cultura e dell’arte, rilevando come nelle sue opere si manifesti il **Silenzio** e la **Luce** per farsi proiezione in ognuno di noi. Già Carlo Sgorlon in un importante saggio di qualche anno fa scriveva di Feruglio definendolo _il pittore del silenzio e dell’ascolto sommesso della musica suprema dell’universo._ Non potrebbe essere diversamente per un artista come lui che, nel corso della sua attività, dalla formazione accademica a oggi, ha realizzato opere uniche modulandole secondo un linguaggio personale che invita all’ascolto interiore.

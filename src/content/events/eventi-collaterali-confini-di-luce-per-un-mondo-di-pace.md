@@ -1,6 +1,6 @@
 ---
 title: 'Mostra Open. Confini di luce per un mondo di pace: da domenica 8 giugno al via al Magazzino 26 del Porto Vecchio di Trieste i laboratori di pittura, disegno e collage per adulti e bambini. Istituiti un concorso e un premio ispirati al tema dei confini liquidi e della pace'
-slug: eventi-collaterali-confini-di-luce-per-un-mondo-di-pace
+slug: mostra-open-confini-di-luce-per-un-mondo-di-pace-da-domenica-8-giugno-al-via-al-magazzino-26-del-porto-vecchio-di-trieste-i-laboratori-di-pittura-disegno-e-collage-per-adulti-e-bambini-istituiti-un-concorso-e-un-premio-ispirati-al-tema-dei-confini-liquidi-e-della-pace
 coverImage: /media/Paolo_Cervi_Kervischer_-_Iridio_2016_-_acrilico_su_tela_-_cm._300x300.jpg
 info:
   openingDate: 2025-06-08 12:00
@@ -15,13 +15,13 @@ info:
     Ufficio stampa **Daniela Sartogo** +39 342 855 1242
     +39 335 6750946 / marianna.accerboni@gmail.com
 subEvents:
-  - Sabato 31 maggio al Magazzino 26 del Porto Vecchio di Trieste primo evento collaterale con la proiezione del video "Un uomo un castello un incontro. Rilke. La poesia è musica" del maestro Silvio Donati
-  - 'Venerdì 6 giugno al Magazzino 26 del Porto Vecchio di Trieste secondo evento collaterale: incontro con lo scrittore Diego Marani sul tema "Com''è cambiata oggi la percezione del confine?"'
-  - "Sabato 21 giugno al Magazzino 26 del Porto Vecchio di Trieste terzo evento collaterale: visita guidata con il noto conduttore e giornalista Andro Merkù, speaker di Radio Monte Carlo e poliedrico artista. A seguire musica d'ambiente con Daniele Mastronuzzi (live electronics) e PCK (sax soprano)"
-  - Venerdì 27 giugno laboratorio di pittura emozionale con il pittore Toni Zanussi al Magazzino 26 del Porto Vecchio di Trieste
-  - Domenica 29 giugno laboratorio di disegno per la scultura con lo scultore e fotografo Carlo Vidoni al Magazzino 26 del Porto Vecchio di Trieste
-  - 'Venerdì 4 luglio al Magazzino 26 del Porto Vecchio di Trieste quarto evento collaterale: presentazione, con la partecipazione dell''autore, di "È notte sul confine", ultimo libro dello scrittore e giornalista Pietro Spirito'
-  - Domenica 13 luglio laboratorio di pittura a pastello secco con il pittore Claudio Mario Feruglio al Magazzino 26 del Porto Vecchio di Trieste
+  - - Sabato 31 maggio al Magazzino 26 del Porto Vecchio di Trieste primo evento collaterale con la proiezione del video "Un uomo un castello un incontro. Rilke. La poesia è musica" del maestro Silvio Donati
+  - - 'Venerdì 6 giugno al Magazzino 26 del Porto Vecchio di Trieste secondo evento collaterale: incontro con lo scrittore Diego Marani sul tema "Com''è cambiata oggi la percezione del confine?"'
+  - - "Sabato 21 giugno al Magazzino 26 del Porto Vecchio di Trieste terzo evento collaterale: visita guidata con il noto conduttore e giornalista Andro Merkù, speaker di Radio Monte Carlo e poliedrico artista. A seguire musica d'ambiente con Daniele Mastronuzzi (live electronics) e PCK (sax soprano)"
+  - - Venerdì 27 giugno laboratorio di pittura emozionale con il pittore Toni Zanussi al Magazzino 26 del Porto Vecchio di Trieste
+  - - Domenica 29 giugno laboratorio di disegno per la scultura con lo scultore e fotografo Carlo Vidoni al Magazzino 26 del Porto Vecchio di Trieste
+  - - 'Venerdì 4 luglio al Magazzino 26 del Porto Vecchio di Trieste quarto evento collaterale: presentazione, con la partecipazione dell''autore, di "È notte sul confine", ultimo libro dello scrittore e giornalista Pietro Spirito'
+  - - Domenica 13 luglio laboratorio di pittura a pastello secco con il pittore Claudio Mario Feruglio al Magazzino 26 del Porto Vecchio di Trieste
 press:
   pressRelease: |-
     **Mostra open ultimo giorno: domenica 13 luglio gran finale al Magazzino 26 del Porto Vecchio di Trieste per visitare la mostra “Open. Confini di Luce per un Mondo di Pace” e per ammirare le opere realizzate durante i laboratori artistici e selezionate nell’ambito del concorso sul tema dei confini liquidi e della pace. Dalle 18.30 premiazione, visita guidata condotta dalla curatrice, musica blues, jazz e fusion e brindisi.**

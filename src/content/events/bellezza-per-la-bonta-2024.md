@@ -1,6 +1,6 @@
 ---
 title: Sabato 7 settembre 2024 alla Sala Xenia di Trieste al via la XXV edizione della mostra d'arte "La bellezza per la bontà – L'arte aiuta la vita"
-slug: bellezza-per-la-bonta-2024
+slug: sabato-7-settembre-2024-alla-sala-xenia-di-trieste-al-via-la-xxv-edizione-della-mostra-darte-la-bellezza-per-la-bontà-larte-aiuta-la-vita
 coverImage: /media/bellezza-bonta-Diana_BOSNJAK_MONAI__Rainbow_2024__acrilico__cm_60x30.jpg
 info:
   openingDate: 2024-09-07 18:00

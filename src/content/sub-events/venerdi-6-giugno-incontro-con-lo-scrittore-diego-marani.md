@@ -1,10 +1,13 @@
 ---
 title: 'Venerdì 6 giugno al Magazzino 26 del Porto Vecchio di Trieste secondo evento collaterale: incontro con lo scrittore Diego Marani sul tema "Com''è cambiata oggi la percezione del confine?"'
-parent: "Mostra Open. Confini di luce per un mondo di pace: da domenica 8 giugno al via al Magazzino 26 del Porto Vecchio di Trieste i laboratori di pittura, disegno e collage per adulti e bambini. Istituiti un concorso e un premio ispirati al tema dei confini liquidi e della pace"
+parent: 'Mostra Open. Confini di luce per un mondo di pace: da domenica 8 giugno al via al Magazzino 26 del Porto Vecchio di Trieste i laboratori di pittura, disegno e collage per adulti e bambini. Istituiti un concorso e un premio ispirati al tema dei confini liquidi e della pace'
 coverImage: /media/Nuova_grammatica_finlandese_Bompiani_2000__La_nave_di_Teseo_2022.jpg
+info: null
 bodySection:
   body: |-
-    **VENERDÌ 6 GIUGNO AL MAGAZZINO 26 DEL PORTO VECCHIO DI TRIESTE SECONDO EVENTO COLLATERALE: INCONTRO CON LO SCRITTORE DIEGO MARANI SUL TEMA _COM’È CAMBIATA OGGI LA PERCEZIONE DEL CONFINE?_**
+    ![Diego Marani nel suo studio a Bruxelles](/media/Diego_Marani_nel_suo_studio_a_Bruxelles.jpg "Diego Marani nel suo studio a Bruxelles")
+
+    **Venerdì 6 giugno al Magazzino 26 del Porto Vecchio di Trieste secondo evento collaterale: incontro con lo scrittore Diego Marani sul tema "Com'è cambiata oggi la percezione del confine?**
 
     \*\*Nell'ambito della mostra **OPEN. Confini di luce per un mondo di pace**, promossa e organizzata dal Comune di Trieste – Assessorato alle Politiche della Cultura e del Turismo e curata da Marianna Accerboni, nella Sala _Carlo Sbisà_ **del Magazzino 26 del Porto Vecchio di Trieste, venerdì 6 giugno** **alle 19.00** avrà luogo il secondo degli eventi collaterali della rassegna, protagonista **Diego Marani**, scrittore e glottoteta di fama internazionale, che dialogherà con la curatrice sul tema molto attuale di _Com'è cambiata oggi la percezione del confine?_ Argomento **perfettamente in linea** **con il filo conduttore della mostra OPEN, progetto espositivo multimediale di arte visiva e musica che, attraverso la multiforme creatività di sette artisti contemporanei del Nord Est - Paolo Cervi Kervischer, Claudio Mario Feruglio, Jasna Merkù, Zoran Music, Luigi Spacal, Carlo Vidoni, Toni Zanussi -, suggerisce, nello spirito e nel contesto borderless di GO! 2025 – Gorizia e Nova Gorica Capitale europea della cultura, di cui fa parte, un mondo di pace e di condivisione.**
 
@@ -13,8 +16,6 @@ bodySection:
     **_Gli artisti di questa mostra esplorano la terra di mezzo del confine e la usano anche per misurare un loro confine artistico. Forse inconsapevolmente praticando l'antica religione romana devota al dio Terminus, celebrato l'ultimo giorno dell'anno, protettore dei confini non solo geografici ma anche morali ed etici. C'è in queste opere come in ogni confine, la certezza della provvisorietà. Come il confine non è mai definito per sempre ma cambia e cambia chi vi si affaccia, così l'arte non cessa di spostare i propri confini al punto da avere come unico vero confine la ricerca. Il confine ha un potere inaudito e spesso credendo di dividere noi dagli altri per impedire ogni commistione, finisce per far esistere un altro ancora, un terzo identitario che ha bisogno degli altri due per esistere. Queste opere_** _- conclude lo scrittore - **praticano esattamente questo artificio e si proiettano al di là di quello che esprimono, nella diversità degli stili e delle tecniche in un ammiccamento all'altrove che, ci si rende conto, scaturisce dal loro accostamento, dall'essere sapientemente riuniti in questa mostra.**_
 
     **Diego Marani** (Tresigallo, Ferrara, 1959), dopo aver frequentato il Liceo Ginnasio _Ariosto_ di Ferrara, nel 1983 si laurea in Interpretazione e traduzione alla Scuola superiore di lingue moderne per traduttori e interpreti di Trieste. Oltre all'inglese e al francese, studia professionalmente olandese e finlandese. Lavora come interprete e traduttore _freelance_ e come giornalista per varie testate locali.
-
-    ![Diego Marani nel suo studio a Bruxelles](/media/Diego_Marani_nel_suo_studio_a_Bruxelles.jpg "Diego Marani nel suo studio a Bruxelles")
 
     Nel 1985 inizia a lavorare al **Consiglio dell'Unione europea** (DGT) come traduttore e revisore, posizione che ha mantenuto fino al 2006, quando è entrato a far parte della direzione generale Cultura della Commissione europea e, dal 2010, della direzione generale Interpretazione, occupandosi in particolare della politica del multilinguismo, del sostegno alla traduzione letteraria, dell'apprendimento permanente e dell'apprendimento precoce delle lingue. In questo periodo è stato anche autore di discorsi per Leonard Orban, José Barroso, Antonio Tajani e Androulla Vassiliou. **Nel 2014 è stato consigliere del Ministro della Cultura Dario Franceschini durante la Presidenza italiana del Consiglio dell'UE. Dal 2015 lavora per il Servizio europeo per l'azione esterna, primo servizio diplomatico multinazionale, coordinando iniziative di diplomazia culturale.**
 
@@ -58,6 +59,7 @@ bodySection:
     _L'ultima falsità_ (romanzo, La nave di Teseo, 2025)
 
     Seguirà una **visita guidata** alla mostra OPEN e una **degustazione di vini** dell'Azienda Agricola **Zidarich** (Prepotto, Duino Aurisina).
+gallerySection: null
 draft: false
 date: 2025-06-06
 slug: venerdi-6-giugno-incontro-con-lo-scrittore-diego-marani

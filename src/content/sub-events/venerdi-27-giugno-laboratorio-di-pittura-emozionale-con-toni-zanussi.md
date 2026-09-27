@@ -1,7 +1,8 @@
 ---
 title: Venerdì 27 giugno laboratorio di pittura emozionale con il pittore Toni Zanussi al Magazzino 26 del Porto Vecchio di Trieste
-parent: "Mostra Open. Confini di luce per un mondo di pace: da domenica 8 giugno al via al Magazzino 26 del Porto Vecchio di Trieste i laboratori di pittura, disegno e collage per adulti e bambini. Istituiti un concorso e un premio ispirati al tema dei confini liquidi e della pace"
+parent: 'Mostra Open. Confini di luce per un mondo di pace: da domenica 8 giugno al via al Magazzino 26 del Porto Vecchio di Trieste i laboratori di pittura, disegno e collage per adulti e bambini. Istituiti un concorso e un premio ispirati al tema dei confini liquidi e della pace'
 coverImage: /media/laboratori_pittura_e_disegno.jpg
+info: null
 bodySection:
   body: |-
     **Venerdì 27 giugno** Laboratorio di pittura emozionale con il pittore **Toni Zanussi**.
@@ -10,7 +11,7 @@ bodySection:
 
     A conclusione di ogni laboratorio, seguiranno una **visita guidata alla mostra condotta dalla curatrice** e una **degustazione dei vini pregiati** dell’**Azienda Agricola _Zidarich_** (Prepotto, Duino Aurisina).
 
-    **Domenica 13 luglio alle ore 18.30, nell’ambito del _finissage_** della mostra, avranno luogo la **premiazione del concorso** dedicato al tema dei **_Confini liquidi_ e la premiazione delle opere realizzate durante i laboratori artistici. **Seguiranno un intervento di musica blues, jazz e fusion** con il **_Trio S’paz_** (**Diego Zotti** al piano, **Edy Supp** batteria e **PCK** sax) e una degustazione dei vini pregiati dell’**Azienda Agricola _Zidarich_** (Prepotto, Duino Aurisina).
+    **Domenica 13 luglio alle ore 18.30, nell’ambito del _finissage_** della mostra, avranno luogo la **premiazione del concorso** dedicato al tema dei **_Confini liquidi_ e la premiazione delle opere realizzate durante i laboratori artistici. Seguiranno un intervento di musica blues, jazz e fusion con il _Trio S’paz_ (Diego Zotti al piano, Edy Supp batteria e PCK sax) e una degustazione dei vini pregiati dell’**Azienda Agricola _Zidarich_\*\* (Prepotto, Duino Aurisina).
 
     Dopo il successo dei laboratori con Jasna Merkù e Paolo Cervi Kervischer proseguono al Magazzino 26 del porto vecchio di Trieste i laboratori di pittura e disegno per adulti e bambini. istituiti un concorso e un premio ispirati al tema dei confini liquidi e della pace. si prosegue venerdì 27 giugno con il laboratorio di pittura emozionale diretto dal pittore Toni Zanussi.
 
@@ -35,6 +36,7 @@ bodySection:
     Espongono **Paolo Cervi Kervischer, Claudio Mario Feruglio, Jasna Merkù, Zoran Music, Luigi Spacal, Carlo Vidoni, Toni Zanussi**
 
     A conclusione del laboratorio, seguiranno una **visita guidata alla mostra condotta dalla curatrice** e una **degustazione dei vini pregiati** dell'**Azienda Agricola Zidarich** (Prepotto, Duino Aurisina).
+gallerySection: null
 draft: false
 date: 2025-06-27
 slug: venerdi-27-giugno-laboratorio-di-pittura-emozionale-con-toni-zanussi

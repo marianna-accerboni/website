@@ -1,10 +1,13 @@
 ---
 title: Sabato 31 maggio al Magazzino 26 del Porto Vecchio di Trieste primo evento collaterale con la proiezione del video "Un uomo un castello un incontro. Rilke. La poesia è musica" del maestro Silvio Donati
-parent: "Mostra Open. Confini di luce per un mondo di pace: da domenica 8 giugno al via al Magazzino 26 del Porto Vecchio di Trieste i laboratori di pittura, disegno e collage per adulti e bambini. Istituiti un concorso e un premio ispirati al tema dei confini liquidi e della pace"
+parent: 'Mostra Open. Confini di luce per un mondo di pace: da domenica 8 giugno al via al Magazzino 26 del Porto Vecchio di Trieste i laboratori di pittura, disegno e collage per adulti e bambini. Istituiti un concorso e un premio ispirati al tema dei confini liquidi e della pace'
 coverImage: /media/Vista_dal_Castello_di_Duino_sul_castel_vecchio_di_Duino_la_prima_rocca_costruita_intorno_allXI_secolo_.jpg
+info: null
 bodySection:
   body: |-
-    **SABATO 31 MAGGIO AL MAGAZZINO 26 DEL PORTO VECCHIO DI TRIESTE PRIMO EVENTO COLLATERALE CON LA PROIEZIONE DEL VIDEO _UN UOMO UN CASTELLO UN INCONTRO. RILKE. LA POESIA È MUSICA_ DEL MAESTRO SILVIO DONATI**
+    ![Il M° Silvio Donati al pianoforte](/media/Il_M_Silvio_Donati_al_pianoforte.jpg "Il M° Silvio Donati al pianoforte")
+
+    **Sabato 31 maggio al Magazzino 26 del Porto Vecchio di Trieste primo evento collaterale con la proiezione del video "Un uomo un castello un incontro. Rilke. La poesia è musica" del maestro Silvio Donati**
 
     **Nell'ambito della mostra OPEN. Confini di luce per un mondo di pace, promossa e organizzata dal Comune di Trieste – Assessorato alle Politiche della Cultura e del Turismo e curata da Marianna Accerboni, nella Sala Luttazzi del Magazzino 26 del Porto Vecchio di Trieste, sabato 31 maggio alle 18.30 avrà luogo il primo degli eventi collaterali della rassegna, che sarà introdotto dalla curatrice con il compositore Silvio Donati: ci sarà infatti la proiezione ufficiale del video _Un uomo, un castello, un incontro. Rilke. La poesia è musica_ (39', in italiano e tedesco), nato da un'idea e con musiche inedite di Donati e con le voci recitanti degli attori Giuseppe Bevilacqua e Karin Kofler, dedicate a Rainer M. Rilke (Praga, Cechia 1875 – Montreux, Svizzera 1926), alle _Elegie duinesi_, il suo poema più importante, e ad altri suoi versi.**
 
@@ -15,8 +18,6 @@ bodySection:
     **"Ho visionato il DVD e sono stata profondamente colpita dalla sua composizione musicale. È riuscito a catturare con grande sensibilità l'equilibrio tra malinconia e bellezza, sentimenti spesso evocati nell'opera di Rilke. Le immagini del Castello e del suo parco rafforzano magnificamente questo legame con i momenti vissuti da Rilke in quei luoghi. Le voci scelte per la lettura delle Elegie raggiungono una dimensione emotiva che mi ha colpito molto. Le _Elegie_ sono così belle recitate in italiano…".**
 
     **Il video è perfettamente in linea con il tema della mostra, progetto espositivo multimediale di arte visiva e musica che, attraverso la multiforme creatività di 7 artisti contemporanei del Nord Est - Paolo Cervi Kervischer, Claudio Mario Feruglio, Jasna Merkù, Zoran Music, Luigi Spacal, Carlo Vidoni, Toni Zanussi -, suggerisce, nello spirito e nel contesto borderless di GO! 2025 – Gorizia e Nova Gorica Capitale europea della cultura, di cui fa parte, un mondo di pace e di condivisione.**
-
-
 
     **Il Castello**
 
@@ -36,8 +37,6 @@ bodySection:
 
     **Presentazione e drammaturgia**: Patrizia Valli
 
-    ![Il M° Silvio Donati al pianoforte](/media/Il_M_Silvio_Donati_al_pianoforte.jpg "Il M° Silvio Donati al pianoforte")
-
     **Silvio Donati**, triestino, figlio d'arte, compositore e pianista, ha alle spalle un'importante carriera concertistica e compositiva, che lo ha portato ripetutamente all'estero. Diplomatosi al Conservatorio _G. Tartini_ di Trieste, dopo vari stages internazionali, tra cui la specializzazione in musica elettronica e vari concerti a Bayreuth, inizia una carriera concertistica e compositiva che lo condurrà in numerosi stati europei e nel Nord America e per la quale sarà più volte premiato.
 
     Numerose e di pregio sono le sue partecipazioni con accompagnamento a film muti come _Little American_ di C. De Mille, alle Giornate del Cinema Muto di Pordenone e al film muto _Limite_ del brasiliano Mario Peixoto al Festival Internazionale del Cinema Latino Americano, della giuria del quale fa parte fin dagli esordi per l'attribuzione del premio per la migliore colonna sonora. Per il Teatro Stabile del Friuli Venezia Giulia compone e arrangia le musiche di Haydn, Prokofiev e Galluppi per le _Marionette di Podrecca_. Collabora con il Festival _Ingeborg Bachmann_ di Klagenfurt con uno Special commissionatogli dalla ORF Television channel. Per il Centro Servizi e Spettacoli di Udine realizza la colonna sonora del lavoro teatrale _La luce nelle tenebre_, che debutta al Mittelfest di Cividale del Friuli e da cui è tratto un CD omonimo, e _The Fever_ di Fallace Shawn, in scena anche a Roma. Alterna l'attività di concertista come solista e con varie formazioni orchestrali e di compositore con diverse pubblicazioni discografiche, tra cui _Musica in scena_, _L'antico incontra il moderno_, _Impression_. Attualmente si dedica alla composizione di musiche per il teatro in Italia e all'estero.
@@ -49,6 +48,7 @@ bodySection:
     Molto noto per le colonne sonore di film e documentari, nel 2017 ha composto le musiche per il film _I dimenticati della Transiberiana_, prodotto dalla Prelude Media di Parigi per la regia della francese Christiane Rosato, che le ha definite "l'anima del film", il quale scopre la grande epopea dei trecento friulani che all'inizio del secolo scorso parteciparono alla costruzione della linea ferroviaria che attraversa la Russia da Ovest a Est.
 
     Seguirà una **visita guidata** alla mostra OPEN e una **degustazione di vini** dell'Azienda Agricola **Zidarich** (Prepotto, Duino Aurisina).
+gallerySection: null
 draft: false
 date: 2025-05-31
 slug: sabato-31-maggio-proiezione-video-un-uomo-un-castello-un-incontro-rilke

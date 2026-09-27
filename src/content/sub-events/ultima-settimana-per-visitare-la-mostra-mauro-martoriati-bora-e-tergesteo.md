@@ -1,69 +1,72 @@
 ---
-title: 'Ultima settimana per visitare la mostra “Mauro Martoriati. Bora e Tergesteo”'
-slug: ultima-settimana-per-visitare-la-mostra-mauro-martoriati-bora-e-tergesteo
-parent: 'Mauro Martoriati. Bora e Tergesteo'
+title: Ultima settimana per visitare la mostra “Mauro Martoriati. Bora e Tergesteo”
+parent: Mauro Martoriati. Bora e Tergesteo
+coverImage: ''
+info: null
 bodySection:
   body: |-
     Ultima settimana per visitare la mostra “Mauro Martoriati. Bora e Tergesteo”, che chiuderà domenica 25 settembre al Magazzino 26 del Porto Vecchio di Trieste. **Domani venerdì 23 alle 18.30**, in considerazione del consenso ottenuto nel precedente incontro, **l’attrice Marzia Postogna terrà nuovamente una lettura scenica dedicata all’antica e poetica leggenda, che racconta l’amore di Bora, figlia del Vento, per l’argonauta Tergesteo, che ha ispirato a Martoriati la scultura posizionata esternamente al Magazzino.** A seguire visita guidata con l’artista.
-    
+
     **Sabato 24 settembre alle ore 18.30** avrà luogo la **presentazione da parte dell’autore Franco Rosso e dell’artista, del volume “Mauro Martoriati. Trieste 2014 / 2021”** (edizioni FR, pgg. 180, € 18,00, testi in italiano e tedesco). Suddiviso in più sezioni, il libro riassume principalmente l’intensa attività svolta dal maestro negli anni triestini nel suo atelier di via de Rittmeyer 4/A attraverso una selezione di circa 200 opere fotografate da Nanni Spano e Giulia Venus Livia. L’incontro si concluderà con una visita guidata a cura di Martoriati.
-    
+
     **Ultime due visite guidate** alle 10.30 e alle 18.30 di domenica 25 settembre. Dopo la prima, Martoriati terrà dalle ore 11 alle 13 un laboratorio di disegno per adulti e bambini.
-    
+
     (Info +39 328 9683335 / +39 329 3947761 / info@mauromartoriati.it. Orario mostra: giov e ven 17-20, sab e dom 10-13 e 17-20).
-    
+
     **Nell’ambito della mostra “Mauro Martoriati: Bora e Tergesteo” al Magazzino 26 del Porto Vecchio di Trieste giovedì 22 settembre avrà luogo una visita guidata condotta dall’artista.**
-    
+
     **Nell’ambito della mostra “Mauro Martoriati. Bora e Tergesteo”, allestita fino al 25 settembre al Magazzino 26 del Porto Vecchio di Trieste, giovedì 22 settembre alle 18.30 avrà luogo una visita guidata condotta dall’artista. Le ultime due visite guidate, prima della chiusura della rassegna, sono previste alle 10.30 e alle 18.30 di domenica 25 settembre. Dopo la visita guidata di domenica mattina, Martoriati terrà dalle** ore 11 alle 13 un **laboratorio di pittura e disegno**. La mostra - promossa **dall’Associazione M.A.R.T. Movimento Artistico Roma / Trieste**, **realizzata in coorganizzazione con il Comune di Trieste e curata da Marianna Accerboni con l’organizzazione generale di Maria Clara Palazzini Finetti** - testimonia **l’intenso lavoro svolto dall’artista a Trieste, città in cui si è trasferito nel 2013.**
-    
+
     (Info mostra, visite guidate e laboratori: +39 328 9683335 / +39 329 3947761 / info@mauromartoriati.it. Orario mostra: giov e ven ore 17-20, sab e dom 10-13 e 17-20. Bus linea 6, fermata Polo museale. Ingresso a pagamento: biglietto intero € 5,00 / bambini fino ai 10 anni gratis).
-    
+
     **Mostra Mauro Martoriati. Bora e Tergesteo: sabato 17 settembre nella sala Luttazzi del Magazzino 26 del Porto Vecchio di Trieste avrà luogo la proiezione del documentario Il Leone e la Leonessa. Vita di sir Richard Francis Burton e di sua moglie Isabel. A seguire una visita guidata con l’artista. Sono inoltre aperte le iscrizioni ai laboratori domenicali di pittura e disegno condotti dall’artista**
-    
+
     **Nell’ambito della mostra “Mauro Martoriati. Bora e Tergesteo**”, curata da Marianna Accerboni e coordinata da Maria Clara Palazzini Finetti in coorganizzazione con il Comune di Trieste, nella Sala Luttazzi **del Magazzino 26 del Porto Vecchio di Trieste, sabato 17 settembre** **alle 17** avrà luogo la proiezione del documentario **Il leone e la leonessa. Vita di Sir Richard Francis Burton e di sua moglie Isabel** (40’, Comune di Trieste, 2010) di **Riccardo Cepach**, dedicato al noto console britannico (Torquay, Inghilterra 1821 - Trieste 1890). L’evento è inserito nella rassegna “Una Luce sempre Accesa” della Sala Luttazzi presso il Magazzino 26 di Porto Vecchio.
-    
+
     Seguirà una visita guidata condotta dall’artista.
-    
+
     **A introdurre il video,** **che racconta l'avventurosa e straordinaria vita di questo coraggioso e instancabile viaggiatore** **(Torquay, Inghilterra 1821 - Trieste 1890)**, **interverranno la curatrice e l’artista**. Esploratore, traduttore de "Le mille e una notte", de "Il giardino profumato" e del "Kama Sutra", orientalista ed eccellente spadaccino, Burton concluse la propria esistenza quale console britannico a Trieste, dove trascorse gli ultimi 18 anni di vita. La traduzione de "Il giardino profumato" e la sua collezione quarantennale di diari e giornali furono purtroppo bruciate dalla vedova perché considerate da lei scabrose e nocive alla reputazione del marito. Il fatto costituì invece, secondo l'Enciclopedia Britannica, una perdita monumentale per la storia e l'antropologia e irreparabile per i biografi di Burton.
-    
+
     L’artista ha scelto tale tema identificandosi nell'anima errante, curiosa e inquieta del grande viaggiatore inglese. **Martoriati, nato a Roma nel ’57, ha infatti viaggiato moltissimo: nel ’93 ha vissuto e operato a New York,  dove ebbe modo di conoscere l’action painting di Jackson Pollock, che lo indusse a una svolta fondamentale sul piano creativo.** **Nel ’97 si trasferì nella quiete di Anguillara Sabazia (Lazio), dove sarebbe rimasto fino al 2008. Tra i primi anni ’90 e il 2011 soggiornò e operò ripetutamente a Madrid e a Parigi**, dove nel 2009 espose al **Théâtre dell’Est Parisien** una macro-installazione e nel 2001 un suo grande dipinto entrò a far parte della collezione della **Mediateca di Mouans-Sartoux in Costa Azzurra**. **Nel 2011 ritorna a Roma, dove apre un nuovo studio ed entra in contatto con l’EAC (Electronic Art Cafè)**, progetto artistico itinerante consistente in eventi e mostre realizzati da protagonisti delle avanguardie internazionali (quali ad esempio Enzo Cucchi e Mimmo Paladino), nato a New York da un’idea di **Umberto Scrocca** e sviluppatosi poi a Roma per la cura di **Achille Bonito Oliva**. E dal 2013 Martoriati si è trasferito stabilmente a Trieste.
-    
+
     Nel 2000 ha esposto e collocato due opere nel **Museo Nazionale Arte Contemporanea di Kuala Lampur** e nel **Museo Ibrahim Hussein di Langkawi-Malaysia**. Altri lavori sono presenti in spazi istituzionali in **Paraguay**, in **Brasile** e **nell’Archivio della Quadriennale di Roma**.
-    
+
     **Domenica 18 settembre** **alle 10.30** **Martoriati condurrà una visita guidata e dalle 11 alle 13 un laboratorio di pittura e disegno per adulti e bambini** (Info +39 328 968333/+39 329 3947761/ info@mauromartoriati.it / biglietto € 5,00, bambini fino ai 10 anni gratis).
-    
+
     **Nell’ambito della mostra “Mauro Martoriati: Bora e Tergesteo” al Magazzino 26 del Porto Vecchio di Trieste giovedì 15 settembre avrà luogo una visita guidata condotta dall’artista.**
-    
+
     **Nell’ambito della mostra “Mauro Martoriati. Bora e Tergesteo”, allestita fino al 25 settembre al Magazzino 26 del Porto Vecchio di Trieste, giovedì 15 settembre alle 18.30 avrà luogo una visita guidata condotta dall’artista. Altre visite guidate sono previste alle 18.30 di giovedì 22 settembre e alle 10.30 di domenica 25 settembre. Dopo la visita guidata domenicale Martoriati terrà dalle** ore 11 alle 13 un **laboratorio di pittura e disegno**. La mostra - promossa **dall’Associazione M.A.R.T. Movimento Artistico Roma / Trieste**, **realizzata in coorganizzazione con il Comune di Trieste e curata da Marianna Accerboni con l’organizzazione generale di Maria Clara Palazzini Finetti e la linea grafica di Riccardo Moro** - testimonia **l’intenso lavoro svolto dall’artista a Trieste, città in cui si è trasferito nel 2013.**
-    
+
     (Info mostra, visite guidate e laboratori: +39 328 9683335 / +39 329 3947761 / info@mauromartoriati.it. Orario mostra: giov e ven ore 17-20, sab e dom 10-13 e 17-20. Bus linea 6, fermata Polo museale. Ingresso a pagamento: biglietto intero € 5,00 / bambini fino ai 10 anni gratis).
-    
+
     **Mostra Mauro Martoriati. Bora e Tergesteo: sabato 10 settembre al Magazzino 26 del porto vecchio di Trieste avrà luogo la performance Imperfectum ispirata alle sculture in mostra con la partecipazione attiva del pubblico. Domenica 11 presentazione del libro “Oltre Trieste” di Giorgio Rosso cicogna. Aperte inoltre le iscrizioni ai laboratori domenicali di pittura e disegno condotti dall’artista**
-    
-    **Nell’ambito della mostra “Mauro Martoriati. Bora e Tergesteo**”, curata da Marianna Accerboni e coordinata da Maria Clara Palazzini Finetti in coorganizzazione con il Comune di Trieste, **al Magazzino 26 del Porto Vecchio di Trieste sabato 10 settembre alle 18.30 avrà luogo la** performance **Imperfectum***,* ispirata al gruppo di sculture collocate in mostra sotto il titolo “Iron people” e che vedrà la partecipazione attiva del pubblico: un gruppo di artisti abbigliati nello stesso modo interpreterà attraverso il linguaggio del corpo la specificità di ognuna della ventina di sculture alte due metri e mezzo, disposte nella sala espositiva quasi a formare una selva umana e realizzate da Martoriati tra il 2015 e il 2016 in ferro e metalli assemblati, rifiniti secondo diverse tecniche di sua invenzione a significare le fasce sociali meno fortunate. Ideatore di macro-installazioni e performance *site specific* in Italia e in Francia, l’artista romano, che dal 2013 ha scelto di vivere e operare a Trieste, ha concepito tale evento appositamente per la mostra. Nel 2004 ha per esempio creato una maxinstallazione di sedici Scacchi in ferro smaltato, alti due metri, esposta con grande successo a Marostica in occasione della storica *Partita a scacchi* e nel 2009 ha esposto al **Théâtre dell’Est Parisien** la macro-installazione *Autorità e povertà* (m. 12x10), in cui affrontava il tema sociale, a lui caro quanto quello ecologico.
-    
+
+    **Nell’ambito della mostra “Mauro Martoriati. Bora e Tergesteo**”, curata da Marianna Accerboni e coordinata da Maria Clara Palazzini Finetti in coorganizzazione con il Comune di Trieste, **al Magazzino 26 del Porto Vecchio di Trieste sabato 10 settembre alle 18.30 avrà luogo la** performance **Imperfectum**_,_ ispirata al gruppo di sculture collocate in mostra sotto il titolo “Iron people” e che vedrà la partecipazione attiva del pubblico: un gruppo di artisti abbigliati nello stesso modo interpreterà attraverso il linguaggio del corpo la specificità di ognuna della ventina di sculture alte due metri e mezzo, disposte nella sala espositiva quasi a formare una selva umana e realizzate da Martoriati tra il 2015 e il 2016 in ferro e metalli assemblati, rifiniti secondo diverse tecniche di sua invenzione a significare le fasce sociali meno fortunate. Ideatore di macro-installazioni e performance _site specific_ in Italia e in Francia, l’artista romano, che dal 2013 ha scelto di vivere e operare a Trieste, ha concepito tale evento appositamente per la mostra. Nel 2004 ha per esempio creato una maxinstallazione di sedici Scacchi in ferro smaltato, alti due metri, esposta con grande successo a Marostica in occasione della storica _Partita a scacchi_ e nel 2009 ha esposto al **Théâtre dell’Est Parisien** la macro-installazione _Autorità e povertà_ (m. 12x10), in cui affrontava il tema sociale, a lui caro quanto quello ecologico.
+
     **Domenica 11 settembre Martoriati condurrà** **alle 10.30** **una visita guidata e dalle 11 alle 13 un laboratorio di pittura e disegno per adulti e bambini** (Info +39 328 968333/+39 329 3947761/ info@mauromartoriati.it ).
-    
+
     **Alle 18.30 di domenica**, sotto l’egida del Pen Club di Trieste, **Enzo Santese converserà con Giorgio Rosso Cicogna** (Trieste, 1945), **già diplomatico di carriera e alto funzionario internazionale, sul suo libro “Oltre Trieste. Storie di famiglia e di vita vissuta, un secolo attraverso molte frontiere”** (LEG, pgg. 536, € 24), in cui l’autore unisce storia e cronache familiari a vicende e considerazioni personali sugli avvenimenti internazionali. Non un romanzo, un saggio sociopolitico o un racconto biografico ma una piccola storia nella Grande Storia, dal 1915 ad oggi, con Trieste al baricentro. Dopo la Seconda Guerra Mondiale seguono avvenimenti, misteri e protagonisti delia Prima Repubblica in Italia, che l'autore ha conosciuto con rapporti di stretta collaborazione e amicizia. Della sua carriera diplomatica sono anche richiamati, con voluto distacco e ironia, eventi internazionali e incontri ravvicinati con personaggi di altissimo livello. Alla caduta del Muro di Berlino corrisponde un radicale cambio professionale, nella prospettiva di contribuire al rilancio di Trieste nella nuova Europa. Infine l'auspicio di un impegno per contrastare superficialità e consumismo alle radici del populismo, con rinnovata fiducia nell'Europa, contestando l'inevitabilità di un confronto epocale tra Occidente e Islam.
-    
+
     **Nell’ambito della mostra “Mauro Martoriati: Bora e Tergesteo” al Magazzino 26 del porto vecchio di Trieste giovedì 8 settembre avrà luogo una visita guidata condotta dall’artista.**
-    
+
     **Nell’ambito della mostra “Mauro Martoriati. Bora e Tergesteo”, allestita fino al 25 settembre al Magazzino 26 del Porto Vecchio di Trieste, giovedì 8 settembre alle 18.30 avrà luogo una visita guidata condotta dall’artista. Altre visite guidate sono previste alle 18.30 di giovedì 15 e 22 settembre e alle 10.30 di domenica 11, 18 e 25 settembre. Dopo la visita guidata domenicale Martoriati terrà dalle** ore 11 alle 13 un **laboratorio di pittura e disegno**. La mostra - promossa **dall’Associazione M.A.R.T. Movimento Artistico Roma / Trieste**, **realizzata in coorganizzazione con il Comune di Trieste e curata da Marianna Accerboni con l’organizzazione generale di Maria Clara Palazzini Finetti e la linea grafica di Riccardo Moro** - testimonia **l’intenso lavoro svolto dall’artista a Trieste, città in cui si è trasferito nel 2013.**
-    
+
     (Info mostra, visite guidate e laboratori: +39 328 9683335 / +39 329 3947761 / info@mauromartoriati.it. Orario mostra: giov e ven ore 17-20, sab e dom 10-13 e 17-20. Bus linea 6, fermata Polo museale. Ingresso a pagamento: biglietto intero € 5,00 / bambini fino ai 10 anni gratis).
-    
+
     **Sabato 3 settembre al Magazzino 26 del Porto Vecchio di Trieste: lettura scenica dell’attrice Marzia Postogna dedicata alla leggenda di Bora e Tergesteo, primo appuntamento collaterale nell’ambito della mostra del pittore Mauro Martoriati. Sono inoltre aperte le iscrizioni ai laboratori di pittura e disegno condotti dall’artista.**
-    
+
     **Nell’ambito della mostra “Mauro Martoriati. Bora e Tergesteo**”, curata da Marianna Accerboni e organizzata da Maria Clara Palazzini Finetti, **al Magazzino 26 del Porto Vecchio di Trieste sabato 3 settembre alle 18.30 avrà luogo un incontro in cui l’attrice Marzia Postogna terrà una lettura scenica dedicata all’antica e poetica leggenda che racconta l’amore di Bora, figlia del Vento, per l’argonauta Tergesteo, che ha ispirato all’artista la scultura esterna al Magazzino.** Unione invisa al padre di lei, che fa uccidere quest’ultimo, il cui sangue si tramuta nelle foglie di sommaco mentre le lacrime di Bora diventano le pietre del Carso. **Nettuno, dio del mare,** **impietosito, ricopre di stelle marine, conchiglie e alghe il corpo dell’argonauta, sul quale** si forma una città chiamata in suo onore **Tergeste** e poi **Trieste**. Su di lei Bora regna ancor oggi sovrana perchè il cielo le ha concesso di rivivere tre, cinque, sette giorni di amore: sono i giorni in cui Bora soffia impetuosa.
-    
+
     Nata a Trieste, **Marzia Postogna** lavora nell’ambito del teatro di prosa come interprete e ideatrice di progetti tra prosa e musica. Collabora principalmente con il Teatro La Contrada di Trieste, dove si è formata attraverso un lungo percorso in diversi generi teatrali con esperienze anche come cantante. Laureata al DAMS, ha frequentato stages di perfezionamento in Italia e all’estero, studiato approfonditamente canto lirico e lavorato con registi quali Macedonio, Licalsi, Però, Emiliani, Ferro in produzioni di testi classici e contemporanei.
-    
+
     **Domenica 4 settembre** **alle 10.30** **Martoriati condurrà una visita guidata e dalle 11 alle 13 un laboratorio di pittura e disegno per adulti e bambini** (Info +39 328 968333/+39 329 3947761/ info@mauromartoriati.it / biglietto € 5,00, bambini fino ai 10 anni gratis).
-    
+
     **Nell’ambito della mostra “Mauro Martoriati: Bora e Tergesteo” al Magazzino 26 del porto vecchio di Trieste giovedì 1 settembre avrà luogo una visita guidata condotta dall’artista.**
-    
+
     **Nell’ambito della mostra “Mauro Martoriati. Bora e Tergesteo”, allestita fino al 25 settembre al Magazzino 26 del Porto Vecchio di Trieste, giovedì 1 settembre alle 18.30 avrà luogo una visita guidata condotta dall’artista. Altre visite guidate sono previste alle 18.30 di giovedì 8, 15 e 22 settembre e alle 10.30 di domenica** **4, 11, 18 e 25 settembre. Dopo la visita guidata domenicale Martoriati terrà dalle** ore 11 alle 13 un **laboratorio di pittura e disegno**. La mostra - promossa **dall’Associazione M.A.R.T. Movimento Artistico Roma / Trieste**, **realizzata in coorganizzazione con il Comune e curata da Marianna Accerboni con l’organizzazione generale di Maria Clara Palazzini Finetti e la linea grafica di Riccardo Moro** - testimonia **l’intenso lavoro svolto dall’artista a Trieste, città in cui si è trasferito nel 2013.**
-    
+
     (Info mostra, visite guidate e laboratori: +39 328 9683335 / +39 329 3947761 / info@mauromartoriati.it. Orario mostra: giov e ven ore 17-20, sab e dom 10-13 e 17-20. Bus linea 6, fermata Polo museale. Ingresso a pagamento: biglietto intero € 5,00 / bambini fino ai 10 anni gratis).
+gallerySection: null
 draft: false
+slug: ultima-settimana-per-visitare-la-mostra-mauro-martoriati-bora-e-tergesteo
 ---

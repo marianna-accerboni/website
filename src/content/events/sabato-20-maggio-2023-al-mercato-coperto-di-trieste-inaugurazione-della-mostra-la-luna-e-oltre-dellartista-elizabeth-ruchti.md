@@ -17,8 +17,7 @@ subEvents:
   - - Nell’ambito della mostra “La Luna e Oltre” di Elizabeth Ruchti, mercoledì 31 giugno 2023 al mercato coperto di Trieste avrà luogo una visita guidata condotta dall’artista
 press:
   pressRelease: |-
-    ![Lune 23, 2009 2023 - opera a tecnica mista in post produzione fotografica su dibond - cm. 30x30](/media/luna_oltre-lune-23-2009-2023-opera-a-tecnica-mista-in-post-produzione-fotografica-su-dibond-cm-30x30.jpg "Lune 23, 2009 2023 - opera a tecnica mista in post produzione fotografica su dibond - cm. 30x30") LUNE 23, 2009_ 2023 - opera a tecnica mista in post produzione
-    fotografica su dibond - cm. 30x30
+    ![Lune 23, 2009 2023 - opera a tecnica mista in post produzione fotografica su dibond - cm. 30x30](/media/luna_oltre-lune-23-2009-2023-opera-a-tecnica-mista-in-post-produzione-fotografica-su-dibond-cm-30x30.jpg "Lune 23, 2009 2023 - opera a tecnica mista in post produzione fotografica su dibond - cm. 30x30") 
 
     **SABATO 20 MAGGIO** dalle 18.30 alle 21 al **Mercato Coperto di Trieste** (Via Carducci 36/ 1° piano) avrà luogo l’**inaugurazione della mostra “La luna e oltre”**, che propone **una quarantina di opere, tra assemblaggi a tecnica mista e fotografie, di Elizabeth Ruchti**, artista che vive tra Milano, la Grecia e Trieste, sua città d’adozione. **Nata a San Paolo del Brasile**, nelle sue vene scorre sangue svizzero, russo, brasiliano e gaucho. **Diciassettenne, si trasferisce** per motivi di studio **a Roma**, **dove si laurea in antropologia culturale** e da quel momento vive e opera nel capoluogo lombardo, dove **ha sempre coltivato la passione per l’arte, formandosi all’Accademia di Belle Arti di San Luca e partecipando a mostre personali e collettive**. **Organizzata da AIDIA Trieste** e **ideata da Anita Cendon** **con il coordinamento di Lucia Krasovec-Lucas** e la **linea grafica di Riccardo Moro**, **l’esposizione sarà introdotta dalla curatrice Marianna Accerboni.**
 

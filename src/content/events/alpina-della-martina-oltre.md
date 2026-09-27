@@ -1,6 +1,6 @@
 ---
 title: 'Oltre: martedì 9 giugno 2026 alla Sala Comunale d’Arte di Trieste inaugurazione della personale della pittrice Alpina Della Martina'
-slug: alpina-della-martina-oltre
+slug: oltre-martedì-9-giugno-2026-alla-sala-comunale-darte-di-trieste-inaugurazione-della-personale-della-pittrice-alpina-della-martina
 coverImage: /media/alpina-La_vita_e_la_morte_2026_-_tecnica_mista_con_acrilico_e_tempera_-_cm.35x50.jpg
 info:
   openingDate: 2026-06-09 19:00
@@ -18,8 +18,6 @@ press:
   pressRelease: |-
     ![Solitudine, 2026 - tecnica mista con acrilico e tempera - cm 35x50](/media/alpina-Solitudine_2026_-_tecnica_mista_con_acrilico_e_tempera_-_cm_35x50.jpg "Solitudine, 2026 - tecnica mista con acrilico e tempera - cm 35x50")
 
-    Solitudine, 2026 - tecnica mista con acrilico e tempera - cm 35x50
-
     **S’inaugura martedì 9 giugno 2026 alle ore 19 alla Sala Comunale d’Arte** (piazza Unità d'Italia 4) **di Trieste, _Oltre_, mostra personale della pittrice Alpina Della Martina, che sarà introdotta sul piano critico dall’arch. Marianna Accerboni. Verrà esposta una selezione di opere realizzate nel 2026 a tecnica mista con l’impiego di acrilico e tempera. Fino al 28 giugno** (orario ogni giorno 10 - 13 e 17 - 20).
 
     _Fantastica Alpina Della Martina -_ scrive Marianna Accerboni _-, capace di deviare dalle chiare solitudini del paesaggio innevato e non, espresso attraverso l’acquarello, verso vedute urbane e naturali, di mare e di terra, dipinte con maestria, con immediatezza e cura del dettaglio, in cui a volte l’artista esprime consapevolmente ed efficacemente una parte per il tutto. Accantonati per il momento i soffusi e morbidi acquerelli, l’artista sa dosare istintivamente lo slancio cromatico e luministico per creare dei contrappunti intrisi di un pathos istintivo, intenso ma nel contempo calibrato, in cui una narrazione espressionista, realizzata a tecnica mista con l’impiego di acrilico e tempera, trasmette un messaggio oggettivo ma allo stesso tempo sottilmente lirico e intimo, che sa coinvolgere il fruitore anche attraverso declinazioni quasi simboliste e dal sapore a tratti misteriosamente esoterico._
@@ -32,22 +30,22 @@ press:
 gallerySection:
   gallery:
     - image: /media/alpina-Blu_2026_-_tecnica_mista_con_acrilico_e_tempera_-_cm_35x50.jpg
-      alt: "Blu 2026 - tecnica mista con acrilico e tempera - cm 35x50"
-      title: "Blu 2026 - tecnica mista con acrilico e tempera - cm 35x50"
+      alt: Blu 2026 - tecnica mista con acrilico e tempera - cm 35x50
+      title: Blu 2026 - tecnica mista con acrilico e tempera - cm 35x50
     - image: /media/alpina-Il_Col_gentile_2026_-_-_tecnica_mista_con_acrilico_e_tempera_-_cm_30x30.jpg
-      alt: "Il col gentile 2026 - - tecnica mista con acrilico e tempera - cm 30x30"
-      title: "Il col gentile 2026 - - tecnica mista con acrilico e tempera - cm 30x30"
+      alt: Il col gentile 2026 - - tecnica mista con acrilico e tempera - cm 30x30
+      title: Il col gentile 2026 - - tecnica mista con acrilico e tempera - cm 30x30
     - image: /media/alpina-La_vita_e_la_morte_2026_-_tecnica_mista_con_acrilico_e_tempera_-_cm.35x50.jpg
-      alt: "La vita e la morte 2026 - tecnica mista con acrilico e tempera - cm.35x50"
-      title: "La vita e la morte 2026 - tecnica mista con acrilico e tempera - cm.35x50"
+      alt: La vita e la morte 2026 - tecnica mista con acrilico e tempera - cm.35x50
+      title: La vita e la morte 2026 - tecnica mista con acrilico e tempera - cm.35x50
     - image: /media/alpina-Solitudine_2026_-_tecnica_mista_con_acrilico_e_tempera_-_cm_35x50.jpg
-      alt: "Solitudine 2026 - tecnica mista con acrilico e tempera - cm 35x50"
-      title: "Solitudine 2026 - tecnica mista con acrilico e tempera - cm 35x50"
+      alt: Solitudine 2026 - tecnica mista con acrilico e tempera - cm 35x50
+      title: Solitudine 2026 - tecnica mista con acrilico e tempera - cm 35x50
     - image: /media/alpina-Trieste_voci_nella_notte_2026_-_tecnica_mista_con_crilico_e_tempera_-_cm_50x35.jpg
-      alt: "Trieste voci nella notte 2026 - tecnica mista con crilico e tempera - cm 50x35"
-      title: "Trieste voci nella notte 2026 - tecnica mista con crilico e tempera - cm 50x35"
+      alt: Trieste voci nella notte 2026 - tecnica mista con crilico e tempera - cm 50x35
+      title: Trieste voci nella notte 2026 - tecnica mista con crilico e tempera - cm 50x35
     - image: /media/alpina-Vento_tra_i_rami_2026_-_tecnica_mista_con_acrlico_e_tempera_-_cm_35x50.jpg
-      alt: "Vento tra i rami 2026 - tecnica mista con acrlico e tempera - cm 35x50"
-      title: "Vento tra i rami 2026 - tecnica mista con acrlico e tempera - cm 35x50"
+      alt: Vento tra i rami 2026 - tecnica mista con acrlico e tempera - cm 35x50
+      title: Vento tra i rami 2026 - tecnica mista con acrlico e tempera - cm 35x50
 draft: false
 ---

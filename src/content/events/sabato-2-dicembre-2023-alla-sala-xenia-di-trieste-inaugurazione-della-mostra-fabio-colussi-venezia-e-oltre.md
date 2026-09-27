@@ -1,5 +1,5 @@
 ---
-title: 'Sabato 2 dicembre 2023 alla Sala Xenia di Trieste inaugurazione della mostra “Fabio Colussi. Venezia e Oltre”'
+title: Sabato 2 dicembre 2023 alla Sala Xenia di Trieste inaugurazione della mostra “Fabio Colussi. Venezia e Oltre”
 slug: sabato-2-dicembre-2023-alla-sala-xenia-di-trieste-inaugurazione-della-mostra-fabio-colussi-venezia-e-oltre
 coverImage: /media/colussi-marina-al-tramonto-2022-olio-su-tela-cm-50x80.jpg
 info:
@@ -7,14 +7,14 @@ info:
   venue: Sala Xenia della Comunità Greco-Orientale di Trieste
   periodStart: 2023-12-02
   periodEnd: 2024-01-15
-  time: 'tutti i giorni 10 – 13 e 17 – 20 / chiuso 25 dicembre 2023 e 1 gennaio 2024'
+  time: tutti i giorni 10 – 13 e 17 – 20 / chiuso 25 dicembre 2023 e 1 gennaio 2024
   curator: Marianna Accerboni
   hasCatalog: true
-  infoContacts: '+39 335 6750946 · +39 347 6965772'
+  infoContacts: +39 335 6750946 · +39 347 6965772
   invitations:
     - /media/colussi-invito.pdf
 subEvents:
-  - 'Domani lunedì 15 gennaio ultimo giorno per visitare alla sala Xenia di Trieste la personale del pittore Fabio Colussi intitolata "Venezia e Oltre"'
+  - - Domani lunedì 15 gennaio ultimo giorno per visitare alla sala Xenia di Trieste la personale del pittore Fabio Colussi intitolata "Venezia e Oltre"
 press:
   pressRelease: |-
     ![Sera a Venezia, 2022 - olio su tela - cm. 40x30](/media/colussi-sera-a-venezia-2022-olio-su-tela-cm-40x30.jpg "Sera a Venezia, 2022 - olio su tela - cm. 40x30")
@@ -23,15 +23,15 @@ press:
 
     **Maestro del contrappunto luministico** - scrive Accerboni -, **Fabio Colussi sa ricostruire con delicata e calibrata vena lirica il fascino di Trieste e di Venezia e del loro mare. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l’artista sa descrivere gli incantati tramonti e le albe che sorgono nel golfo di Trieste e catturare l’ineffabile e magica luce della Serenissima e la pace della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio.**
 
-    *Memore di una vena neoclassica, che appartiene culturalmente a Trieste, sua città d’origine, l’artista prosegue in modo del tutto personale l’antica tradizione di pittori e vedutisti attivi a Venezia nel ‘700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l’interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri artisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell’altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo Ottocento e nel primo Novecento, accanto all’Accademia di Monaco, per i pittori triestini.*
+    _Memore di una vena neoclassica, che appartiene culturalmente a Trieste, sua città d’origine, l’artista prosegue in modo del tutto personale l’antica tradizione di pittori e vedutisti attivi a Venezia nel ‘700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l’interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri artisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell’altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo Ottocento e nel primo Novecento, accanto all’Accademia di Monaco, per i pittori triestini._
 
     ![Venezia, 2023 - olio su tela - cm. 50x100](/media/colussi-venezia-2023-olio-su-tela-cm-50x100.jpg "Venezia, 2023 - olio su tela - cm. 50x100")
 
-    *Altro fulcro fondamentale fu infatti per loro anche la cultura austro-tedesca. E non a caso nelle opere di molti di questi, così come in quella di Colussi, compare spesso una luce azzurro-grigia, che più che un colore rappresenta un’atmosfera, una sorta di evocazione di quello “sturm und drang” (tempesta e impeto), che nel mondo germanico pose le basi del Romanticismo: punti di riferimento che costituiscono delle interessanti chiavi di lettura della pittura dell’artista triestino, in particolare per quanto riguarda la sua interpretazione del tema della veduta marina, che Colussi sa rivisitare attraverso intuizioni, luminosità e ispirazioni che alludono istintivamente anche alla cultura visiva mitteleuropea.*
+    _Altro fulcro fondamentale fu infatti per loro anche la cultura austro-tedesca. E non a caso nelle opere di molti di questi, così come in quella di Colussi, compare spesso una luce azzurro-grigia, che più che un colore rappresenta un’atmosfera, una sorta di evocazione di quello “sturm und drang” (tempesta e impeto), che nel mondo germanico pose le basi del Romanticismo: punti di riferimento che costituiscono delle interessanti chiavi di lettura della pittura dell’artista triestino, in particolare per quanto riguarda la sua interpretazione del tema della veduta marina, che Colussi sa rivisitare attraverso intuizioni, luminosità e ispirazioni che alludono istintivamente anche alla cultura visiva mitteleuropea._
 
-    *Dotato di un talento naturale, che ha saputo coltivare nel tempo con passione e tenacia, Colussi è riuscito a delineare una propria maniera intensa e precisa, ma nel contempo sobria, essenziale e sottilmente poetica. Che fa vivere il paesaggio soprattutto della luce (diurna o notturna che essa sia), ottenuta attraverso ripetute e raffinate velature e un cromatismo deciso ma morbido.*
+    _Dotato di un talento naturale, che ha saputo coltivare nel tempo con passione e tenacia, Colussi è riuscito a delineare una propria maniera intensa e precisa, ma nel contempo sobria, essenziale e sottilmente poetica. Che fa vivere il paesaggio soprattutto della luce (diurna o notturna che essa sia), ottenuta attraverso ripetute e raffinate velature e un cromatismo deciso ma morbido._
 
-    *Equilibrio e sensibilità caratterizzano i suoi dipinti, nei quali il pittore sa legare molto armoniosamente il linguaggio del passato con le esigenze di linearità di quello moderno. Ne escono* - conclude Accerboni -* delle vedute marine che poggiano la loro veridicità sulla storia e sulla luce e in cui le antiche e raffinate architetture si fondono con un cielo e un mare intensamente azzurri, che riflettono e suggeriscono, sempre mediante la luce, un senso di pace e atarassia, che appare anche nei dipinti dedicati alla laguna.*
+    _Equilibrio e sensibilità caratterizzano i suoi dipinti, nei quali il pittore sa legare molto armoniosamente il linguaggio del passato con le esigenze di linearità di quello moderno. Ne escono_ - conclude Accerboni -\* delle vedute marine che poggiano la loro veridicità sulla storia e sulla luce e in cui le antiche e raffinate architetture si fondono con un cielo e un mare intensamente azzurri, che riflettono e suggeriscono, sempre mediante la luce, un senso di pace e atarassia, che appare anche nei dipinti dedicati alla laguna.\*
 
     ![Tramonto in Sacchetta, 2022 - olio su tela - cm. 60x120](/media/colussi-tramonto-in-sacchetta-2022-olio-su-tela-cm-60x120.jpg "Tramonto in Sacchetta, 2022 - olio su tela - cm. 60x120")
 

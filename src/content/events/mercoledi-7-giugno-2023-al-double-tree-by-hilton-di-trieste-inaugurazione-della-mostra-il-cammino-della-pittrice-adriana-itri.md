@@ -17,7 +17,7 @@ subEvents:
   - - Nell’ambito della mostra “Il Cammino” di Adriana Itri, giovedì 15 giugno 2023 al Doubletree by Hilton  di Trieste avrà luogo una visita guidata condotta dall’artista
 press:
   pressRelease: |-
-    ![Il profumo delle rose, 2022 - acrilico e smalto -  cm. 120x120](/media/cammino-il-profumo-delle-rose-2022-acrilico-e-smalto-cm-120x120.jpg "Il profumo delle rose, 2022 - acrilico e smalto -  cm. 120x120") Il profumo delle rose, 2022 - acrilico e smalto - cm. 120x120
+    ![Il profumo delle rose, 2022 - acrilico e smalto -  cm. 120x120](/media/cammino-il-profumo-delle-rose-2022-acrilico-e-smalto-cm-120x120.jpg "Il profumo delle rose, 2022 - acrilico e smalto -  cm. 120x120") 
 
     **MERCOLEDÌ 7 GIUGNO** alle 18.30 al **Double Tree by Hilton Trieste** (Piazza della Repubblica 1) avrà luogo l’**inaugurazione della mostra “IL CAMMINO” della pittrice Adriana Itri**, **che sarà introdotta dalla curatrice Marianna Accerboni**: in mostra **una quindicina di opere inedite, tutte realizzate nell’ultimo anno** ad acrilico, spesso implementato da smalti, pigmenti e calce e illuminato da polvere d’oro.
 

@@ -14,13 +14,11 @@ info:
   invitations:
     - /media/garzya-invito.pdf
 subEvents:
-  - 'Giacomo Garzya. Flash sulla Barcolana: Alle Luci della Sera. Più di mille visitatori in meno di due settimane alla sala comunale d''arte di Trieste per la personale del fotografo e poeta napoletano, che il 9 maggio riceverà a Firenze un importante riconoscimento al prestigioso premio letterario La Ginestra'
-  - 'Giovedì 23 aprile alla sala Bobi Bazlen di palazzo Gopcevich a Trieste presentazione degli ultimi due libri di fotografie del fotografo poeta Giacomo Garzya'
+  - - "Giacomo Garzya. Flash sulla Barcolana: Alle Luci della Sera. Più di mille visitatori in meno di due settimane alla sala comunale d'arte di Trieste per la personale del fotografo e poeta napoletano, che il 9 maggio riceverà a Firenze un importante riconoscimento al prestigioso premio letterario La Ginestra"
+  - - Giovedì 23 aprile alla sala Bobi Bazlen di palazzo Gopcevich a Trieste presentazione degli ultimi due libri di fotografie del fotografo poeta Giacomo Garzya
 press:
   pressRelease: |-
     ![Trieste barcolana 57 (12 ottobre 2025) foto digitale](/media/garzya-Trieste___Barcolana_57_12_ottobre_2025___foto_digitale.jpg "Trieste barcolana 57 (12 ottobre 2025) foto digitale")
-
-    Trieste Barcolana 57 (12 ottobre 2025) foto digitale
 
     **S’inaugura mercoledì 15 aprile 2026 alle ore 19 alla Sala Comunale d’Arte** (piazza Unità d'Italia 4) **di Trieste, la mostra personale del fotografo e poeta napoletano Giacomo Garzya, che sarà introdotta sul piano critico dall’arch. Marianna Accerboni. Nella mostra, intitolata “Flash sulla Barcolana: alle luci della sera”, sarà esposta una selezione di immagini fotografiche realizzate dall’autore con il mezzo digitale nel 2025 e nel 2024. Fino al 4 maggio** (orario ogni giorno 10 - 13 e 17 - 20).
 
@@ -44,58 +42,58 @@ press:
 gallerySection:
   gallery:
     - image: /media/garzya-Trieste___Barcolana_57_12_ottobre_2025___arrivo_dalla_Strada_Napoleonica___foto_digitale.jpg
-      alt: "Trieste barcolana 57 12 ottobre 2025 arrivo dalla strada napoleonica foto digitale"
-      title: "Trieste barcolana 57 12 ottobre 2025 arrivo dalla strada napoleonica foto digitale"
+      alt: Trieste barcolana 57 12 ottobre 2025 arrivo dalla strada napoleonica foto digitale
+      title: Trieste barcolana 57 12 ottobre 2025 arrivo dalla strada napoleonica foto digitale
     - image: /media/garzya-Trieste___Barcolana_57_12_ottobre_2025___foto_digitale.jpg
-      alt: "Trieste barcolana 57 12 ottobre 2025 foto digitale"
-      title: "Trieste barcolana 57 12 ottobre 2025 foto digitale"
+      alt: Trieste barcolana 57 12 ottobre 2025 foto digitale
+      title: Trieste barcolana 57 12 ottobre 2025 foto digitale
     - image: /media/garzya-Trieste___Molo_Audace_1_Barcolana_57_8_ottobre_2025___foto_digitale.jpg
-      alt: "Trieste molo audace 1 barcolana 57 8 ottobre 2025 foto digitale"
-      title: "Trieste molo audace 1 barcolana 57 8 ottobre 2025 foto digitale"
+      alt: Trieste molo audace 1 barcolana 57 8 ottobre 2025 foto digitale
+      title: Trieste molo audace 1 barcolana 57 8 ottobre 2025 foto digitale
     - image: /media/garzya-Trieste___Molo_Audace_2_Barcolana_57_8_ottobre_2025___foto_digitale.jpg
-      alt: "Trieste molo audace 2 barcolana 57 8 ottobre 2025 foto digitale"
-      title: "Trieste molo audace 2 barcolana 57 8 ottobre 2025 foto digitale"
+      alt: Trieste molo audace 2 barcolana 57 8 ottobre 2025 foto digitale
+      title: Trieste molo audace 2 barcolana 57 8 ottobre 2025 foto digitale
     - image: /media/garzya-Trieste___Molo_Audace_3_Barcolana_57_8_ottobre_2025___foto_digitale.jpg
-      alt: "Trieste molo audace 3 barcolana 57 8 ottobre 2025 foto digitale"
-      title: "Trieste molo audace 3 barcolana 57 8 ottobre 2025 foto digitale"
+      alt: Trieste molo audace 3 barcolana 57 8 ottobre 2025 foto digitale
+      title: Trieste molo audace 3 barcolana 57 8 ottobre 2025 foto digitale
     - image: /media/garzya-Trieste___Molo_Audace_4_Barcolana_57_8_ottobre_2025___foto_digitale.jpg
-      alt: "Trieste molo audace 4 barcolana 57 8 ottobre 2025 foto digitale"
-      title: "Trieste molo audace 4 barcolana 57 8 ottobre 2025 foto digitale"
+      alt: Trieste molo audace 4 barcolana 57 8 ottobre 2025 foto digitale
+      title: Trieste molo audace 4 barcolana 57 8 ottobre 2025 foto digitale
     - image: /media/garzya-407/Baia_di_Jeranto___Veduta_sui_Faraglioni_di_Capri___2013.jpg
-      alt: "Baia di Jeranto - Veduta sui Faraglioni di Capri - 2013"
-      title: "Baia di Jeranto - Veduta sui Faraglioni di Capri - 2013"
+      alt: Baia di Jeranto - Veduta sui Faraglioni di Capri - 2013
+      title: Baia di Jeranto - Veduta sui Faraglioni di Capri - 2013
     - image: /media/garzya-407/Canale_di_Procida_2___Gabbiani___2024.jpg
-      alt: "Canale di Procida 2 - Gabbiani - 2024"
-      title: "Canale di Procida 2 - Gabbiani - 2024"
+      alt: Canale di Procida 2 - Gabbiani - 2024
+      title: Canale di Procida 2 - Gabbiani - 2024
     - image: /media/garzya-407/Canale_di_Procida_3___Gabbiani___2024.jpg
-      alt: "Canale di Procida 3 - Gabbiani - 2024"
-      title: "Canale di Procida 3 - Gabbiani - 2024"
+      alt: Canale di Procida 3 - Gabbiani - 2024
+      title: Canale di Procida 3 - Gabbiani - 2024
     - image: /media/garzya-407/Canale_di_Procida___Gabbiani___2024.jpg
-      alt: "Canale di Procida - Gabbiani - 2024"
-      title: "Canale di Procida - Gabbiani - 2024"
+      alt: Canale di Procida - Gabbiani - 2024
+      title: Canale di Procida - Gabbiani - 2024
     - image: /media/garzya-407/Copertina_Echi_di_pietra_22x30_6mm.jpg
-      alt: "Copertina Echi di pietra 22x30 6mm"
-      title: "Copertina Echi di pietra 22x30 6mm"
+      alt: Copertina Echi di pietra 22x30 6mm
+      title: Copertina Echi di pietra 22x30 6mm
     - image: /media/garzya-407/Copertina_Mare._sponde.jpg
-      alt: "Copertina Mare. sponde"
-      title: "Copertina Mare. sponde"
+      alt: Copertina Mare. sponde
+      title: Copertina Mare. sponde
     - image: /media/garzya-407/Giacomo_Garzya.jpg
-      alt: "Giacomo Garzya"
-      title: "Giacomo Garzya"
+      alt: Giacomo Garzya
+      title: Giacomo Garzya
     - image: /media/garzya-407/Napoli___Montagna_di_sale_di_Mimo_Paladino___1996.jpg
-      alt: "Napoli - Montagna di sale di Mimo Paladino - 1996"
-      title: "Napoli - Montagna di sale di Mimo Paladino - 1996"
+      alt: Napoli - Montagna di sale di Mimo Paladino - 1996
+      title: Napoli - Montagna di sale di Mimo Paladino - 1996
     - image: /media/garzya-407/Napoli___Vesuvio_allalba___1997.jpg
-      alt: "Napoli - Vesuvio all'alba - 1997"
-      title: "Napoli - Vesuvio all'alba - 1997"
+      alt: Napoli - Vesuvio all'alba - 1997
+      title: Napoli - Vesuvio all'alba - 1997
     - image: /media/garzya-407/Ritratto_fotografico_di_Garzya.jpg
-      alt: "Ritratto fotografico di Garzya"
-      title: "Ritratto fotografico di Garzya"
+      alt: Ritratto fotografico di Garzya
+      title: Ritratto fotografico di Garzya
     - image: /media/garzya-407/inaugurazione_1.jpg
-      alt: "Inaugurazione 1"
-      title: "Inaugurazione 1"
+      alt: Inaugurazione 1
+      title: Inaugurazione 1
     - image: /media/garzya-407/inaugurazione_2.jpg
-      alt: "Inaugurazione 2"
-      title: "Inaugurazione 2"
+      alt: Inaugurazione 2
+      title: Inaugurazione 2
 draft: false
 ---

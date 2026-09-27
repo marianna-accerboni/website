@@ -5,6 +5,8 @@ coverImage: /media/arte-fvg-img-20240517-101930.jpg
 info: null
 bodySection:
   body: |-
+    ![Copertina di Trieste è un isola di Francesco De Filippo](/media/arte-fvg-copertina-trieste-e-un-isola-francesco-de-filippo.jpg "Copertina di Trieste è un isola di Francesco De Filippo")
+
     Ampio risalto da parte della stampa belga alla mostra “L’arte triestina al femminile nel ‘900 d’avanguardia italiano ed europeo” aperta fino al 2 agosto all’Istituto Italiano di Cultura di Bruxelles: un seguito agli antichi legami tra Trieste e la capitale belga. 
 
     In vista dell’approssimarsi della chiusura della mostra “L’arte triestina al femminile nel ‘900 d’avanguardia italiano ed europeo”, ideata e curata da Marianna Accerboni, un numero crescente di visitatori accede quotidianamente all’Istituto Italiano di Cultura di Bruxelles, dove la rassegna è stata prorogata, dato il largo consenso di pubblico e di critica, fino al 2 agosto. 
@@ -24,8 +26,6 @@ bodySection:
     Inoltre la principessa Carlotta del Belgio (Laeken, 1840 – Meise, 1927), unica figlia di re Leopoldo I, sposò l’arciduca Massimiliano d’Austria, fratello dell’imperatore d’Austria e Ungheria Francesco Giuseppe, e venne ad abitare a Trieste (allora appartenente all’Impero asburgico) prima nel Castelletto e poi nel romantico Castello di Miramare, che il consorte aveva fatto erigere per loro. La coppia vi risiedette per alcuni anni fino alla partenza per il Messico, dove Massimiliano sarebbe divenuto imperatore e poi fucilato. E già prima della sua morte Carlotta era ritornata a vivere al Castello di Miramare o meglio isolata nel Castelletto del parco. 
 
     A tal proposito alcuni anni fa la Fondazione Roi Baudouin organizzò al Museo Belvue della capitale belga con il Circolo di Bruxelles dell’Associazione Giuliani nel Mondo, allora presieduto da Flavio Tossi, e la cura di Rossella Fabiani, un’importante mostra dedicata a Carlotta e ai suoi dipinti (prestati allora dal Museo del Castello) e accompagnata da un libro in italiano, francese e fiammingo in cui venivano ricostruiti “Gli anni della felicità” vissuti dall’arciduchessa e da Massimiliano a Miramare. Teatro nell’estate del 1867, dopo la fucilazione in Messico del marito, di aspre e lunghe trattative per la restituzione della dote di Carlotta e per il suo ritorno in patria, come racconta nel suo diario fino ad allora inedito, Adrien Goffinet, uomo di fiducia di Leopoldo II, re del Belgio e fratello della sfortunata moglie di Massimiliano. Costretta infine dalle circostanze a lasciare Trieste e il suo “nido d’amore costruito invano” (come il poeta Giosuè Carducci chiamò Miramare), Carlotta fece infatti ritorno lo stesso anno a Bruxelles, dove sarebbe rimasta per sempre.
-
-    ![Copertina di Trieste è un isola di Francesco De Filippo](/media/arte-fvg-copertina-trieste-e-un-isola-francesco-de-filippo.jpg "Copertina di Trieste è un isola di Francesco De Filippo")
 
      Copertina di Trieste è un isola di Francesco De Filippo
 

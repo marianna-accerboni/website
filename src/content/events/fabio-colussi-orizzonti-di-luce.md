@@ -1,6 +1,6 @@
 ---
 title: Sabato 13 dicembre 2025 alla sala xenia di Trieste. Inaugurazione della mostra “Fabio Colussi. Orizzonti di luce”
-slug: fabio-colussi-orizzonti-di-luce
+slug: sabato-13-dicembre-2025-alla-sala-xenia-di-trieste-inaugurazione-della-mostra-fabio-colussi-orizzonti-di-luce
 coverImage: /media/Trieste_Piazza_Unita_2025_-_olio_su_tela_-_cm._20x30.jpg
 info:
   openingDate: 2025-12-13 18:30
@@ -14,12 +14,12 @@ info:
   invitations:
     - /media/colussi_natale_2021-invito.pdf
 subEvents:
-  - Visita guidata con l'artista Fabio Colussi
+  - - Visita guidata con l'artista Fabio Colussi
 press:
   pressRelease: |-
-    Video Fabio Colussi. Orizzonti di luce:
+    <iframe src="https://www.youtube.com/embed/5DE48rQqgeo?si=yfEx5_z7TmZsvtG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    <iframe src="https://www.youtube.com/embed/5DE48rQqgeo?si=u95fxciBm06JfPaa" width="450" height="315" allowfullscreen="allowfullscreen"></iframe>
+    Video Fabio Colussi. Orizzonti di luce
 
     Sabato 13 dicembre 2025 alle ore 18.30 si apre alla Sala Xenia della Comunità Greco-Orientale di Trieste (ex Sala Giubileo, Riva 3 Novembre 9) la mostra “Fabio Colussi. Orizzonti di luce”, curata dall’arch. Marianna Accerboni, che introdurrà l’esposizione assieme a Gabriella Pastor. In mostra una quarantina di oli dedicati alle vedute marine di Trieste e di Venezia, per la maggior parte inediti e realizzati negli ultimi due anni prevalentemente su tela (fino al 19 gennaio 2025 / orario 10-13 e 15.30-20/ chiuso 25 dicembre 2024 e 1 gennaio 2025 / info 347 6965772).
 
@@ -30,8 +30,6 @@ press:
     _Altro fulcro fondamentale fu infatti per loro anche la cultura austro-tedesca. E non a caso nelle opere di molti di questi, così come in quella di Colussi, compare spesso una luce azzurro-grigia, che più che un colore rappresenta un’atmosfera, una sorta di evocazione di quello “sturm und drang” (tempesta e impeto), che nel mondo germanico pose le basi del Romanticismo: punti di riferimento che costituiscono delle interessanti chiavi di lettura della pittura dell’artista triestino, in particolare per quanto riguarda la sua interpretazione del tema della veduta marina, che Colussi sa rivisitare attraverso intuizioni, luminosità e ispirazioni che alludono istintivamente anche alla cultura visiva mitteleuropea._
 
     ![Trieste, tramonto sul mare, 2025 - olio su tavola - cm. 44x44](/media/Trieste_tramonto_dorato_2025_-_olio_su_tela_-_cm._38x48.jpg "Trieste, tramonto sul mare, 2025 - olio su tavola - cm. 44x44")
-
-    _Trieste, tramonto sul mare, 2025 - olio su tavola - cm. 44x44_ 
 
     _Dotato di un talento naturale, che ha saputo coltivare nel tempo con passione e tenacia, Colussi è riuscito a delineare una propria maniera intensa e precisa ma nel contempo sobria, essenziale e sottilmente poetica. Che fa vivere il paesaggio soprattutto della luce (diurna o notturna che essa sia), ottenuta attraverso ripetute e raffinate velature e un cromatismo deciso ma morbido._
 

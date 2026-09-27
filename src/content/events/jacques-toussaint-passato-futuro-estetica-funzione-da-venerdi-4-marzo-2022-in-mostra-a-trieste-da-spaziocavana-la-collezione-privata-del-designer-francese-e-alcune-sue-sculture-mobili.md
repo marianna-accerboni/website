@@ -16,8 +16,7 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Aldo Rossi - Il libro La Conica e altre caffettiere e la caffettiera per Alessi in alluminio lucido, 1988](/media/toussaint-aldo-rossi---il-libro-la-conica-e-altre-caffettiere-e-la-caffettiera-per-alessi-in-alluminio-lucido-1988.jpg "Aldo Rossi - Il libro La Conica e altre caffettiere e la caffettiera per Alessi in alluminio lucido, 1988") Aldo Rossi - Il libro La Conica e altre caffettiere e la
-    caffettiera per Alessi in alluminio lucido, 1988
+    ![Aldo Rossi - Il libro La Conica e altre caffettiere e la caffettiera per Alessi in alluminio lucido, 1988](/media/toussaint-aldo-rossi---il-libro-la-conica-e-altre-caffettiere-e-la-caffettiera-per-alessi-in-alluminio-lucido-1988.jpg "Aldo Rossi - Il libro La Conica e altre caffettiere e la caffettiera per Alessi in alluminio lucido, 1988") 
 
     **VENERDÌ 4 MARZO si apre allo SpazioCavana di Trieste** (via S. Sebastiano 1) **la rassegna JACQUES TOUSSAINT. PASSATO / FUTURO / ESTETICA / FUNZIONE.** In mostra **oltre 150 pezzi di design della collezione personale dell’artista-designer francese,** nato a Parigi nel 1947. Formatosi nella sua gioventù parigina a contatto con l’arte informale o, come la chiamavano in Francia, “La seconde École de Paris”, ha iniziato la sua attività artistica in Italia nel 1971 dopo aver studiato all'Ecole Nationale Supérieure des Beaux-Arts della capitale francese.
 
