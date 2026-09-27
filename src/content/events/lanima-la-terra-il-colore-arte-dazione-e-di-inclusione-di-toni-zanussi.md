@@ -1,6 +1,6 @@
 ---
 title: L'anima, la terra, il colore. Arte d'azione e di inclusione di Toni Zanussi
-slug: lanima-la-terra-il-colore-arte-dazione-e-di-inclusione-di-toni-zanussi
+slug: lanima-la-terra-il-colore-toni-zanussi-monaco-2022
 coverImage: /media/anima_terra_colore_2022-citta-invisibile-1-2014-tecnica-mista-su-mdf-cm-45x64.jpg
 info:
   openingDate: 2022-05-20 19:00

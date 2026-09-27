@@ -1,5 +1,6 @@
 ---
 title: Eventi collaterali mostra l'Anima La Terra il Colore
+slug: eventi-collaterali-mostra-l-anima-la-terra-il-colore
 parent: l-anima-la-terra-il-colore-arte-d-azione-e-di-inclusione-di-toni-zanussi
 coverImage: /media/events/anima-terra-colore/Citt_invisibile_2_2014_tecnica_mista_su_MDF_cm_45x90.jpg
 info: null

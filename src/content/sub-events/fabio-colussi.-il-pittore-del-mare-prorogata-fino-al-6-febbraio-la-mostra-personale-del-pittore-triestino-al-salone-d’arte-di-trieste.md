@@ -1,5 +1,6 @@
 ---
 title: 'Fabio Colussi. Il pittore del mare: prorogata fino al 6 febbraio la mostra personale del pittore triestino al salone d’arte di Trieste'
+slug: fabio-colussi-il-pittore-del-mare-prorogata-fino-al-6-febbraio
 parent: "Fabio Colussi. Il pittore del mare: sabato 18 dicembre 2021 apre la mostra personale del pittore triestino al Salone d'Arte di Trieste"
 coverImage: ''
 info: null
