@@ -28,7 +28,7 @@ subEvents:
   - venerdi-2-luglio-alle-18-30-alla-sala-luttazzi-del
 press:
   pressRelease: |-
-    ![1.a. Leonor Fini - Luna - 1982 - olio su tela - cm. 60x73 - coll privata, Trieste - © Marianna Accerboni](/media/events/leonor-fini-memorie-triestine/fini1.jpg)
+    ![1.a. Leonor Fini - Luna - 1982 - olio su tela - cm. 60x73 - coll privata, Trieste - © Marianna Accerboni](/media/events/leonor-fini-memorie-triestine/1_a_Leonor_Fini_Luna_1982_olio_su_tela_cm_60x73_coll_privata_Trieste_Marianna_Accerboni.jpg)
     A 25 anni dalla morte di **Leonor Fini**, pittrice surrealista, ma anche costumista, scenografa, incisore, illustratrice e scrittrice di fama e frequentazioni internazionali, a Trieste, al **Polo museale del Magazzino 26 in Porto Vecchio, la mostra multimediale di pittura, luce, musica e percezione olfattiva, intitolata *Leonor Fini. Memorie triestine*, propone dal 26 giugno al 22 agosto 2021 (inaugurazione sabato 26 giugno, ore 21.00) una rilettura del tutto inedita della personalità e della creatività dell’artista** (Buenos Aires 1907 - Parigi 1996), analizzando il suo intenso e fondamentale rapporto con la città d’origine della madre. Trieste appunto, dove Malvina Braun condusse la figlia all’età di un anno e dove Leonor si formò sul piano artistico culturale e su quello umano e personale fino all’età di circa vent’anni, rimanendovi sempre molto legata. 
     
     **Ideata e curata sul piano critico da Marianna Accerboni**, la rassegna è promossa **dall’Associazione *Foemina *APS** in coorganizzazione con **l’Assessorato alla Cultura del Comune di Trieste**, in collaborazione con la **Biblioteca Statale Isontina di Gorizia**, con l’**Assessorato alla Cultura del Comune di Laveno-Mombello (Varese)** e il **MIDeC - Museo Internazionale del Design Ceramico di Laveno-Mombello** e la Media partnership del quotidiano **Il Piccolo/GEDI Gruppo Editoriale**. Con il sostegno di **Comune di Trieste · Fondazione CRTrieste · Fondazione Kathleen Foreman Casali · Associazione Giuliani nel Mondo · Studio Luce Sime Vignuda Gruppo Comet · Ciaccio Arte Big Broker Insurance Group**, Milano · **Rotary Club Trieste Alto Adriatico · Azienda Agricola Zidarich  (Prepotto, Duino Aurisina, Trieste) · Sponza Tappezzeria Trieste · Andromeda · Ottica Dambrosi Trieste · Flowers Gorizia · Laboratorio cornici Asso di Quadri · Plexi & Star**.
@@ -36,7 +36,7 @@ press:
     Grazie a una ricca sequenza di **testimonianze per la maggior parte inedite e rare **(disegni, dipinti, acquerelli, incisioni di Leonor, porcellane decorate e bozzetti per le stesse,  documenti, libri, *affiche*, lettere, foto, video interviste, abiti appartenuti all’artista e a un approfondimento sul piano letterario e grafologico della sua personalità), l’esposizione rivela, attraverso un totale di circa 250 pezzi, oltre al risvolto più intimo e privato della Fini, **anche un approfondimento sul clima culturale della Trieste del Novecento**. Una città allora avanzatissima e cosmopolita, sospesa tra pensiero mitteleuropeo e suggestioni italiane, dove Leonor visse nella casa materna, sempre in compagnia di un gatto, che sarebbe divenuto poi il *leitmotiv *principe della sua arte. La sua personalità si formò così a stretto contatto con quel colto *milieu* internazionale e d’avanguardia che connotava la città all’epoca, nel cui contesto la giovane pittrice ebbe modo di frequentare assiduamente personaggi triestini suoi coetanei, che sarebbero divenuti famosi a livello mondiale. Tra questi, per esempio, il futuro gallerista **Leo Castelli**, il famoso critico, estetologo e artista **Gillo Dorfles, Bobi Bazlen**, il grande traghettatore della letteratura dell’Est europeo in Italia, e il pittore **Arturo Nathan**, accanto a **Italo Svevo e Umberto Saba**. 
     
     Di particolare interesse, in mostra, sono il **video con le interviste inedite della curatrice sulla Fini** a Dorfles, a Daisy, la sorella di Nathan, e ad altri personaggi che la conobbero, e la sezione dedicata alle **porcellane** e alle terraglie forti decorate con decalcomanie tratte dai disegni di Leonor, finora mai citate nei numerosi cataloghi dedicati all’artista.
-    ![2.a. Leonor Fini - Bozzetto per l_illustrazione di un libro sul mito di Pentesilea (che non fu mai editato) - 1994 - olio su tela - cm 24x18 - coll. privata, Trieste - © Marianna Accerboni](/media/events/leonor-fini-memorie-triestine/fini3.jpg) 2.a. Leonor Fini - Bozzetto per l_illustrazione di un libro sul mito
+    ![2.a. Leonor Fini - Bozzetto per l_illustrazione di un libro sul mito di Pentesilea (che non fu mai editato) - 1994 - olio su tela - cm 24x18 - coll. privata, Trieste - © Marianna Accerboni](/media/events/leonor-fini-memorie-triestine/2_a_Leonor_Fini_Bozzetto_per_l_illustrazione_di_un_libro_sul_mito_di_Pentesilea_che_non_fu_mai_editato_1994_olio_su_tela_cm_24x18_coll_privata_Trieste_Marianna_Accerboni.jpg) 2.a. Leonor Fini - Bozzetto per l_illustrazione di un libro sul mito
      di Pentesilea (che non fu mai editato) - 1994 - olio su tela
     cm 24x18 - coll. privata, Trieste - © Marianna Accerboni
     Dopo Trieste, la rassegna - già presentata con successo all’Istituto Italiano di Cultura di Bruxelles, dove la Fini è molto nota, essendo stata legata ai Surrealisti francesi, il cui linguaggio vanta in Belgio protagonisti internazionali quali Magritte e Delvaux - sarà allestita dal 6 ottobre al 6 novembre all’Istituto Italiano di Cultura di Parigi. Città in cui la pittrice, l’*Italienne de Paris*, come veniva chiamata in Francia, si era trasferita appena ventitreenne, guadagnando rapidamente largo consenso e rimanendovi fino alla morte. Come nelle altre sedi, **la vernice sarà sottolineata da una performance multimediale di luce e musica e, a Trieste, anche olfattiva**, ispirata alla Fini e creata *site speciﬁc* da Accerboni. Sarà realizzata una macroproiezione luminosa, mentre verranno eseguite da **Sara Zoto** alla viola, alcune composizioni surrealiste inedite create dal musicista italo-brasiliano **Paolo Troni**, ispirate a Leonor e concepite espressamente per la rassegna, che saranno quindi diffuse quale colonna sonora all’interno della sede espositiva durante tutta la durata della mostra. In occasione della rassegna è stato inoltre **creato un profumo in edizione limitata dedicato all’artista e ispirato alla sua complessa personalità**. Intitolata ***Lolò***, il soprannome con cui i famigliari e gli amici chiamavano a Trieste la pittrice nel suo periodo giovanile, la fragranza, impreziosita da *glitter* in riferimento alla luminosità della sua pittura, verrà diffusa in mostra durante tutto il periodo espositivo, rappresentandone la “colonna olfattiva” e per tutte le signore ci sarà un piccolo *cadeau* con il profumo. Ispirato al suo "doppio maschile", è stato poi creato anche ***Kot***, un profumo che interpreta quella traccia sottilmente androgina che s'intuisce nella personalità della Fini. *Kot*, che in polacco significa gatto, era il soprannome con cui l'artista chiamava Costantin Jelenski, scrittore e giornalista polacco incontrato a Roma nel '52, che, con Stanislao Lepri, fu una presenza fondamentale e costante nella sua vita fino alla morte di lui, avvenuta nel 1987.
@@ -171,29 +171,29 @@ gallerySection:
     - image: /media/events/leonor-fini-memorie-triestine/1_a_Leonor_Fini_Luna_1982_olio_su_tela_cm_60x73_coll_privata_Trieste_Marianna_Accerboni.jpg
       alt: "1.a. Leonor Fini - Luna - 1982 - olio su tela - cm. 60x73 - coll privata, Trieste - © Marianna Accerboni"
       title: "1.a. Leonor Fini - Luna - 1982 - olio su tela - cm. 60x73 - coll privata, Trieste - © Marianna Accerboni"
-    - image: /media/events/leonor-fini-memorie-triestine/1_b_Leonor_Fini_Luna_1982_olio_su_tela_cm_60x73_coll_privata_Trieste_Marianna_Accerboni.jpg
-      alt: "1.b. Leonor Fini - Luna - 1982 - olio su tela - cm. 60x73 - coll privata, Trieste - © Marianna Accerboni"
-      title: "1.b. Leonor Fini - Luna - 1982 - olio su tela - cm. 60x73 - coll privata, Trieste - © Marianna Accerboni"
-    - image: /media/events/leonor-fini-memorie-triestine/2_Leonor_Fini_Il_guardiano_del_uovo_nero_1955_olio_su_tela_cm_46x55_coll_privata_Trieste_Marianna_Accerboni.jpg
-      alt: "2. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-      title: "2. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-    - image: /media/events/leonor-fini-memorie-triestine/3_Leonor_Fini_Il_guardiano_del_uovo_nero_1955_olio_su_tela_cm_46x55_coll_privata_Trieste_Marianna_Accerboni.jpg
-      alt: "3. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-      title: "3. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-    - image: /media/events/leonor-fini-memorie-triestine/4_Leonor_Fini_Il_guardiano_del_uovo_nero_1955_olio_su_tela_cm_46x55_coll_privata_Trieste_Marianna_Accerboni.jpg
-      alt: "4. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-      title: "4. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-    - image: /media/events/leonor-fini-memorie-triestine/5_Leonor_Fini_Il_guardiano_del_uovo_nero_1955_olio_su_tela_cm_46x55_coll_privata_Trieste_Marianna_Accerboni.jpg
-      alt: "5. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-      title: "5. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-    - image: /media/events/leonor-fini-memorie-triestine/6_Leonor_Fini_Il_guardiano_del_uovo_nero_1955_olio_su_tela_cm_46x55_coll_privata_Trieste_Marianna_Accerboni.jpg
-      alt: "6. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-      title: "6. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-    - image: /media/events/leonor-fini-memorie-triestine/7_Leonor_Fini_Il_guardiano_del_uovo_nero_1955_olio_su_tela_cm_46x55_coll_privata_Trieste_Marianna_Accerboni.jpg
-      alt: "7. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-      title: "7. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-    - image: /media/events/leonor-fini-memorie-triestine/8_Leonor_Fini_Il_guardiano_del_uovo_nero_1955_olio_su_tela_cm_46x55_coll_privata_Trieste_Marianna_Accerboni.jpg
-      alt: "8. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
-      title: "8. Leonor Fini - Il guardiano del uovo nero - 1955 - olio su tela - cm. 46x55 - coll privata, Trieste - © Marianna Accerboni"
+    - image: /media/events/leonor-fini-memorie-triestine/1_d_Leonor_Fini_Parigi_anni_50_coll_privata_Trieste_Marianna_Accerboni.jpg
+      alt: "1.d. Leonor Fini - Parigi anni '50 - coll. privata, Trieste - © Marianna Accerboni"
+      title: "1.d. Leonor Fini - Parigi anni '50 - coll. privata, Trieste - © Marianna Accerboni"
+    - image: /media/events/leonor-fini-memorie-triestine/1_c_Elegante_cappa_da_sera_in_breitschwanz_con_bordo_in_faina_coll_privata_Trieste_Marianna_Accerboni.jpg
+      alt: "1.c. Elegante cappa da sera in breitschwanz con bordo in faina - coll. privata, Trieste - © Marianna Accerboni"
+      title: "1.c. Elegante cappa da sera in breitschwanz con bordo in faina - coll. privata, Trieste - © Marianna Accerboni"
+    - image: /media/events/leonor-fini-memorie-triestine/2_a_Leonor_Fini_Bozzetto_per_l_illustrazione_di_un_libro_sul_mito_di_Pentesilea_che_non_fu_mai_editato_1994_olio_su_tela_cm_24x18_coll_privata_Trieste_Marianna_Accerboni.jpg
+      alt: "2.a. Leonor Fini - Bozzetto per l'illustrazione di un libro sul mito di Pentesilea (che non fu mai editato) - 1994 - olio su tela - cm 24x18 - coll. privata, Trieste - © Marianna Accerboni"
+      title: "2.a. Leonor Fini - Bozzetto per l'illustrazione di un libro sul mito di Pentesilea (che non fu mai editato) - 1994 - olio su tela - cm 24x18 - coll. privata, Trieste - © Marianna Accerboni"
+    - image: /media/events/leonor-fini-memorie-triestine/9_a_Leonor_Fini_Patisseries_1929_circa_olio_su_tavola_cm_25_8x34_8_coll_privata_Marianna_Accerboni.jpg
+      alt: "9.a. Leonor Fini - Pâtisseries - 1929 circa - olio su tavola - cm. 25.8x34.8 - coll. privata - © Marianna Accerboni"
+      title: "9.a. Leonor Fini - Pâtisseries - 1929 circa - olio su tavola - cm. 25.8x34.8 - coll. privata - © Marianna Accerboni"
+    - image: /media/events/leonor-fini-memorie-triestine/Porcellane_1.jpg
+      alt: "Porcellane"
+      title: "Porcellane"
+    - image: /media/events/leonor-fini-memorie-triestine/Porcellane_2.jpg
+      alt: "Porcellane"
+      title: "Porcellane"
+    - image: /media/events/leonor-fini-memorie-triestine/Porcellane_3.jpg
+      alt: "Porcellane"
+      title: "Porcellane"
+    - image: /media/events/leonor-fini-memorie-triestine/Porcellane_4.jpg
+      alt: "Porcellane"
+      title: "Porcellane"
 draft: false
 ---
