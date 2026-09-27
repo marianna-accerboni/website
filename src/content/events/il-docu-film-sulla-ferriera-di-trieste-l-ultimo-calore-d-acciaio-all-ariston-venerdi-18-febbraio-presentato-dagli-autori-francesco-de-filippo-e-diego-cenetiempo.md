@@ -1,12 +1,16 @@
 ---
-title: "Il docu-film sulla Ferriera di Trieste \"L'ultimo calore d'acciaio\" all'Ariston venerdì 18 febbraio presentato dagli autori Francesco De Filippo e Diego Cenetiempo"
+title: Il docu-film sulla Ferriera di Trieste "L'ultimo calore d'acciaio" all'Ariston venerdì 18 febbraio presentato dagli autori Francesco De Filippo e Diego Cenetiempo
 slug: il-docu-film-sulla-ferriera-di-trieste-l-ultimo-calore-d-acciaio-all-ariston-venerdi-18-febbraio-presentato-dagli-autori-francesco-de-filippo-e-diego-cenetiempo
 coverImage: /media/l-ultimo-calore-d-acciaio.jpg
 info:
-  openingDate: 2022-02-18
+  openingDate: 2022-02-18 18:00
   venue: Cinema Ariston
+  periodStart: ''
+  periodEnd: ''
   time: venerdì 18 febbraio alle ore 18
-  infoContacts: "La Cappella Underground · Piazza Duca degli Abruzzi n.3 - 34132 Trieste · tel 040 3220551 · info@lacappellaunderground.org · www.lacappellaunderground.org"
+  curator: Marianna Accerboni
+  hasCatalog: false
+  infoContacts: La Cappella Underground · Piazza Duca degli Abruzzi n.3 - 34132 Trieste · tel 040 3220551 · info@lacappellaunderground.org · www.lacappellaunderground.org
   invitations:
     - /media/l-ultimo-calore-d-acciaio-poster.pdf
 subEvents: []
@@ -25,14 +29,15 @@ press:
     Sito ufficiale: [www.lacappellaunderground.org/ultimo-calore-acciaio/](http://www.lacappellaunderground.org/ultimo-calore-acciaio/)
 
     Informazioni sul sito [www.aristoncinematrieste.it](http://www.aristoncinematrieste.it) e sulla pagina [facebook cinema.ariston.trieste](http://facebook.com/cinema.ariston.trieste)
-gallery:
-  - image: /media/l-ultimo-calore-d-acciaio-poster.jpg
-    caption: "L'ultimo calore d'acciaio Poster"
-  - image: /media/l-ultimo-calore-d-acciaio.jpg
-    caption: "L'ultimo calore d'acciaio"
-  - image: /media/l-ultimo-calore-d-acciaio-05.jpg
-    caption: "L'ultimo calore d'acciaio"
-  - image: /media/l-ultimo-calore-d-acciaio-main.jpg
-    caption: "L'ultimo calore d'acciaio"
+gallerySection: null
 draft: false
+gallery:
+  - caption: L'ultimo calore d'acciaio Poster
+    image: /media/l-ultimo-calore-d-acciaio-poster.jpg
+  - caption: L'ultimo calore d'acciaio
+    image: /media/l-ultimo-calore-d-acciaio.jpg
+  - caption: L'ultimo calore d'acciaio
+    image: /media/l-ultimo-calore-d-acciaio-05.jpg
+  - caption: L'ultimo calore d'acciaio
+    image: /media/l-ultimo-calore-d-acciaio-main.jpg
 ---

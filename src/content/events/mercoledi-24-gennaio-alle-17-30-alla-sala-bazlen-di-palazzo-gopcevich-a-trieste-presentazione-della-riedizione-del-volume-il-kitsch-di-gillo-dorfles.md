@@ -14,7 +14,7 @@ info:
     - /media/kitsch-invito.pdf
 press:
   pressRelease: |-
-    ![Dorfles davanti a un suo quadro negli anni 2000](/media/kitsch-dorfles-davanti-a-un-suo-quadro-negli-anni-2000.jpg "Dorfles davanti a un suo quadro negli anni 2000")
+    ![Dorfles davanti a un suo quadro negli anni 2000](/media/estetica-dorfles-davanti-a-un-suo-quadro-negli-anni-2000.jpg "Dorfles davanti a un suo quadro negli anni 2000")
 
     **Mercoledì 24 gennaio alle ore 17.30 alla Sala Bobi Bazlen di Palazzo Gopcevich a Trieste** avrà luogo la **presentazione della riedizione del volume *Il Kitsch. Antologia del cattivo gusto* (Bompiani, € 48,00, pgg. 318) di Gillo Dorfles**, uno dei volumi chiave, fra i più noti, dell’esegesi compiuta da Gillo Dorfles, il grande intellettuale, filosofo dell’estetica, critico d’arte e pittore, nato a Trieste il 12 aprile 1910 e mancato a Milano il 2 marzo di 5 anni fa. Interverranno **Marianna Accerboni**, architetto e critico d’arte, **Gianni Contessi**, professore ordinario di Storia dell’Arte Contemporanea all’Università di Torino, e il giornalista e operatore culturale **Roberto Curci**. L’incontro, introdotto da **Giorgetta Dorfles**, nipote di Gillo, è promosso, in collaborazione con il Comune di Trieste, dall’Associazione Culturale di Milano che porta il nome del grande intellettuale e che ha il fine di conservarne la memoria e diffonderne l’opera. 
 

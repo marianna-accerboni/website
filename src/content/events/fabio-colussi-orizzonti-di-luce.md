@@ -12,7 +12,7 @@ info:
   hasCatalog: true
   infoContacts: 335 6750946 - 347 6965772
   invitations:
-    - /media/invito.pdf
+    - /media/colussi_natale_2021-invito.pdf
 subEvents:
   - Visita guidata con l'artista Fabio Colussi
 press:

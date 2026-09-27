@@ -46,7 +46,13 @@ const events = defineCollection({
     info: infoSection.nullable().optional(),
     press: pressSection.optional(),
     gallerySection: gallerySection.optional(),
-    subEvents: z.array(z.string()).default([]).optional(),
+    subEvents: z
+      .preprocess(
+        (v) => (Array.isArray(v) ? v.flat(Infinity).filter((x) => typeof x === 'string') : v),
+        z.array(z.string())
+      )
+      .default([])
+      .optional(),
     draft: z.boolean().default(false)
   })
 });

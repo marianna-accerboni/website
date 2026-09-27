@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		  <meta name="keywords" content="Arte, Inaugurazione di eventi a Trieste, Marianna Accerboni, Mostra d'arte, Presentazione libri, Trieste, Architettura, Il Piccolo, Giornalismo, Eventi di luce, Friuli Venezia Giulia, Design, Vernissage" />
+<meta name="description" content="Marianna Accerboni, triestina, è architetto, scenografo e critico d'arte e d'architettura. Organizza e presenta importanti mostre di carattere artistico letterario nella città di Trieste." />
+<meta name="revisit-after" content="7 days" />
+<meta name="robots" content="all" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="it_IT" /><title>Marianna Accerboni</title><link rel="stylesheet" href="/styles/jquery-ui-1.8.2.custom.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/styles/lightbox.css" type="text/css" media="screen" />
+
+<script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/scripts/jquery.lightbox.js"></script>
+
+<link href="/styles/frontend.css" media="screen" rel="stylesheet" type="text/css" />	    <!--[if IE 6]>
+	        <link rel="stylesheet" media="screen" href="/styles/ie6.css" />
+	        <script src="/scripts/DD_belatedPNG.js"></script>
+	        <script type="text/javascript">
+	          DD_belatedPNG.fix('#logo_index');
+	        </script>
+	    <![endif]-->
+	</head>
+	<body>
+
+		    <div id="container" class="style="background-color:#000000;"">
+					        <div id="header">
+		            <ul id="navigation">
+		                <li><a href="/home"     class="menu-on">Home</a></li>
+		                <li><a href="/about"    class="menu-on">Marianna Accerboni</a></li>
+		                <li><a href="/events"   class="menu-on">Eventi</a></li>
+		                <li><a href="/articles" class="menu-on">Articoli</a></li>
+		                <li><a href="/operas"   class="menu-on">Opere</a></li>
+		                <li><a href="/contacts" class="menu-on">Contatti</a></li>
+		            </ul>
+		            <div id="searchbar">
+		            	<form action="/events/1/" method="get">
+		            		<input type="text" placeholder="Cerca evento ..." name="search" id="search">
+		            		<input type="submit" value="" name="" id="submit">
+		            	</form>
+		            </div>
+		        </div>
+					        <div id="content">
+		            
+<div class="tit"><h1>An error occurred</h1></div>
+<p><span class="enfasi" style="color: Wheat;">Application error</span></p><br /><br />
+
+<div style="display: none;">
+    <p><span class="enfasi">Exception information:</span></p>
+    <p><b>Message:</b> File "/Eventi/anima_terra_colore/gallery/La_casa_della_farfalla_4_2019_-_tecnica_mista_su_MDF_-_cm_90x120.jpg" is missing</p><br /><br />
+
+    <p><span class="enfasi">Stack trace:</span></p>
+    <pre style="overflow-x: scroll; width: 650px;padding: 5px 5px 15px 5px;border: 1px solid;">#0 /home/jq79j9j2fy7q/public_html/application/modules/file/controllers/IndexController.php(25): File_Model_File->__construct('/Eventi/anima_t...', '/home/jq79j9j2f...')
+#1 /home/jq79j9j2fy7q/public_html/library/Zend/Controller/Action.php(513): File_IndexController->imageAction()
+#2 /home/jq79j9j2fy7q/public_html/library/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('imageAction')
+#3 /home/jq79j9j2fy7q/public_html/library/Zend/Controller/Front.php(954): Zend_Controller_Dispatcher_Standard->dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#4 /home/jq79j9j2fy7q/public_html/library/Zend/Application/Bootstrap/Bootstrap.php(97): Zend_Controller_Front->dispatch()
+#5 /home/jq79j9j2fy7q/public_html/library/Zend/Application.php(366): Zend_Application_Bootstrap_Bootstrap->run()
+#6 /home/jq79j9j2fy7q/public_html/index.php(33): Zend_Application->run()
+#7 {main}</pre><br /><br />
+
+    <p><span class="enfasi">Request Parameters:</span></p>
+    <pre style="overflow-x: scroll; width: 650px;padding: 5px 5px 15px 5px;border: 1px solid;">array (
+  'w' => '100',
+  'h' => '75',
+  'path' => '/Eventi/anima_terra_colore/gallery/La_casa_della_farfalla_4_2019_-_tecnica_mista_su_MDF_-_cm_90x120.jpg',
+  'module' => 'file',
+  'controller' => 'index',
+  'action' => 'image',
+)</pre>
+</div>
+
+		        </div> <!-- fine content -->
+		        <div id="footer">
+		            <div>Marianna Accerboni &copy; Copyright 2011</div>
+		        </div>
+		    </div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

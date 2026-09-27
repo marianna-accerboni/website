@@ -166,7 +166,7 @@ const captionFromFile = (path: string) =>
             {subEventsWithBody.map((s) => (
               <li>
                 {s.data.coverImage && (
-                  <img src={s.data.coverImage} alt={s.data.title} loading="lazy" />
+                  <img src={href(s.data.coverImage)} alt={s.data.title} loading="lazy" />
                 )}
                 <p class="news-title">
                   {s.data.info?.date && <span>{formatDate(s.data.info.date)} — </span>}
