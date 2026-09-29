@@ -1,6 +1,6 @@
 ---
 title: 'Mostra Open. Confini di luce per un mondo di pace: da domenica 8 giugno al via al Magazzino 26 del Porto Vecchio di Trieste i laboratori di pittura, disegno e collage per adulti e bambini. Istituiti un concorso e un premio ispirati al tema dei confini liquidi e della pace'
-slug: mostra-open-confini-di-luce-per-un-mondo-di-pace-da-domenica-8-giugno-al-via-al-magazzino-26-del-porto-vecchio-di-trieste-i-laboratori-di-pittura-disegno-e-collage-per-adulti-e-bambini-istituiti-un-concorso-e-un-premio-ispirati-al-tema-dei-confini-liquidi-e-della-pace
+slug: mostra-open-confini-di-luce-per-un-mondo-di-pace-da-domenica-8-giugno-al-via-al-magazzino-26-del-porto-vecchio-di-trieste-i-laboratori-di-pittura-disegno-e-collage-per-adulti-e-bambini
 coverImage: /media/Paolo_Cervi_Kervischer_-_Iridio_2016_-_acrilico_su_tela_-_cm._300x300.jpg
 info:
   openingDate: 2025-06-08 12:00
