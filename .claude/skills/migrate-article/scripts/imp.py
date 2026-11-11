@@ -1,6 +1,6 @@
 import re,sys,json,datetime,os,html,subprocess,urllib.request
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
-from mdconv import convert,cap,P,emit,safe,ORIG
+from mdconv import convert,cap,P,emit,safe,ORIG,SUB,reg
 HERE=os.path.dirname(os.path.abspath(__file__))
 ROOT=os.path.abspath(os.path.join(HERE,'..','..','..','..'))
 WORK=os.environ.get('MIGRATE_WORK','/tmp/migrate')  # where a<ID>.html files are saved
@@ -18,9 +18,10 @@ def load(i):
     anchors=re.findall(r'<a[^>]*lightbox-gallery-body[^>]*>',t,re.S)
     gal=[]
     for a in anchors:
-        h=safe(html.unescape(re.search(r'href="([^"]+)"',a).group(1)).strip().split('/')[-1])
+        _raw=html.unescape(re.search(r'href="([^"]+)"',a).group(1)).strip()
+        h=reg(_raw.split('/gallery/',1)[1]) if '/gallery/' in _raw else safe(_raw.split('/')[-1])
         ti=re.search(r'title="([^"]*)"',a); gal.append((h,clean_title(ti.group(1)) if ti and ti.group(1).strip() else cap(h)))
-    return dict(t=t,body=body,hdr=safe(html.unescape(hdr).strip().split('/')[-1]),folder=folder,gal=gal)
+    return dict(t=t,body=body,hdr=(reg(html.unescape(hdr).strip().split('/gallery/',1)[1]) if '/gallery/' in hdr else safe(html.unescape(hdr).strip().split('/')[-1])),folder=folder,gal=gal)
 def split_body(body):
     body=re.sub(r'<table.*?</table>','',body,count=1,flags=re.S)
     _m=re.search(r'COMUNICATO STAMPA:?</h3>',body); k=_m.start()
@@ -34,7 +35,7 @@ def download(art,names,dest,kind='gallery'):
         p=f'{ROOT}/{dest}/{n}'
         if os.path.exists(p) and os.path.getsize(p)>0: continue
         import urllib.parse
-        u=f'{BASE}/file/get/Eventi/{art["folder"]}/{kind}/'+urllib.parse.quote(ORIG.get(n,n))
+        u=f'{BASE}/file/get/Eventi/{art["folder"]}/{kind}/'+(SUB.get(n,'') if kind=='gallery' else '')+urllib.parse.quote(ORIG.get(n,n))
         r=subprocess.run(['curl','-s','-f','-L','-o',p,u]); 
         if r.returncode: print('DOWNLOAD FAIL',u); 
 def sub_md(chunk,media,captions=None,title=None,drop_first=False):

@@ -1,7 +1,7 @@
 ---
 title: "Gorizia inaugurazione - lunedì 5 dicembre 2016 alla Biblioteca Statale Isontina inaugurazione mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra. I giovani d'Europa cent'anni dopo"
 slug: dominioni-gorizia-inaugurazione-2016
-createdAt: 2026-11-11T13:17:00
+createdAt: 2026-11-11T13:25:00
 coverImage: /media/events/dominioni-gorizia-inaugurazione-2016/paolocaccia.jpg
 info:
   openingDate: 2016-12-05 18:00
@@ -18,6 +18,7 @@ subEvents:
   - - "Invito alla mostra"
 press:
   pressRelease: |-
+    ![Giacomo Zorba, Liceo artistico Max Fabiani, Gorizia (Italia) - Fault, 2015 - vernice spray su tela - cm. 100x80](/media/events/dominioni-gorizia-inaugurazione-2016/Giacomo_Zorba_Liceo_artistico_Max_Fabiani_Gorizia_Italia_-_Fault_2015_-_vernice_spray_su_tela_-_cm._100x80.JPG "Giacomo Zorba, Liceo artistico Max Fabiani, Gorizia (Italia) - Fault, 2015 - vernice spray su tela - cm. 100x80")
 
     **DAL 5 DICEMBRE 2016 ALLA BIBLIOTECA STATALE ISONTINA DI GORIZIA LA MOSTRA _PAOLO CACCIA DOMINIONI. UN ARTISTA SUL FRONTE DI GUERRA. I GIOVANI ARTISTI D'EUROPA CENT'ANNI DOPO_: NELL'ULTIMA TAPPA DEL CICLO ESPOSITIVO DEDICATO AL GRANDE ARCHITETTO-ARTISTA OPERE DI GIOVANI PITTORI E ILLUSTRATORI BELGI, FRANCESI, DI GORIZIA, NOVA GORICA, TRIESTE E KLAGENFURT SUL TEMA DELLA GRANDE GUERRA. IN MOSTRA ANCHE UN'INSTALLAZIONE DI LUCE, PAROLE E MUSICA DEDICATA A REDIPUGLIA**
 
@@ -33,6 +34,8 @@ press:
 
     **La mostra rappresenta la tappa conclusiva del ciclo espositivo ideato e curato dall'arch. Marianna Accerboni - con l'approfondimento storico dell'amm. Ferdinando Sanfelice di Monteforte**, docente di Strategia all'Università di Trieste Polo di Gorizia, già rappresentante dell'Italia presso i Comitati Militari NATO e EU **- e dedicato al grande architetto-artista-scrittore internazionale (Nerviano, Milano 1896 - Roma 1992)**, attivo negli ultimi trent'anni di vita nel Goriziano.
 
+    ![Matija Kos, Liceo Nova Gorica (Slovenia) - Atmosfera inquinata, 2015 - collage e acrilico - cm. 70x50](/media/events/dominioni-gorizia-inaugurazione-2016/Matija_Kos_Liceo_Nova_Gorica_Slovenia_-_Atmosfera_inquinata_2015_-_collage_e_acrilico_-_cm._70x50.JPG "Matija Kos, Liceo Nova Gorica (Slovenia) - Atmosfera inquinata, 2015 - collage e acrilico - cm. 70x50")
+
     **Il ciclo espositivo su Dominioni ha avuto luogo,** con molto successo e ampia divulgazione sulla stampa italiana ed estera, **tra il 2013 e il 2016 in quattordici sedi istituzionali a Gorizia, Trieste e Bruxelles. Ora il ciclo si conclude con la novità, accanto alle opere degli artisti goriziani, di Nova Gorica, triestini e austriaci, dell'esposizione di una cinquantina di opere - fumetti, disegni, dipinti e computergrafiche - realizzate proprio in funzione di questa esposizione da una ventina di giovanissimi artisti dell' Atelier di fumetto e dell'Atelier di arti plastiche del Comune di Bruxelles - Woluwe-St-Lambert e della città di Meudon (Parigi), tutti di età tra i 10 e i 16 anni. Per l'occasione è intervenuta a Trieste una delegazione del Comune di Bruxelles - Woluwe-St-Lambert, guidata dal Sindaco Olivier Maingain.**
 
     **In mostra anche un'installazione di luce, parole e musica dedicata a Redipuglia.**
@@ -47,6 +50,8 @@ press:
 
     **Il corpus di opere di giovani artisti goriziani, di Nova Gorica (Slovenia), triestini e austriaci sul tema della prima guerra mondiale,** è in parte costituito da lavori selezionati nell'ambito dell'ultima Biennale Internazionale d'arte **Dario Mulitsch** e **esposti in precedenza da Marianna Accerboni a Trieste e a Bruxelles a corredo della mostra realizzata su Paolo Caccia Dominioni**, che è dedicata in particolare ai giovani come fruitori e come attori per l'alto contenuto morale rappresentato da un grande uomo, architetto-artista e soldato come Dominioni: disinteressato alla fama, al potere e al denaro, coraggioso e ligio al dovere senza fanatismi.
 
+    ![Luka Carlevaris, Liceo Nova Gorica (Slovenia) - Com'è crudele la natura umana - performance fotografica (tavola 4 di 5)](/media/events/dominioni-gorizia-inaugurazione-2016/Luka_Carlevaris_Liceo_Nova_Gorica_Slovenia_-_Come_crudele_la_natura_umana_-_performance_fotografica_tavola_4_di_5_.jpg "Luka Carlevaris, Liceo Nova Gorica (Slovenia) - Com'è crudele la natura umana - performance fotografica (tavola 4 di 5)")
+
     Nell'ambito del ciclo di mostre su Dominioni hanno esposto i giovani artisti: Giacomo Zorba, Carlo Nargiso, Anna Olivotto, Rossella D'Andrea, Audrey Di Fede, Margherita Avvisati, Ilaria Humar, Alessandra Tirel, Samuele Snidero, Alessia Zilli (**Liceo artistico _Max Fabiani_** di **Gorizia**); Luka Carlevaris, Matija Kos, Tami Kenda, Maja Koder (**Liceo Gimnazija** di **Nova Gorica, Slovenia);** Chiara Bianco, Noa Salonicchio, Matteo Urbano, Ivan Santini **(Liceo Artistico _Nordio_** di **Trieste);** Anna Ljubas, Florian Napetschnig, Nicole Quantschnig, Laura Legat (**Liceo artistico BRG Viktring** di **Klagenfurt**, **Austria**) e in modo indipendente Fabio Benatti, Gastone Bianchi, Delphi Morpurgo. Una sintesi di questi artisti sarà presente da lunedì 5 alla Biblioteca Isontina di Gorizia.
 
     **IN MOSTRA UN'INSTALLAZIONE DI LUCE, PAROLE E MUSICA DEDICATA A REDIPUGLIA**
@@ -57,6 +62,8 @@ press:
 
     **A Gorizia, così come a Trieste dove la mostra è stata esposta dal 4 al 30 novembre 2016, la novità è rappresentata dalle opere di 11 artisti di Bruxelles - Woluwe-St-Lambert presenti con 26 lavori, tra fumetti, realizzati in seno a un Atelier appositamente dedicato a tale arte e disegnati da Adriano, Leo, Bélen Climent Pérez, Christos e da un autore anonimo, e dipinti ad acrilico, talvolta mixato a pennarello Posca, realizzati nell'ambito dell'Atelier di arti plastiche da Vassilina Gorlenko, Olivia Dieudonne, Aleksandra Krynicka, Vaiva Mikenaite, Nada Saoudi Mans, Louise Vitolo. Sette sono invece gli artisti provenienti da Meudon, presenti con 22 lavori, tra fumetti e dipinti realizzati a computergrafica: Victor Abbe, Adel Bonner, Lily Bonner, Mateo Belchior, Guillame Durand, Salomé Danzer, Alice Dumenc - Peltekian.**
 
+    ![Samuele Snidero, Liceo artistico Max Fabiani, Gorizia (Italia) - Agonia, 2015 - tecnica mista](/media/events/dominioni-gorizia-inaugurazione-2016/Samuele_Snidero_Liceo_artistico_Max_Fabiani_Gorizia_Italia_-_Agonia_2015_-_tecnica_mista.jpg "Samuele Snidero, Liceo artistico Max Fabiani, Gorizia (Italia) - Agonia, 2015 - tecnica mista")
+
     **Le opere sono create da giovani artisti belgi di Woluwe-Saint-Lambert, uno dei comuni più eleganti e colti tra le diciannove municipalità che compongono la regione di Bruxelles-Capitale, e da giovani studenti francesi della città gemellata di Meudon (Parigi).**
 
     **I lavori** - fumetti o _band dessinée_, genere molto amato dagli artisti belgi, accanto a disegni e dipinti, alcuni dei quali realizzati a computer - **sono stati eseguiti nell'ambito di _atelier de band dessinée_ (laboratori di fumetto) e d'illustrazione, di arti plastiche e di pittura organizzati dal Comune di Woluwe e da quello gemellato di Meudon in Francia**. E va rammentato che, se in Italia ricordiamo, quale epicentro della prima guerra mondiale a noi prossimo, il fronte dell'Isonzo, in cui si registrò un numero altissimo di morti e feriti, ancor più duro fu il conflitto in Belgio nelle Fiandre, il cui epicentro era Ypres, città a 120 chilometri circa da Bruxelles.
@@ -65,6 +72,8 @@ press:
 
     Combattente nella prima guerra mondiale per due anni sul Carso goriziano e nella seconda nel deserto africano, egli è stato, tra l'altro, l'autore del Sacrario di El Alamein. Attivo come architetto e artista in tutto il mondo, **ci ha lasciato**, tra i molteplici soggetti da lui affrontati, **dipinti stupendi (e libri di valore) sulla prima e la seconda guerra mondiale e su altri conflitti cui partecipò**, realizzati per la maggior parte in diretta dal fronte: così efficaci da essere considerato dal famoso illustratore Hugo Pratt, reputato oggi uno dei migliori disegnatori al mondo, il suo grande maestro.
 
+    ![Adele Bonner (Meudon, Parigi - Francia) - Proiettile in fronte e lupi tra di loro, 2016 - computergrafica](/media/events/dominioni-gorizia-inaugurazione-2016/Adele_Bonner_Meudon_Parigi_-_Francia_-_Proiettile_in_fronte_e_lupi_tra_di_loro_2016_-_computergrafica.jpg "Adele Bonner (Meudon, Parigi - Francia) - Proiettile in fronte e lupi tra di loro, 2016 - computergrafica")
+
     **IL FINE DELLA MOSTRA**
 
     Attraverso le opere dei giovani, eseguite con molta delicatezza,passione, sentimento, partecipazione poetica e con grande spirito critico nei confronti dei conflitti e del dolore causato dall'uomo, **la mostra vuole** dunque **rappresentare l'immaginario artistico contemporaneo relativo alla Grande Guerra (e alla guerra in generale) in rapporto a quello di un secolo fa e del passato, impersonato da Dominioni**, dal momento che quest'ultimo combattè appena ventenne nel primo conflitto mondiale nella zona del Carso goriziano (allora Impero Austroungarico, oggi suddiviso tra Italia e Slovenia).
@@ -72,6 +81,8 @@ press:
     _L'intensità cromatica, l'incisività del segno e la capacità di fantasticare anche sulle brutalità estreme dei conflitti_ - scrive Accerboni - _rappresentano dei comuni denominatori nell'arte di tutti i giovani presenti nell'esposizione. Un velo di poesia rende infatti più accettabile l'orrore sia nei giovanissimi belgi e francesi che nei giovani goriziani, sloveni, triestini e austriaci, così come accadde nei dipinti del giovane Caccia Dominioni._
 
     **_L'esposizione rappresenta altresì un'occasione d'incontro e uno scambio, nel segno della pace simbolizzata dall'arte, fra giovani di diversi paesi europei, che cent'anni fa combattevano l'uno contro l'altro, e costituisce un motivo di approfondimento della conoscenza tra diversi paesi d'Europa e di diffusione dell'immagine e della conoscenza del Goriziano e della Regione Friuli Venezia Giulia nel cuore del continente. Il seguito del progetto prevede infatti un ampliamento degli scambi in più ambiti artistico-culturali tra la Regione FVG e Bruxelles, tema su cui Accerboni sta lavorando già dalla fine degli anni novanta, in buona parte assieme all'Associazione Giuliani nel Mondo, attraverso varie mostre di artisti regionali da lei curate a Bruxelles e l'esposizione a Trieste del pittore belga François Piers._**
+
+    ![Vaiva Mikenaite (Woluwe-St-Lambert, Bruxelles - Belgio) - Senza titolo, 2016 - acrilico](/media/events/dominioni-gorizia-inaugurazione-2016/Vaiva_Mikenaite_Woluwe-St-Lambert_Bruxelles_-_Belgio_-_Senza_titolo_2016_-_acrilico.jpg "Vaiva Mikenaite (Woluwe-St-Lambert, Bruxelles - Belgio) - Senza titolo, 2016 - acrilico")
 
     **IL NOBILE LOMBARDO CACCIA DOMINIONI: TRENT'ANNI DI VITA NEL GORIZIANO**
 
@@ -92,6 +103,34 @@ press:
     **Fondazione Cassa di Risparmio di Gorizia** • Sala Della Torre (via Carducci 2) • Gorizia
 
     **Proiezione del video _Paolo Caccia Dominioni. Ritratto inedito in otto interviste,_** curato da **Marianna Accerboni** e realizzato grazie a **Pro Loco Redipuglia** • **Sentieri di Pace** con il contributo di **RFI Rete Ferroviaria Italiana**
-gallerySection: null
+gallerySection:
+  gallery:
+    - image: /media/events/dominioni-gorizia-inaugurazione-2016/Adele_Bonner_Meudon_Parigi_-_Francia_-_Proiettile_in_fronte_e_lupi_tra_di_loro_2016_-_computergrafica.jpg
+      alt: "Adele Bonner (Meudon, Parigi - Francia) - Proiettile in fronte e lupi tra di loro, 2016 - computergrafica"
+      title: "Adele Bonner (Meudon, Parigi - Francia) - Proiettile in fronte e lupi tra di loro, 2016 - computergrafica"
+    - image: /media/events/dominioni-gorizia-inaugurazione-2016/Adriano_Woluwe-St-Lambert_Bruxelles_-_Belgio_-_Senza_titolo_2016_-_tecnica_mista.jpg
+      alt: "Adriano (Woluwe-St-Lambert, Bruxelles - Belgio) - Senza titolo, 2016 - tecnica mista"
+      title: "Adriano (Woluwe-St-Lambert, Bruxelles - Belgio) - Senza titolo, 2016 - tecnica mista"
+    - image: /media/events/dominioni-gorizia-inaugurazione-2016/Giacomo_Zorba_Liceo_artistico_Max_Fabiani_Gorizia_Italia_-_Fault_2015_-_vernice_spray_su_tela_-_cm._100x80.JPG
+      alt: "Giacomo Zorba, Liceo artistico Max Fabiani, Gorizia (Italia) - Fault, 2015 - vernice spray su tela - cm. 100x80"
+      title: "Giacomo Zorba, Liceo artistico Max Fabiani, Gorizia (Italia) - Fault, 2015 - vernice spray su tela - cm. 100x80"
+    - image: /media/events/dominioni-gorizia-inaugurazione-2016/Louise_Vitolo_Woluwe-St-Lambert_Bruxelles_-_Belgio_-_Senza_titolo_2016_-_acrilico.jpg
+      alt: "Louise Vitolo (Woluwe-St-Lambert, Bruxelles - Belgio) - Senza titolo, 2016 - acrilico"
+      title: "Louise Vitolo (Woluwe-St-Lambert, Bruxelles - Belgio) - Senza titolo, 2016 - acrilico"
+    - image: /media/events/dominioni-gorizia-inaugurazione-2016/Luka_Carlevaris_Liceo_Nova_Gorica_Slovenia_-_Come_crudele_la_natura_umana_-_performance_fotografica_tavola_4_di_5_.jpg
+      alt: "Luka Carlevaris, Liceo Nova Gorica (Slovenia) - Com'è crudele la natura umana - performance fotografica (tavola 4 di 5)"
+      title: "Luka Carlevaris, Liceo Nova Gorica (Slovenia) - Com'è crudele la natura umana - performance fotografica (tavola 4 di 5)"
+    - image: /media/events/dominioni-gorizia-inaugurazione-2016/Matija_Kos_Liceo_Nova_Gorica_Slovenia_-_Atmosfera_inquinata_2015_-_collage_e_acrilico_-_cm._70x50.JPG
+      alt: "Matija Kos, Liceo Nova Gorica (Slovenia) - Atmosfera inquinata, 2015 - collage e acrilico - cm. 70x50"
+      title: "Matija Kos, Liceo Nova Gorica (Slovenia) - Atmosfera inquinata, 2015 - collage e acrilico - cm. 70x50"
+    - image: /media/events/dominioni-gorizia-inaugurazione-2016/Salome_Danze_Meudon_Parigi_-_Francia_-_Storia_di_famiglia_part._2016_-_fumetto_a_tecnica_mista.jpg
+      alt: "Salomé Danze (Meudon, Parigi - Francia) - Storia di famiglia (part.), 2016 - fumetto a tecnica mista"
+      title: "Salomé Danze (Meudon, Parigi - Francia) - Storia di famiglia (part.), 2016 - fumetto a tecnica mista"
+    - image: /media/events/dominioni-gorizia-inaugurazione-2016/Samuele_Snidero_Liceo_artistico_Max_Fabiani_Gorizia_Italia_-_Agonia_2015_-_tecnica_mista.jpg
+      alt: "Samuele Snidero, Liceo artistico Max Fabiani, Gorizia (Italia) - Agonia, 2015 - tecnica mista"
+      title: "Samuele Snidero, Liceo artistico Max Fabiani, Gorizia (Italia) - Agonia, 2015 - tecnica mista"
+    - image: /media/events/dominioni-gorizia-inaugurazione-2016/Vaiva_Mikenaite_Woluwe-St-Lambert_Bruxelles_-_Belgio_-_Senza_titolo_2016_-_acrilico.jpg
+      alt: "Vaiva Mikenaite (Woluwe-St-Lambert, Bruxelles - Belgio) - Senza titolo, 2016 - acrilico"
+      title: "Vaiva Mikenaite (Woluwe-St-Lambert, Bruxelles - Belgio) - Senza titolo, 2016 - acrilico"
 draft: false
 ---

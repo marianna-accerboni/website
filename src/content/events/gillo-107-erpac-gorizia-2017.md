@@ -1,7 +1,7 @@
 ---
 title: "Venerdì 30 giugno 2017 all'ERPAC - Musei Provinciali di Gorizia di Borgo Castello in occasione del 107° compleanno di Gillo Dorfles avrà luogo la seconda tappa del progetto “Gillo 107”"
 slug: gillo-107-erpac-gorizia-2017
-createdAt: 2026-11-11T12:54:00
+createdAt: 2026-11-11T13:26:00
 coverImage: /media/events/gillo-107-erpac-gorizia-2017/Gillo_Dorfles_2_2007_ph_Giorgetta_Dorfles.jpg
 info:
   openingDate: 2017-06-30 18:30
@@ -95,5 +95,35 @@ gallerySection:
     - image: /media/events/gillo-107-erpac-gorizia-2017/Frame_video_Gillo_1.jpg
       alt: "Frame video Gillo"
       title: "Frame video Gillo"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_1.JPG
+      alt: "Presentazione"
+      title: "Presentazione"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_10.JPG
+      alt: "Presentazione"
+      title: "Presentazione"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_2.jpg
+      alt: "Presentazione"
+      title: "Presentazione"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_7.JPG
+      alt: "Presentazione"
+      title: "Presentazione"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_8.JPG
+      alt: "Presentazione"
+      title: "Presentazione"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_9.JPG
+      alt: "Presentazione"
+      title: "Presentazione"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_3_-_da_sin_arch._Marianna_Accerboni_e_Raffaella_Sgubin_direttore_Servizio_Musei_e_Archivi_Storici_ERPAC.JPG
+      alt: "Presentazione - da sin arch. Marianna Accerboni e Raffaella Sgubin, direttore Servizio Musei e Archivi Storici ERPAC"
+      title: "Presentazione - da sin arch. Marianna Accerboni e Raffaella Sgubin, direttore Servizio Musei e Archivi Storici ERPAC"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_4_-_da_sin_arch._Marianna_Accerboni_e_Raffaella_Sgubin_direttore_Servizio_Musei_e_Archivi_Storici_ERPAC.JPG
+      alt: "Presentazione - da sin arch. Marianna Accerboni e Raffaella Sgubin, direttore Servizio Musei e Archivi Storici ERPAC"
+      title: "Presentazione - da sin arch. Marianna Accerboni e Raffaella Sgubin, direttore Servizio Musei e Archivi Storici ERPAC"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_5_-_da_sin_arch._Marianna_Accerboni_e_Raffaella_Sgubin_direttore_Servizio_Musei_e_Archivi_Storici_ERPAC.JPG
+      alt: "Presentazione - da sin arch. Marianna Accerboni e Raffaella Sgubin, direttore Servizio Musei e Archivi Storici ERPAC"
+      title: "Presentazione - da sin arch. Marianna Accerboni e Raffaella Sgubin, direttore Servizio Musei e Archivi Storici ERPAC"
+    - image: /media/events/gillo-107-erpac-gorizia-2017/Presentazione_6_-_Raffaella_Sgubin_direttore_Servizio_Musei_e_Archivi_Storici_ERPAC.JPG
+      alt: "Presentazione - Raffaella Sgubin, direttore Servizio Musei e Archivi Storici ERPAC"
+      title: "Presentazione - Raffaella Sgubin, direttore Servizio Musei e Archivi Storici ERPAC"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Dal 4 novembre 2016 alla Biblioteca statale S. Crise di Trieste la mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra. I giovani artisti d'Europa cent'anni dopo: nell'ultima tappa del ciclo espositivo dedicato al grande architetto-artista opere di giovani pittori e illustratori belgi e francesi sul tema della Grande Guerra"
 slug: dominioni-trieste-conferenza-stampa-31-ottobre-2016
-createdAt: 2026-11-11T13:17:00
+createdAt: 2026-11-11T13:25:00
 parent: dominioni-trieste-inaugurazione-2016
 info: null
 bodySection:

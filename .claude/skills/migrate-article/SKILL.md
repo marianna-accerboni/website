@@ -97,6 +97,7 @@ Special cases:
 
 - 7 images referenced by the older Leonor Fini sub-events (`/media/events/leonor-fini-memorie-triestine/...`) do not exist.
 - Older imports (before this skill) may still contain a caption repeated under an image (Leonor Fini segreta, Luisia Comelli, Mauro Martoriati) and sub-events that carry the event photo as cover.
-- Images the old site cannot serve (HTTP 500, e.g. whole folders `dominioni_2016` and `gillo_107`): retry once, then run `python3 .claude/skills/migrate-article/scripts/prune_missing.py --apply <files>` to drop gallery items and body images whose files are missing, and tell the owner. If the cover is missing, remove `coverImage`.
+- Some old articles keep images and PDFs in **nested folders** (e.g. `/Eventi/dominioni_2016/gallery/incontro_gualtieri/gallery/<file>`, invitation at `.../gallery/finissage/downloads/<pdf>`). Keep the sub-path when downloading (`reg()` in `mdconv.py` does this) and pass `dlkind='gallery/<sub>/downloads'` for such PDFs. A burst of HTTP 500 on image downloads almost always means a wrong path, not a broken old site: look at the real `href` before giving up.
+- If an image is truly unavailable, run `python3 .claude/skills/migrate-article/scripts/prune_missing.py --apply <files>`, tell the owner, and remove `coverImage` if the cover is missing.
 - Some old titles carry wrong years (title says 2017, table says 2016): the table wins, fix the title and flag it. Old titles with admin-style prefixes ("Gorizia inaugurazione - ...") are kept.
 - Admin: Sveltia CMS 0.210.3 is pinned in `public/admin/index.html`; its `sortable_fields` must use the `{fields, default}` object form.

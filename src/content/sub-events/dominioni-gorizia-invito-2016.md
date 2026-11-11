@@ -1,7 +1,7 @@
 ---
 title: "Invito alla mostra"
 slug: dominioni-gorizia-invito-2016
-createdAt: 2026-11-11T13:17:00
+createdAt: 2026-11-11T13:25:00
 parent: dominioni-gorizia-inaugurazione-2016
 info: null
 bodySection:

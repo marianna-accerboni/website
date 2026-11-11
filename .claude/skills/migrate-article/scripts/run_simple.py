@@ -14,7 +14,7 @@ def simple(i,slug,title,info,venuename=None,extra_subs=None,press_prefix=''):
         if v.strip(): caps[safe(html.unescape(src.group(1)))]=clean_title(v)
     gcaps={g:t for g,t in a['gal']}
     for k,v in gcaps.items(): caps[k]=v
-    bodyimgs=[safe(html.unescape(x)) for x in bodyimgs]
+    bodyimgs=[reg(x) for x in bodyimgs]
     download(a,set(names)|set(bodyimgs),f'public/media/events/{slug}')
     inv=re.search(r'/file/get/Eventi/[^/]+/downloads/([^"]+)"',a['t'])
     pdfs=[]

@@ -1,11 +1,12 @@
 ---
 title: "Mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra. I giovani artisti d'Europa cent'anni dopo visitabile alla Biblioteca Statale S. Crise di Trieste fino al 30 novembre: venerdi' 25 novembre visita guidata con la curatrice Marianna Accerboni"
 slug: dominioni-trieste-visita-guidata-25-novembre-2016
-createdAt: 2026-11-11T13:17:00
+createdAt: 2026-11-11T13:25:00
 parent: dominioni-trieste-inaugurazione-2016
 info: null
 bodySection:
   body: |-
+    ![Olivier Maingain, sindaco di Bruxelles - Woluwe-St-Lambert, visita la mostra (ph Barbara Mapelli)](/media/events/dominioni-trieste-inaugurazione-2016/Olivier_Maingain_sindaco_di_Bruxelles_-_Woluwe-St-Lambert_visita_la_mostra_ph_Barbara_Mapelli_59.jpg "Olivier Maingain, sindaco di Bruxelles - Woluwe-St-Lambert, visita la mostra (ph Barbara Mapelli)")
 
     Ancora pochi giorni per visitare **alla Biblioteca Statale _S. Crise_ di Trieste (Largo Papa Giovanni XXIII, 6) l'ultima tappa della grande mostra “Paolo Caccia Dominioni. Un artista sul fronte di guerra. I giovani artisti d'Europa cent'anni dopo”, ideata e curata da Marianna Accerboni, che venerdì 25 novembre terrà alle 17.30 una visita guidata, seguita da una degustazione di vini della Tenuta dei Baroni del Mestri.**
 

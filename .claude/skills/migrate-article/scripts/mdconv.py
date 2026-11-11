@@ -1,6 +1,14 @@
 import re,unicodedata
 from html.parser import HTMLParser
 ORIG={}
+SUB={}   # file name -> sub-folder under .../gallery/ (some old articles keep images in nested folders)
+def reg(path):
+    """path = what follows '/gallery/' in an old-site URL (may contain sub-folders). Returns the safe local file name."""
+    import html as _h
+    p=_h.unescape(path).strip()
+    name=safe(p.split('/')[-1])
+    SUB[name]=p.rsplit('/',1)[0]+'/' if '/' in p else ''
+    return name
 def safe(n):
     n=n.strip()
     if re.fullmatch(r'[A-Za-z0-9._-]+',n): return n
