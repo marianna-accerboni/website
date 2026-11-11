@@ -9,7 +9,7 @@ NOW=datetime.datetime.now().astimezone().strftime('%Y-%m-%dT%H:%M:00')
 q=lambda s: json.dumps(s,ensure_ascii=False)
 ind=lambda x,n=4: '\n'.join((' '*n+l if l else '') for l in x.split('\n'))
 def clean_title(t):
-    t=html.unescape(t).replace('’',"'"); t=re.sub(r'-_[a-z_0-9]+$','',t.strip()); return re.sub(r'\s+',' ',t).strip()
+    t=html.unescape(t).replace('’',"'"); t=re.sub(r'-_[a-z_0-9]+$','',t.strip()); t=re.sub(r'(?i)\.(jpe?g|png)$','',t); return re.sub(r'\s+',' ',t).strip()
 def load(i):
     t=open(f'{WORK}/a{i}.html',encoding='utf8',errors='replace').read()
     j=t.find('<div class="article_body">')+len('<div class="article_body">'); k=t.find('</div>\n        </div>',j); body=t[j:k]

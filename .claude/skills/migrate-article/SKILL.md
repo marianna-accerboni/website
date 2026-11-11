@@ -67,6 +67,7 @@ Special cases:
 
 - Original files are downloaded from `/file/get/Eventi/<folder>/gallery/<name>` (full size, not the `/file/image/...` thumbnails) and from `.../downloads/<name>` for PDFs.
   One article uses `download/` (singular) and some hrefs contain `&#10;`: unescape and strip them.
+  Files whose names contain spaces, commas or parentheses: download with the URL-encoded name and save under a safe name (underscores, no punctuation), then use that name everywhere.
 - Store them in `public/media/events/<event-slug>/` (PDFs too). Reference as `/media/events/<event-slug>/<file>`. Keep original file names.
 - Every image gets alt text **and** title = the caption of the old page, otherwise the file name with underscores turned into spaces.
 - **Do not repeat the caption as text** below an image in the press release (the image already carries it). Remove it, including multi-line captions. `scripts/dedupe2.py` finds leftovers.
