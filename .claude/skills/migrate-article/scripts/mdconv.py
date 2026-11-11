@@ -1,5 +1,12 @@
-import re
+import re,unicodedata
 from html.parser import HTMLParser
+ORIG={}
+def safe(n):
+    n=n.strip()
+    if re.fullmatch(r'[A-Za-z0-9._-]+',n): return n
+    s=unicodedata.normalize('NFKD',n).encode('ascii','ignore').decode()
+    s=re.sub(r'[^A-Za-z0-9._-]+','_',s); s=re.sub(r'_+','_',s).strip('_')
+    ORIG[s]=n; return s
 def cap(fn):
     s=re.sub(r'\.[^.]+$','',fn)
     s=s.replace('_',' ') if '_' in s else s.replace('-',' ')
@@ -17,7 +24,7 @@ class P(HTMLParser):
         elif t in('em','i'): s.i+=1
         elif t=='a': s.link=a.get('href')
         elif t=='img':
-            s.flush(); fn=a['src'].split('/')[-1].strip()
+            s.flush(); fn=safe(a['src'].split('/')[-1])
             s.blocks.append(('img',fn,(a.get('title') or '').strip())); s.skipcap=[x.strip() for x in (a.get('title') or '',a.get('alt') or '') if x.strip()]
         elif t=='br': s.flush()
         elif t=='iframe':

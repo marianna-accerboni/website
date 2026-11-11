@@ -11,10 +11,10 @@ def simple(i,slug,title,info,venuename=None,extra_subs=None,press_prefix=''):
         if not src: continue
         al=re.search(r'alt="([^"]*)"',tag); ti=re.search(r'title="([^"]*)"',tag)
         v=(al.group(1) if al and al.group(1).strip() else (ti.group(1) if ti else ''))
-        if v.strip(): caps[src.group(1)]=clean_title(v)
+        if v.strip(): caps[safe(html.unescape(src.group(1)))]=clean_title(v)
     gcaps={g:t for g,t in a['gal']}
     for k,v in gcaps.items(): caps[k]=v
-    bodyimgs=[html.unescape(x).strip() for x in bodyimgs]
+    bodyimgs=[safe(html.unescape(x)) for x in bodyimgs]
     download(a,set(names)|set(bodyimgs),f'public/media/events/{slug}')
     inv=re.search(r'/file/get/Eventi/[^/]+/downloads/([^"]+)"',a['t'])
     pdfs=[]

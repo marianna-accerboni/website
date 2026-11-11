@@ -1,6 +1,6 @@
 import re,sys,json,datetime,os,html,subprocess,urllib.request
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
-from mdconv import convert,cap,P,emit
+from mdconv import convert,cap,P,emit,safe,ORIG
 HERE=os.path.dirname(os.path.abspath(__file__))
 ROOT=os.path.abspath(os.path.join(HERE,'..','..','..','..'))
 WORK=os.environ.get('MIGRATE_WORK','/tmp/migrate')  # where a<ID>.html files are saved
@@ -18,9 +18,9 @@ def load(i):
     anchors=re.findall(r'<a[^>]*lightbox-gallery-body[^>]*>',t,re.S)
     gal=[]
     for a in anchors:
-        h=html.unescape(re.search(r'href="([^"]+)"',a).group(1)).strip().split('/')[-1].strip()
+        h=safe(html.unescape(re.search(r'href="([^"]+)"',a).group(1)).strip().split('/')[-1])
         ti=re.search(r'title="([^"]*)"',a); gal.append((h,clean_title(ti.group(1)) if ti and ti.group(1).strip() else cap(h)))
-    return dict(t=t,body=body,hdr=html.unescape(hdr).strip().split('/')[-1].strip(),folder=folder,gal=gal)
+    return dict(t=t,body=body,hdr=safe(html.unescape(hdr).strip().split('/')[-1]),folder=folder,gal=gal)
 def split_body(body):
     body=re.sub(r'<table.*?</table>','',body,count=1,flags=re.S)
     k=body.index('COMUNICATO STAMPA:</h3>')
@@ -33,7 +33,8 @@ def download(art,names,dest,kind='gallery'):
     for n in names:
         p=f'{ROOT}/{dest}/{n}'
         if os.path.exists(p) and os.path.getsize(p)>0: continue
-        u=f'{BASE}/file/get/Eventi/{art["folder"]}/{kind}/{n}'
+        import urllib.parse
+        u=f'{BASE}/file/get/Eventi/{art["folder"]}/{kind}/'+urllib.parse.quote(ORIG.get(n,n))
         r=subprocess.run(['curl','-s','-f','-L','-o',p,u]); 
         if r.returncode: print('DOWNLOAD FAIL',u); 
 def sub_md(chunk,media,captions=None,title=None,drop_first=False):
