@@ -18,12 +18,16 @@ collections:
     folder: src/content/events
     create: true
     # slug/filename auto-generated from the title (not user-facing)
-    slug: "{{fields.title | slug}}"
+    slug: "{{fields.slug}}"
     extension: md
     format: frontmatter
+    sortable_fields:
+      fields: [createdAt, title, commit_date]
+      default: { field: createdAt, direction: Descending }
     fields:
       - { label: Titolo, name: title, widget: string }
-      - { label: Slug, name: slug, widget: string, hidden: true }
+      - { label: Slug (indirizzo web), name: slug, widget: string, hint: "Indirizzo breve della pagina, solo minuscole, numeri e trattini (es. fabio-colussi-orizzonti-di-luce). Viene usato anche come nome del file.", pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', "Solo lettere minuscole senza accenti, numeri e trattini"] }
+      - { label: Data di creazione, name: createdAt, widget: datetime, default: "{{now}}", required: false, hint: "Compilata automaticamente alla creazione. Serve per ordinare l'elenco dal più recente." }
       - { label: Immagine evento, name: coverImage, widget: image, required: false }
       - label: Informazioni evento
         name: info
@@ -102,17 +106,22 @@ collections:
     label_singular: News evento
     folder: src/content/sub-events
     create: true
-    slug: "{{fields.title | slug}}"
+    slug: "{{fields.slug}}"
     extension: md
     format: frontmatter
     summary: "{{title}} → {{parent}}"
+    sortable_fields:
+      fields: [createdAt, title, commit_date]
+      default: { field: createdAt, direction: Descending }
     fields:
       - { label: Titolo, name: title, widget: string }
+      - { label: Slug (indirizzo web), name: slug, widget: string, hint: "Indirizzo breve della pagina, solo minuscole, numeri e trattini (es. fabio-colussi-orizzonti-di-luce). Viene usato anche come nome del file.", pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', "Solo lettere minuscole senza accenti, numeri e trattini"] }
+      - { label: Data di creazione, name: createdAt, widget: datetime, default: "{{now}}", required: false, hint: "Compilata automaticamente alla creazione. Serve per ordinare l'elenco dal più recente." }
       - label: Evento principale
         name: parent
         widget: relation
         collection: events
-        value_field: title
+        value_field: slug
         display_fields: [title]
         search_fields: [title]
         dropdown_threshold: 0

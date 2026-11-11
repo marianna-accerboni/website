@@ -1,6 +1,7 @@
 ---
 title: "Trieste / Leonor Fini. Memorie triestine"
 slug: trieste-leonor-fini-memorie-triestine
+createdAt: 2026-09-27T10:03:00
 coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info:
   openingDate: 2021-06-26 21:00
@@ -14,18 +15,18 @@ info:
   invitations:
     - /media/events/leonor-fini-memorie-triestine/invito.pdf
 subEvents:
-  - sabato-18-e-domenica-19-settembre-sono-gli-ultimi
+  - leonor-fini-ultimi-giorni-settembre
   - concorso-gatto-proroga-16-settembre
   - concorso-gatto-iscrizioni-12-settembre
-  - in-considerazione-del-grande-successo-di-pubblico
-  - sabato-21-agosto-dalle-10-30-alle-13
-  - venerdi-13-agosto-alle-ore-18-30-al-magazzino-26-d
-  - sabato-7-agosto-alle-18-30-al-magazzino-26-del
-  - venerdi-30-luglio-alle-ore-18-30-al-magazzino-26-d
-  - venerdi-23-luglio-leonor-fini-segreta
-  - nell-ambito-della-mostra-leonor-fini-memorie-tri
-  - prodotte-nel-1951-dalla-societa-ceramica-italiana
-  - venerdi-2-luglio-alle-18-30-alla-sala-luttazzi-del
+  - leonor-fini-grande-successo
+  - leonor-fini-21-agosto
+  - leonor-fini-13-agosto
+  - leonor-fini-7-agosto
+  - leonor-fini-30-luglio
+  - leonor-fini-23-luglio
+  - leonor-fini-14-luglio
+  - leonor-fini-ceramiche-1951
+  - leonor-fini-2-luglio
 press:
   pressRelease: |-
     ![1.a. Leonor Fini - Luna - 1982 - olio su tela - cm. 60x73 - coll privata, Trieste - © Marianna Accerboni](/media/events/leonor-fini-memorie-triestine/1_a_Leonor_Fini_Luna_1982_olio_su_tela_cm_60x73_coll_privata_Trieste_Marianna_Accerboni.jpg)

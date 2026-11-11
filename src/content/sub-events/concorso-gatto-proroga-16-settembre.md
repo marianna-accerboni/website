@@ -1,6 +1,7 @@
 ---
 title: "Concorso 'Il più bel gatto del mondo': prorogate le iscrizioni al 16 settembre"
 slug: concorso-gatto-proroga-16-settembre
+createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
 coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null

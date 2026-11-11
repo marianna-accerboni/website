@@ -1,6 +1,7 @@
 ---
 title: Mauro Martoriati. Bora e Tergesteo
 slug: mauro-martoriati-bora-e-tergesteo
+createdAt: 2026-09-20T21:16:00
 coverImage: /media/bora_tergesteo-island-city-2016-olio-su-tela-cm-129x199-ph-nanni-spano.jpg
 info:
   openingDate: ''

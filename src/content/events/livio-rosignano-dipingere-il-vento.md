@@ -1,6 +1,7 @@
 ---
 title: Livio Rosignano. Dipingere il vento
 slug: livio-rosignano-dipingere-il-vento
+createdAt: 2026-09-20T21:16:00
 coverImage: /media/dipingere_vento-bora-a-trieste-1998-olio-su-cartoncino-telato-cm-13x18-coll-sergio-pacor-trieste.jpg
 info:
   openingDate: 2022-06-11 19:00

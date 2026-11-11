@@ -42,6 +42,7 @@ const events = defineCollection({
   schema: z.object({
     title: z.string(),
     slug: z.string(),
+    createdAt: optionalDate,
     coverImage: z.string().optional(),
     info: infoSection.nullable().optional(),
     press: pressSection.optional(),

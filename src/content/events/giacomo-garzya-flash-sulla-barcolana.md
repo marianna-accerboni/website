@@ -1,6 +1,7 @@
 ---
 title: 'Giacomo Garzya. Flash sulla Barcolana: alle luci della sera. Mercoledì 15 aprile 2026 alla Sala Comunale d’Arte di Trieste inaugurazione della personale del fotografo e poeta napoletano'
 slug: giacomo-garzya-flash-sulla-barcolana
+createdAt: 2026-09-19T09:27:00
 coverImage: /media/garzya-Trieste___Barcolana_57_12_ottobre_2025___arrivo_dalla_Strada_Napoleonica___foto_digitale.jpg
 info:
   openingDate: 2026-04-15 19:00

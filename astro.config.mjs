@@ -32,6 +32,6 @@ export default defineConfig({
     rehypePlugins: [rehypeRaw, rehypeBaseUrls]
   },
   redirects: {
-    '/admin': '/admin/index.html'
+    '/admin': `${base}admin/index.html`
   }
 });

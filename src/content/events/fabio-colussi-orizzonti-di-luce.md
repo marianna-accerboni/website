@@ -1,6 +1,7 @@
 ---
 title: Sabato 13 dicembre 2025 alla sala xenia di Trieste. Inaugurazione della mostra “Fabio Colussi. Orizzonti di luce”
-slug: sabato-13-dicembre-2025-alla-sala-xenia-di-trieste-inaugurazione-della-mostra-fabio-colussi-orizzonti-di-luce
+slug: fabio-colussi-orizzonti-di-luce
+createdAt: 2026-09-19T09:27:00
 coverImage: /media/Trieste_Piazza_Unita_2025_-_olio_su_tela_-_cm._20x30.jpg
 info:
   openingDate: 2025-12-13 18:30

@@ -1,6 +1,7 @@
 ---
 title: "Rupert Rebernig: Atemporale. La bora non genera ombre. Inaugurazione sabato 1 giugno 2024 alla Sala Comunale d'Arte di Trieste"
-slug: rupert-rebernig-atemporale-la-bora-non-genera-ombre-inaugurazione-sabato-1-giugno-2024-alla-sala-comunale-darte-di-trieste
+slug: rupert-rebernig-atemporale
+createdAt: 2026-09-20T06:23:00
 coverImage: /media/rebernig-Senza_titolo_2023___acrilico_su_tela___cm._40x40.jpg
 info:
   openingDate: 2024-06-01 19:00

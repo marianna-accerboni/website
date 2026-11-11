@@ -1,6 +1,7 @@
 ---
 title: Domenica 26 maggio 2024 alla Galleria d'Arte Contemporanea Ghetto Et Cetera di Venezia inaugurazione della mostra "True Colors in Venice" del pittore triestino Fabio Colussi
 slug: fabio-colussi-true-colors-in-venice
+createdAt: 2026-09-20T06:23:00
 coverImage: /media/colussi-venezia-Isola_di_San_Giorgio_a_Venezia_2023_-_olio_su_tela_-_cm._40x50.jpg
 info:
   openingDate: 2024-05-26 12:00

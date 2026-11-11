@@ -1,6 +1,7 @@
 ---
 title: 'Inaugurata a Bruxelles la seconda tappa del progetto "L''arte della regione Friuli Venezia Giulia a Bruxelles": in mostra Claudio Mario Feruglio e Toni Zanussi'
 slug: feruglio-zanussi-bruxelles
+createdAt: 2026-09-20T06:23:00
 coverImage: /media/feruglio-zanussi-06_Una_serie_di_acrilici_su_tela_di_Claudio_Mario_Feruglio_2.jpg
 info:
   openingDate: ''

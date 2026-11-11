@@ -1,6 +1,7 @@
 ---
 title: 'Oltre: martedì 9 giugno 2026 alla Sala Comunale d’Arte di Trieste inaugurazione della personale della pittrice Alpina Della Martina'
-slug: oltre-martedì-9-giugno-2026-alla-sala-comunale-darte-di-trieste-inaugurazione-della-personale-della-pittrice-alpina-della-martina
+slug: alpina-della-martina-oltre
+createdAt: 2026-09-19T09:27:00
 coverImage: /media/alpina-La_vita_e_la_morte_2026_-_tecnica_mista_con_acrilico_e_tempera_-_cm.35x50.jpg
 info:
   openingDate: 2026-06-09 19:00

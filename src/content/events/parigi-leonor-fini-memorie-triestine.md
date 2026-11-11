@@ -1,6 +1,7 @@
 ---
 title: Parigi / Leonor Fini. Memorie triestine
 slug: parigi-leonor-fini-memorie-triestine
+createdAt: 2026-09-29T06:54:00
 coverImage: /media/events/leonor-fini-memorie-triestine-parigi/cover.jpg
 info:
   openingDate: 2021-10-06 18:00
