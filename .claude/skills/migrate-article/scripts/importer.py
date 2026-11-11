@@ -21,7 +21,7 @@ def do2(i,slug,title,info,subs,vname=None,chunk_fix=None,press_extra_chunk=None,
     if press_suffix: pmd=pmd+'\n\n'+press_suffix.replace('{M}',media)
     for (ms,mt,mb) in manual_subs:
         mb=mb.replace('{M}',media); subtitles.append(mt); write_sub(ms,mt,slug,mb); print('  sub',ms,'|',mt[:80])
-    write_event(slug,title,a['hdr'],info+[('invitations',f'\n    - {media}{invs[0]}')],subtitles,pmd,a['gal'],media)
+    write_event(slug,title,a['hdr'],info+([('invitations',f'\n    - {media}{invs[0]}')] if invs else []),subtitles,pmd,a['gal'],media)
     if vname: venue(vname)
     print(i,'written',slug,'gallery',len(a['gal']))
     return a

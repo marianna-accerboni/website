@@ -97,4 +97,6 @@ Special cases:
 
 - 7 images referenced by the older Leonor Fini sub-events (`/media/events/leonor-fini-memorie-triestine/...`) do not exist.
 - Older imports (before this skill) may still contain a caption repeated under an image (Leonor Fini segreta, Luisia Comelli, Mauro Martoriati) and sub-events that carry the event photo as cover.
+- Images the old site cannot serve (HTTP 500, e.g. whole folders `dominioni_2016` and `gillo_107`): retry once, then run `python3 .claude/skills/migrate-article/scripts/prune_missing.py --apply <files>` to drop gallery items and body images whose files are missing, and tell the owner. If the cover is missing, remove `coverImage`.
+- Some old titles carry wrong years (title says 2017, table says 2016): the table wins, fix the title and flag it. Old titles with admin-style prefixes ("Gorizia inaugurazione - ...") are kept.
 - Admin: Sveltia CMS 0.210.3 is pinned in `public/admin/index.html`; its `sortable_fields` must use the `{fields, default}` object form.

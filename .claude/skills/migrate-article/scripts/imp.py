@@ -23,10 +23,10 @@ def load(i):
     return dict(t=t,body=body,hdr=safe(html.unescape(hdr).strip().split('/')[-1]),folder=folder,gal=gal)
 def split_body(body):
     body=re.sub(r'<table.*?</table>','',body,count=1,flags=re.S)
-    k=body.index('COMUNICATO STAMPA:</h3>')
-    pre=body[:k]; press=body[k+len('COMUNICATO STAMPA:</h3>'):]
+    _m=re.search(r'COMUNICATO STAMPA:?</h3>',body); k=_m.start()
+    pre=body[:k]; press=body[_m.end():]
     pre=re.sub(r"<h3>\s*(NEWS RELATIVE ALL'EVENTO|INFORMAZIONI UTILI):?\s*</h3>",'',pre)
-    chunks=[c for c in re.split(r'<hr[^>]*>',pre) if re.sub(r'<[^>]+>|&nbsp;|\s','',c)]
+    chunks=[c for c in re.split(r'<hr[^>]*>',pre) if re.sub(r'<[^>]+>|&nbsp;|\s','',c) or '<img' in c or '<iframe' in c]
     return chunks,press
 def download(art,names,dest,kind='gallery'):
     os.makedirs(f'{ROOT}/{dest}',exist_ok=True)
