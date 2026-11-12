@@ -35,13 +35,13 @@ press:
 
     **Approfondimento a cura di Marianna Accerboni**
 
-    \*\*_Mario Claudio Feruglio_ (Udine 1953), **pittore**
+    _Mario Claudio Feruglio_ (Udine 1953), **pittore**
 
     Formatosi all’Accademia di Belle Arti di Venezia, in più di cinquant’anni ha tenuto mostre personali in musei, gallerie private e prestigiose istituzioni pubbliche in tutto il mondo. Tra queste, la **Biennale di Venezia**, **il Museo Villa Merkel a Esslingen in Germania**, **il Museo Archeologico nazionale di Firenze**, **il Museo FAD di Barcellona**, **la Sala Rosa dell’Università degli Studi di Siena**, **il Museo Diocesano e le Gallerie del Tiepolo a Udine**. 
 
     I suoi dipinti, realizzati secondo una tecnica ineccepibile, intrisi di sensibilità e di intensi contrappunti luministici, affascinanti ma non estetizzanti, sono ispirati alla poetica del silenzio e inducono all’ascolto interiore. La sua ricerca di trascendenza è, fin dagli esordi, tema fondante della propria opera: un’arte sospesa tra rigore, lirismo e percezione dell’infinito, con un battito d’ali che tocca e coinvolge il sentire collettivo. Avvalendosi di un cromatismo intenso, impreziosito da molteplici velature e simbiotico in relazione alle predilezioni espressioniste, Feruglio costruisce con abile tocco un ponte di luce tra realtà e infinito, tra individuo e universo, con intuizioni poeticamente e intellettualmente elevate, che addolciscono la vitalità graffiante propria dell’espressionismo secondo una vena neoromantica molto attuale ed emozionante. La sua arte rappresenta una riflessione di natura intimista, che eleva la sua ricerca pittorica al livello di spazio etico, rendendoci tutti partecipi della sua concentrata introspezione di apertura universale.
 
-    \*\*_Toni Zanussi_ (Qualso, Udine 1952), **pittore**
+    _Toni Zanussi_ (Qualso, Udine 1952), **pittore**
 
     Rimasto precocemente orfano dei genitori, si imbarcò giovanissimo su navi da crociera, formandosi sotto il profilo artistico nel corso dei suoi viaggi. Autodidatta, è stato molto apprezzato dal grande critico **Gillo Dorfles**, che lo definì _Pittore della cosmogonia e della contaminazione tra materia e realtà sociale, artista del recupero degli sprechi e poeta._ **Da oltre quarant’anni le sue opere sono raccontate da molti scrittori e intellettuali ed esposte in giro per il mondo, da Venezia a Parigi, dove raccolgono successi sempre crescenti**. 
 

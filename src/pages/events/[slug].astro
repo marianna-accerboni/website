@@ -77,7 +77,7 @@ function linkify(text: string): string {
 
 /** Render infoContacts (markdown or plain text) as HTML. */
 async function renderInfoContacts(text: string): Promise<string> {
-  if (text.includes('[') && text.includes('](')) {
+  if ((text.includes('[') && text.includes('](')) || text.includes('**')) {
     // Already markdown — render it
     return (await processor.render(text)).code;
   }

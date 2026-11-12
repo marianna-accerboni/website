@@ -64,7 +64,7 @@ press:
 
     A conclusione di ogni laboratorio, seguiranno una **visita guidata alla mostra condotta dalla curatrice e** una degustazione dei vini pregiati dell’**Azienda Agricola _Zidarich_** (Prepotto, Duino Aurisina).
 
-    **Domenica 13 luglio alle ore 18.30, nell’ambito del _finissage_** della mostra, avranno luogo la **premiazione del concorso** dedicato al tema dei **_Confini liquidi_ e la premiazione delle opere realizzate durante i laboratori artistici. Seguiranno un intervento di musica blues, jazz e fusion con il _Trio S’paz_ (Diego Zotti al piano, Edy Supp batteria e PCK sax) e una degustazione dei vini pregiati dell’**Azienda Agricola _Zidarich_\*\* (Prepotto, Duino Aurisina).
+    Domenica 13 luglio alle ore 18.30, nell’ambito del _finissage_ della mostra, avranno luogo la premiazione del concorso dedicato al tema dei _Confini liquidi_ e la premiazione delle opere realizzate durante i laboratori artistici. Seguiranno un intervento di musica blues, jazz e fusion con il _Trio S’paz_ (Diego Zotti al piano, Edy Supp batteria e PCK sax) e una degustazione dei vini pregiati dell’Azienda Agricola _Zidarich_ (Prepotto, Duino Aurisina).
 
     <iframe src="https://www.youtube.com/embed/4NOJam0A3ec?si=Je0Er-ALt_EwpwP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -130,7 +130,7 @@ press:
 
     **sabato 31 maggio / ore 18.30**
 
-    presentazione ufficiale del **video _Un uomo, un castello, un incontro_** (39’, in italiano e tedesco) con musiche inedite del compositore **Silvio Donati** e voci recitanti\*\*,\*\* dedicate a **Rainer M. Rilke** e alle **_Elegie duinesi_**, composte dal grande poeta austriaco di origine boema - uno dei più importanti di lingua tedesca del XX secolo - durante il suo soggiorno al **Castello di Duino**, da cui trasse ispirazione, ospite della principessa Marie di Torre e Tasso 
+    presentazione ufficiale del **video _Un uomo, un castello, un incontro_** (39’, in italiano e tedesco) con musiche inedite del compositore **Silvio Donati** e voci recitanti, dedicate a **Rainer M. Rilke** e alle **_Elegie duinesi_**, composte dal grande poeta austriaco di origine boema - uno dei più importanti di lingua tedesca del XX secolo - durante il suo soggiorno al **Castello di Duino**, da cui trasse ispirazione, ospite della principessa Marie di Torre e Tasso 
 
     **Sala espositiva _Carlo Sbisà_**
 
@@ -150,7 +150,7 @@ press:
 
     **domenica 13 luglio / ore 18.30** 
 
-    _finissage_: **premiazione del concorso** dedicato al tema dei \*\*_Confini liquidi_ e premiazione delle opere realizzate durante i laboratori artistici. **Musica blues, jazz e fusion** con il **_Trio S’paz_** (**Diego Zotti** al piano, **Edy Supp** batteria e **PCK** sax)
+    _finissage_: **premiazione del concorso** dedicato al tema dei _Confini liquidi_ e premiazione delle opere realizzate durante i laboratori artistici. **Musica blues, jazz e fusion** con il **_Trio S’paz_** (**Diego Zotti** al piano, **Edy Supp** batteria e **PCK** sax)
 
     A conclusione di ogni appuntamento, **visita guidata** alla mostra e **brindisi** con i vini pregiati di **Azienda Agricola _Zidarich_** (Prepotto, Duino Aurisina)  
 
@@ -196,7 +196,7 @@ press:
 
     **Luigi Spacal** 
 
-    Figlio di una lavandaia e di un tagliapietra, orfano di padre a quattro anni, con talento e tenacia Spacal ha seguito un percorso in salita, dal lavoro a undici anni_,_ a disegnatore in un cantiere navale triestino; al Liceo artistico di Venezia, all’Istituto per l’Arte Decorativa a Monza, all’Accademia di Brera a Milano sotto la guida di Pio Semeghini e degli architetti Giuseppe Pagano e Agnoldomenico Pica.
+    Figlio di una lavandaia e di un tagliapietra, orfano di padre a quattro anni, con talento e tenacia Spacal ha seguito un percorso in salita, dal lavoro a undici anni, a disegnatore in un cantiere navale triestino; al Liceo artistico di Venezia, all’Istituto per l’Arte Decorativa a Monza, all’Accademia di Brera a Milano sotto la guida di Pio Semeghini e degli architetti Giuseppe Pagano e Agnoldomenico Pica.
 
     **Rigoroso poeta dell’essenziale, ha raggiunto nel corso del tempo un linguaggio icastico, connotato da un segno personale e avvincente e da accostamenti cromatici raffinati e illimitati, che sotto l’apparente semplicità celano un velo di lirismo e un intuito surreale. Non per nulla, attivo nell’arte dell’arazzo e incisore dal poliedrico virtuosismo tecnico, partecipò più volte alle Quadriennali romane e alla Biennale di Venezia, dove nel ’54 e ’58 ottenne il primo premio per la grafica.** 
 
@@ -222,7 +222,7 @@ press:
 
     **Toni Zanussi** 
 
-    Rimasto precocemente orfano dei genitori, si imbarcò giovanissimo su navi da crociera, formandosi sotto il profilo artistico nel corso dei suoi viaggi. Autodidatta, è stato molto apprezzato dal grande critico **Gillo Dorfles** che, nel suo libro _Gli artisti che ho incontrato (Feltrinelli_ editore_),_ lo definì _Pittore della cosmogonia e della contaminazione tra materia e realtà sociale, artista del recupero degli sprechi e poeta._ **Da oltre quarant’anni le sue opere sono raccontate da molti scrittori e intellettuali ed esposte in giro per il mondo, da Venezia a Parigi, dove raccolgono successi sempre crescenti**. 
+    Rimasto precocemente orfano dei genitori, si imbarcò giovanissimo su navi da crociera, formandosi sotto il profilo artistico nel corso dei suoi viaggi. Autodidatta, è stato molto apprezzato dal grande critico **Gillo Dorfles** che, nel suo libro _Gli artisti che ho incontrato (Feltrinelli_ editore), lo definì _Pittore della cosmogonia e della contaminazione tra materia e realtà sociale, artista del recupero degli sprechi e poeta._ **Da oltre quarant’anni le sue opere sono raccontate da molti scrittori e intellettuali ed esposte in giro per il mondo, da Venezia a Parigi, dove raccolgono successi sempre crescenti**. 
 
     Armoniosa sintesi tra sperimentazione estetica e concettuale ininterrotta, raffinata ricerca cromatica, accesa ma nel contempo sobria, intensi contrappunti di luce e forte volontà di esprimere il proprio impegno civile, l’arte poetica di Zanussi veicola un messaggio di pace, quale mezzo espressivo universale per combattere chiusure ideologiche e ingiustizie sociali: un ricco immaginario, stilato secondo una cifra molto personale, equilibrata e sottilmente dinamica, che genera una pittura astrale, sgorgata dal cuore di un artista buono, intenso e riservato, dal gesto pittorico incantato.
 

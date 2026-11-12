@@ -32,7 +32,7 @@ press:
 
     _Dotato di un talento naturale, che ha saputo coltivare nel tempo con passione e tenacia, Colussi è riuscito a delineare una propria maniera intensa e precisa, ma nel contempo sobria, essenziale e sottilmente poetica. Che fa vivere il paesaggio soprattutto della luce (diurna o notturna che essa sia), ottenuta attraverso ripetute e raffinate velature e un cromatismo deciso ma morbido._
 
-    _Equilibrio e sensibilità caratterizzano i suoi dipinti, nei quali il pittore sa legare molto armoniosamente il linguaggio del passato con le esigenze di linearità di quello moderno. Ne escono_ - conclude Accerboni -\* delle vedute marine che poggiano la loro veridicità sulla storia e sulla luce e in cui le antiche e raffinate architetture si fondono con un cielo e un mare intensamente azzurri, che riflettono e suggeriscono, sempre mediante la luce, un senso di pace e atarassia, che appare anche nei dipinti dedicati alla laguna.\*
+    _Equilibrio e sensibilità caratterizzano i suoi dipinti, nei quali il pittore sa legare molto armoniosamente il linguaggio del passato con le esigenze di linearità di quello moderno. Ne escono_ - conclude Accerboni - delle vedute marine che poggiano la loro veridicità sulla storia e sulla luce e in cui le antiche e raffinate architetture si fondono con un cielo e un mare intensamente azzurri, che riflettono e suggeriscono, sempre mediante la luce, un senso di pace e atarassia, che appare anche nei dipinti dedicati alla laguna.
 
     ![Tramonto in Sacchetta, 2022 - olio su tela - cm. 60x120](/media/colussi-tramonto-in-sacchetta-2022-olio-su-tela-cm-60x120.jpg "Tramonto in Sacchetta, 2022 - olio su tela - cm. 60x120")
 

@@ -33,7 +33,7 @@ press:
 
     Ad inaugurare la rassegna, che rimarrà visitabile a ingresso libero fino al 17 luglio, saranno il sindaco di Unterföring Andreas Kemmelmeyer e il sindaco di Tarcento Mauro Steccati.
 
-    L’esposizione rappresenta una sorta di antologica in cui poter visionare l’arte poetica e sottilmente onirica di Toni Zanussi: dalle tavole ai bidoni e alle casse, dipinti con colori vivaci e solari e con i temi del sogno che raccontano di viaggi lontani, nei territori della mente e del fantastico, attraverso lavori dalle forme più diverse e affascinanti: rettangolari, circolari, a ogiva\*\*,\*\* realizzati su diversi supporti come sostegni MDF, il legno grezzo delle casse, il metallo dei grandi bidoni.
+    L’esposizione rappresenta una sorta di antologica in cui poter visionare l’arte poetica e sottilmente onirica di Toni Zanussi: dalle tavole ai bidoni e alle casse, dipinti con colori vivaci e solari e con i temi del sogno che raccontano di viaggi lontani, nei territori della mente e del fantastico, attraverso lavori dalle forme più diverse e affascinanti: rettangolari, circolari, a ogiva, realizzati su diversi supporti come sostegni MDF, il legno grezzo delle casse, il metallo dei grandi bidoni.
 
     «_La rassegna - spiega Marianna Accerboni -  testimonia, in una sorta di orizzonte di luce e di cromatismi accesi, eleganti e al contempo sobri, l’universo creativo e la sperimentazione svolta da  Zanussi. In mostra compare infatti un’ampia selezione di opere che raccontano il suo immaginario, stilato secondo una cifra molto personale, armonica e sottilmente dinamica: una pittura sgorgata dal cuore di un artista dal gesto pittorico incantato._
 

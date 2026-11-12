@@ -43,8 +43,7 @@ press:
 
     L’iniziativa si svolge con la media partnership de Il Piccolo, quotidiano di Trieste, con il sostegno di Regione Autonoma Friuli Venezia Giulia, Fondazione CRTrieste, Ciaccio Arte - Big Broker Insurance Group (Milano), Francesco Katalan casa di spedizioni S.r.l. (Muggia, Trieste), Azienda Agricola Zidarich (Trieste), Famiglia Melan Bruxelles, Rotary Club Trieste Alto Adriatico, Biesse Forniture elettriche Studio Luce, Videoest Trieste e in collaborazione con Associazione Giuliani nel Mondo e il Circolo AGM di Bruxelles, Ente Friuli nel Mondo, Associazione Foemina APS di Trieste.
 
-    ____________________________________________________________________________________________ 
-
+    ---
     L’ARTE TRIESTINA AL FEMMINILE NEL '900 D’AVANGUARDIA ITALIANO ED EUROPEO
 
     ISTITUTO ITALIANO DI CULTURA DI BRUXELLES
@@ -84,8 +83,7 @@ press:
 
     Miela Reina (Trieste 1935 – Udine 1972), pittrice, grafica, fumettista, scenografa e scultrice triestina. Laureata all’Accademia di Belle Arti di Venezia, grande viaggiatrice, fu molto apprezzata da Gillo Dorfles e una delle personalità più importanti e significative dell’arte triestina del secondo Novecento. Artista originale e fantastica, capace di divertire, far riflettere e sognare attraverso invenzioni antesignane e ludiche, connotate dalla freschezza dell’intuizione e da una genialità lieve e profonda, rimase molto legata alla Sicilia, regione d’origine del padre, da cui aveva tratto, nella sua prima fase creativa, ispirazione, dipingendo, nell’ambito dell’espressionismo figurativo, personaggi e ambientazioni emblematici e, più avanti, magma materici che tendevano a sganciarsi dalla figurazione. Per poi passare a un’inclinazione più visionaria, che dal ’67 si trasformò in un segno netto. Ideò anche originali storie a fumetti e ardite, poetiche sperimentazioni per il teatro, per la scuola e l’happening, decorazioni di edifici pubblici e motonavi. Punta di diamante, coraggiosa e sorprendente, dell’avanguardia triestina, attenta anche ai venti culturali dell'Est, partecipò per esempio più volte alla Biennale Musica di Zagabria: qui creò insieme al musicista Carlo de Incontrera una serie di lavori teatrali, dove, nel momento stesso dell’accadimento musicale, inventava in diretta sul palcoscenico fatti visivi particolarmente affascinanti. Al suo raffinato eclettismo e alla sua arte indipendente Trieste ha dedicato un teatro d’avanguardia che porta il suo nome e una scuola. 
 
-    ____________________________________________________________________________________________ 
-
+    ---
     LA REGIONE FRIULI VENEZIA GIULIA A BRUXELLES ATTRAVERSO I SUOI ARTISTI
     UFFICIO DI COLLEGAMENTO DELLA REGIONE FRIULI VENEZIA GIULIA A BRUXELLES
     5 settembre 2024 / 21 febbraio 2025
@@ -112,8 +110,7 @@ press:
 
     Oltre al ritratto, suoi temi prediletti sono stati il paesaggio marino, spesso mosso dalla Bora (forte vento di Nord-Est che soffia verso l’Alto e Medio Adriatico), quello urbano, industriale e di campagna, in cui interpretava con intensità l’Istria, Trieste e il Carso; i meno fortunati (che chiamava “i poveri cristi”); l’intimo sentire dell’uomo colto nel rapporto di coppia o nel silenzio dei caffè storici triestini o in attimi di struggente solitudine e malinconia e la poetica del quotidiano: aspetti della vita interpretati attraverso un espressionismo di grande forza e sottile poesia. Fu premiato in varie mostre nazionali, segnalato al Premio Bolaffi e insignito dal Comune di Trieste del Sigillo Trecentesco.
 
-    _______________________________________________________________________________________________
-
+    ---
     L’arte della Regione Friuli Venezia Giulia a Bruxelles
     La Regione Friuli Venezia Giulia a Bruxelles attraverso i suoi artisti 
 
@@ -136,8 +133,7 @@ press:
 
     PRENOTAZIONI: https://lc.cx/_5BAZQ o tramite QR Code qui a destra
 
-    ______________________________________________________________________________________________
-
+    ---
     INFO 
 
     Marianna Accerboni
