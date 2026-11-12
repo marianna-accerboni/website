@@ -47,7 +47,7 @@ class P(HTMLParser):
         elif t in('em','i'): s.i-=1
         elif t=='a': s.link=None
     def handle_data(s,d):
-        d=d.replace('\xa0',' ')
+        d=d.replace('\xa0',' ').replace('\x9f','·'); d=re.sub('[\x80-\x9f]','',d)
         if s.skipcap and re.sub(r'\s+',' ',d).strip() in [re.sub(r'\s+',' ',x) for x in s.skipcap]: s.skipcap=False; return
         if not d.strip() and not s.cur: return
         s.cur.append((d,1 if s.b>0 else 0,1 if s.i>0 else 0,s.link))
