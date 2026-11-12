@@ -3,7 +3,6 @@ title: "In considerazione del grande successo di pubblico, la mostra “Leonor F
 slug: leonor-fini-grande-successo
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-

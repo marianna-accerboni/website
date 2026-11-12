@@ -3,7 +3,6 @@ title: "Domani venerdì 12 febbraio ultimo giorno per visitare alla Sala Xenia d
 slug: bellezza-per-la-bonta-2020-ultimo-giorno
 createdAt: 2026-10-16T09:16:00
 parent: bellezza-per-la-bonta-2020
-coverImage: /media/events/bellezza-per-la-bonta-2020-xxi-edizione/foto.jpg
 info: null
 bodySection:
   body: |-

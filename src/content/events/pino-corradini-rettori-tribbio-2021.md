@@ -15,7 +15,7 @@ info:
   invitations:
     - /media/events/pino-corradini-la-materia-e-il-segno/Invito.pdf
 subEvents:
-  - - sabato-20-novembre-dalle-1830-alla-galleria-rettori-tribbio-di-trieste-piazza-vecchia-6-larchitetto-marianna-accerboni-condurra-con-la-partecipazione-dellartista-una-visita-guidata-alla-rassegna-dello-scultore-pino-corradini-intitolata-la-materia-e-il-segno-in-mostra-una-ventina-di-opere-tra-bronzi-per-lo-piu-inediti-e-bozzetti-a-pastello-e-tecnica-mista-fino-al-26-novembre
+  - - "Sabato 20 novembre dalle 18.30 alla Galleria Rettori Tribbio di Trieste (piazza Vecchia 6) l'architetto Marianna Accerboni condurrà, con la partecipazione dell'artista, una visita guidata alla rassegna dello scultore Pino Corradini, intitolata “La materia e il segno”: in mostra una ventina di opere, tra bronzi per lo più inediti e bozzetti a pastello e tecnica mista. Fino al 26 novembre"
 press:
   pressRelease: |-
     ![Bronzo appartenente alla serie I ritmi, anni 2000 - h. cm. 100](/media/events/pino-corradini-la-materia-e-il-segno/Bronzo_appartenente_alla_serie__I_ritmi__anni_2000_-_h._cm._100.jpg "Bronzo appartenente alla serie I ritmi, anni 2000 - h. cm. 100")

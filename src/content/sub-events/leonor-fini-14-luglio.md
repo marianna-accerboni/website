@@ -3,7 +3,6 @@ title: "Nell’ambito della mostra “Leonor Fini. Memorie triestine, mercoledì
 slug: leonor-fini-14-luglio
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-

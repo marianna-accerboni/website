@@ -13,9 +13,9 @@ info:
   hasCatalog: true
   infoContacts: +39 335 6750946 · +39 348 8965899
 subEvents:
-  - - fabio-colussi-il-pittore-del-mare-prorogata-fino-al-10-febbraio-2021-al-salone-darte-di-trieste-la-personale-dellartista-triestino
-  - - fabio-colussi-il-pittore-del-mare-prorogata-fino-al-15-gennaio-2021-al-salone-darte-di-trieste-la-personale-dellartista-triestino
-  - - fabio-colussi-il-pittore-del-mare-sabato-19-dicembre-2020-al-salone-darte-di-trieste-visita-guidata-alla-mostra-personale-del-pittore-triestino
+  - - "Fabio Colussi. Il pittore del mare: prorogata fino al 15 gennaio 2021 al Salone d'Arte di Trieste la personale dell'artista triestino"
+  - - "Fabio Colussi. Il pittore del mare: sabato 19 dicembre 2020 al Salone d'Arte di Trieste visita guidata alla mostra personale del pittore triestino"
+  - - "Fabio Colussi. Il pittore del mare: prorogata fino al 10 febbraio 2021 al Salone d'Arte di Trieste la personale dell'artista triestino"
 press:
   pressRelease: |-
     ![Fabio Colussi davanti al suo mare](/media/events/colussi-il-pittore-del-mare-2020/Fabio_Colussi_davanti_al_suo_mare.jpg "Fabio Colussi davanti al suo mare")

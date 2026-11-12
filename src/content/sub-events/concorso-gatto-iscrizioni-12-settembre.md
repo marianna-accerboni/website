@@ -3,7 +3,6 @@ title: "Concorso 'Il più bel gatto del mondo': iscrizioni aperte fino al 12 set
 slug: concorso-gatto-iscrizioni-12-settembre
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-

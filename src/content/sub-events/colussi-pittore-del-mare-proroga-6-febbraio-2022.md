@@ -3,7 +3,6 @@ title: 'Fabio Colussi. Il pittore del mare: prorogata fino al 6 febbraio la most
 slug: colussi-pittore-del-mare-proroga-6-febbraio-2022
 createdAt: 2026-09-22T09:35:00
 parent: fabio-colussi-il-pittore-del-mare-2021
-coverImage: ''
 info: null
 bodySection:
   body: |-

@@ -1,7 +1,6 @@
 ---
 title: Visita guidata con l'artista Fabio Colussi
 parent: fabio-colussi-orizzonti-di-luce
-coverImage: ''
 bodySection:
   body: |-
     Nell’ambito della mostra “Fabio Colussi. Orizzonti di Luce”, sabato 10 gennaio 2026 alla sala Xenia di Trieste avrà luogo una visita guidata con l’artista.

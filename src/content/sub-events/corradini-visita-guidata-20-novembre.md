@@ -3,7 +3,6 @@ title: "Sabato 20 novembre dalle 18.30 alla Galleria Rettori Tribbio di Trieste 
 slug: corradini-visita-guidata-20-novembre
 createdAt: 2026-10-16T09:16:00
 parent: pino-corradini-rettori-tribbio-2021
-coverImage: /media/events/pino-corradini-la-materia-e-il-segno/_Ritmo__anni_2000_-_bronzo_-_h._cm_100.jpg
 info: null
 bodySection:
   body: |-

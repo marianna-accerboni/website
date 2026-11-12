@@ -15,7 +15,7 @@ info:
   invitations:
     - /media/events/bellezza-per-la-bonta-2020-xxi-edizione/Invito.pdf
 subEvents:
-  - bellezza-per-la-bonta-2020-ultimo-giorno
+  - - "Domani venerdì 12 febbraio ultimo giorno per visitare alla Sala Xenia di Trieste la 21° edizione della mostra “La bellezza per la bontà, l'arte aiuta la vita”"
 press:
   pressRelease: |-
     Lunedì 2 novembre 2020 dalle ore 17 si apre alla Sala Xenia (ex Sala Giubileo, Riva 3 Novembre, 9) della Comunità Greco-Orientale di Trieste la 21° edizione della mostra **La bellezza per la bontà, l'arte aiuta la vita**, **organizzata a favore del Premio alla Bontà Hazel Marie Cole onlus, istituito da Aldo e Donatella Pianciamore, che sarà introdotta dalla presidente Etta Carignani e dalla curatrice Marianna Accerboni.** Alla rassegna, visitabile **fino al 15 novembre e accompagnata da un esaustivo catalogo**, prendono parte **26 artisti tra pittori triestini, di altre città italiane e stranieri**. **L'esposizione è a ingresso libero e si svolgerà nel rispetto della normativa Covid-19** (orario 10 - 17/ info 335 6750946). Successivamente la presentazione sarà disponibile sul sito del Premio (www.premiobonta.it).

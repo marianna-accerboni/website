@@ -3,7 +3,6 @@ title: "venerdì 13 agosto alle ore 18.30 al Magazzino 26 del "
 slug: leonor-fini-13-agosto
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-

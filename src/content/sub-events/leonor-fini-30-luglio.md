@@ -3,7 +3,6 @@ title: "venerdì 30 luglio alle ore 18.30 al Magazzino 26 del "
 slug: leonor-fini-30-luglio
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-

@@ -15,18 +15,18 @@ info:
   invitations:
     - /media/events/leonor-fini-memorie-triestine/invito.pdf
 subEvents:
-  - leonor-fini-ultimi-giorni-settembre
-  - concorso-gatto-proroga-16-settembre
-  - concorso-gatto-iscrizioni-12-settembre
-  - leonor-fini-grande-successo
-  - leonor-fini-21-agosto
-  - leonor-fini-13-agosto
-  - leonor-fini-7-agosto
-  - leonor-fini-30-luglio
-  - leonor-fini-23-luglio
-  - leonor-fini-14-luglio
-  - leonor-fini-ceramiche-1951
-  - leonor-fini-2-luglio
+  - - "Sabato 18 e domenica 19 settembre sono gli ultimi due giorni per visitare la mostra “Leonor Fini. Memorie triestine” al Magazzino 26 del "
+  - - "Concorso 'Il più bel gatto del mondo': iscrizioni aperte fino al 12 settembre"
+  - - "Nell’ambito della mostra “Leonor Fini. Memorie triestine, mercoledì 14 luglio alle 18.30, al Magazzino 26 del "
+  - - "Prodotte nel 1951 dalla Società Ceramica Italiana-S.C.I. di Laveno-Mombello (Varese), le porcellane e le terraglie forti con i decori tratti da disegni di Leonor Fini, non compaiono in nessuno dei numerosi cataloghi e libri d’arte dedicati alla pittrice. Un corpus di una trentina di pezzi è invece esposto, accanto a bozzetti appartenenti al catalogo della S.C.I. e a riviste d’epoca del settore, nella mostra “Leonor Fini. Memorie triestine”, visitabile al Magazzino 26 del "
+  - - "Concorso 'Il più bel gatto del mondo': prorogate le iscrizioni al 16 settembre"
+  - - "venerdì 13 agosto alle ore 18.30 al Magazzino 26 del "
+  - - "Venerdì 23 luglio: 'Leonor Fini segreta' nel ricordo delle cugine Frausin"
+  - - "In considerazione del grande successo di pubblico, la mostra “Leonor Fini. Memorie triestine”, allestita al Magazzino 26 del "
+  - - "Venerdì 2 luglio alle 18.30 alla Sala Luttazzi del Magazzino 26 del "
+  - - "venerdì 30 luglio alle ore 18.30 al Magazzino 26 del "
+  - - "sabato 7 agosto alle 18.30 al Magazzino 26 del "
+  - - "sabato 21 agosto dalle 10.30 alle 13"
 press:
   pressRelease: |-
     ![1.a. Leonor Fini - Luna - 1982 - olio su tela - cm. 60x73 - coll privata, Trieste - © Marianna Accerboni](/media/events/leonor-fini-memorie-triestine/1_a_Leonor_Fini_Luna_1982_olio_su_tela_cm_60x73_coll_privata_Trieste_Marianna_Accerboni.jpg)

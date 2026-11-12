@@ -15,7 +15,7 @@ info:
   invitations:
     - /media/events/anima-terra-colore/invito.pdf
 subEvents:
-  - - eventi-collaterali-mostra-l-anima-la-terra-il-colore
+  - - "Eventi collaterali mostra l'Anima La Terra il Colore"
 press:
   pressRelease: |-
     ![Illustre Turkefa 2017_2019 - tecnica mista su MDF - cm 90x120](/media/events/anima-terra-colore/Illustre_Turkefa_2017_2019_tecnica_mista_su_MDF_cm_90x120.jpg "Illustre Turkefa 2017_2019 - tecnica mista su MDF - cm 90x120")      TRIESTE, 27 DICEMBRE 2021 - Inaugura mercoledì

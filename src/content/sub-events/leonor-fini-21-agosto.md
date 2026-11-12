@@ -3,7 +3,6 @@ title: "sabato 21 agosto dalle 10.30 alle 13"
 slug: leonor-fini-21-agosto
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-

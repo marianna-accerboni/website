@@ -13,7 +13,7 @@ info:
   hasCatalog: true
   infoContacts: Giulia Gentile - giulia.gentile@esteri.it - 0033 1 85 14 62 61
 subEvents:
-  - - il-catalogo-della-mostra-leonor-fini-memorie-triestine-edito-dallistituto-italiano-di-cultura-di-parigi-a-radio-rai-trasmissione-sconfinamenti-17-gennaio-2022
+  - - "Il catalogo della mostra “Leonor Fini. Memorie triestine” (edito dall'Istituto Italiano di Cultura di Parigi) a Radio Rai, trasmissione Sconfinamenti, 17 gennaio 2022"
 press:
   pressRelease: |-
     ![Ballerina al banco, anni '60 - acquerello - cm. 60x40 - coll. privata, Trieste](/media/events/leonor-fini-memorie-triestine-parigi/Ballerina_al_banco_anni_60_-_acquerello_-_cm._60x40_-_coll._privata_Trieste.jpg "Ballerina al banco, anni '60 - acquerello - cm. 60x40 - coll. privata, Trieste")

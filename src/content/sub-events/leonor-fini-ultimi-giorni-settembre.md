@@ -3,7 +3,6 @@ title: "Sabato 18 e domenica 19 settembre sono gli ultimi due giorni per visitar
 slug: leonor-fini-ultimi-giorni-settembre
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-

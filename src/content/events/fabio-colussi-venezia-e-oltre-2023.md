@@ -15,7 +15,7 @@ info:
   invitations:
     - /media/colussi-invito.pdf
 subEvents:
-  - - Domani lunedì 15 gennaio ultimo giorno per visitare alla sala Xenia di Trieste la personale del pittore Fabio Colussi intitolata "Venezia e Oltre"
+  - - "Domani lunedì 15 gennaio ultimo giorno per visitare alla Sala Xenia di Trieste la personale del pittore Fabio Colussi intitolata \"Venezia e Oltre\""
 press:
   pressRelease: |-
     ![Sera a Venezia, 2022 - olio su tela - cm. 40x30](/media/colussi-sera-a-venezia-2022-olio-su-tela-cm-40x30.jpg "Sera a Venezia, 2022 - olio su tela - cm. 40x30")

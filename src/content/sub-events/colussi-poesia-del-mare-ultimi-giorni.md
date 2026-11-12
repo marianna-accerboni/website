@@ -1,7 +1,6 @@
 ---
 title: Ultimi giorni per visitare la mostra Fabio Colussi. Poesia del mare alla Sala Comunale d'Arte di Trieste fino al 30 marzo
 parent: fabio-colussi-poesia-del-mare-2022
-coverImage: ''
 info: null
 bodySection:
   body: |-

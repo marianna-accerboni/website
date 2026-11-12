@@ -3,7 +3,6 @@ title: "Venerdì 23 luglio: 'Leonor Fini segreta' nel ricordo delle cugine Fraus
 slug: leonor-fini-23-luglio
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-

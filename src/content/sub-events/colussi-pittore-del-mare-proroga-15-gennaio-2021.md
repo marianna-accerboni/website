@@ -3,7 +3,6 @@ title: "Fabio Colussi. Il pittore del mare: prorogata fino al 15 gennaio 2021 al
 slug: colussi-pittore-del-mare-proroga-15-gennaio-2021
 createdAt: 2026-10-16T09:16:00
 parent: fabio-colussi-il-pittore-del-mare-2020
-coverImage: /media/events/colussi-il-pittore-del-mare-2020/Luci_in_laguna_2018_-_olio_su_tela_-_cm_30x50.jpg
 info: null
 bodySection:
   body: |-

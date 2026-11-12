@@ -3,7 +3,6 @@ title: "Prodotte nel 1951 dalla Società Ceramica Italiana-S.C.I. di Laveno-Momb
 slug: leonor-fini-ceramiche-1951
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-

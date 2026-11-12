@@ -1,7 +1,6 @@
 ---
 title: Ultima settimana per visitare la mostra “Mauro Martoriati. Bora e Tergesteo”
 parent: mauro-martoriati-bora-e-tergesteo
-coverImage: ''
 info: null
 bodySection:
   body: |-

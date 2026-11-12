@@ -3,7 +3,6 @@ title: "Venerdì 2 luglio alle 18.30 alla Sala Luttazzi del Magazzino 26 del "
 slug: leonor-fini-2-luglio
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info: null
 bodySection:
   body: |-
