@@ -15,6 +15,7 @@ def do2(i,slug,title,info,subs,vname=None,chunk_fix=None,press_extra_chunk=None,
         t=t.rstrip(':')
         b=b.replace(f'/file/get/Eventi/{folder}/downloads/',media)
         subtitles.append(t); write_sub(sslug,t,slug,b); print('  sub',sslug,'|',t[:90])
+    info=[(k,(resolve_venue(v) if k=='venue' else v)) for k,v in info]
     pmd=convert(press,media,caps)
     if pre: pmd=pre+'\n\n'+pmd
     if press_prefix: pmd=press_prefix+'\n\n'+pmd

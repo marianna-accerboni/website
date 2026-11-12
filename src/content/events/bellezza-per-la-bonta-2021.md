@@ -5,7 +5,7 @@ createdAt: 2026-09-26T22:09:00
 coverImage: /media/Hazel_Marie_Cole_ingegnere_aeronautico_inglese.jpg
 info:
   openingDate: 2021-11-27 18:00
-  venue: Sede della Comunità Greco-Orientale di Trieste
+  venue: Sala Xenia della Comunità Greco-Orientale di Trieste
   periodStart: 2021-12-27
   periodEnd: 2021-12-12
   time: tutti i giorni ore 10 · 13 e 16 · 19

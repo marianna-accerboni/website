@@ -83,9 +83,36 @@ coverImage: {media}{cover}
 ---
 """
     open(f'{ROOT}/src/content/events/{slug}.md','w').write(s)
-def venue(name):
-    import re as _r
-    slug=_r.sub(r'[^a-z0-9]+','-',name.lower().replace("'",'').replace('’','')).strip('-')[:80]
-    p=f'{ROOT}/src/data/venues/{slug}.md'
-    if not os.path.exists(p):
-        open(p,'w').write(f'---\nname: {name}\n---\n'); print('new venue',name)
+def _vtokens(n):
+    import unicodedata
+    n=unicodedata.normalize('NFKD',n.lower()).encode('ascii','ignore').decode()
+    stop={'di','del','della','dello','dei','delle','da','a','al','alla','e','via','piazza','largo','viale','corso','campo','rue','trieste','gorizia','venezia','muggia','bruxelles','the','n','ts'}
+    return {t for t in re.findall(r'[a-z]+',n) if t not in stop and len(t)>1}
+def _venue_bank():
+    import glob
+    out={}
+    for f in glob.glob(f'{ROOT}/src/data/venues/*.md'):
+        m=re.search(r'^name: (.*)$',open(f).read(),re.M); v=m.group(1).strip()
+        if v[:1]=='"': v=json.loads(v)
+        elif v[:1]=="'": v=v[1:-1].replace("''","'")
+        out[v]=f
+    return out
+def resolve_venue(name):
+    """Return the name of an existing venue when `name` is (nearly) the same place, otherwise create a new venue file.
+    Never creates a duplicate: check the printed 'REUSE' / 'CHECK' lines."""
+    bank=_venue_bank()
+    if name in bank: return name
+    tk=_vtokens(name); best=None
+    for n in bank:
+        ot=_vtokens(n)
+        if not tk or not ot: continue
+        cont=len(tk&ot)/min(len(tk),len(ot)); jac=len(tk&ot)/len(tk|ot)
+        if best is None or cont>best[0]: best=(cont,jac,n)
+    if best and best[0]>=0.75 and len(tk&_vtokens(best[2]))>=2:
+        print(f'REUSE venue: "{name}" -> "{best[2]}"'); return best[2]
+    if best and best[0]>=0.5: print(f'CHECK similar venue: "{name}" ~ "{best[2]}" (created as new; merge if it is the same place)')
+    slug=re.sub(r'[^a-z0-9]+','-',name.lower().replace("'",'').replace('’','')).strip('-')[:80]
+    q_=json.dumps(name,ensure_ascii=False) if re.search(r': | #|^[\[\]{}&*!|>\'"%@`-]',name) else name
+    open(f'{ROOT}/src/data/venues/{slug}.md','w').write(f'---\nname: {q_}\n---\n'); print('new venue',name)
+    return name
+def venue(name): return resolve_venue(name)

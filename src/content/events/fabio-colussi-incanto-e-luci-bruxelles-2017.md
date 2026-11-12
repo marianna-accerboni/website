@@ -5,7 +5,7 @@ createdAt: 2026-11-11T12:22:00
 coverImage: /media/events/fabio-colussi-incanto-e-luci-bruxelles-2017/Lora_della_pesca_2016_-_olio_su_tela_-_cm_40x60_.jpg
 info:
   openingDate: 2017-11-22 18:30
-  venue: Ufficio di collegamento della Regione Friuli Venezia Giulia a Bruxelles Rue du Commerce 49 1000 Bruxelles· Belgio
+  venue: Ufficio di collegamento della Regione Friuli Venezia Giulia a Bruxelles · Rue du Commerce 49 · 1000 Bruxelles · Belgio
   periodStart: 2017-11-22
   periodEnd: 2017-12-08
   time: lunedì-giovedì 10.00-17.00, venerdì 10.00-13.00, con preavviso telefonico al +32 (0)25008840

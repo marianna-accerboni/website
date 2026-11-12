@@ -5,7 +5,7 @@ createdAt: 2026-11-11T21:36:00
 coverImage: /media/events/toponomastica-femminile-conferenza-stampa-2016/Giardino_Marion_e_Wanda_Wulz_-_foto_di_Nadia_Sirca.jpg
 info:
   openingDate: 2016-05-11 11:00
-  venue: Circolo della Stampa · corso Italia 13 · Trieste
+  venue: Sala Paolo Alessi del Circolo della Stampa · Corso Italia, 13 · Trieste
   hasCatalog: false
   infoContacts: 335 6587294 · 335 6750946
 press:

@@ -5,7 +5,7 @@ createdAt: 2026-09-20T06:23:00
 coverImage: /media/de-filippo-Francesco-De-Filippo.jpg
 info:
   openingDate: ''
-  venue: Ufficio di collegamento della Regione Friuli Venezia Giulia a Bruxelles
+  venue: Ufficio di collegamento della Regione Friuli Venezia Giulia a Bruxelles · Rue du Commerce 49 · 1000 Bruxelles · Belgio
   periodStart: ''
   periodEnd: ''
   time: ''

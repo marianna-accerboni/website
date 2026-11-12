@@ -5,7 +5,7 @@ createdAt: 2026-09-19T09:27:00
 coverImage: /media/pozzobon-Balena_di_Pinocchio_20202023_-_tecnica_mista_-_cm_20x25.jpg
 info:
   openingDate: 2026-02-21 18:30
-  venue: Sala Xenia della Comunità Greco-Orientale di Trieste (Riva 3 Novembre, 9) - Trieste
+  venue: Sala Xenia della Comunità Greco-Orientale di Trieste
   periodStart: 2026-02-22
   periodEnd: 2026-03-08
   time: orario tutti i giorni 10 – 13 e 16 – 20 / ingresso libero

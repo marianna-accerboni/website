@@ -5,7 +5,7 @@ createdAt: 2026-11-11T12:53:00
 coverImage: /media/events/bellezza-per-la-bonta-2017/Alda_Baglioni_-_I_ponti_dove_accorrono_tutti_i_piedi_stanchi_2005_-_tecnica_mista_su_tela_-_cm_30x40.jpg
 info:
   openingDate: 2017-11-04 18:00
-  venue: Sede della Comunità Greco-Orientale di Trieste
+  venue: Sala Xenia della Comunità Greco-Orientale di Trieste
   periodStart: 2017-11-04
   periodEnd: 2017-11-16
   time: tutti i giorni ore 11 · 13 / 17 · 19

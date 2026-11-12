@@ -5,7 +5,7 @@ createdAt: 2026-09-20T06:23:00
 coverImage: /media/feruglio-zanussi-06_Una_serie_di_acrilici_su_tela_di_Claudio_Mario_Feruglio_2.jpg
 info:
   openingDate: ''
-  venue: Ufficio di collegamento della Regione Friuli Venezia Giulia a Bruxelles Rue du Commerce 49 1000 Bruxelles· Belgio
+  venue: Ufficio di collegamento della Regione Friuli Venezia Giulia a Bruxelles · Rue du Commerce 49 · 1000 Bruxelles · Belgio
   periodStart: 2024-09-12
   periodEnd: 2024-10-31
   time: mattino dal lunedì al venerdì ore 10 – 12 / pomeriggio dal lunedì al giovedì ore 15 – 17 (chiuso sabato, domenica e festività)

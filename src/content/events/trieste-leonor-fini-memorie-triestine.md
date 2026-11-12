@@ -5,7 +5,7 @@ createdAt: 2026-09-27T10:03:00
 coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info:
   openingDate: 2021-06-26 21:00
-  venue: Polo museale del Magazzino 26 · Porto Vecchio · Trieste
+  venue: Magazzino 26 del Porto Vecchio di Trieste
   periodStart: 2021-06-26
   periodEnd: 2021-09-19
   time: mercoledì e giovedì 10 · 13 e 17 · 20 venerdì e domenica 10 · 13 e 17 · 21 sabato 10 · 13 e 15 · 21 · lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 81)

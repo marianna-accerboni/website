@@ -5,7 +5,7 @@ createdAt: 2026-11-11T11:29:00
 coverImage: /media/events/lin-delija-in-viaggio-verso-casa-2019/ballerina.jpg
 info:
   openingDate: 2019-03-23 17:30
-  venue: Galleria d'arte Mario Di Iorio della Biblioteca Statale Isontina · Via Mameli 12 · Gorizia
+  venue: Biblioteca Statale Isontina · via Mameli 12 · Gorizia
   periodStart: 2019-03-23
   periodEnd: 2019-04-09
   time: da lunedì a venerdì dalle 10.30 alle 18.30; sabato dalle 10.30 alle 13.00 / domenica e festivi chiuso / ingresso libero

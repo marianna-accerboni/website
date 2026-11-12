@@ -38,7 +38,7 @@ Schema: `src/content.config.ts`. CMS config: `public/admin/config.yml`.
 | (chosen) | `slug`: short, lowercase, no accents, e.g. `fabio-colussi-orizzonti-di-luce`, add the year when useful (`...-2019`). The file name equals the slug |
 | Header image | `coverImage` |
 | Inaugurazione / Presentazione | `info.openingDate` as `YYYY-MM-DD HH:mm` (always include a time) |
-| Dove | `info.venue`, must be a name from the venue bank `src/data/venues/*.md`; if new, **add a venue file** |
+| Dove | `info.venue`, must be a name from the venue bank `src/data/venues/*.md`. **Reuse an existing venue whenever it is the same place**, even if the old page spells it a little differently (extra hall name, comma, address detail). Only a genuinely new place gets a new venue file (see "Venues" below) |
 | Quando | `info.periodStart` / `info.periodEnd` (`YYYY-MM-DD`). **Only when the old page has a period.** One-off events (book/catalog presentations, concerts) get no period |
 | Orario | `info.time`, copied as written |
 | A cura di | `info.curator`. If the line is missing, leave it out |
@@ -53,6 +53,13 @@ Special cases:
   (Article 326 was imported earlier with both merged into the info block; it can be redone like 310.)
 - **Container event** with no event info, only sub-events (e.g. article 303): `info: null`; the press release is the programme text.
 - Info "Dove" with an extra address that looks pasted from another article: use the real venue only and flag it.
+
+### Venues (no duplicates)
+
+- Before creating a venue, read the bank (`grep '^name:' src/data/venues/*.md`) and decide whether the place already exists. Same building = same venue: "Sala Xenia", "Sede della Comunità Greco-Orientale" and "Sala del Giubileo" are one venue; "Museo Revoltella" and "Auditorium Museo Revoltella" are one venue; "Circolo della Stampa" and "Sala Paolo Alessi del Circolo della Stampa" are one venue.
+- The importer does this check for you: `importer.do2` passes every `info.venue` through `imp.resolve_venue()`, which reuses a near-identical existing name (prints `REUSE venue`) and only creates a file when nothing matches. Read the `REUSE` and `CHECK similar venue` lines of the output; if a `CHECK` line is the same place, merge it by hand (point the event to the existing name and delete the new file).
+- A different gallery that happens to share an address (Melori & Rosenberg vs Ghetto Et Cetera, Campo del Ghetto Novo 2919) stays separate. An itinerary with two places in one event may be one combined venue.
+- Venue names are written once and reused exactly: no stray punctuation, one canonical spelling.
 
 ## 3. Sub-events
 
