@@ -37,7 +37,7 @@ class P(HTMLParser):
         elif t=='br': s.flush()
         elif t=='iframe':
             s.flush(); at=' '.join(f'{k}="{v}"' if v is not None else k for k,v in a.items() if k in ('src','width','height','allowfullscreen'))
-            s.blocks.append(('raw',f'<iframe {at}></iframe>'))
+            at=re.sub(r'src="//','src="https://',at); s.blocks.append(('raw',f'<iframe {at}></iframe>'))
         elif t in('h3','h4'): s.flush(); s.b+=1
     def handle_endtag(s,t):
         if t in('p','div','ul','ol'): s.flush()
