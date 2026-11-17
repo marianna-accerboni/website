@@ -26,3 +26,27 @@ def do2(i,slug,title,info,subs,vname=None,chunk_fix=None,press_extra_chunk=None,
     if vname: venue(vname)
     print(i,'written',slug,'gallery',len(a['gal']))
     return a
+
+
+def do_free(i,slug,title,info,invs=(),dlkind='downloads',strip_table=True,drop=None,subs=()):
+    """Article without a COMUNICATO STAMPA heading: the whole body (minus the info table) is the press release."""
+    a=load(i); body=a['body']
+    if strip_table: body=re.sub(r'<table.*?</table>','',body,count=1,flags=re.S)
+    body=re.sub(r"<h3>(?:(?!</h3>).)*?(?:NEWS RELATIVE ALL'EVENTO|INFORMAZIONI UTILI)(?:(?!</h3>).)*?</h3>",'',body,flags=re.S)
+    media=f'/media/events/{slug}/'
+    caps={}
+    for m in re.finditer(r'<img[^>]*>',body):
+        tag=m.group(0); src=re.search(r'src="[^"]*/([^/"]+)"',tag)
+        al=re.search(r'alt="([^"]*)"',tag); ti=re.search(r'title="([^"]*)"',tag)
+        v=(al.group(1) if al and al.group(1).strip() else (ti.group(1) if ti else ''))
+        if src and v.strip(): caps[safe(html.unescape(src.group(1)))]=clean_title(v)
+    for k,v in a['gal']: caps[k]=v
+    bodyimgs=[reg(x) for x in re.findall(r'<img[^>]*src="[^"]*/file/get/Eventi/[^/]+/gallery/([^"]+)"',body)]
+    dest=f'public/media/events/{slug}'
+    download(a,set([a['hdr']]+[g for g,_ in a['gal']]+bodyimgs),dest)
+    if invs: download(a,list(invs),dest,dlkind)
+    press=convert(body,media,caps).replace(f'/file/get/Eventi/{a["folder"]}/downloads/',media)
+    if drop: press=re.sub(drop,'',press)
+    info=[(k,(resolve_venue(v) if k=='venue' else v)) for k,v in info]
+    write_event(slug,title,a['hdr'],info+([('invitations',f'\n    - {media}{invs[0]}')] if invs else []),[],press,a['gal'],media)
+    print(i,'written',slug,'gallery',len(a['gal']))

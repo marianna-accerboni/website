@@ -26,7 +26,7 @@ def split_body(body):
     body=re.sub(r'<table.*?</table>','',body,count=1,flags=re.S)
     _m=re.search(r'COMUNICATO STAMPA:?</h3>',body); k=_m.start()
     pre=body[:k]; press=body[_m.end():]
-    pre=re.sub(r"<h3>\s*(NEWS RELATIVE ALL'EVENTO|INFORMAZIONI UTILI):?\s*</h3>",'',pre)
+    pre=re.sub(r"<h3>(?:(?!</h3>).)*?(?:NEWS RELATIVE ALL'EVENTO|INFORMAZIONI UTILI)(?:(?!</h3>).)*?</h3>",'',pre,flags=re.S)
     chunks=[c for c in re.split(r'<hr[^>]*>',pre) if re.sub(r'<[^>]+>|&nbsp;|\s','',c) or '<img' in c or '<iframe' in c]
     return chunks,press
 def download(art,names,dest,kind='gallery'):
