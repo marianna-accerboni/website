@@ -6,9 +6,7 @@ parent: dominioni-trieste-nuovo-calendario-2015
 info: null
 bodySection:
   body: |-
-    ![Mostra Dominioni: Nuovo calendario eventi](/media/events/dominioni-trieste-nuovo-calendario-2015/Alessandro_Gualtieri.jpg "Mostra Dominioni: Nuovo calendario eventi")
-
-    Alessandro Gualtieri
+    ![Alessandro Gualtieri](/media/events/dominioni-trieste-nuovo-calendario-2015/Alessandro_Gualtieri.jpg "Alessandro Gualtieri")
 
     Visitata da più di 4000 persone e aperta fino al 17 ottobre, **la grande mostra su Paolo Caccia Dominioni propone lunedì 5 ottobre alle 17.30 alla Biblioteca Statale _S. Crise_ di Trieste (Largo Papa Giovanni XXIII, 6) ancora uno studioso d'eccezione: Alessandro Gualtieri, eminente esperto internazionale della Grande Guerra, sulla quale ha scritto numerosi libri tradotti anche in inglese, e autore dei testi del Volume 8 sulle donne nel 1° conflitto edito da La Repubblica-L'Espresso. Introdotto dalla curatrice Marianna Accerboni, presenterà il suo ultimo libro intitolato “La Grande Guerra delle donne” (Mattioli 1885, pgg. 160, € 16), dedicato all'insostituibile presenza femminile sul fronte dell'Isonzo e su quello dell'Yser in Belgio e alla condizione e all'emancipazione femminile nel 1° conflitto mondiale, con un focus su crocerossine, operaie, donne soldato, eroine e meretrici. Seguirà una degustazione di vini offerta dall'Azienda Zidarich di Prepotto (Duino Aurisina). Info 3356750946.**
 
