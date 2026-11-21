@@ -1,21 +1,22 @@
 ---
-title: "Il 14 marzo al Circolo della Stampa di Trieste i 50 anni di pittura di Silvano Clavora in una monografia"
+title: Il 14 marzo al Circolo della Stampa di Trieste i 50 anni di pittura di Silvano Clavora in una monografia
 slug: silvano-clavora-50-anni-di-pittura-2014
 createdAt: 2026-11-17T08:51:00
 coverImage: /media/events/silvano-clavora-50-anni-di-pittura-2014/clavora_coperta.jpg
 info:
   openingDate: 2014-03-14 18:00
   venue: Sala Paolo Alessi del Circolo della Stampa · Corso Italia, 13 · Trieste
+  periodStart: ''
+  periodEnd: ''
   time: ore 18.00
   curator: Marianna Accerboni
   hasCatalog: false
   infoContacts: +39 335 6750946
   invitations:
     - /media/events/silvano-clavora-50-anni-di-pittura-2014/invito.pdf
+subEvents: []
 press:
   pressRelease: |-
-    ![Immagine della copertina](/media/events/silvano-clavora-50-anni-di-pittura-2014/clavora_coperta.jpg "Immagine della copertina")
-
     **Venerdì 14 marzo alle 18 nella Sala Paolo Alessi del Circolo della Stampa di Trieste** (corso Italia 13) **avrà luogo la presentazione** del**l'elegante monografia dedicata al pittore Silvano Clavora, che ripercorre attraverso più di 200 pagine e numerosissime immagini a colori il lungo itinerario creativo e l'inesausta sperimentazione condotta dal '63 al 2013 dall'artista triestino**, **che in modo del tutto personale ha saputo interpretare lo spirito delle avanguardie del 2° novecento e degli anni 2000.**
 
     **All'incontro, organizzato e condotto dall'arch. Marianna Accerboni, interverranno il critico Sergio Brossi e Adriano Dugulin dell'Area Cultura e Sport del Comune di Trieste**, cui si deve la prefazione del volume, il quale si avvale dei **testi inediti di Accerboni e dello stesso Brossi** (info 335 6750946).

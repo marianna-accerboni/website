@@ -79,6 +79,7 @@ Special cases:
 - Every image gets alt text **and** title = the caption of the old page, otherwise the file name with underscores turned into spaces.
 - **Do not repeat the caption as text** below an image in the press release (the image already carries it). Remove it, including multi-line captions. `scripts/dedupe2.py` finds leftovers.
 - Cover image = the header image, also first gallery item.
+- **The cover image is never repeated inside the press release.** If the press release starts with (or contains) the same picture as the cover, remove it from the text (`importer` does this automatically). If an article has only one image, that image is the cover and the press release has no image.
 
 ## 5. Markdown conventions (match what Sveltia CMS writes, otherwise Save is active on first open)
 

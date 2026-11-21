@@ -116,3 +116,13 @@ def resolve_venue(name):
     open(f'{ROOT}/src/data/venues/{slug}.md','w').write(f'---\nname: {q_}\n---\n'); print('new venue',name)
     return name
 def venue(name): return resolve_venue(name)
+
+def drop_cover_dup(md, cover):
+    """The cover image must not be repeated in the press release: drop an image line that points to the same file."""
+    name=cover.split('/')[-1]
+    out=[]; skip=False
+    for line in md.split('\n'):
+        if re.match(r'^\s*!\[.*?\]\([^)]*'+re.escape(name)+r'[ )"]',line): skip=True; continue
+        if skip and line.strip()=='' : skip=False; continue
+        skip=False; out.append(line)
+    return '\n'.join(out).strip('\n')
