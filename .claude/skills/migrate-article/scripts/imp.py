@@ -26,7 +26,7 @@ def load(i):
     return dict(t=t,body=body,hdr=(reg(html.unescape(hdr).strip().split('/gallery/',1)[1]) if '/gallery/' in hdr else safe(html.unescape(hdr).strip().split('/')[-1])),folder=folder,gal=gal)
 def split_body(body):
     body=re.sub(r'<table.*?</table>','',body,count=1,flags=re.S)
-    _m=re.search(r'COMUNICATO STAMPA:?(?:</\w+>)*\s*</h3>',body); k=_m.start()
+    _m=re.search(r'COMUNICATO STAMPA:?(?:</\w+>)*\s*</h3>',body,re.I); k=_m.start()
     pre=body[:k]; press=body[_m.end():]
     pre=re.sub(r"<h3>(?:(?!</h3>).)*?(?:NEWS RELATIVE ALL'EVENTO|INFORMAZIONI UTILI)(?:(?!</h3>).)*?</h3>",'',pre,flags=re.S)
     chunks=[c for c in re.split(r'<hr[^>]*>',pre) if re.sub(r'<[^>]+>|&nbsp;|\s','',c) or '<img' in c or '<iframe' in c]
