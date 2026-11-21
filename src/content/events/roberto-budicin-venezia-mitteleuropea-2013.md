@@ -16,7 +16,7 @@ info:
     - /media/events/roberto-budicin-venezia-mitteleuropea-2013/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="http://www.youtube.com/embed/Y93S8IPwQTU" width="350" height="288"></iframe>
+    <iframe src="https://www.youtube.com/embed/Y93S8IPwQTU" width="350" height="288"></iframe>
 
     Video dell'inaugurazione
 

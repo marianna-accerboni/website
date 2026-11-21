@@ -16,7 +16,7 @@ info:
     - /media/events/carlo-fontanella-rigore-e-liberta-2013/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="http://www.youtube.com/embed/3s4agWDNZqE" width="350" height="288"></iframe>
+    <iframe src="https://www.youtube.com/embed/3s4agWDNZqE" width="350" height="288"></iframe>
 
     Video dell'inaugurazione
 

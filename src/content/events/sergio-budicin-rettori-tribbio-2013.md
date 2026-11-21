@@ -16,7 +16,7 @@ info:
     - /media/events/sergio-budicin-rettori-tribbio-2013/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="http://www.youtube.com/embed/A6Kym8lbYL8" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+    <iframe src="https://www.youtube.com/embed/A6Kym8lbYL8" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
 
     Video dell'inaugurazione
 

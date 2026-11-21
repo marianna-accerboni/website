@@ -20,7 +20,7 @@ subEvents:
   - - "Prorogata fino al 12 maggio 2013 per il grande successo di pubblico la mostra Il nuovo realismo di Livio Rosignano alla Lux Art Gallery di Trieste"
 press:
   pressRelease: |-
-    <iframe src="http://www.youtube.com/embed/6YbdH-QD_wA" width="350" height="288"></iframe>
+    <iframe src="https://www.youtube.com/embed/6YbdH-QD_wA" width="350" height="288"></iframe>
 
     Video dell'inaugurazione
 
