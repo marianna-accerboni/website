@@ -12,6 +12,8 @@ def clean_title(t):
     t=html.unescape(t).replace('’',"'"); t=re.sub(r'-_[a-z_0-9]+$','',t.strip()); t=re.sub(r'(?i)\.(jpe?g|png)$','',t); return re.sub(r'\s+',' ',t).strip()
 def load(i):
     t=open(f'{WORK}/a{i}.html',encoding='utf8',errors='replace').read()
+    # old Flash YouTube embeds: <object data=".../v/ID"> -> iframe
+    t=re.sub(r'<object[^>]*data="https?://www\.youtube\.com/v/([^"?&]+)[^"]*"[^>]*>.*?</object>',r'<iframe src="https://www.youtube.com/embed/\1" width="350" height="288"></iframe>',t,flags=re.S)
     j=t.find('<div class="article_body">')+len('<div class="article_body">'); k=t.find('</div>\n        </div>',j); body=t[j:k]
     hdr=re.search(r'href="([^"]+)"[^>]*\s+title=""\s+class="lightbox"\s+rel="lightbox-gallery-header"',t,re.S).group(1)
     folder=re.search(r'/Eventi/([^/]+)/',hdr).group(1)
@@ -36,8 +38,15 @@ def download(art,names,dest,kind='gallery'):
         if os.path.exists(p) and os.path.getsize(p)>0: continue
         import urllib.parse
         u=f'{BASE}/file/get/Eventi/{art["folder"]}/{kind}/'+(SUB.get(n,'') if kind=='gallery' else '')+urllib.parse.quote(ORIG.get(n,n))
-        r=subprocess.run(['curl','-s','-f','-L','-o',p,u]); 
-        if r.returncode: print('DOWNLOAD FAIL',u); 
+        r=subprocess.run(['curl','-s','-f','-L','-o',p,u])
+        if r.returncode and kind=='downloads':
+            # the old site sometimes spells the folder 'download' or 'dowloads'
+            for alt in ('dowloads','download'):
+                r=subprocess.run(['curl','-s','-f','-L','-o',p,u.replace('/downloads/','/'+alt+'/')])
+                if not r.returncode: break
+        if r.returncode:
+            print('DOWNLOAD FAIL',u)
+            if os.path.exists(p): os.remove(p)
 def sub_md(chunk,media,captions=None,title=None,drop_first=False):
     md=convert(chunk,media,captions)
     blocks=md.split('\n\n')
