@@ -1,0 +1,42 @@
+---
+title: "L'arte al femminile"
+slug: arte-al-femminile-sala-fittke-2013
+createdAt: 2026-11-21T14:19:00
+coverImage: /media/events/arte-al-femminile-sala-fittke-2013/Nora_Carella_-_Venezia_Madonna_della_Salute_-_2010_-_olio_su_tela_-_cm._100_x_70.jpg
+info:
+  openingDate: 2013-07-16 19:00
+  venue: Sala Arturo Fittke · Piazza Piccola 3 · Trieste
+  periodStart: 2013-07-17
+  periodEnd: 2013-08-14
+  time: feriale e festivo 10.00 / 13.00 · 17.00 / 20.00
+  curator: Marianna Accerboni
+  hasCatalog: false
+  infoContacts: +39 335 6750946
+  invitations:
+    - /media/events/arte-al-femminile-sala-fittke-2013/invito.pdf
+subEvents:
+  - - "Domenica 11 agosto un happening di pittura e musica conclude alla sala Fittke la mostra “L'arte al femminile” - 51° collettiva delle socie F.I.D.A.P.A. della sezione storica di Trieste, visitata finora da più di 1300 persone e aperta fino al 14 agosto"
+  - - "Martedì 6 agosto alle 19.00 alla Sala Fittke Marianna Accerboni, curatrice della mostra, terrà una visita guidata alla rassegna “L'arte al femminile”, 51° collettiva delle socie F.I.D.A.P.A. - Sezione Storica di Trieste, visitata finora da più di 1200 persone"
+  - - "Grande successo di pubblico alla Sala Fittke per la rassegna “L'arte al Femminile” - 51° collettiva delle socie F.I.D.A.P.A. della Sezione Storica di Trieste, visitata nella prima settimana da più di 600 persone"
+press:
+  pressRelease: |-
+    ![Rossana Longo - St. Michael's Mount, 2009](/media/events/arte-al-femminile-sala-fittke-2013/s_Mount_-_2009_-_olio_su_tela_tecnica_antica_-_cm._80x40.jpg "Rossana Longo - St. Michael's Mount, 2009")
+
+    olio su tela (tecnica antica) - cm. 80x40
+
+    S'inaugura martedì 16 luglio 2013 alle ore 19 a Trieste, nella Sala “Arturo Fittke” di Piazza Piccola, 3, la 51° Mostra Collettiva delle Socie F.I.D.A.P.A. organizzata dalla Sezione Storica di Trieste della Federazione Italiana Donne Arti Professioni Affari in collaborazione con il Comune di Trieste. Intitolata **_Arte al femminile_** e curata dall'architetto **Marianna Accerboni**, che introdurrà l'esposizione, la rassegna vede protagoniste le socie artiste del sodalizio **Nora Carella**, **Egle Ciacchi**, **Giuliana Griselli**, **Gabriella Giurovich**, **Rossana Longo**, **Valdea Maniago Ravalico, Marta Potenzieri Reale, Paola Sbisà, Edda Romanzin Starz**, presenti con dipinti realizzati a olio, tecnica mista.
+
+    La rassegna propone anche quest'anno alcune novità poiché accosta ai dipinti, i preziosi lavori dedicati alla moda e ai gioielli da due stiliste, la creatrice di moda di origine pugliese **Nika Bianco** e l'architetto triestino **Anna Negrelli**, componendo, mediante tecniche, linguaggi e orientamenti di gusto diversi, un interessante e variegato microcosmo creativo.
+
+    “Va sottolineato che Trieste – scrive Marianna Accerboni - luogo colto e per molti aspetti all'avanguardia, è stata una delle prime città italiane in cui venne costituita una sezione F.I.D.A.P.A.; non solo, ma nel suo nucleo fondatore, già negli anni Trenta, comparivano molte artiste”.
+
+    Un _fil rouge_ lega infatti il mondo dell'arte triestina alla F.I.D.A.P.A., associazione femminile sorta negli Stati Uniti alla fine degli anni Venti per fronteggiare la crisi economica dell'epoca. Oggi la Sezione Italiana, con più di undicimila iscritte, è la più numerosa al mondo e quella triestina fu fondata 52 anni fa proprio da una pittrice, Giusy Bradaschia.
+
+    **Nora Carella,** artista 95enne in piena attività, temperamento vivacissimo e profondo, durante la sua lunga carriera ha saputo sperimentare con successo in pittura i vari generi, dedicandosi con passione al ritratto, nel cui ambito è divenuta molto famosa e ricercata per la sua capacità di cogliere la fisionomia interiore del soggetto. In quest'occasione presenta delle oniriche vedute lagunari intrise di luce e fascino essenziale e di trasparenze d'inclinazione postimpressionista. **Egle Ciacchi**, formatasi in particolare con i maestri Raffaella Busdon, Franco Chersicola, Paolo Cervi Kervischer, Franco Dugo e alla Scuola di acquaforte Carlo Sbisà, si esprime attraverso una stesura cromatica e compositiva di grande chiarezza e qualità, capace di selezionare i pieni e i vuoti, i chiaroscuri e gli addensamenti emozionali con equilibrio ed esiti di notevole eleganza: testimonia con originalità, supportata da un abile e istintivo gesto cromatico, il proprio pensiero pittorico teso all'astrazione e volto a decrittare con sensibile chiarezza il significato segreto e magico delle cose. L'acquerello è una tra le tecniche predilette da **Marta Potenzieri Reale**, che si manifesta con vivace lirismo: la pittrice ha affinato il suo linguaggio in Inghilterra e ha esposto ripetutamente e con grande successo al Gran Palais di Parigi e a Venezia. Autrice di talento, dai suoi viaggi trae spesso ispirazione per rappresentare freschi e fascinosi paesaggi e nature morte originalmente realizzate attraverso l'applicazione della filosofia zen alla creatività artistica: attraverso l'immaginazione coglie e ripropone in forma quasi onirica l'essenza delle cose declinate secondo un felice connubio cromatico e compositivo, come accade per le opere esposte in questa occasione. L'acquerello è declinato con garbo ed estro fantastico, grazie anche all'approfondimento tecnico svolto nell'atelier del pittore triestino Lido Dambrosi e successivamente in prestigiose scuole inglesi di acquerello, in Spagna, in Toscana e a Venezia. Recentemente è stata invitata alla Biennale 2011 al Magazzino 26 del Portovecchio di Trieste così come **Gabriella Giurovich**, che reinterpreta in modo del tutto personale e avvincente il reale, sintetizzandolo attraverso un significativo processo di sintesi volto all'astrazione e intriso di un linguaggio intensamente espressionista, che l'artista declina con grande sensibilità e vigore, memore del messaggio intenso di Munch ma anche della magia chagalliana. L'architetto **Giuliana Griselli**, già nota per il design di bijoux d'alta classe, propone in questa occasione la sua luminosa maniera pittorica, coltivata fin dagli anni giovanili e caratterizzata da un'interpretazione di gusto espressionista del reale, sottolineata da un'armonica ma intensa sensibilità cromatica, per cui ha meritato prestigiosi riconoscimenti.
+
+    La pittrice muggesana **Rossana Longo**, molto ferrata nelle più svariate tecniche pittoriche antiche e contemporanee, pure presente alla Biennale 2011, propone un'ideale, nuova e raffinata interpretazione del paesaggio marino accanto a un'immagine più tradizionale, in cui si evince grande talento e un'accentuata e personale sensibilità cromatica. **Valdea Maniago Ravalico**, formatasi in particolare alla scuola del pittore triestino Ottavio Bomben e con i maestri Mario Rigoni, Walter Falzari, Paolo Cervi Kervischer e Vittorio Porro, reinterpreta con accurata grazia e ispirazione il tema del ritratto e della figura umana, addolcendolo con colori pastosi e seduttivi. **Paola Sbisà**, designer di splendidi gioielli e pittrice, espone una fitta sequenza d'incisioni, che rammentano il suo grande amore per la natura e per i viaggi, donandoci con sottile lirismo e grazie a un'ottima capacità tecnica e una delicata sensibilità, il sapore di luoghi solitari e nascosti: un altrove interpretato con la grazia che le è propria. Al ritratto e alla natura morta si dedica **Edda Romanzin Starz,** interpretando tali temi con sensibile intensità per il dato luministico ed esprimendosi con delicatezza e serena aderenza alla realtà. Dopo un primo periodo di formazione con il pittore Walter Falzari, la pittrice, che ama ritrarre dal vero i soggetti delle sue opere, ha preso parte a diverse rassegne nazionali e internazionali. **Nika Bianco** espone delle elegantissime creazioni di fattura sartoriale come l'abito da sera di taffetas e le rievocazioni di costumi d'epoca in velluto, voile, tela e cady, corredati da bozzetti e caratterizzati da una linea estremamente essenziale, che coniugano raffinatezza e fantasia.
+
+    L'architetto **Anna Negrelli** presenta invece una significativa e intrigante selezione dei suoi originalissimi gioielli realizzati in argento, rame e pietre, in cui il piacere della sintesi s'intreccia a un sottile divertissement creativo. Accanto a questi la designer propone una serie di abili acqueforti acquetinte ispirate prevalentemente al tema del mare.
+gallerySection: null
+draft: false
+---
