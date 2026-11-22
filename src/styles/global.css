@@ -199,6 +199,31 @@ input {
   background: var(--bg-sunken);
 }
 
+.prose .embed + .embed-caption,
+.prose .embed-caption + .embed-caption {
+  margin-top: 12px;
+}
+
+.prose .embed-caption {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--muted);
+  text-align: center;
+}
+
+.prose .embed-caption + .embed-caption {
+  margin-top: 0;
+}
+
+.prose .embed:has(+ .embed-caption) {
+  margin-bottom: 0;
+}
+
+.prose .embed-caption + :not(.embed-caption) {
+  margin-top: 2.2em;
+}
+
 .prose .embed--social {
   aspect-ratio: auto;
   min-height: 360px;
@@ -209,6 +234,81 @@ input {
   height: 100%;
   border: 0;
   display: block;
+}
+
+/* one contact per line (event sheet and scheda cards) */
+.contact-line {
+  display: block;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+/* ---------- "Scheda" blocks inside long texts ---------- */
+.prose .schede {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin-block: 2.2em;
+}
+
+.prose .schede-heading {
+  margin-top: 2.2em;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  line-height: 1.4;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.prose .schede-heading + .schede {
+  margin-top: 14px;
+}
+
+.prose .scheda {
+  margin: 0;
+  padding: 20px 22px 22px;
+  border: 1px solid var(--line);
+  background: var(--bg-raised);
+  font-family: var(--font-sans);
+}
+
+.prose .scheda__title {
+  margin: 0 0 14px;
+  font-size: 15px;
+  line-height: 1.35;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  color: var(--text);
+}
+
+.prose .scheda__rows {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+}
+
+.prose .scheda__row dt {
+  margin: 0 0 2px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.prose .scheda__row dd {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--text-2);
+  overflow-wrap: anywhere;
+}
+
+.prose .scheda__row dd strong {
+  color: var(--text);
 }
 
 @media (max-width: 727px) {

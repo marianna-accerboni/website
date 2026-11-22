@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { href } from '../../lib/url';
-import { renderMarkdown, renderInline } from '../../lib/markdown';
+import { renderMarkdown, renderInline, renderContacts } from '../../lib/markdown';
 import {
   getEvents,
   getSubEvents,
@@ -44,7 +44,7 @@ if (info?.venue) rows.push({ label: 'Sede', html: await renderInline(info.venue)
 if (info?.time) rows.push({ label: 'Orario', html: await renderInline(info.time), wide: info.time.length > 60 });
 if (info?.curator) rows.push({ label: 'A cura di', html: await renderInline(info.curator), wide: info.curator.length > 60 });
 if (info?.hasCatalog) rows.push({ label: 'Catalogo', html: 'Disponibile' });
-if (info?.infoContacts) rows.push({ label: 'Info e contatti', html: await renderInline(info.infoContacts), wide: true });
+if (info?.infoContacts) rows.push({ label: 'Info e contatti', html: await renderContacts(info.infoContacts), wide: true });
 const invitations = (info?.invitations ?? []).filter(Boolean);
 const invitationLabel = (file: string, i: number) => {
   const name = file.split('/').pop()!.replace(/\.[^.]+$/, '');
@@ -930,8 +930,32 @@ const description = excerpt(press?.pressRelease, 160) || title;
       border-bottom: 0;
     }
 
+    /* day on the left, month and year stacked beside it, time underneath */
+    .layout--aside .tile {
+      grid-template-columns: auto 1fr;
+      align-items: end;
+      column-gap: 12px;
+    }
+
     .layout--aside .tile__day {
+      grid-row: span 2;
       font-size: 56px;
+    }
+
+    .layout--aside .tile__month {
+      margin-top: 0;
+      font-size: 16px;
+      line-height: 1.1;
+    }
+
+    .layout--aside .tile__year {
+      margin-top: 2px;
+      padding-bottom: 3px;
+      font-size: 14px;
+    }
+
+    .layout--aside .tile__time {
+      margin-top: 10px;
     }
 
     .layout--aside .sheet__rows {
