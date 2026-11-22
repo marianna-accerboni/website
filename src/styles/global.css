@@ -15,6 +15,28 @@
   --accent: #e0573d; /* vermilion, used sparingly */
   --accent-ink: #ff8a6e;
   --focus: #f1b39f;
+  --year: #5a5650; /* big year numbers in the archive */
+  --overlay: rgba(8, 8, 7, 0.97); /* full-screen image viewer */
+  --scrim: rgba(0, 0, 0, 0.7);
+}
+
+/* Light theme: warm paper, near-black ink, the same vermilion slightly deeper */
+:root[data-theme='light'] {
+  color-scheme: light;
+  --bg: #faf8f4;
+  --bg-raised: #f2eee7;
+  --bg-sunken: #ebe6dd;
+  --line: #e3ded4;
+  --line-strong: #cec6b8;
+  --text: #1c1a17;
+  --text-2: #4a4640;
+  --muted: #7a7469;
+  --accent: #c8432a;
+  --accent-ink: #b23a22;
+  --focus: #c8432a;
+  --year: #c2bbaf;
+  --overlay: rgba(250, 248, 244, 0.97);
+  --scrim: rgba(28, 26, 23, 0.35);
 }
 
 :root {

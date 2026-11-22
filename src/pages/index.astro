@@ -11,7 +11,9 @@ import {
   venueCity,
   excerpt,
   searchable,
-  yearOf
+  yearOf,
+  dateTile,
+  formatTime
 } from '../lib/events';
 
 const events = await getEvents();
@@ -40,16 +42,21 @@ const items = events.map(({ entry, number }) => {
     startISO: start ? start.toISOString() : '',
     endISO: end ? end.toISOString() : '',
     search: searchable(d.title, d.info?.venue, d.info?.curator, String(yearOf(sortDate(entry))), excerpt(d.press?.pressRelease, 600)),
-    hasNews: (d.subEvents ?? []).length > 0
+    hasNews: (d.subEvents ?? []).length > 0,
+    createdISO: d.createdAt ? d.createdAt.toISOString() : '',
+    tile: dateTile(d.info?.openingDate ?? d.createdAt ?? sortDate(entry)),
+    tileTime: formatTime(d.info?.openingDate ?? null)
   };
 });
 
-// Featured block: events still running or coming; when there are none, the latest four past events.
-// "Eventi passati" never repeats what the featured block shows. The page script re-checks both
-// against the visitor's clock, so the page stays right between deploys.
-const isLive = (i: (typeof items)[number]) => !!i.endISO && new Date(i.endISO) >= now;
-const upcoming = items.filter(isLive).reverse();
-const latest = items.filter((i) => !isLive(i)).slice(0, 4);
+// "Prossimi eventi": events whose creation date (data di creazione) is still ahead, at most three,
+// soonest first. They are left out of "Ultimi eventi" and "Eventi passati". The page script re-checks
+// the dates against the visitor's clock, so an event moves down by itself once its date has passed.
+const isComing = (i: (typeof items)[number]) => !!i.createdISO && new Date(i.createdISO) > now;
+const coming = items.filter(isComing).sort((a, b) => a.createdISO.localeCompare(b.createdISO)).slice(0, 3);
+const comingSlugs = new Set(coming.map((i) => i.slug));
+// "Ultimi eventi": the latest four that are not coming; "Eventi passati" never repeats them.
+const latest = items.filter((i) => !comingSlugs.has(i.slug)).slice(0, 4);
 const latestSlugs = new Set(latest.map((i) => i.slug));
 
 // Archive grouped by year
@@ -62,33 +69,43 @@ for (const it of items) {
 ---
 
 <BaseLayout>
-  <section class="wrap feature" data-feature>
-    <header class="section-head">
-      <h1 class="section-title" data-feature-title>Ultimi eventi</h1>
-    </header>
-
-    {
-      upcoming.length > 0 && (
-        <div class="feature__grid" data-feature-group="upcoming" hidden>
-          <div class="feature__lead" data-lead />
-          <div class="feature__side" data-side>
-            {upcoming.map((it) => (
-              <a class="card" href={it.url} data-start={it.startISO} data-end={it.endISO}>
-                <div class="card__media">
-                  {it.cover && <img src={it.cover} alt="" loading="lazy" decoding="async" />}
+  {
+    coming.length > 0 && (
+      <section class="wrap coming" data-coming aria-labelledby="prossimi">
+        <div class="coming__panel">
+          <header class="coming__head">
+            <h2 class="coming__title" id="prossimi">Prossimi eventi</h2>
+          </header>
+          <div class:list={['coming__grid', `coming__grid--${coming.length}`]} data-coming-grid>
+            {coming.map((it) => (
+              <a class="next" href={it.url} data-created={it.createdISO}>
+                <div class="next__media">
+                  {it.cover && <img src={it.cover} alt="" loading="eager" decoding="async" />}
                 </div>
-                <div class="card__body">
-                  <p class="card__status" data-status />
-                  <h2 class="card__title">{it.title}</h2>
-                  <p class="card__meta">{[it.when, it.venue].filter(Boolean).join(' · ')}</p>
-                  {it.excerpt && <p class="card__excerpt">{it.excerpt}</p>}
+                <div class="next__body">
+                  <p class="next__date">
+                    <span class="next__day">{it.tile.day}</span>
+                    <span class="next__month">
+                      {it.tile.month} {it.tile.year}
+                      {it.tileTime && <span class="next__time">{it.tileTime}</span>}
+                    </span>
+                  </p>
+                  <h3 class="next__name">{it.title}</h3>
+                  {it.venue && <p class="next__venue">{it.venue}</p>}
+                  {coming.length === 1 && it.excerpt && <p class="next__excerpt">{it.excerpt}</p>}
                 </div>
               </a>
             ))}
           </div>
         </div>
-      )
-    }
+      </section>
+    )
+  }
+
+  <section class="wrap feature" data-feature>
+    <header class="section-head">
+      <h1 class="section-title">Ultimi eventi</h1>
+    </header>
 
     <div class="feature__grid" data-feature-group="latest">
       {latest[0] && (
@@ -147,7 +164,7 @@ for (const it of items) {
           <h3 class="year__label">{group.year}</h3>
           <ol class="year__list">
             {group.items.map((it) => (
-              <li class="entry" data-entry data-q={it.search} data-end={it.endISO} data-latest={latestSlugs.has(it.slug) ? '' : undefined}>
+              <li class="entry" data-entry data-q={it.search} data-created={it.createdISO} data-latest={latestSlugs.has(it.slug) ? '' : undefined}>
                 <a class="entry__link" href={it.url}>
                   <div class="entry__media">
                     {it.cover && <img src={it.cover} alt="" loading="lazy" decoding="async" />}
@@ -205,6 +222,186 @@ for (const it of items) {
     margin: 0;
     font-size: 13px;
     color: var(--muted);
+  }
+
+
+  /* ---------- prossimi eventi ---------- */
+  .coming {
+    padding-top: 40px;
+  }
+
+  .coming[hidden] {
+    display: none;
+  }
+
+  .coming__panel {
+    position: relative;
+    padding: 28px 32px 32px;
+    background: var(--bg-raised);
+    border: 1px solid var(--line);
+    border-top: 2px solid var(--accent);
+  }
+
+  .coming__head {
+    margin-bottom: 24px;
+  }
+
+  .coming__title {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent-ink);
+  }
+
+  .coming__grid {
+    display: grid;
+    gap: 32px;
+  }
+
+  .coming__grid--2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .coming__grid--3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .next {
+    display: grid;
+    gap: 18px;
+    align-content: start;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .next[hidden] {
+    display: none;
+  }
+
+  .next__media {
+    aspect-ratio: 16 / 10;
+    overflow: hidden;
+    background: var(--bg-sunken);
+  }
+
+  .next__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.6s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+
+  .next:hover .next__media img {
+    transform: scale(1.025);
+  }
+
+  .next__date {
+    display: flex;
+    align-items: flex-end;
+    gap: 12px;
+    margin: 0 0 12px;
+    line-height: 1;
+  }
+
+  .next__day {
+    font-size: 48px;
+    font-weight: 500;
+    letter-spacing: -0.05em;
+    line-height: 0.85;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .next__month {
+    display: grid;
+    gap: 4px;
+    padding-bottom: 2px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent-ink);
+  }
+
+  .next__time {
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: none;
+    color: var(--text-2);
+  }
+
+  .next__name {
+    margin: 0;
+    font-size: 19px;
+    line-height: 1.3;
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    text-wrap: pretty;
+  }
+
+  .next:hover .next__name {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+    text-decoration-color: var(--line-strong);
+  }
+
+  .next__venue {
+    margin: 8px 0 0;
+    font-size: 14px;
+    color: var(--muted);
+  }
+
+  .next__excerpt {
+    margin: 16px 0 0;
+    font-family: var(--font-serif);
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--text-2);
+  }
+
+  /* a single coming event gets the wide, image-left layout */
+  .coming__grid--1 .next {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    gap: 36px;
+    align-items: center;
+  }
+
+  .coming__grid--1 .next__name {
+    font-size: clamp(22px, 2.4vw, 30px);
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+
+  .coming + .feature {
+    padding-top: 56px;
+  }
+
+  @media (max-width: 860px) {
+    .coming__grid--3 {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 760px) {
+    .coming {
+      padding-top: 24px;
+    }
+
+    .coming__panel {
+      padding: 22px 18px 24px;
+    }
+
+    .coming__grid--2,
+    .coming__grid--3,
+    .coming__grid--1 .next {
+      grid-template-columns: minmax(0, 1fr);
+    }
+
+    .coming__grid--1 .next {
+      gap: 18px;
+    }
   }
 
   /* ---------- featured block ---------- */
@@ -421,7 +618,7 @@ for (const it of items) {
     line-height: 1;
     font-weight: 500;
     letter-spacing: -0.04em;
-    color: #5a5650;
+    color: var(--year);
     font-variant-numeric: tabular-nums;
     background: linear-gradient(var(--bg) 80%, transparent);
   }
@@ -690,50 +887,28 @@ for (const it of items) {
   const norm = (s: string) =>
     s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
 
-  // ----- featured block: decide with the visitor's clock -----
+  // ----- "Prossimi eventi": re-check the creation dates with the visitor's clock -----
   const now = Date.now();
-  const upcomingGroup = document.querySelector<HTMLElement>('[data-feature-group="upcoming"]');
-  const latestGroup = document.querySelector<HTMLElement>('[data-feature-group="latest"]');
-  const featureTitle = document.querySelector<HTMLElement>('[data-feature-title]');
-  if (upcomingGroup) {
-    const cards = [...upcomingGroup.querySelectorAll<HTMLElement>('[data-end]')];
-    let shown = 0;
-    cards.forEach((c) => {
-      const end = Date.parse(c.dataset.end || '');
-      const start = Date.parse(c.dataset.start || '');
-      const live = end >= now;
-      c.hidden = !live;
-      if (!live) return;
-      shown++;
-      const status = c.querySelector('[data-status]');
-      if (status) status.textContent = start && start > now ? 'Prossimamente' : 'In corso';
-    });
-    // the first visible card becomes the lead
-    const first = cards.find((c) => !c.hidden);
-    const leadSlot = upcomingGroup.querySelector('[data-lead]');
-    if (first && leadSlot) {
-      first.classList.add('card--lead');
-      first.querySelector('img')?.setAttribute('loading', 'eager');
-      leadSlot.appendChild(first);
-    }
-    if (shown <= 1) upcomingGroup.querySelector<HTMLElement>('[data-side]')!.hidden = true;
-    if (shown > 0) {
-      upcomingGroup.hidden = false;
-      if (latestGroup) latestGroup.hidden = true;
-      if (featureTitle) featureTitle.textContent = 'In programma';
-    }
+  const isComing = (iso?: string) => !!iso && Date.parse(iso) > now;
+  const comingBlock = document.querySelector<HTMLElement>('[data-coming]');
+  if (comingBlock) {
+    const cards = [...comingBlock.querySelectorAll<HTMLElement>('[data-created]')];
+    cards.forEach((c) => (c.hidden = !isComing(c.dataset.created)));
+    const left = cards.filter((c) => !c.hidden).length;
+    const grid = comingBlock.querySelector<HTMLElement>('[data-coming-grid]');
+    if (grid) grid.className = `coming__grid coming__grid--${left}`;
+    comingBlock.hidden = left === 0;
+    comingBlock.dataset.left = String(left);
   }
 
   // ----- eventi passati: no repeats, paging, view toggle, live search -----
   const archive = document.querySelector<HTMLElement>('[data-archive]');
   const all = [...document.querySelectorAll<HTMLElement>('[data-entry]')];
-  const liveUpcoming = !!upcomingGroup && !upcomingGroup.hidden;
-  // what the featured block already shows is left out of the list
+  // left out: what "Ultimi eventi" shows, and events whose date is still ahead ("Prossimi eventi")
   const entries = all.filter((el) => {
-    const ended = Date.parse(el.dataset.end || '') < now || !el.dataset.end;
-    const featured = liveUpcoming ? !ended : el.hasAttribute('data-latest');
-    if (featured) el.hidden = true;
-    return !featured;
+    const out = el.hasAttribute('data-latest') || isComing(el.dataset.created);
+    if (out) el.hidden = true;
+    return !out;
   });
   const years = [...document.querySelectorAll<HTMLElement>('[data-year]')];
   const moreBtn = document.querySelector<HTMLButtonElement>('[data-more]');
@@ -760,6 +935,7 @@ for (const it of items) {
       y.hidden = !y.querySelector('[data-entry]:not([hidden])');
     });
     if (feature) feature.hidden = !!q;
+    if (comingBlock) comingBlock.hidden = !!q || comingBlock.dataset.left === '0';
     if (moreBtn) moreBtn.hidden = !!q || limit >= entries.length;
     if (count) count.textContent = q ? `${visible} ${visible === 1 ? 'risultato' : 'risultati'} per «${query.trim()}»` : '';
     if (empty) {

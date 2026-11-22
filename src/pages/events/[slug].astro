@@ -727,12 +727,12 @@ const description = excerpt(press?.pressRelease, 160) || title;
     margin: 0;
     padding: 56px 72px 40px;
     border: 0;
-    background: rgba(8, 8, 7, 0.97);
+    background: var(--overlay);
     color: var(--text);
   }
 
   .lightbox::backdrop {
-    background: rgba(0, 0, 0, 0.7);
+    background: var(--scrim);
   }
 
   .lightbox[open] {
@@ -1025,7 +1025,7 @@ const description = excerpt(press?.pressRelease, 160) || title;
     text-align: center;
     font-size: 14px;
     font-weight: 500;
-    color: var(--text);
+    color: #fff;
   }
 
   .gallery__more-num {
