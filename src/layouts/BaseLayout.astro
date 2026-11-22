@@ -1,112 +1,205 @@
 ---
+import '../styles/global.css';
 import { href } from '../lib/url';
 
 interface Props {
   title?: string;
+  description?: string;
+  image?: string;
 }
 
-const { title } = Astro.props;
+const { title, description, image } = Astro.props;
 const siteTitle = 'Marianna Accerboni';
-const pageTitle = title ? `${title} — ${siteTitle}` : siteTitle;
+const pageTitle = title ? `${title} — ${siteTitle}` : `${siteTitle} — Arte, mostre, eventi`;
+const desc = description || 'Mostre, presentazioni ed eventi curati da Marianna Accerboni, architetto e critico d’arte.';
 ---
 
 <!doctype html>
-<html lang="it">
+<html lang="it" data-theme="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={desc} />
+    <meta property="og:title" content={title || siteTitle} />
+    <meta property="og:description" content={desc} />
+    {image && <meta property="og:image" content={new URL(href(image), Astro.site).toString()} />}
+    <meta name="theme-color" content="#121110" />
     <link rel="icon" type="image/svg+xml" href={href('/favicon.svg')} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap"
+    />
     <title>{pageTitle}</title>
   </head>
   <body>
-    <header class="site-header">
-      <a class="site-title" href={href('/')}>{siteTitle}</a>
-      <nav class="site-nav">
-        <a href={href('/')}>Home</a>
-      </nav>
+    <a class="skip" href="#contenuto">Vai al contenuto</a>
+    <header class="masthead">
+      <div class="wrap masthead__bar">
+        <a class="logo" href={href('/')} aria-label="Marianna Accerboni, pagina iniziale">
+          Marianna Accerboni
+        </a>
+        <form class="search" role="search" action={href('/')} method="get" data-search-form>
+          <label class="visually-hidden" for="q">Cerca negli eventi</label>
+          <svg class="search__icon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+            <circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.6"></circle>
+            <path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"></path>
+          </svg>
+          <input
+            id="q"
+            name="q"
+            type="search"
+            placeholder="Cerca artisti, mostre, luoghi"
+            autocomplete="off"
+            enterkeyhint="search"
+            data-search-input
+          />
+        </form>
+      </div>
     </header>
-    <main class="site-main">
+
+    <main id="contenuto">
       <slot />
     </main>
-    <footer class="site-footer">
-      <p>&copy; {new Date().getFullYear()} {siteTitle}. Tutti i diritti riservati.</p>
+
+    <footer class="colophon">
+      <div class="wrap colophon__inner">
+        <a class="logo logo--small" href={href('/')}>Marianna Accerboni</a>
+        <p>Architetto e critico d’arte. Mostre, presentazioni ed eventi dal 2011.</p>
+        <p class="colophon__copy">© {new Date().getFullYear()} Marianna Accerboni</p>
+      </div>
     </footer>
   </body>
 </html>
 
-<style is:global>
-  :root {
-    --color-bg: #ffffff;
-    --color-text: #1a1a1a;
-    --color-muted: #666666;
-    --color-accent: #8a6d3b;
-    --max-width: 72rem;
+<style>
+  .skip {
+    position: absolute;
+    left: -999px;
+    top: 8px;
+    background: var(--text);
+    color: var(--bg);
+    padding: 8px 12px;
+    z-index: 10;
   }
 
-  * {
-    box-sizing: border-box;
+  .skip:focus {
+    left: 8px;
   }
 
-  body {
-    margin: 0;
-    font-family: Georgia, 'Times New Roman', serif;
-    color: var(--color-text);
-    background: var(--color-bg);
-    line-height: 1.6;
+  .masthead {
+    border-bottom: 1px solid var(--line);
+    background: var(--bg);
   }
 
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-
-  .site-header {
+  .masthead__bar {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    gap: 1rem;
-    padding: 1rem 1.5rem;
-    border-bottom: 1px solid #eee;
-    max-width: var(--max-width);
-    margin: 0 auto;
+    gap: 24px;
+    height: 64px;
   }
 
-  .site-title {
-    font-size: 1.5rem;
-    font-weight: bold;
+  .logo {
+    font-family: var(--font-sans);
+    font-size: 21px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
     text-decoration: none;
-    color: inherit;
+    white-space: nowrap;
+    color: var(--text);
   }
 
-  .site-nav {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
+  .logo--small {
+    font-size: 17px;
   }
 
-  .site-nav a {
-    color: var(--color-muted);
-    text-decoration: none;
+  .search {
+    position: relative;
+    flex: 0 1 280px;
+    min-width: 0;
   }
 
-  .site-nav a:hover {
-    color: var(--color-accent);
+  .search__icon {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    pointer-events: none;
   }
 
-  .site-main {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 2rem 1.5rem;
+  .search input {
+    width: 100%;
+    height: 40px;
+    padding: 0 14px 0 38px;
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    background: var(--bg-raised);
+    font-size: 14px;
+    color: var(--text);
+    transition: border-color 0.15s;
   }
 
-  .site-footer {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 2rem 1.5rem;
-    border-top: 1px solid #eee;
-    color: var(--color-muted);
-    font-size: 0.875rem;
+  .search input::placeholder {
+    color: var(--muted);
+  }
+
+  .search input:hover {
+    border-color: var(--line-strong);
+  }
+
+  .search input:focus {
+    outline: none;
+    border-color: var(--text-2);
+  }
+
+  .search input::-webkit-search-cancel-button {
+    filter: invert(0.6);
+  }
+
+  .colophon {
+    margin-top: 120px;
+    border-top: 1px solid var(--line);
+  }
+
+  .colophon__inner {
+    display: grid;
+    gap: 6px;
+    padding-block: 40px 56px;
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .colophon__inner p {
+    margin: 0;
+  }
+
+  .colophon__copy {
+    margin-top: 10px !important;
+    font-size: 13px;
+  }
+
+  @media (max-width: 600px) {
+    .masthead__bar {
+      height: auto;
+      padding-block: 14px;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .search {
+      flex: 1 1 100%;
+    }
   }
 </style>
+
+<script>
+  // On pages other than the home, the search form simply goes to the home with ?q=.
+  // On the home, index.astro listens to the same input and filters live.
+  const input = document.querySelector<HTMLInputElement>('[data-search-input]');
+  const params = new URLSearchParams(location.search);
+  if (input && params.get('q')) input.value = params.get('q') || '';
+</script>

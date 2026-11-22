@@ -1,53 +1,832 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
 import { href } from '../lib/url';
+import {
+  getEvents,
+  sortDate,
+  endDate,
+  formatDateShort,
+  formatRange,
+  venueShort,
+  venueCity,
+  excerpt,
+  searchable,
+  yearOf
+} from '../lib/events';
 
-const events = (await getCollection('events', ({ data }) => !data.draft))
-  .map((e) => ({
-    slug: e.data.slug,
-    title: e.data.title,
-    coverImage: e.data.coverImage,
-    info: e.data.info
-  }))
-  .sort((a, b) => {
-    const ad = a.info?.openingDate?.getTime() ?? 0;
-    const bd = b.info?.openingDate?.getTime() ?? 0;
-    return bd - ad;
-  });
+const events = await getEvents();
+const now = new Date();
+const PAGE = 24;
 
-const formatDate = (d?: Date) =>
-  d ? d.toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' }) : '';
+const items = events.map(({ entry, number }) => {
+  const d = entry.data;
+  const start = d.info?.periodStart ?? d.info?.openingDate ?? null;
+  const end = endDate(entry);
+  const when = d.info?.periodStart || d.info?.periodEnd
+    ? formatRange(d.info?.periodStart, d.info?.periodEnd)
+    : formatDateShort(d.info?.openingDate ?? null);
+  return {
+    number,
+    slug: d.slug,
+    title: d.title,
+    cover: d.coverImage ? href(d.coverImage) : null,
+    url: href(`/events/${d.slug}/`),
+    year: yearOf(sortDate(entry)),
+    dateShort: formatDateShort(sortDate(entry)),
+    when,
+    venue: venueShort(d.info?.venue),
+    city: venueCity(d.info?.venue),
+    excerpt: excerpt(d.press?.pressRelease),
+    startISO: start ? start.toISOString() : '',
+    endISO: end ? end.toISOString() : '',
+    search: searchable(d.title, d.info?.venue, d.info?.curator, String(yearOf(sortDate(entry))), excerpt(d.press?.pressRelease, 600)),
+    hasNews: (d.subEvents ?? []).length > 0
+  };
+});
+
+// Featured block: events still running or coming; when there are none, the latest four past events.
+// "Eventi passati" never repeats what the featured block shows. The page script re-checks both
+// against the visitor's clock, so the page stays right between deploys.
+const isLive = (i: (typeof items)[number]) => !!i.endISO && new Date(i.endISO) >= now;
+const upcoming = items.filter(isLive).reverse();
+const latest = items.filter((i) => !isLive(i)).slice(0, 4);
+const latestSlugs = new Set(latest.map((i) => i.slug));
+
+// Archive grouped by year
+const years: { year: number; items: (typeof items)[number][] }[] = [];
+for (const it of items) {
+  const last = years[years.length - 1];
+  if (last && last.year === it.year) last.items.push(it);
+  else years.push({ year: it.year, items: [it] });
+}
 ---
 
 <BaseLayout>
-  <section>
-    <h2>Eventi</h2>
-    <ul class="event-list">
-      {
-        events.map((e) => (
-          <li>
-            <a href={href(`/events/${e.slug}/`)}>{e.title}</a>
-            {e.info?.venue && <span class="meta"> — {e.info.venue}</span>}
-            {e.info?.openingDate && <span class="meta"> ({formatDate(e.info.openingDate)})</span>}
-          </li>
-        ))
-      }
-    </ul>
+  <section class="wrap feature" data-feature>
+    <header class="section-head">
+      <h1 class="section-title" data-feature-title>Ultimi eventi</h1>
+    </header>
+
+    {
+      upcoming.length > 0 && (
+        <div class="feature__grid" data-feature-group="upcoming" hidden>
+          <div class="feature__lead" data-lead />
+          <div class="feature__side" data-side>
+            {upcoming.map((it) => (
+              <a class="card" href={it.url} data-start={it.startISO} data-end={it.endISO}>
+                <div class="card__media">
+                  {it.cover && <img src={it.cover} alt="" loading="lazy" decoding="async" />}
+                </div>
+                <div class="card__body">
+                  <p class="card__status" data-status />
+                  <h2 class="card__title">{it.title}</h2>
+                  <p class="card__meta">{[it.when, it.venue].filter(Boolean).join(' · ')}</p>
+                  {it.excerpt && <p class="card__excerpt">{it.excerpt}</p>}
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      )
+    }
+
+    <div class="feature__grid" data-feature-group="latest">
+      {latest[0] && (
+        <div class="feature__lead">
+          <a class="card card--lead" href={latest[0].url}>
+            <div class="card__media">
+              {latest[0].cover && <img src={latest[0].cover} alt="" loading="eager" decoding="async" />}
+            </div>
+            <div class="card__body">
+              <h2 class="card__title">{latest[0].title}</h2>
+              <p class="card__meta">{[latest[0].when, latest[0].venue].filter(Boolean).join(' · ')}</p>
+              {latest[0].excerpt && <p class="card__excerpt">{latest[0].excerpt}</p>}
+            </div>
+          </a>
+        </div>
+      )}
+      <div class="feature__side">
+        {latest.slice(1).map((it) => (
+          <a class="card" href={it.url}>
+            <div class="card__media">
+              {it.cover && <img src={it.cover} alt="" loading="lazy" decoding="async" />}
+            </div>
+            <div class="card__body">
+              <h2 class="card__title">{it.title}</h2>
+              <p class="card__meta">{[it.when, it.venue].filter(Boolean).join(' · ')}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap archive" aria-labelledby="passati" data-archive data-view="grid">
+    <header class="section-head section-head--rule">
+      <h2 class="section-title" id="passati">Eventi passati</h2>
+      <div class="section-tools">
+        <p class="section-count" data-count aria-live="polite"></p>
+        <div class="views" role="group" aria-label="Visualizzazione">
+          <button type="button" class="views__btn" data-view-btn="grid" aria-pressed="true" title="Griglia">
+            <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M2 2h5v5H2zM9 2h5v5H9zM2 9h5v5H2zM9 9h5v5H9z" fill="currentColor" /></svg>
+            <span>Griglia</span>
+          </button>
+          <button type="button" class="views__btn" data-view-btn="list" aria-pressed="false" title="Elenco">
+            <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M2 3h12M2 8h12M2 13h12" stroke="currentColor" stroke-width="1.6" fill="none" /></svg>
+            <span>Elenco</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <p class="empty" data-empty hidden></p>
+
+    {
+      years.map((group) => (
+        <section class="year" data-year>
+          <h3 class="year__label">{group.year}</h3>
+          <ol class="year__list">
+            {group.items.map((it) => (
+              <li class="entry" data-entry data-q={it.search} data-end={it.endISO} data-latest={latestSlugs.has(it.slug) ? '' : undefined}>
+                <a class="entry__link" href={it.url}>
+                  <div class="entry__media">
+                    {it.cover && <img src={it.cover} alt="" loading="lazy" decoding="async" />}
+                  </div>
+                  <div class="entry__text">
+                    <p class="entry__meta">
+                      <span class="entry__num">N° {it.number}</span>
+                      <span>{it.dateShort}</span>
+                      {it.venue && <span class="entry__venue">{it.venue}</span>}
+                    </p>
+                    <h4 class="entry__title">{it.title}</h4>
+                    {it.excerpt && <p class="entry__excerpt">{it.excerpt}</p>}
+                    {it.hasNews && <p class="entry__tag">Con notizie</p>}
+                  </div>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ))
+    }
+
+    <div class="more">
+      <button type="button" class="more__btn" data-more>Mostra altri eventi</button>
+    </div>
   </section>
 </BaseLayout>
 
 <style>
-  .event-list {
+  /* ---------- section heads ---------- */
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 28px;
+  }
+
+  .section-head--rule {
+    padding-top: 28px;
+    border-top: 1px solid var(--line);
+  }
+
+  .section-title {
+    margin: 0;
+    font-family: var(--font-sans);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text);
+  }
+
+  .section-count {
+    margin: 0;
+    font-size: 13px;
+    color: var(--muted);
+  }
+
+  /* ---------- featured block ---------- */
+  .feature {
+    padding-top: 48px;
+    padding-bottom: 72px;
+  }
+
+  .feature__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    gap: 40px 48px;
+    align-items: start;
+  }
+
+  .feature__side {
+    display: grid;
+    gap: 0;
+  }
+
+  .feature__grid:has(> .feature__side[hidden]) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .feature__side[hidden] {
+    display: none;
+  }
+
+  .feature__side .card {
+    padding-block: 22px;
+    border-top: 1px solid var(--line);
+  }
+
+  .feature__side .card:first-child {
+    padding-top: 0;
+    border-top: 0;
+  }
+
+  .feature__side .card[hidden] {
+    display: none;
+  }
+
+  .card:not(.card--lead) .card__excerpt {
+    display: none;
+  }
+
+  .feature__grid[hidden] {
+    display: none;
+  }
+
+  .card {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 18px;
+    align-items: start;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .card--lead {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+
+  .card__media {
+    overflow: hidden;
+    background: var(--bg-raised);
+    aspect-ratio: 1 / 1;
+  }
+
+  .card--lead .card__media {
+    aspect-ratio: 4 / 3;
+  }
+
+  .card__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.6s cubic-bezier(0.2, 0.7, 0.2, 1), opacity 0.3s;
+  }
+
+  .card:hover .card__media img {
+    transform: scale(1.025);
+  }
+
+  .card__status {
+    margin: 0 0 8px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent-ink);
+  }
+
+  .card__status:empty {
+    display: none;
+  }
+
+  .card__title {
+    margin: 0;
+    font-family: var(--font-sans);
+    font-size: 17px;
+    line-height: 1.3;
+    font-weight: 600;
+    letter-spacing: -0.012em;
+    text-wrap: pretty;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card--lead .card__title {
+    font-size: clamp(24px, 2.6vw, 32px);
+    line-height: 1.18;
+    letter-spacing: -0.022em;
+    -webkit-line-clamp: 5;
+    text-wrap: balance;
+  }
+
+  .card__meta {
+    margin: 10px 0 0;
+    font-size: 14px;
+    color: var(--muted);
+  }
+
+  .card__excerpt {
+    margin: 14px 0 0;
+    font-family: var(--font-serif);
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--text-2);
+  }
+
+  .card:hover .card__title {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+    text-decoration-color: var(--line-strong);
+  }
+
+  /* ---------- eventi passati ---------- */
+  .section-tools {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .section-count:empty {
+    display: none;
+  }
+
+  .views {
+    display: inline-flex;
+    padding: 3px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+  }
+
+  .views__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    border: 0;
+    border-radius: 999px;
+    background: transparent;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+  }
+
+  .views__btn:hover {
+    color: var(--text);
+  }
+
+  .views__btn[aria-pressed='true'] {
+    background: var(--bg-raised);
+    color: var(--text);
+    box-shadow: inset 0 0 0 1px var(--line-strong);
+  }
+
+  /* the year column is the "timeline": a thin rule with the year pinned while you scroll */
+  .year {
+    position: relative;
+    display: grid;
+    grid-template-columns: 136px minmax(0, 1fr);
+    column-gap: 40px;
+  }
+
+  .year::before {
+    content: '';
+    position: absolute;
+    left: 6px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--line);
+  }
+
+  .year[hidden] {
+    display: none;
+  }
+
+  .year__label {
+    position: sticky;
+    top: 0;
+    align-self: start;
+    margin: 0;
+    padding: 30px 0 30px 26px;
+    font-family: var(--font-sans);
+    font-size: 40px;
+    line-height: 1;
+    font-weight: 500;
+    letter-spacing: -0.04em;
+    color: #5a5650;
+    font-variant-numeric: tabular-nums;
+    background: linear-gradient(var(--bg) 80%, transparent);
+  }
+
+  .year__label::before {
+    content: '';
+    position: absolute;
+    left: 2px;
+    top: 44px;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: var(--bg);
+    border: 1px solid var(--muted);
+  }
+
+  .year__list {
     list-style: none;
+    margin: 0;
     padding: 0;
   }
 
-  .event-list li {
-    margin: 0.5rem 0;
+  .entry[hidden] {
+    display: none !important;
   }
 
-  .meta {
-    color: var(--color-muted, #666);
+  .entry__link {
+    display: grid;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .entry__media {
+    aspect-ratio: 4 / 3;
+    background: var(--bg-raised);
+    overflow: hidden;
+  }
+
+  .entry__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.6s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+
+  .entry__link:hover .entry__media img {
+    transform: scale(1.03);
+  }
+
+  .entry__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 12px;
+    margin: 0 0 8px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+
+  .entry__num {
+    font-variant-numeric: tabular-nums;
+    color: var(--text-2);
+  }
+
+  .entry__title {
+    margin: 0;
+    font-family: var(--font-sans);
+    font-weight: 600;
+    text-wrap: pretty;
+  }
+
+  .entry__link:hover .entry__title {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+    text-decoration-color: var(--line-strong);
+  }
+
+  .entry__excerpt {
+    margin: 8px 0 0;
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .entry__tag {
+    display: inline-block;
+    margin: 12px 0 0;
+    padding: 3px 8px;
+    border: 1px solid var(--line-strong);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-2);
+  }
+
+  /* grid view (default) */
+  [data-view='grid'] .year__list {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 44px 28px;
+    padding-block: 30px 56px;
+  }
+
+  [data-view='grid'] .entry__link {
+    grid-template-rows: auto 1fr;
+    gap: 16px;
+  }
+
+  [data-view='grid'] .entry__title {
+    font-size: 17px;
+    line-height: 1.32;
+    letter-spacing: -0.012em;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  [data-view='grid'] .entry__venue,
+  [data-view='grid'] .entry__excerpt {
+    display: none;
+  }
+
+  /* list view */
+  [data-view='list'] .year {
+    grid-template-columns: 136px minmax(0, var(--measure));
+  }
+
+  [data-view='list'] .entry {
+    border-bottom: 1px solid var(--line);
+  }
+
+  [data-view='list'] .entry__link {
+    grid-template-columns: minmax(0, 1fr) 200px;
+    gap: 32px;
+    padding-block: 30px;
+  }
+
+  [data-view='list'] .entry__media {
+    order: 2;
+  }
+
+  [data-view='list'] .entry__title {
+    font-size: 21px;
+    line-height: 1.28;
+    letter-spacing: -0.016em;
+  }
+
+  .empty {
+    margin: 40px 0;
+    font-family: var(--font-serif);
+    font-size: 20px;
+    color: var(--text-2);
+  }
+
+  .more {
+    display: flex;
+    justify-content: center;
+    padding-top: 48px;
+  }
+
+  .more__btn {
+    padding: 12px 22px;
+    border: 1px solid var(--line-strong);
+    border-radius: 999px;
+    background: transparent;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .more__btn:hover {
+    border-color: var(--text-2);
+  }
+
+  .more__btn[hidden] {
+    display: none;
+  }
+
+  /* ---------- responsive ---------- */
+  @media (max-width: 960px) {
+    [data-view='grid'] .year__list {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 760px) {
+    .feature {
+      padding-top: 32px;
+      padding-bottom: 48px;
+    }
+
+    .feature__grid {
+      grid-template-columns: 1fr;
+      gap: 28px;
+    }
+
+    .card {
+      grid-template-columns: 96px 1fr;
+      gap: 14px;
+    }
+
+    .card--lead {
+      grid-template-columns: 1fr;
+    }
+
+    .views__btn span {
+      display: none;
+    }
+
+    .year,
+    [data-view='list'] .year {
+      grid-template-columns: 1fr;
+    }
+
+    .year::before {
+      display: none;
+    }
+
+    .year__label {
+      z-index: 1;
+      padding: 18px 0 10px;
+      font-size: 26px;
+    }
+
+    .year__label::before {
+      display: none;
+    }
+
+    [data-view='grid'] .year__list {
+      gap: 32px 16px;
+      padding-block: 8px 32px;
+    }
+
+    [data-view='grid'] .entry__title {
+      font-size: 15px;
+    }
+
+    [data-view='list'] .entry__link {
+      grid-template-columns: minmax(0, 1fr) 96px;
+      gap: 16px;
+      padding-block: 22px;
+    }
+
+    [data-view='list'] .entry__media {
+      aspect-ratio: 1 / 1;
+    }
+
+    [data-view='list'] .entry__title {
+      font-size: 17px;
+    }
+
+    .entry__excerpt {
+      display: none;
+    }
   }
 </style>
+
+<script>
+  const PAGE = 24;
+  const norm = (s: string) =>
+    s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
+
+  // ----- featured block: decide with the visitor's clock -----
+  const now = Date.now();
+  const upcomingGroup = document.querySelector<HTMLElement>('[data-feature-group="upcoming"]');
+  const latestGroup = document.querySelector<HTMLElement>('[data-feature-group="latest"]');
+  const featureTitle = document.querySelector<HTMLElement>('[data-feature-title]');
+  if (upcomingGroup) {
+    const cards = [...upcomingGroup.querySelectorAll<HTMLElement>('[data-end]')];
+    let shown = 0;
+    cards.forEach((c) => {
+      const end = Date.parse(c.dataset.end || '');
+      const start = Date.parse(c.dataset.start || '');
+      const live = end >= now;
+      c.hidden = !live;
+      if (!live) return;
+      shown++;
+      const status = c.querySelector('[data-status]');
+      if (status) status.textContent = start && start > now ? 'Prossimamente' : 'In corso';
+    });
+    // the first visible card becomes the lead
+    const first = cards.find((c) => !c.hidden);
+    const leadSlot = upcomingGroup.querySelector('[data-lead]');
+    if (first && leadSlot) {
+      first.classList.add('card--lead');
+      first.querySelector('img')?.setAttribute('loading', 'eager');
+      leadSlot.appendChild(first);
+    }
+    if (shown <= 1) upcomingGroup.querySelector<HTMLElement>('[data-side]')!.hidden = true;
+    if (shown > 0) {
+      upcomingGroup.hidden = false;
+      if (latestGroup) latestGroup.hidden = true;
+      if (featureTitle) featureTitle.textContent = 'In programma';
+    }
+  }
+
+  // ----- eventi passati: no repeats, paging, view toggle, live search -----
+  const archive = document.querySelector<HTMLElement>('[data-archive]');
+  const all = [...document.querySelectorAll<HTMLElement>('[data-entry]')];
+  const liveUpcoming = !!upcomingGroup && !upcomingGroup.hidden;
+  // what the featured block already shows is left out of the list
+  const entries = all.filter((el) => {
+    const ended = Date.parse(el.dataset.end || '') < now || !el.dataset.end;
+    const featured = liveUpcoming ? !ended : el.hasAttribute('data-latest');
+    if (featured) el.hidden = true;
+    return !featured;
+  });
+  const years = [...document.querySelectorAll<HTMLElement>('[data-year]')];
+  const moreBtn = document.querySelector<HTMLButtonElement>('[data-more]');
+  const count = document.querySelector<HTMLElement>('[data-count]');
+  const empty = document.querySelector<HTMLElement>('[data-empty]');
+  const feature = document.querySelector<HTMLElement>('[data-feature]');
+  const input = document.querySelector<HTMLInputElement>('[data-search-input]');
+  const form = document.querySelector<HTMLFormElement>('[data-search-form]');
+  let limit = PAGE;
+
+  function render(query: string) {
+    const q = norm(query);
+    const words = q.split(' ').filter(Boolean);
+    let visible = 0;
+    let shown = 0;
+    entries.forEach((el) => {
+      const match = words.every((w) => (el.dataset.q || '').includes(w));
+      if (match) visible++;
+      const show = match && (q ? true : shown < limit);
+      if (show) shown++;
+      el.hidden = !show;
+    });
+    years.forEach((y) => {
+      y.hidden = !y.querySelector('[data-entry]:not([hidden])');
+    });
+    if (feature) feature.hidden = !!q;
+    if (moreBtn) moreBtn.hidden = !!q || limit >= entries.length;
+    if (count) count.textContent = q ? `${visible} ${visible === 1 ? 'risultato' : 'risultati'} per «${query.trim()}»` : '';
+    if (empty) {
+      empty.hidden = !(q && visible === 0);
+      empty.textContent = `Nessun evento trovato per «${query.trim()}». Prova con il nome di un artista, di un luogo o un anno.`;
+    }
+  }
+
+  // grid / list, remembered per visitor
+  const viewBtns = [...document.querySelectorAll<HTMLButtonElement>('[data-view-btn]')];
+  function setView(view: string) {
+    if (!archive) return;
+    archive.dataset.view = view;
+    viewBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.viewBtn === view)));
+    try { localStorage.setItem('eventi-vista', view); } catch {}
+  }
+  try {
+    const saved = localStorage.getItem('eventi-vista');
+    if (saved === 'list' || saved === 'grid') setView(saved);
+  } catch {}
+  viewBtns.forEach((b) => b.addEventListener('click', () => setView(b.dataset.viewBtn!)));
+
+  moreBtn?.addEventListener('click', () => {
+    limit += PAGE;
+    render(input?.value || '');
+  });
+
+  // remember where the visitor was, so "Tutti gli eventi" brings them back to the same spot
+  const KEY = 'eventi-ritorno';
+  document.addEventListener('click', (e) => {
+    const a = (e.target as HTMLElement).closest('a');
+    if (!a || !a.href.includes('/events/')) return;
+    try {
+      sessionStorage.setItem(KEY, JSON.stringify({ y: scrollY, limit, q: input?.value || '' }));
+    } catch {}
+  });
+
+  let initial = new URLSearchParams(location.search).get('q') || '';
+  let restoreY: number | null = null;
+  try {
+    const state = JSON.parse(sessionStorage.getItem(KEY) || 'null');
+    if (state && sessionStorage.getItem(KEY + '-attivo')) {
+      limit = Math.max(PAGE, state.limit || PAGE);
+      if (!initial && state.q) initial = state.q;
+      restoreY = state.y;
+    }
+    sessionStorage.removeItem(KEY + '-attivo');
+  } catch {}
+
+  if (input) {
+    input.value = initial;
+    input.addEventListener('input', () => {
+      render(input.value);
+      const url = new URL(location.href);
+      if (input.value.trim()) url.searchParams.set('q', input.value.trim());
+      else url.searchParams.delete('q');
+      history.replaceState(null, '', url);
+    });
+    form?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      render(input.value);
+      document.getElementById('passati')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
+  render(initial);
+  if (restoreY !== null) {
+    const y = restoreY;
+    requestAnimationFrame(() => window.scrollTo(0, y));
+  }
+</script>
