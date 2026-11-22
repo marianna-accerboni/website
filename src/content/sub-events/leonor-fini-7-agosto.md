@@ -29,5 +29,5 @@ bodySection:
     - Catalogo: sì
     - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
-    ![Foto Battocletti (foto di Maria Cristina Vimercati)](/media/events/leonor-fini-memorie-triestine/Foto_Battocletti_foto_di_Maria_Cristina_Vimercati.jpg) Foto Battocletti (foto di Maria Cristina Vimercati)
+    ![Foto Battocletti (foto di Maria Cristina Vimercati)](/media/events/leonor-fini-memorie-triestine/Foto_Battocletti_foto_di_Maria_Cristina_Vimercati.jpg "Foto Battocletti (foto di Maria Cristina Vimercati)")
 ---

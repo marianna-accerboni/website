@@ -22,12 +22,14 @@ press:
 
     Ad inaugurare la mostra mercoledì 29 dicembre saranno **Giorgio Rossi**, assessore alle Politiche della cultura e del turismo del Comune di Trieste, **Carlo Grilli**, assessore alle Politiche sociali del Comune di Trieste, **Marianna Accerboni**, critica d’arte e curatrice della mostra. Per il Ministero della Giustizia, Dipartimento della Giustizia Minorile e di Comunità interverranno Rita Bergamo, Responsabile dell’Area Misure e Sanzioni di Comunità dell’U.D.E.P.E. di Trieste e Elisabetta Kolar Direttore dell’U.S.S.M. di Trieste. La presentazione della mostra sarà visibile anche in diretta streaming sul canale YouTube del Comune di Trieste. 
 
-    ![Illustre Turkefa 2017_2019 - tecnica mista su MDF - cm 90x120](/media/events/anima-terra-colore/Illustre_Turkefa_2017_2019_tecnica_mista_su_MDF_cm_90x120.jpg "Illustre Turkefa 2017_2019 - tecnica mista su MDF - cm 90x120")      TRIESTE, 27 DICEMBRE 2021 - Inaugura mercoledì
+    ![Illustre Turkefa 2017_2019 - tecnica mista su MDF - cm 90x120](/media/events/anima-terra-colore/Illustre_Turkefa_2017_2019_tecnica_mista_su_MDF_cm_90x120.jpg "Illustre Turkefa 2017_2019 - tecnica mista su MDF - cm 90x120")
+
+    TRIESTE, 27 DICEMBRE 2021 - Inaugura mercoledì
     29 dicembre alle 11 a Trieste, al Magazzino 26 del
     Porto Vecchio, la mostra “L'anima, la terra, il colore.
     Arte d’azione e di inclusione” dell’artista friulano
     Toni Zanussi (Qualso, Udine, 1952).
-    L’iniziativa è molto più di una personale in cui poter visionare l’arte poetica e sottilmente onirica di Toni Zanussi, perché è anche un progetto-laboratorio, ideato dall’artista stesso, di inclusione sociale. La mostra che Trieste dedica a Toni Zanussi fa parte infatti di un ciclo espositivo di rassegne, ognuna diversa dall’altra, incentrate oltre che sulla sua creatività, sulla promozione di questo prezioso e attuale concetto, che ha visto un primo allestimento in una versione molto più ridotta nel 2020 a Tarcento e che dopo Trieste proseguirà a Monaco. 
+    L’iniziativa è molto più di una personale in cui poter visionare l’arte poetica e sottilmente onirica di Toni Zanussi, perché è anche un progetto-laboratorio, ideato dall’artista stesso, di inclusione sociale. La mostra che Trieste dedica a Toni Zanussi fa parte infatti di un ciclo espositivo di rassegne, ognuna diversa dall’altra, incentrate oltre che sulla sua creatività, sulla promozione di questo prezioso e attuale concetto, che ha visto un primo allestimento in una versione molto più ridotta nel 2020 a Tarcento e che dopo Trieste proseguirà a Monaco.
 
     * 
     * ![13 Covid 19, 2020 - tecnica mista su MDF - cm 45x45](/media/events/anima-terra-colore/13_Covid_19_2020_-_tecnica_mista_su_MDF_-_cm_45x45.jpg) 13 Covid 19, 2020 - tecnica mista su MDF - cm 45x45
@@ -54,7 +56,9 @@ press:
     Il pubblico potrà così godere di molti suoi lavori, alcuni dei quali inediti: dal recente “Totem omaggio a Mostar” del 2020 che supera, in diagonale, i tre metri, al trittico formato dalle tre opere di forma ogivale “Cosmogonia”, “Cosmogonia nero terno” e “Cosmogonia rossa” del 1994.
 
     Un’arte dove il male è dissacrato, esorcizzato e superato attraverso composizioni dai colori vivaci, quasi allegri per portare lo spettatore in una realtà altra, una fuga verso la speranza come nella serie più recente incentrata sul tema della pandemia da Covid-19, che l’artista chiama “invisibile creatura”, e ai lirici voli cromatici su Sarajevo e Mostar, che ricordano la tragedia della guerra o quella dell’Afghanistan.  
-    ![Città cosmogonica, 2010 - tecnica mista su MDF - cm 90x120 copia](/media/events/anima-terra-colore/Citta_cosmogonica_2010_-_tecnica_mista_su_MDF_-_cm_90x120_copia.jpg) Città cosmogonica, 2010 - tecnica mista su MDF - cm 90x120
+
+    ![Città cosmogonica, 2010 - tecnica mista su MDF - cm 90x120 copia](/media/events/anima-terra-colore/Citta_cosmogonica_2010_-_tecnica_mista_su_MDF_-_cm_90x120_copia.jpg "Città cosmogonica, 2010 - tecnica mista su MDF - cm 90x120 copia")
+
     Per Toni Zanussi l'arte è impegno artistico, riscatto per tutti gli umili, i poveri, gli abbandonati, gli scartati della terra ed è anche strumento, linguaggio, metodologia per esprimere il suo impegno civile. A corredo di ogni sezione, un testo allude alle pene, alla detenzione e alla possibilità di redenzione attraverso la giustizia riparativa, tema trasversale alla mostra e molto sentito dall’artista: la speranza.
 
     Zanussi si ispira alla natura e ai suoi cambiamenti, ai colori e alle atmosfere che mutano con l’alternarsi delle stagioni. Immerso nei boschi del monte Stella a Tarcento (UD), dove l’artista ha costruito il suo studio-atelier, un luogo ospitale, sempre aperto a curiosi e amici,  “_pittore della cosmogonia e della contaminazione tra materia e realtà sociale, artista del recupero degli sprechi e poeta_” come lo ha definito Gillo Dorfles, Zanussi raccoglie da oltre quarant’anni sempre crescenti successi. Le sue opere sono state raccontate da tanti scrittori ed intellettuali ed esposte in giro per il mondo, da Venezia fino a Parigi.

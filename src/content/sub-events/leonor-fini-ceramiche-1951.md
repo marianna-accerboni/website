@@ -30,6 +30,5 @@ bodySection:
 
      
 
-    ![Lolò, fragranza dedicata  da  Marianna Accerboni a Leonor Fini e realizzata da Angela Laganà per la mostra _Memorie triestine_](/media/events/leonor-fini-memorie-triestine/Lolo_fragranza_dedicata_da_Marianna_Accerboni_a_Leonor_Fini_e_realizzata_da_Angela_Lagana_per_la_mostra__Memorie_triestine_.jpg) Lolò, fragranza dedicata  da  Marianna Accerboni a Leonor Fini e
-    realizzata da Angela Laganà per la mostra _Memorie triestine_
+    ![Lolò, fragranza dedicata  da  Marianna Accerboni a Leonor Fini e realizzata da Angela Laganà per la mostra _Memorie triestine_](/media/events/leonor-fini-memorie-triestine/Lolo_fragranza_dedicata_da_Marianna_Accerboni_a_Leonor_Fini_e_realizzata_da_Angela_Lagana_per_la_mostra__Memorie_triestine_.jpg "Lolò, fragranza dedicata  da  Marianna Accerboni a Leonor Fini e realizzata da Angela Laganà per la mostra _Memorie triestine_")
 ---

@@ -23,9 +23,6 @@ press:
 
     ![Anno 2005 - IL SECOLARE ULIVO - olio su compensato marino 90 x 78](/media/luis-anno-2005-il-secolare-ulivo-olio-su-compensato-marino-90-x-78.jpg "Anno 2005 - IL SECOLARE ULIVO - olio su compensato marino 90 x 78")
 
-    Anno 2005 - IL SECOLARE ULIVO
-    olio su compensato marino 90 x 78
-
     _Un’esistenza trascorsa tra gli amati colori, i pennelli, una natura di mare, di cielo e di roccia e il sorriso dei suoi tre bimbi. Così Luisia Comelli_ – scrive Marianna Accerboni _- ha trascorso la sua vita, dedicata alla pittura e alla famiglia. Sono passati settant'anni dal primo olio creato nel '53 a oggi, epoca in cui l'artista - che lo scorso 1 agosto ha compiuto 88 anni - dipinge ancora._
 
     _La passione per la pittura si fa sentire in me fin da giovanissima._ – ricorda Luìs - _La mia libertà nel dipingere è stata sempre e rimane tuttora, accostata alla tradizione, vicina alla realtà e alle cose semplici, che soprattutto apprezzo, semplicità che è legata a un’impronta personale, guidata con freschezza dall’entusiasmo dello spirito creativo del mio sentire. Tuttavia, durante i miei brevi incontri con il noto pittore Nino Perizi, mi si è presentata l’opportunità di avvicinarmi all’astrattismo, senza però riuscire mai ad approdare a questo diverso linguaggio pittorico. Dunque_, - conclude l’artista - _per l’intero percorso, sono rimasta sempre ancorata e coerente alla mia vocazione artistica, escludendo di seguire certi drastici mutamenti molto spesso esageratamente spinti e quindi difficili, per me, da comprendere._

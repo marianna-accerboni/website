@@ -18,7 +18,5 @@ bodySection:
 
     Per raggiungere il Magazzino 26 sono disponibili i bus linea 6, fermata Polo museale, e linea 80.
 
-    ![Miroir des chats (Specchio dei gatti,  Éditions de la Différence, Paris, 1977)](/file/get/Eventi/memorie_triestine_2021/gallery/Miroir_des_chats_Specchio_dei_gatti_Editions_de_la_Difference_Paris_1977.jpg "Miroir des chats (Specchio dei gatti,  Éditions de la Différence, Paris, 1977)") Miroir des chats
-
-    (Specchio dei gatti,  Éditions de la Différence, Paris, 1977)
+    ![Miroir des chats (Specchio dei gatti,  Éditions de la Différence, Paris, 1977)](/media/events/leonor-fini-memorie-triestine/Miroir_des_chats_Specchio_dei_gatti_Editions_de_la_Difference_Paris_1977.jpg "Miroir des chats (Specchio dei gatti,  Éditions de la Différence, Paris, 1977)")
 ---

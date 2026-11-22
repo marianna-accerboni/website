@@ -59,8 +59,6 @@ press:
 
     ![Foto web - I profumi Lolò e Kot ispirati alla personalità e alla vita di Leonor Fini](/media/fini_segreta-foto-web-i-profumi-lolo-e-kot-ispirati-alla-personalita-e-alla-vita-di-leonor-fini.jpg "Foto web - I profumi Lolò e Kot ispirati alla personalità e alla vita di Leonor Fini")
 
-    I profumi Lolò e Kot ispirati alla personalità e alla vita di Leonor Fini
-
     **Biografia Leonor Fini** (Buenos Aires 1907 - Parigi 1996)
 
     Nata a Buenos Aires nel 1907 da Erminio Fini di origini beneventane e dalla triestina Malvina Braun di ascendenza tedesca, slava e veneziana, si forma culturalmente e artisticamente fino a vent’anni nel vivace _milieu_ culturale di Trieste, dov’era giunta a un anno, a contatto con i pittori Arturo Nathan, Edmondo Passauro, Carlo Sbisà. Pittrice autodidatta, illustratrice (più di 50 libri), costumista, scenografa e scrittrice, dopo aver eseguito molti ritratti secondo uno stile ancora tradizionale, assimila a Milano, non ancora ventenne, l’influenza novecentista grazie all’incontro con il classicismo di **Achille Funi** e il tonalismo di **Carlo Carrà e Arturo Tosi**.

@@ -11,7 +11,7 @@ info:
   time: da domenica a venerdì 10 · 13 e 15 · 18, sabato 10 - 13, lunedì chiuso
   curator: Marianna Accerboni
   hasCatalog: true
-  infoContacts: +39 335 6750946 · marianna.accerboni@gmail.com Galleria 041 2750039 0039 · 3480577918 · 0039 3402767289 info@ghetto-etcetera.com · Fb e Ig @GhettoEtCeteraUfficio stampa 0039 335 6750946 <span class="enfasi">Download:</span> <a href="/file/get/Eventi/infinito/downloads/invito.pdf" _mce_href="/file/get/Eventi/infinito/downloads/invito.pdf" target="_blank">Scarica l'invito </a>
+  infoContacts: +39 335 6750946 · marianna.accerboni@gmail.com · Galleria +39 041 2750039 · +39 348 0577918 · +39 340 2767289 · info@ghetto-etcetera.com · Fb e Ig @GhettoEtCetera · Ufficio stampa +39 335 6750946
 subEvents: []
 press:
   pressRelease: |-

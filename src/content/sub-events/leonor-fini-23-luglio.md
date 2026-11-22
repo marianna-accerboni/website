@@ -23,9 +23,5 @@ bodySection:
     - Catalogo: sì
     - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
-    ![Arturo Nathan - L'attesa (Autoritratto al tramonto), 1940 - olio su tavola - cm 65x90 - coll. privata, Trieste - © Marianna Accerboni](/file/get/Eventi/memorie_triestine_2021/gallery/Arturo_Nathan_-_Lattesa_Autoritratto_al_tramonto_1940_-_olio_su_tavola_-_cm_65x90_-_coll._privata_Trieste_-__Marianna_Accerboni.jpg "Arturo Nathan - L'attesa (Autoritratto al tramonto), 1940 - olio su tavola - cm 65x90 - coll. privata, Trieste - © Marianna Accerboni") Arturo Nathan - L'attesa (Autoritratto al tramonto), 1940
-
-    olio su tavola - cm 65x90 - coll. privata, Trieste
-
-    © Marianna Accerboni
+    ![Arturo Nathan - L'attesa (Autoritratto al tramonto), 1940 - olio su tavola - cm 65x90 - coll. privata, Trieste - © Marianna Accerboni](/media/events/leonor-fini-memorie-triestine/Arturo_Nathan_-_Lattesa_Autoritratto_al_tramonto_1940_-_olio_su_tavola_-_cm_65x90_-_coll._privata_Trieste_-__Marianna_Accerboni.jpg "Arturo Nathan - L'attesa (Autoritratto al tramonto), 1940 - olio su tavola - cm 65x90 - coll. privata, Trieste - © Marianna Accerboni")
 ---

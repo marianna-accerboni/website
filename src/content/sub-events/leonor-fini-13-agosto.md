@@ -35,5 +35,5 @@ bodySection:
     - Catalogo: sì
     - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
-    ![Andro Merkù](/media/events/leonor-fini-memorie-triestine/Andro_Merku.jpg) Andro Merkù
+    ![Andro Merkù](/media/events/leonor-fini-memorie-triestine/Andro_Merku.jpg "Andro Merkù")
 ---

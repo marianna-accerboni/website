@@ -23,6 +23,5 @@ bodySection:
     - Catalogo: sì
     - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
-    ![Vaso serie Sfingi, 1951 - porcellana - h. cm 12,8 (coll. Enrico Brugnoni)](/media/events/leonor-fini-memorie-triestine/Vaso_serie_Sfingi_1951_-_porcellana_-_h._cm_128_coll._Enrico_Brugnoni.JPG) Vaso serie Sfingi, 1951 - porcellana - h. cm 12,8
-    (coll. Enrico Brugnoni)
+    ![Vaso serie Sfingi, 1951 - porcellana - h. cm 12,8 (coll. Enrico Brugnoni)](/media/events/leonor-fini-memorie-triestine/Vaso_serie_Sfingi_1951_-_porcellana_-_h._cm_128_coll._Enrico_Brugnoni.JPG "Vaso serie Sfingi, 1951 - porcellana - h. cm 12,8 (coll. Enrico Brugnoni)")
 ---

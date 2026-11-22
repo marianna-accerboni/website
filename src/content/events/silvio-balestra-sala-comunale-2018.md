@@ -32,8 +32,6 @@ press:
 
     ![Optical yellow the 7th 2010 digital cprint lightjet Diasec dibond 4mm_cm70x104ediz unica](/media/events/silvio-balestra-sala-comunale-2018/Optical_yellow_the_7th_2010_digital_cprint_lightjet_Diasec_dibond_4mm_cm70x104ediz_unica_2.jpg "Optical yellow the 7th 2010 digital cprint lightjet Diasec dibond 4mm_cm70x104ediz unica")
 
-    Diasec dibond 4mm cm70x104 ediz unica
-
     Nel tracciare la propria strada e il proprio linguaggio Balestra usa una tecnica molto personale e in tal senso inventa nuovi aforismi, si scaglia contro la materia, interviene e la aggredisce, la graffia ma la ama. E ha in sé, possiede il dono della creatività assoluta, di quell'istinto appunto che fa della ricerca un metodo, ma che da questo sa e anela svincolarsi, agendo in più direzioni sperimentali.
 
     La prima in senso temporale che incontriamo in mostra è rappresentata dal ciclo degli _Optical_, in cui l'uso del mezzo digitale svolto sulla traccia dell'analogico, in modo indipendente rispetto ai canoni classici, una particolare abilità nel cogliere l'incidenza della luce e il rigore scientifico di chi è avezzo alla ricerca (per esempio nel campo della biologia) compongono gli stilemi di una tecnica segreta dagli esiti compositivi, formali e cromatici di notevole carisma.

@@ -26,7 +26,9 @@ press:
 
     _L’evoluzione coerente e appassionata del lavoro pittorico di Colussi, - scrive Accerboni - ha condotto l’artista dalla narrazione attenta e delicata della veduta marina verso traguardi sempre più elevati, raggiunti attraverso un’interpretazione del paesaggio d’acqua sottilmente poetica e intrisa di molteplici valenze luministiche._
 
-    ![Trieste di notte, 2019 - olio su tela - cm 50x100](/media/Trieste_di_notte_2019_-_olio_su_tela_-_cm_50x100.jpg "Trieste di notte, 2019 - olio su tela - cm 50x100")_Affascinato dal mare, ritratto sempre in momenti di quiete e perciò rasserenanti, il pittore ci offre un idillio sottile e al contempo profondo con la natura, che si estrinseca nei notturni sull’acqua veneziani, in cui un sogno lieve solca la veduta, o nei tramonti infuocati che rendono l’orizzonte marino unico a Trieste, com’ebbe occasione di notare alcuni anni fa il celebre architetto Richard Rogers._
+    ![Trieste di notte, 2019 - olio su tela - cm 50x100](/media/Trieste_di_notte_2019_-_olio_su_tela_-_cm_50x100.jpg "Trieste di notte, 2019 - olio su tela - cm 50x100")
+
+    _Affascinato dal mare, ritratto sempre in momenti di quiete e perciò rasserenanti, il pittore ci offre un idillio sottile e al contempo profondo con la natura, che si estrinseca nei notturni sull’acqua veneziani, in cui un sogno lieve solca la veduta, o nei tramonti infuocati che rendono l’orizzonte marino unico a Trieste, com’ebbe occasione di notare alcuni anni fa il celebre architetto Richard Rogers._
 
     _Anche se il diapason emotivo più alto, quello che forse colpisce maggiormente l’emotività del fruitore, Colussi lo raggiunge in certe sue intense descrizioni come accade per esempio nel dipingere il tramonto sulla rocca di Duino. Un’opera che ci rende più agevole capire come mai quel luogo e quelle atmosfere furono così amate da un grande poeta germanico quale Rilke e che ci rimanda anche alle visioni di Caspar David Friedrich, il più significativo pittore romantico tedesco._
 

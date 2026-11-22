@@ -33,5 +33,6 @@ bodySection:
     - Info e contatti: leonorfinimemorietriestine@gmail.com
 
     **CELL. +39 335 6750946**
-    ![Gatto - incisione fuori commercio - cm 64x50](/media/events/leonor-fini-memorie-triestine/Gatto_-_incisione_fuori_commercio_-_cm_64x50.jpg)Gatto - incisione fuori commercio - cm 64x50
+
+    ![Gatto - incisione fuori commercio - cm 64x50](/media/events/leonor-fini-memorie-triestine/Gatto_-_incisione_fuori_commercio_-_cm_64x50.jpg "Gatto - incisione fuori commercio - cm 64x50")
 ---

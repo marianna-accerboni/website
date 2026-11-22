@@ -28,8 +28,6 @@ press:
 
     ![Zucche vuote - acrilici e smalti 110x95cm](/media/events/ivan-bidoli-aspetti-umani-2013/Zucche-vuote---acrilici-e-smalti-110x95--1906111348232-1.jpg "Zucche vuote - acrilici e smalti 110x95cm")
 
-    _Zucche vuote - acrilici e smalti 110x95cm_
-
     _Il suo linguaggio si snoda in modo del tutto originale secondo una naturale inclinazione figurativa ed è caratterizzato da un'equilibrata tensione espressiva, in cui si congiungono forza e delicatezza: l'intensità del segno è infatti compendiata da un colorismo festoso, ricco di contrappunti cromatici e di sfumature, ed è sostenuta da una tecnica, in cui Bidoli assembla diversi strati di acrilico a un mix di smalti e vernici, per poi coprire tutto di nero e giungere per sottrazione, con spugna e acqua, all'opera finita. Che a volte brilla anche di alcune raffinate interserzioni d'oro, d'argento e di ricami declinati a frottage, con i quali il pittore decora le protagonisti femminili del suo racconto, che impersonano sovente il sentimento e in cui egli sa inserire sensualità, una sorta di gaia leggerezza e un'eleganza d'ispirazione botticelliana._
 
     _Sotto il profilo stilistico nella sua pittura s'incontrano molteplici influenze: dalla cultura della Secessione viennese, rivisitata attraverso il genio di Max Fabiani, all'espressionismo selvaggio di Egon Schiele, al simbolismo, alla memoria di atmosfere medievali e rinascimentali, che sfociano in ballate dolci o ironiche e talvolta graffianti, condotte di quando in quando sul limitare del grottesco._

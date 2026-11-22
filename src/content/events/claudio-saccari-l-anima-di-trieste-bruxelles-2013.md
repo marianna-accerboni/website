@@ -48,9 +48,7 @@ press:
 
     ![Piazza Unità d'Italia, 2011](/media/events/claudio-saccari-l-anima-di-trieste-bruxelles-2013/Piazza_Unita_dItalia_2011.jpg "Piazza Unità d'Italia, 2011")
 
-    Piazza Unità d'Italia, 2011 L'artista e il suo percorso
-
-    nel tempo 1984 - 2013
+    **L'artista e il suo percorso nel tempo 1984 - 2013**
 
     _Dopo aver abbandonato nel 1984 la camera oscura, in cui vigeva molto la casualità, nel corso del tempo e attraverso una quantità immensa di scatti (dai 50.000 in su), Saccari ha saputo affrontare più tematiche: dal paesaggio alla presenza dell'uomo, dalla poesia delle diverse etnie che popolano il mondo, all'introspezione, suscitando nel fruitore la sensazione di assistere a una sorta d'interpretazione panica del contemporaneo._
 

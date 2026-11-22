@@ -31,5 +31,5 @@ bodySection:
     - Catalogo: sì
     - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
-    ![Paola Ramella](/media/events/leonor-fini-memorie-triestine/Paola_Ramella.jpg) Paola Ramella
+    ![Paola Ramella](/media/events/leonor-fini-memorie-triestine/Paola_Ramella.jpg "Paola Ramella")
 ---

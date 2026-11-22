@@ -16,7 +16,5 @@ bodySection:
 
     In mostra **sabato e domenica alle ore 18.30** proseguono anche le **visite guidate condotte dalla curatrice Marianna Accerboni**.
 
-    ![Paola Ramella nella mostra su Leonor Fini con i materiali del laboratorio di fumetto per i giovanissimi da lei diretto](/file/get/Eventi/memorie_triestine_2021/gallery/Paola_Ramella_nella_mostra_su_Leonor_Fini_con_i_materiali_del_laboratorio_di_fumetto_per_i_giovanissimi_da_lei_diretto.jpg "Paola Ramella nella mostra su Leonor Fini con i materiali del laboratorio di fumetto per i giovanissimi da lei diretto") Paola Ramella nella mostra su Leonor Fini con i materiali del
-
-    laboratorio di fumetto per i giovanissimi da lei diretto
+    ![Paola Ramella nella mostra su Leonor Fini con i materiali del laboratorio di fumetto per i giovanissimi da lei diretto](/media/events/leonor-fini-memorie-triestine/Paola_Ramella_nella_mostra_su_Leonor_Fini_con_i_materiali_del_laboratorio_di_fumetto_per_i_giovanissimi_da_lei_diretto.jpg "Paola Ramella nella mostra su Leonor Fini con i materiali del laboratorio di fumetto per i giovanissimi da lei diretto")
 ---
