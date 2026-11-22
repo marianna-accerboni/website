@@ -1,7 +1,7 @@
 ---
 title: "Gorizia Artisti in guerra - lunedì 19 dicembre 2016 alla Biblioteca Statale Isontina nell'ambito della mostra su Dominioni incontro con Alessandro Gualtieri, grande esperto internazionale della Grande Guerra"
 slug: dominioni-gorizia-alessandro-gualtieri-2016
-createdAt: 2026-11-11T13:25:00
+createdAt: 2016-12-18T00:00:00
 coverImage: /media/events/dominioni-gorizia-alessandro-gualtieri-2016/Alessandro_Gualtieri.jpg
 info:
   openingDate: 2016-12-19 17:30

@@ -1,7 +1,7 @@
 ---
 title: "Martedì 13 settembre 2016 nella sede espositiva dell'Università Popolare di Trieste presentazione del libro “Mirella Schott Sbisà, una vita di donna nell'arte e nella cultura di Trieste del Novecento”"
 slug: mirella-schott-sbisa-libro-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-09-12T00:00:00
 coverImage: /media/events/mirella-schott-sbisa-libro-2016/Mirella_e_Carlo_Sbisa_il_giorno_del_loro_matrimonio.jpg
 info:
   openingDate: 2016-09-13 18:00

@@ -1,7 +1,7 @@
 ---
 title: "Viaggio nel colore: mostra personale del pittore triestino Roberto Budicin alla Sala Comunale d'Arte di Trieste"
 slug: roberto-budicin-viaggio-nel-colore-2013
-createdAt: 2026-11-21T12:43:00
+createdAt: 2013-10-01T00:00:00
 coverImage: /media/events/roberto-budicin-viaggio-nel-colore-2013/estate_2013_-_olio_su_tela_-_cm_30x60.jpg
 info:
   openingDate: 2013-10-02 18:30

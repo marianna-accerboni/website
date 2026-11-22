@@ -1,7 +1,7 @@
 ---
 title: 'Del silenzio e della luce: lunedì 13 marzo 2023 ore 11,00 inaugurazione della personale del pittore Claudio Mario Feruglio al Palazzo del Consiglio Regionale Piazza Oberdan, 6 Trieste'
 slug: feruglio-del-silenzio-e-della-luce-2023
-createdAt: 2026-09-20T20:27:00
+createdAt: 2023-03-13T00:00:00
 coverImage: /media/feruglio_2023-claudio-mario-feeuglio-la-dove-la-parola-nutre-acrilico-su-tela-cm-80x80-2020.jpg
 info:
   openingDate: 2023-03-13 11:00

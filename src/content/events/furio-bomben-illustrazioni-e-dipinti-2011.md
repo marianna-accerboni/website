@@ -1,7 +1,7 @@
 ---
 title: "Illustrazioni e dipinti di Furio Bomben all'Antico Caffè Stella Polare di Trieste"
 slug: furio-bomben-illustrazioni-e-dipinti-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-11-21T00:00:00
 coverImage: /media/events/furio-bomben-illustrazioni-e-dipinti-2011/Furio_Bomben_-_Lussinpiccolo_-_2011_-_tecnica_mista.jpg
 info:
   openingDate: 2011-11-22 19:00

@@ -1,7 +1,7 @@
 ---
 title: 'Sabato 21 febbraio alle 18.30 in Sala Veruda inaugurazione della mostra "Francesca Pozzobon. Un infinito intrattenimento"'
 slug: francesca-pozzobon-un-infinito-intrattenimento
-createdAt: 2026-09-19T09:27:00
+createdAt: 2026-02-21T00:00:00
 coverImage: /media/pozzobon-Balena_di_Pinocchio_20202023_-_tecnica_mista_-_cm_20x25.jpg
 info:
   openingDate: 2026-02-21 18:30

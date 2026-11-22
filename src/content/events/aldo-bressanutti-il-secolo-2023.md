@@ -1,7 +1,7 @@
 ---
 title: Prende il via il 13 ottobre alla Biblioteca statale Stelio Crise di Trieste la mostra diffusa Il secolo di Aldo Bressanutti
 slug: aldo-bressanutti-il-secolo-2023
-createdAt: 2026-09-20T20:27:00
+createdAt: 2023-10-13T00:00:00
 coverImage: /media/secolo_aldo_bressanutti-cassa-integrazione-1971-2000-olio-su-tavola-cm-50x70.jpg
 info:
   openingDate: 2023-10-13 18:30

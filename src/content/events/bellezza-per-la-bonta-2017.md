@@ -1,7 +1,7 @@
 ---
 title: "XVIII edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita"
 slug: bellezza-per-la-bonta-2017
-createdAt: 2026-11-11T12:53:00
+createdAt: 2017-11-03T00:00:00
 coverImage: /media/events/bellezza-per-la-bonta-2017/Alda_Baglioni_-_I_ponti_dove_accorrono_tutti_i_piedi_stanchi_2005_-_tecnica_mista_su_tela_-_cm_30x40.jpg
 info:
   openingDate: 2017-11-04 18:00

@@ -1,7 +1,7 @@
 ---
 title: "Rupert Rebernig: giovedì 9 maggio 2019 alla Sala Comunale d'Arte di Trieste inaugurazione della personale del pittore austriaco"
 slug: rupert-rebernig-la-sensazione-del-vedere-2019
-createdAt: 2026-11-11T11:29:00
+createdAt: 2019-05-08T00:00:00
 coverImage: /media/events/rupert-rebernig-la-sensazione-del-vedere-2019/Senza_titolo_4_2018_-_acrilico_su_tela_cm_50x70.jpg
 info:
   openingDate: 2019-05-09 19:00

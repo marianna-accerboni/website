@@ -1,7 +1,7 @@
 ---
 title: "Presentazione del romanzo La nebbia, 19° libro della scrittrice Nidia Robba"
 slug: nidia-robba-la-nebbia-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-06-04T00:00:00
 coverImage: /media/events/nidia-robba-la-nebbia-2012/Copertina_con_illustrazione_della_pittrice_Helga_Lumbar_Robba.jpg
 info:
   openingDate: 2012-06-05 18:00

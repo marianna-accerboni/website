@@ -1,7 +1,7 @@
 ---
 title: "Il virtuosismo luministico e cromatico di Livio Možina"
 slug: livio-mozina-virtuosismo-luministico-e-cromatico-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-10-07T00:00:00
 coverImage: /media/events/livio-mozina-virtuosismo-luministico-e-cromatico-2011/_Chiaro_di_luna_2010_-_olio_su_compensato_marino_di_mogano_-_cm_60x40_.JPG
 info:
   openingDate: 2011-10-08 18:00

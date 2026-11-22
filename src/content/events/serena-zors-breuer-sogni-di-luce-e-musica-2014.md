@@ -1,7 +1,7 @@
 ---
 title: "Sogni di luce e musica: sabato 6 settembre 2014 alla Galleria Rettori Tribbio di Trieste mostra della pittrice Serena Zors Breuer con una performance multimediale di luce, parole e musica"
 slug: serena-zors-breuer-sogni-di-luce-e-musica-2014
-createdAt: 2026-11-17T08:38:00
+createdAt: 2014-09-05T00:00:00
 coverImage: /media/events/serena-zors-breuer-sogni-di-luce-e-musica-2014/37.jpg
 info:
   openingDate: 2014-09-06 19:30

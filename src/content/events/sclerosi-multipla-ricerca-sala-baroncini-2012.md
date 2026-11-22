@@ -1,7 +1,7 @@
 ---
 title: "Promesse e traguardi della ricerca in campo medico nell'ambito della Settimana nazionale della sclerosi multipla"
 slug: sclerosi-multipla-ricerca-sala-baroncini-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-05-27T00:00:00
 coverImage: /media/events/sclerosi-multipla-ricerca-sala-baroncini-2012/_conferenza_2.jpg
 info:
   openingDate: 2012-05-28 17:30

@@ -1,7 +1,7 @@
 ---
 title: "V edizione del Concorso internazionale di pittura Dario Mulitsch: il 6 giugno 2015 al Palazzo Attems di Gorizia premiazione e inaugurazione della mostra degli artisti selezionati e presentazione del catalogo"
 slug: concorso-mulitsch-gorizia-2015
-createdAt: 2026-11-17T08:05:00
+createdAt: 2015-06-05T00:00:00
 coverImage: /media/events/concorso-mulitsch-gorizia-2015/mulitsch.jpg
 info:
   openingDate: 2015-06-06 17:30

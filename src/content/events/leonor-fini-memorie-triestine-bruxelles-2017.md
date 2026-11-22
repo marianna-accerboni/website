@@ -1,7 +1,7 @@
 ---
 title: "Leonor Fini. Memorie triestine: all'Istituto Italiano di Cultura di Bruxelles una mostra multimediale di pittura, musica e luce dedicata alla grande artista di Trieste"
 slug: leonor-fini-memorie-triestine-bruxelles-2017
-createdAt: 2026-11-11T12:22:00
+createdAt: 2017-11-15T00:00:00
 coverImage: /media/events/leonor-fini-memorie-triestine-bruxelles-2017/fini.jpg
 info:
   openingDate: 2017-11-16 19:00

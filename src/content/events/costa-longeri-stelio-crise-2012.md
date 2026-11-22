@@ -1,7 +1,7 @@
 ---
 title: "Mercoledì 21 novembre alla Libreria Minerva di Trieste Roberto Costa Longeri presenta il suo ultimo libro intitolato Stelio Crise. Il bibliotecario curioso"
 slug: costa-longeri-stelio-crise-2012
-createdAt: 2026-11-21T14:43:00
+createdAt: 2012-11-20T00:00:00
 coverImage: /media/events/costa-longeri-stelio-crise-2012/foto.jpg
 info:
   openingDate: 2012-11-21 18:00

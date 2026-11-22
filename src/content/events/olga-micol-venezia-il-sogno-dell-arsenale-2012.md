@@ -1,7 +1,7 @@
 ---
 title: "Venezia, il sogno dell'Arsenale: dal 17 settembre mostra della fotografa Olga Micol allo storico Caffè Tommaseo di Trieste"
 slug: olga-micol-venezia-il-sogno-dell-arsenale-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-09-16T00:00:00
 coverImage: /media/events/olga-micol-venezia-il-sogno-dell-arsenale-2012/Collage.jpg
 info:
   openingDate: 2012-09-17 19:00

@@ -1,7 +1,7 @@
 ---
 title: "Another place another code: mostra personale di Femi Vilardo da Luana Riccobon Hair & Boutique a Trieste"
 slug: femi-vilardo-another-place-another-code-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-06-22T00:00:00
 coverImage: /media/events/femi-vilardo-another-place-another-code-2012/Femi_Vilardo_-_tecnica_mista_su_tela_-_dittico_cm._100x50.JPG
 info:
   openingDate: 2012-06-23 20:00

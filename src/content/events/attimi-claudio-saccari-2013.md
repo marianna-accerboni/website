@@ -1,7 +1,7 @@
 ---
 title: "Attimi: dal 31 gennaio mostra personale del fotografo Claudio Saccari"
 slug: attimi-claudio-saccari-2013
-createdAt: 2026-11-21T14:43:00
+createdAt: 2013-01-30T00:00:00
 coverImage: /media/events/attimi-claudio-saccari-2013/C.Saccari_-_Il_bacio_2011_-_stampa_a_pigmenti_di_carbone_su_carta_100_cotone_baritata_-_cm_50x33.jpg
 info:
   openingDate: 2013-01-31 18:00

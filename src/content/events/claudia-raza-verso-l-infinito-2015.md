@@ -1,7 +1,7 @@
 ---
 title: "Verso l'infinito: venerdì 3 luglio 2015 al Museo d'Arte Moderna Ugo Carà di Muggia inaugurazione della personale della pittrice Claudia Raza"
 slug: claudia-raza-verso-l-infinito-2015
-createdAt: 2026-11-17T07:57:00
+createdAt: 2015-07-02T00:00:00
 coverImage: /media/events/claudia-raza-verso-l-infinito-2015/Alla_foce_acrilico_cm_40x40_2009.JPG
 info:
   openingDate: 2015-07-03 19:00

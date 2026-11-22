@@ -1,7 +1,7 @@
 ---
 title: Mercoledì 25 giugno 2025 a Trieste nella sede di Battello Stampatore inaugurazione della mostra fotografica "La colomba nel buio" con immagini e parole di Giorgetta Dorfles
 slug: giorgetta-dorfles-la-colomba-nel-buio
-createdAt: 2026-09-19T09:27:00
+createdAt: 2025-06-25T00:00:00
 coverImage: /media/Vertigine.jpg
 info:
   openingDate: 2025-06-25 18:00

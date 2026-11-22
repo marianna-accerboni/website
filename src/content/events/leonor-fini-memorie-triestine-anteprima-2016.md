@@ -1,7 +1,7 @@
 ---
 title: "Leonor Fini. Memorie triestine: il 24 settembre 2016, nel ventennale della morte della pittrice e in occasione delle Giornate Europee del Patrimonio, alla Biblioteca Statale di Trieste anteprima del libro e del video di Marianna Accerboni"
 slug: leonor-fini-memorie-triestine-anteprima-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-09-23T00:00:00
 coverImage: /media/events/leonor-fini-memorie-triestine-anteprima-2016/Gatto_-_pastello_su_carta_-_cm_25x34_coll._privata.jpg
 info:
   openingDate: 2016-09-24 18:30

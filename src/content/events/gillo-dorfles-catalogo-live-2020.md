@@ -1,7 +1,7 @@
 ---
 title: Presentazione LIVE in diretta Facebook del catalogo della mostra dedicata a Gillo Dorfles
 slug: gillo-dorfles-catalogo-live-2020
-createdAt: 2026-11-11T10:41:00
+createdAt: 2020-06-22T00:00:00
 coverImage: /media/events/gillo-dorfles-catalogo-live-2020/copertina-catalogo-gillo-drfless.png
 info:
   openingDate: 2020-06-23 12:00

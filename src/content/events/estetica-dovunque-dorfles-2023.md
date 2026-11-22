@@ -1,7 +1,7 @@
 ---
 title: Mercoledì 1 marzo 2023 alla Biblioteca statale Stelio Crise di Trieste presentazione del volume Estetica dovunque con quattro saggi di Gillo Dorfles e proiezione di un breve video dedicato al grande intellettuale artista di origine triestina
 slug: estetica-dovunque-dorfles-2023
-createdAt: 2026-09-20T21:16:00
+createdAt: 2023-03-01T00:00:00
 coverImage: /media/estetica-dor-01.jpg
 info:
   openingDate: 2022-03-01 17:30

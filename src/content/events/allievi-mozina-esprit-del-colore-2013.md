@@ -1,7 +1,7 @@
 ---
 title: "L'esprit del colore e dell'amicizia: alla Galleria Rettori Tribbio di Trieste mostra di fine d'anno degli allievi del pittore Livio Možina"
 slug: allievi-mozina-esprit-del-colore-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-08-23T00:00:00
 coverImage: /media/events/allievi-mozina-esprit-del-colore-2013/Alessandro_Calligaris_-_Sognando_il_tempo_2013_-_olio_su_tela_-_cm._40x60.JPG
 info:
   openingDate: 2013-08-24 18:00

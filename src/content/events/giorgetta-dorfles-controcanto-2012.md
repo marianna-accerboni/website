@@ -1,7 +1,7 @@
 ---
 title: "Controcanto: mostra fotografica di Giorgetta Dorfles alla Sala Comunale d'Arte di Trieste"
 slug: giorgetta-dorfles-controcanto-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-09-27T00:00:00
 coverImage: /media/events/giorgetta-dorfles-controcanto-2012/Aperitivo_per_sirene_2006_-_pellicola_colore_-_cm_30_x40.jpg
 info:
   openingDate: 2012-09-28 19:00

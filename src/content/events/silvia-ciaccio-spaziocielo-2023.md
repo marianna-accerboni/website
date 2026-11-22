@@ -1,7 +1,7 @@
 ---
 title: "Silvia Ciaccio: Spaziocielo Essenza Oltremare inaugurazione giovedì 1 giugno 2023 alla Sala Comunale d'arte di Trieste"
 slug: silvia-ciaccio-spaziocielo-2023
-createdAt: 2026-09-20T20:27:00
+createdAt: 2023-06-01T00:00:00
 coverImage: /media/spaziocielo-essenza-oltremare-ph-claudio-ciaccio.jpg
 info:
   openingDate: 2023-06-01 18:00

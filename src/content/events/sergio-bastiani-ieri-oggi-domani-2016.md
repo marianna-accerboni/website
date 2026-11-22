@@ -1,7 +1,7 @@
 ---
 title: "Ieri oggi domani: martedì 19 luglio 2016 alla Sala Comunale d'Arte mostra personale del pittore Sergio Bastiani"
 slug: sergio-bastiani-ieri-oggi-domani-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-07-18T00:00:00
 coverImage: /media/events/sergio-bastiani-ieri-oggi-domani-2016/Sergio_Bastiani_-_Alberi_di_Cristallo_cm_40x50.jpg
 info:
   openingDate: 2016-07-19 19:00

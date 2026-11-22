@@ -1,7 +1,7 @@
 ---
 title: "VI edizione del Concorso internazionale di pittura Dario Mulitsch: sabato 8 giugno 2019 al Castello di Gorizia premiazione e inaugurazione della mostra degli artisti selezionati e presentazione del catalogo"
 slug: concorso-mulitsch-gorizia-2019
-createdAt: 2026-11-11T11:21:00
+createdAt: 2019-06-07T00:00:00
 coverImage: /media/events/concorso-mulitsch-gorizia-2019/Sala_del_Conte_il_pubblico_2.JPG
 info:
   openingDate: 2019-06-08 18:00

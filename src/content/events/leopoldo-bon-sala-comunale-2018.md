@@ -1,7 +1,7 @@
 ---
 title: "Leopoldo Bon: giovedì 11 gennaio 2018 alla Sala Comunale d'Arte di Trieste inaugurazione della personale del fotografo-artista"
 slug: leopoldo-bon-sala-comunale-2018
-createdAt: 2026-11-11T12:22:00
+createdAt: 2018-01-10T00:00:00
 coverImage: /media/events/leopoldo-bon-sala-comunale-2018/Immaginare_59_2010__2013_-_perspex_stampa_Fuji_-_cm_50x70_stampatore_Eidos_Modena.jpg
 info:
   openingDate: 2018-01-11 19:00

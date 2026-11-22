@@ -1,7 +1,7 @@
 ---
 title: "Pittori amburghesi a Trieste: per la prima volta sei prestigiosi artisti amburghesi ci raccontano il mare del Nord e il porto di Trieste attraverso 150 opere esposte in 5 sedi"
 slug: pittori-amburghesi-a-trieste-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-09-26T00:00:00
 coverImage: /media/events/pittori-amburghesi-a-trieste-2012/Herbert_Grunwaldt_-_Cambio_di_turno_-_2007_-_cm._40x29_-_acquarello.jpg
 info:
   openingDate: 2012-09-27 19:15

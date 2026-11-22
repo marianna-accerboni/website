@@ -1,7 +1,7 @@
 ---
 title: "Due mostre d'eccezione per il 60° Carnevale Muggesano"
 slug: carnevale-muggesano-60-due-mostre-2013
-createdAt: 2026-11-21T14:43:00
+createdAt: 2013-01-17T00:00:00
 coverImage: /media/events/carnevale-muggesano-60-due-mostre-2013/img.jpg
 info:
   openingDate: 2013-01-18 18:00

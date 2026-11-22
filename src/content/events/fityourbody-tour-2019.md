@@ -1,7 +1,7 @@
 ---
 title: "Fitness e wellness d'avanguardia: alla Biblioteca statale S. Crise di Trieste lunedì 15 aprile presentazione e avvio del Fityourbody tour con il 1° meeting Fityourbody"
 slug: fityourbody-tour-2019
-createdAt: 2026-11-11T11:29:00
+createdAt: 2019-04-14T00:00:00
 coverImage: /media/events/fityourbody-tour-2019/La_sede_di_FIYOURBODY_bassa.jpg
 info:
   openingDate: 2019-04-15 18:00

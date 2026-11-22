@@ -1,7 +1,7 @@
 ---
 title: "XIV edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita"
 slug: bellezza-per-la-bonta-2013
-createdAt: 2026-11-21T12:43:00
+createdAt: 2013-11-15T00:00:00
 coverImage: /media/events/bellezza-per-la-bonta-2013/FIOCCHI.jpg
 info:
   openingDate: 2013-11-16 11:30

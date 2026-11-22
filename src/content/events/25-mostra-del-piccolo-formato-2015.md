@@ -1,7 +1,7 @@
 ---
 title: "Sabato 18 aprile 2015 alla Galleria Rettori Tribbio di Trieste inaugurazione della 25° mostra del piccolo formato"
 slug: 25-mostra-del-piccolo-formato-2015
-createdAt: 2026-11-17T08:11:00
+createdAt: 2015-04-17T00:00:00
 coverImage: /media/events/25-mostra-del-piccolo-formato-2015/Bozzetto_x_Le_nozze_di_Figaro_-_Mozart.jpg
 info:
   openingDate: 2015-04-18 18:00

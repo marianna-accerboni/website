@@ -1,7 +1,7 @@
 ---
 title: "Mostra personale del pittore Fabio Colussi alla Sala Comunale d'Arte di Trieste"
 slug: fabio-colussi-sala-comunale-2013
-createdAt: 2026-11-21T14:43:00
+createdAt: 2013-01-06T00:00:00
 coverImage: /media/events/fabio-colussi-sala-comunale-2013/Fabio_Colussi_-_La_vecchia_Pescheria_2011_-_olio_su_tela_-_cm_50x70_.jpg
 info:
   openingDate: 2013-01-07 18:00

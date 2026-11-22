@@ -1,7 +1,7 @@
 ---
 title: "Frammenti nel vetro…Riflessi su poliestere: martedì 9 agosto alla Sala Comunale d'Arte di Trieste mostra personale dell'artista Gastone Bianchi"
 slug: gastone-bianchi-frammenti-nel-vetro-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-08-08T00:00:00
 coverImage: /media/events/gastone-bianchi-frammenti-nel-vetro-2016/Gastone_Bianchi_con_il_maestro_australiano_Matthew_Curtis_nellatelier_di_Diego_Feurer_a_Lugano_.jpg
 info:
   openingDate: 2016-08-09 19:00

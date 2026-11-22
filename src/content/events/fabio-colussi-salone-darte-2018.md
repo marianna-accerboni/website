@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi: da sabato 8 dicembre 2018 la mostra personale del pittore triestino al Salone d'Arte di Trieste"
 slug: fabio-colussi-salone-darte-2018
-createdAt: 2026-11-11T11:29:00
+createdAt: 2018-12-07T00:00:00
 coverImage: /media/events/fabio-colussi-salone-darte-2018/foto2.jpg
 info:
   openingDate: 2018-12-08 18:00

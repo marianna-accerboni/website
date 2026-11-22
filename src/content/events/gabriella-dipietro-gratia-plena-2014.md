@@ -1,7 +1,7 @@
 ---
 title: "Da sabato 14 giugno alla Galleria Rettori Tribbio di Trieste “Gratia plena”, mostra personale di Gabriella Dipietro"
 slug: gabriella-dipietro-gratia-plena-2014
-createdAt: 2026-11-17T08:38:00
+createdAt: 2014-06-13T00:00:00
 coverImage: /media/events/gabriella-dipietro-gratia-plena-2014/Ali_spezzate_2014_-_olio_su_tela_-_cm_60x60.jpg
 info:
   openingDate: 2014-06-14 18:30

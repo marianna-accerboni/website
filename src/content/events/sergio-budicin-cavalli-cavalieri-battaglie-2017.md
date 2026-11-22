@@ -1,7 +1,7 @@
 ---
 title: "Cavalli, cavalieri e battaglie: venerdì 3 marzo 2017 alla Sala Comunale d'Arte di Trieste mostra personale del pittore Sergio Budicin"
 slug: sergio-budicin-cavalli-cavalieri-battaglie-2017
-createdAt: 2026-11-11T13:14:00
+createdAt: 2017-03-02T00:00:00
 coverImage: /media/events/sergio-budicin-cavalli-cavalieri-battaglie-2017/Alessandro_e_Bucefalo_2013_-_olio_su_tela_-_cm_60x50.jpg
 info:
   openingDate: 2017-03-03 18:00

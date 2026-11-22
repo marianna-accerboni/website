@@ -1,7 +1,7 @@
 ---
 title: "Roberto Budicin. Opere scelte 2015 - 2016: inaugurazione sabato 20 febbraio alla Galleria Rettori Tribbio di Trieste"
 slug: roberto-budicin-opere-scelte-2016
-createdAt: 2026-11-14T10:58:00
+createdAt: 2016-02-19T00:00:00
 coverImage: /media/events/roberto-budicin-opere-scelte-2016/Dal_sentiero_di_montagna_2015_-_olio_su_tela_-_cm_50x70.jpg
 info:
   openingDate: 2016-02-20 18:00

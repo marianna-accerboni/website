@@ -1,7 +1,7 @@
 ---
 title: "Paolo Caccia Dominioni. Un artista sul fronte di guerra. L'uomo, le architetture, il segno, la scrittura"
 slug: dominioni-trieste-biblioteca-crise-2015
-createdAt: 2026-11-17T07:46:00
+createdAt: 2015-07-08T00:00:00
 coverImage: /media/events/dominioni-trieste-biblioteca-crise-2015/PCD_Africa_Settentrionale_2GM.jpg
 info: null
 subEvents:

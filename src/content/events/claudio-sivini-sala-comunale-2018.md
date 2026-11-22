@@ -1,7 +1,7 @@
 ---
 title: "Venerdì 30 marzo 2018 alla Sala Comunale d'Arte di Trieste inaugurazione della personale dell'artista Claudio Sivini"
 slug: claudio-sivini-sala-comunale-2018
-createdAt: 2026-11-11T12:22:00
+createdAt: 2018-03-29T00:00:00
 coverImage: /media/events/claudio-sivini-sala-comunale-2018/Claudio_Sivini_fotografato_accanto_ad_alcune_opere_recenti.jpg
 info:
   openingDate: 2018-03-30 18:30

@@ -1,7 +1,7 @@
 ---
 title: "XVII edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita"
 slug: bellezza-per-la-bonta-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-10-28T00:00:00
 coverImage: /media/events/bellezza-per-la-bonta-2016/Francois_Piers_-_Porto_in_Normandia_2007_-_acquerello_-_cm_27x35_3.jpg
 info:
   openingDate: 2016-10-29 11:00

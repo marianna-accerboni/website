@@ -1,7 +1,7 @@
 ---
 title: "XXI edizione della mostra di pittura La bellezza per la bontà – l'arte aiuta la vita"
 slug: bellezza-per-la-bonta-2020
-createdAt: 2026-10-16T09:16:00
+createdAt: 2020-11-01T00:00:00
 coverImage: /media/events/bellezza-per-la-bonta-2020-xxi-edizione/foto.jpg
 info:
   openingDate: 2020-11-02 17:00

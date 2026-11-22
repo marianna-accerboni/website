@@ -1,7 +1,7 @@
 ---
 title: "XII edizione della mostra di pittura La bellezza per la bontà · L'arte aiuta la vita"
 slug: bellezza-per-la-bonta-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-10-21T00:00:00
 coverImage: /media/events/bellezza-per-la-bonta-2011/Annamaria_Ducaton_-_Alberi_1994_-_tempera_mista_smalto_cera_-_cm_35x50.jpg
 info:
   openingDate: 2011-10-22 12:00

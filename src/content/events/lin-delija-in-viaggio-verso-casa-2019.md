@@ -1,7 +1,7 @@
 ---
 title: "La mostra “Lin Delija. In viaggio verso casa. Gorizia - Zagabria - Scutari”"
 slug: lin-delija-in-viaggio-verso-casa-2019
-createdAt: 2026-11-11T11:29:00
+createdAt: 2019-03-22T00:00:00
 coverImage: /media/events/lin-delija-in-viaggio-verso-casa-2019/ballerina.jpg
 info:
   openingDate: 2019-03-23 17:30

@@ -1,7 +1,7 @@
 ---
 title: "L'arte del '900 triestino dal 4 aprile alla Galleria One San Nicolò"
 slug: arte-del-900-triestino-one-san-nicolo-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-04-03T00:00:00
 coverImage: /media/events/arte-del-900-triestino-one-san-nicolo-2014/leonor_fini_e_dida.jpg
 info:
   openingDate: 2014-04-04 18:30

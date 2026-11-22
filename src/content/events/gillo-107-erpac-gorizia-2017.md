@@ -1,7 +1,7 @@
 ---
 title: "Venerdì 30 giugno 2017 all'ERPAC - Musei Provinciali di Gorizia di Borgo Castello in occasione del 107° compleanno di Gillo Dorfles avrà luogo la seconda tappa del progetto “Gillo 107”"
 slug: gillo-107-erpac-gorizia-2017
-createdAt: 2026-11-11T13:26:00
+createdAt: 2017-06-29T00:00:00
 coverImage: /media/events/gillo-107-erpac-gorizia-2017/Gillo_Dorfles_2_2007_ph_Giorgetta_Dorfles.jpg
 info:
   openingDate: 2017-06-30 18:30

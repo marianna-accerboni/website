@@ -1,7 +1,7 @@
 ---
 title: "Luce. Marine e lagune: mostra personale del pittore Fabio Colussi al Salone d'Arte Contemporanea di Trieste"
 slug: fabio-colussi-luce-marine-e-lagune-2013
-createdAt: 2026-11-21T12:43:00
+createdAt: 2013-11-24T00:00:00
 coverImage: /media/events/fabio-colussi-luce-marine-e-lagune-2013/Laguna_-_2013_-_olio_su_tavoladi_rovere_-_cm._30x40.jpg
 info:
   openingDate: 2013-11-30 18:00

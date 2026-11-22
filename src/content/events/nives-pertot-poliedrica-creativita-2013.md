@@ -1,7 +1,7 @@
 ---
 title: "La poliedrica creatività di Nives Pertot: dal 7 ottobre allo storico Caffè Tommaseo di Trieste la personale della pittrice triestina"
 slug: nives-pertot-poliedrica-creativita-2013
-createdAt: 2026-11-21T12:43:00
+createdAt: 2013-10-06T00:00:00
 coverImage: /media/events/nives-pertot-poliedrica-creativita-2013/Nives_Pertot_-_Intrecci_2009_-_olio_su_tela_-_cm_60x80.jpg
 info:
   openingDate: 2013-10-07 18:30

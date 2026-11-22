@@ -1,7 +1,7 @@
 ---
 title: "Espressioni carsiche: mercoledì 9 marzo alla Sala Comunale d'Arte di Trieste il pittore Silvano Clavora festeggia con una personale i suoi sessant'anni di pittura"
 slug: silvano-clavora-espressioni-carsiche-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-03-08T00:00:00
 coverImage: /media/events/silvano-clavora-espressioni-carsiche-2016/Espressione_carsica_04_2013__2016_-_tecnica_mista_-_cm._80x120.jpg
 info:
   openingDate: 2016-03-09 18:30

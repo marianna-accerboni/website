@@ -1,7 +1,7 @@
 ---
 title: "Concorso fotografico per il calendario Poveri ma belli 2012"
 slug: gattile-poveri-ma-belli-2012-concorso-fotografico-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-09-19T00:00:00
 coverImage: /media/events/gattile-poveri-ma-belli-2012-concorso-fotografico-2011/Margherita_Hack_e_Geppetta.jpg
 info: null
 subEvents:

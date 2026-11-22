@@ -1,7 +1,7 @@
 ---
 title: Bruxelles - Presentato alla Regione Friuli Venezia Giulia l'ultimo libro di De Filippo "Trieste è un'isola"
 slug: de-filippo-trieste-isola-bruxelles
-createdAt: 2026-09-20T06:23:00
+createdAt: 2024-06-16T00:00:00
 coverImage: /media/de-filippo-Francesco-De-Filippo.jpg
 info:
   openingDate: ''

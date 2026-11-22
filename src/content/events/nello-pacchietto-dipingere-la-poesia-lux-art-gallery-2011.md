@@ -1,7 +1,7 @@
 ---
 title: "Lux Art Gallery: nasce a Trieste un nuovo spazio espositivo. La vernice, con le opere di Nello Pacchietto, sottolineata da un evento multimediale di arte visiva, poesia, musica e luce. In mostra lavori dedicati all'Istria, a Venezia e al mare"
 slug: nello-pacchietto-dipingere-la-poesia-lux-art-gallery-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-09-22T00:00:00
 coverImage: /media/events/nello-pacchietto-dipingere-la-poesia-lux-art-gallery-2011/img_solo.jpg
 info:
   openingDate: 2011-09-23 19:30

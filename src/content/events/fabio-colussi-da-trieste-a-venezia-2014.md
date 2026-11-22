@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi da Trieste a Venezia: dal 22 novembre la mostra personale del pittore triestino al Salone d'Arte contemporanea di Trieste"
 slug: fabio-colussi-da-trieste-a-venezia-2014
-createdAt: 2026-11-17T08:26:00
+createdAt: 2014-11-21T00:00:00
 coverImage: /media/events/fabio-colussi-da-trieste-a-venezia-2014/Adriaco_-_2011_-_olio_su_tela_-_cm._30x40.jpg
 info:
   openingDate: 2014-11-22 18:00

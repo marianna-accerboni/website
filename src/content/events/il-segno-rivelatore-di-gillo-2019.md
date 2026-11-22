@@ -1,7 +1,7 @@
 ---
 title: "Il segno rivelatore di Gillo"
 slug: il-segno-rivelatore-di-gillo-2019
-createdAt: 2026-11-11T11:21:00
+createdAt: 2019-11-14T00:00:00
 coverImage: /media/events/il-segno-rivelatore-di-gillo-2019/Bozzetto_per_stoffa_1937_-_tempera_grassa_alluovo_su_carta_-_cm_16x158.jpg
 info:
   openingDate: 2019-11-15 18:30

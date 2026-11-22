@@ -1,7 +1,7 @@
 ---
 title: "Espressioni carsiche: venerdì 13 aprile inaugurazione mostra personale del pittore Silvano Clavora al Palazzo del Consiglio Regionale di Trieste"
 slug: silvano-clavora-espressioni-carsiche-2018
-createdAt: 2026-11-11T12:22:00
+createdAt: 2018-04-12T00:00:00
 coverImage: /media/events/silvano-clavora-espressioni-carsiche-2018/Espressione_carsica_03_2013___2016-_tecnica_mista_-_cm._80x100.jpg
 info:
   openingDate: 2018-04-13 13:30

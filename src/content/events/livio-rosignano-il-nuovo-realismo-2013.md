@@ -1,7 +1,7 @@
 ---
 title: "Il nuovo realismo di Livio Rosignano alla Lux Art Gallery di Trieste"
 slug: livio-rosignano-il-nuovo-realismo-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-04-04T00:00:00
 coverImage: /media/events/livio-rosignano-il-nuovo-realismo-2013/Paesaggio_dalla_costiera_20102011_-_olio_su_tela_-_cm_200_x_150.jpg
 info:
   openingDate: 2013-04-05 19:00

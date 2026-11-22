@@ -1,7 +1,7 @@
 ---
 title: "Al via gli appuntamenti collaterali e le visite guidate alla mostra “Vetro, la mia seconda pelle”"
 slug: vetro-la-mia-seconda-pelle-2018
-createdAt: 2026-11-11T11:44:00
+createdAt: 2018-07-19T00:00:00
 coverImage: /media/events/vetro-la-mia-seconda-pelle-2018/Graal_20062008.jpg
 info: null
 subEvents:

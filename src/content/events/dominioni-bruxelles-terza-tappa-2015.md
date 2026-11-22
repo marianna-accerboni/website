@@ -1,7 +1,7 @@
 ---
 title: "Dopo il grande successo di Gorizia e di Trieste prende il via il 3 novembre all'Istituto Italiano di Cultura di Bruxelles la terza tappa della mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra. Tre le sedi espositive"
 slug: dominioni-bruxelles-terza-tappa-2015
-createdAt: 2026-11-14T10:59:00
+createdAt: 2015-11-02T00:00:00
 coverImage: /media/events/dominioni-bruxelles-terza-tappa-2015/Paolo_Caccia_Dominioni_in_Africa_Settentrionale_durante_il_secondo_conflitto_mondiale.jpg
 info: null
 subEvents:

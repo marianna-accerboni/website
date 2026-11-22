@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. Poesia del mare: da venerdì 4 marzo 2022 la mostra personale del pittore triestino alla Sala Comunale d'Arte di Trieste"
 slug: fabio-colussi-poesia-del-mare-2022
-createdAt: 2026-09-22T08:08:00
+createdAt: 2022-03-04T00:00:00
 coverImage: /media/colussi_2022-marina-al-tramonto-2016---olio-su-tela---cm-25x35.jpg
 info:
   openingDate: 2022-03-04 18:00

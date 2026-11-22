@@ -1,7 +1,7 @@
 ---
 title: "Venerdì 18 gennaio al Circolo della Stampa di Trieste presentazione del video “Viaggio in Dalmazia” di Franco Viezzoli"
 slug: franco-viezzoli-viaggio-in-dalmazia-2019
-createdAt: 2026-11-11T11:29:00
+createdAt: 2019-01-17T00:00:00
 coverImage: /media/events/franco-viezzoli-viaggio-in-dalmazia-2019/29tn_DL_BL060.jpg
 info:
   openingDate: 2019-01-18 17:30

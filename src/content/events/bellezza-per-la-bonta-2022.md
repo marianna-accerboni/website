@@ -1,7 +1,7 @@
 ---
 title: XXIII edizione della mostra di pittura La bellezza per la bontà – l'arte aiuta la vita al via dal 29 novembre alla Sala Xenia di Trieste
 slug: bellezza-per-la-bonta-2022
-createdAt: 2026-09-20T21:16:00
+createdAt: 2022-11-29T00:00:00
 coverImage: /media/Hazel_Marie_Cole_ingegnere_aeronautico_inglese.jpg
 info:
   openingDate: 2022-11-29 18:00

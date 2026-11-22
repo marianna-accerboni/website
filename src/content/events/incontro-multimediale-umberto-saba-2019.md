@@ -1,7 +1,7 @@
 ---
 title: "Incontro multimediale con Umberto Saba"
 slug: incontro-multimediale-umberto-saba-2019
-createdAt: 2026-11-11T11:21:00
+createdAt: 2019-09-14T00:00:00
 coverImage: /media/events/incontro-multimediale-umberto-saba-2019/Linterno_della_Libreria_dal_libro_La_Libreria_del_poeta_Umberto_Saba_Hammerle_Editori_in_Trieste_autori_Elena_Biziak_Vinci_e_Stelio_Vinci.jpg
 info:
   openingDate: 2019-09-19 19:00

@@ -1,7 +1,7 @@
 ---
 title: "Una scuola di luce: sabato 23 agosto alla Galleria Rettori Tribbio di Trieste mostra degli allievi dell'atelier del pittore Livio Možina"
 slug: atelier-mozina-una-scuola-di-luce-2014
-createdAt: 2026-11-17T08:38:00
+createdAt: 2014-08-22T00:00:00
 coverImage: /media/events/atelier-mozina-una-scuola-di-luce-2014/Bruna_NALDI_-_Autunno_2014_-_olio.jpg
 info:
   openingDate: 2014-08-23 18:00

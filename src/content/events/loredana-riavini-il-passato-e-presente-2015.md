@@ -1,7 +1,7 @@
 ---
 title: "Il passato è presente: dal 12 novembre alla Sala Comunale d'Arte di Trieste la mostra personale della pittrice Loredana Riavini"
 slug: loredana-riavini-il-passato-e-presente-2015
-createdAt: 2026-11-14T10:58:00
+createdAt: 2015-11-11T00:00:00
 coverImage: /media/events/loredana-riavini-il-passato-e-presente-2015/Quasi_veli_da_sposa_2011_-_acrilico_su_tavola_-_cm._30x40.jpg
 info:
   openingDate: 2015-11-12 18:30

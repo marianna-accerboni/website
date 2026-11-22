@@ -1,7 +1,7 @@
 ---
 title: "Franco Manià da New York a Trieste alla Lux Art Gallery di Trieste dal 14 giugno"
 slug: franco-mania-da-new-york-a-trieste-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-06-13T00:00:00
 coverImage: /media/events/franco-mania-da-new-york-a-trieste-2013/DSC05220_1600x1200.jpg
 info:
   openingDate: 2013-06-14 19:00

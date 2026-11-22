@@ -1,7 +1,7 @@
 ---
 title: "L'anima di Trieste. Personale del fotografo-artista Claudio Saccari nella sede di collegamento della Regione Autonoma Friuli Venezia Giulia a Bruxelles"
 slug: claudio-saccari-l-anima-di-trieste-bruxelles-2013
-createdAt: 2026-11-21T12:43:00
+createdAt: 2013-11-25T00:00:00
 coverImage: /media/events/claudio-saccari-l-anima-di-trieste-bruxelles-2013/Castello_di_Miramare_di_Massimiliano_e_Carlotta_2012.jpg
 info:
   openingDate: 2013-11-26 18:30

@@ -1,7 +1,7 @@
 ---
 title: "Duplice evento espositivo per il pittore Roberto del Frate: in mostra a Trieste e Udine il suo impressionismo contemporaneo"
 slug: roberto-del-frate-trieste-udine-2011
-createdAt: 2026-11-21T16:45:00
+createdAt: 2011-05-13T00:00:00
 coverImage: /media/events/roberto-del-frate-trieste-udine-2011/inverno_2010_-_olio_e_tecnica_mista_su_tavola_-_cm._50x55_.jpg
 info:
   openingDate: 2011-06-04 20:30

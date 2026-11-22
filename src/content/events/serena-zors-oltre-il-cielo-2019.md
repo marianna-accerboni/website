@@ -1,7 +1,7 @@
 ---
 title: "Serena Zors. Oltre il cielo, l'infinito"
 slug: serena-zors-oltre-il-cielo-2019
-createdAt: 2026-11-11T11:29:00
+createdAt: 2019-04-12T00:00:00
 coverImage: /media/events/serena-zors-oltre-il-cielo-2019/Il_gabbiano_del_prof_2018_-_olio_su_tela_-_cm_35x50.jpg
 info:
   openingDate: 2019-04-13 20:00

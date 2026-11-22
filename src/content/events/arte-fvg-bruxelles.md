@@ -1,7 +1,7 @@
 ---
 title: L'arte della Regione Friuli Venezia Giulia a Bruxelles
 slug: arte-fvg-bruxelles
-createdAt: 2026-09-20T07:25:00
+createdAt: 2024-05-14T00:00:00
 coverImage: /media/arte-fvg-screen-shot-2024-05-11-at-5.38.28-pm.png
 info:
   openingDate: 2024-05-14 19:00

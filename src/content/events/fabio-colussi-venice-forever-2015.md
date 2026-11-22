@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. Venice forever: dal 27 settembre la mostra personale del pittore triestino alla Galleria Melori & Rosenberg di Venezia"
 slug: fabio-colussi-venice-forever-2015
-createdAt: 2026-11-17T07:57:00
+createdAt: 2015-09-26T00:00:00
 coverImage: /media/events/fabio-colussi-venice-forever-2015/Canal_Grande_2014_-_olio_su_tela_-_cm_40x80.jpg
 info:
   openingDate: 2015-09-27 18:00

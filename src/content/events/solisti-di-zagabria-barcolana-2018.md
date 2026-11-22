@@ -1,7 +1,7 @@
 ---
 title: "In occasione della 50° Barcolana il 9 ottobre al Teatro G. Verdi di Trieste un grande concerto dell'Ensemble internazionale dei Solisti di Zagabria, offerto quale omaggio alla città dalla Comunità Croata di Trieste"
 slug: solisti-di-zagabria-barcolana-2018
-createdAt: 2026-11-11T12:02:00
+createdAt: 2018-10-08T00:00:00
 coverImage: /media/events/solisti-di-zagabria-barcolana-2018/I_Solisti_di_Zagabria_1.jpg
 info:
   openingDate: 2018-10-09 21:00

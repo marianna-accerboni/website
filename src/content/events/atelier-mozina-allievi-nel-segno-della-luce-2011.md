@@ -1,7 +1,7 @@
 ---
 title: "Nel segno della luce"
 slug: atelier-mozina-allievi-nel-segno-della-luce-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-08-26T00:00:00
 coverImage: /media/events/atelier-mozina-allievi-nel-segno-della-luce-2011/1.jpg
 info:
   openingDate: 2011-08-27 18:00

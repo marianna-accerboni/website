@@ -1,7 +1,7 @@
 ---
 title: "Emozioni e sensazioni della vecchia Europa"
 slug: olga-micol-emozioni-e-sensazioni-vecchia-europa-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-07-31T00:00:00
 coverImage: /media/events/olga-micol-emozioni-e-sensazioni-vecchia-europa-2011/Varsavia_-_Parco_Lazienki_e_Palazzo_Lazienki.jpg
 info:
   openingDate: 2011-08-01 18:30

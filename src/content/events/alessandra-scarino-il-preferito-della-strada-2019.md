@@ -1,7 +1,7 @@
 ---
 title: "Venerdì 1 febbraio 2019 al Museo Revoltella di Trieste presentazione del libro “Il preferito della strada. Il magico viaggio di Vito Timmel” della giornalista Alessandra Scarino"
 slug: alessandra-scarino-il-preferito-della-strada-2019
-createdAt: 2026-11-11T11:32:00
+createdAt: 2019-01-31T00:00:00
 coverImage: /media/events/alessandra-scarino-il-preferito-della-strada-2019/Copertina_libro_Timmel.jpg
 info:
   openingDate: 2019-02-01 18:30

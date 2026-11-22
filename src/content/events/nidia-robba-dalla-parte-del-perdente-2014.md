@@ -1,7 +1,7 @@
 ---
 title: "Alla Libreria Lovat di Trieste presentazione del 10° romanzo di Nidia Robba intitolato “Dalla parte del perdente”"
 slug: nidia-robba-dalla-parte-del-perdente-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-01-26T00:00:00
 coverImage: /media/events/nidia-robba-dalla-parte-del-perdente-2014/dalla_parte_del_perdente.jpg
 info:
   openingDate: 2014-01-27 18:00

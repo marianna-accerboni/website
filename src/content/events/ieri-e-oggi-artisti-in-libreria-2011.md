@@ -1,7 +1,7 @@
 ---
 title: "Ieri e oggi: artisti in libreria"
 slug: ieri-e-oggi-artisti-in-libreria-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-10-25T00:00:00
 coverImage: /media/events/ieri-e-oggi-artisti-in-libreria-2011/Nanay-Szilamer.jpg
 info:
   openingDate: 2011-10-26 19:30

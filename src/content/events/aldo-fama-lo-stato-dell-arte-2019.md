@@ -1,7 +1,7 @@
 ---
 title: "Aldo Famà. Lo stato dell'arte. Mostra antologica"
 slug: aldo-fama-lo-stato-dell-arte-2019
-createdAt: 2026-11-11T11:29:00
+createdAt: 2019-02-14T00:00:00
 coverImage: /media/events/aldo-fama-lo-stato-dell-arte-2019/Canto_damore_2002_-_olio_su_tela_-_cm._80x100.jpg
 info:
   openingDate: 2019-02-15 19:00

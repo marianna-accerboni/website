@@ -1,7 +1,7 @@
 ---
 title: "Frozen shots / Scatti congelati: dal 24 gennaio allo Shaky Bar di Trieste le immagini di Laura Poretti Rizman dedicate all'inverno ungherese"
 slug: laura-poretti-rizman-frozen-shots-2015
-createdAt: 2026-11-17T08:26:00
+createdAt: 2015-01-23T00:00:00
 coverImage: /media/events/laura-poretti-rizman-frozen-shots-2015/Il_FIume_fotoLaura_Poretti_Rizman_2013-foto_colore_reflex_digitale.jpg
 info:
   openingDate: 2015-01-24 19:00

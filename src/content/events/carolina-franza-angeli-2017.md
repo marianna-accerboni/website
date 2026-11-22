@@ -1,7 +1,7 @@
 ---
 title: "Angeli! Angeli! Agnui! Angels!...!: da giovedì 28 settembre 2017 alla Sala Fittke di Trieste le icone contemporanee di Carolina Franza"
 slug: carolina-franza-angeli-2017
-createdAt: 2026-11-11T12:53:00
+createdAt: 2017-09-27T00:00:00
 coverImage: /media/events/carolina-franza-angeli-2017/Icona_dei_volti_della_Santa_Trinita_2011_-_tecnica_tradizionale_dellicona_legno_bisso_di_lino_oro_zecchino_tempera_alluovo_con_pigmenti_antichi_-_cm_50x70.jpg
 info:
   openingDate: 2017-09-28 18:30

@@ -1,7 +1,7 @@
 ---
 title: "Sotto al letto di mia nonna - Mostra di Serena Boccanegra"
 slug: serena-boccanegra-sotto-al-letto-di-mia-nonna-2017
-createdAt: 2026-11-11T12:53:00
+createdAt: 2017-05-05T00:00:00
 coverImage: /media/events/serena-boccanegra-sotto-al-letto-di-mia-nonna-2017/Noi.Alveare_2017_-_Tecnica_mista_-_cm_90x100.jpg
 info:
   openingDate: 2017-05-06 18:30

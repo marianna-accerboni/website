@@ -1,7 +1,7 @@
 ---
 title: XIX edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita
 slug: bellezza-per-la-bonta-2018
-createdAt: 2026-11-11T11:29:00
+createdAt: 2018-10-26T00:00:00
 coverImage: /media/events/bellezza-per-la-bonta-2018/Bruna_Daus_Medin_-_Borgo_Diamante_2017_-_acrilico_su_tela_-_cm_60x80_.jpg
 info:
   openingDate: 2018-10-27 11:00

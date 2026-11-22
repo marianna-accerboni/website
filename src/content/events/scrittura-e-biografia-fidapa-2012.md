@@ -1,7 +1,7 @@
 ---
 title: "Scrittura e biografia tra vecchio e nuovo mondo"
 slug: scrittura-e-biografia-fidapa-2012
-createdAt: 2026-11-21T14:43:00
+createdAt: 2012-10-24T00:00:00
 coverImage: /media/events/scrittura-e-biografia-fidapa-2012/Constance_Fenimore_Woolson.jpg
 info:
   openingDate: 2012-10-25 17:00

@@ -1,7 +1,7 @@
 ---
 title: "Tra ironia e metafisica"
 slug: aldo-bressanutti-tra-ironia-e-metafisica-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-09-23T00:00:00
 coverImage: /media/events/aldo-bressanutti-tra-ironia-e-metafisica-2011/Vecchia_Stufa_2011_-_olio_su_tavola_-_cm_40x52.jpg
 info:
   openingDate: 2011-09-24 18:00

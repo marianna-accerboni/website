@@ -1,7 +1,7 @@
 ---
 title: "Mercoledì 29 marzo 2017 alla Sala Comunale d'Arte di Trieste mostra personale della pittrice Patrizia Schoss"
 slug: patrizia-schoss-sala-comunale-2017
-createdAt: 2026-11-11T13:14:00
+createdAt: 2017-03-28T00:00:00
 coverImage: /media/events/patrizia-schoss-sala-comunale-2017/Albero_1977_-_tecnica_mista_-_cm_36x26.jpg
 info:
   openingDate: 2017-03-29 19:00

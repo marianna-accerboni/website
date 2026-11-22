@@ -1,7 +1,7 @@
 ---
 title: "VIII mostra degli allievi dell'atelier di Livio Možina: inaugurazione sabato 26 agosto 2017 alla Galleria Rettori Tribbio di Trieste"
 slug: atelier-mozina-allievi-2017
-createdAt: 2026-11-11T12:53:00
+createdAt: 2017-08-25T00:00:00
 coverImage: /media/events/atelier-mozina-allievi-2017/Marinella_Stuper_-_Riflessi_2017_-_olio_-_cm_50x70.jpg
 info:
   openingDate: 2017-08-26 18:00

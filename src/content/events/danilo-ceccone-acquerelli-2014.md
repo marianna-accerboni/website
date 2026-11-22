@@ -1,7 +1,7 @@
 ---
 title: "Acquerelli del pittore Danilo Ceccone alla Galleria Rettori Tribbio di Trieste"
 slug: danilo-ceccone-acquerelli-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-02-07T00:00:00
 coverImage: /media/events/danilo-ceccone-acquerelli-2014/01.jpg
 info:
   openingDate: 2014-02-08 18:00

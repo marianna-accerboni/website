@@ -1,7 +1,7 @@
 ---
 title: XXII edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita al via dal 27 novembre alla Sala Xenia di Trieste
 slug: bellezza-per-la-bonta-2021
-createdAt: 2026-09-26T22:09:00
+createdAt: 2021-11-27T00:00:00
 coverImage: /media/Hazel_Marie_Cole_ingegnere_aeronautico_inglese.jpg
 info:
   openingDate: 2021-11-27 18:00

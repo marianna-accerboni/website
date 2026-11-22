@@ -1,7 +1,7 @@
 ---
 title: "Pneuma - Il soffio vitale: alla Sala Giubileo dal 30 giugno le opere di Manuela Marussi"
 slug: manuela-marussi-pneuma-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-06-29T00:00:00
 coverImage: /media/events/manuela-marussi-pneuma-2012/Pneuma_2012_-_olio_su_tela_-_cm_80x80.jpg
 info:
   openingDate: 2012-06-30 18:30

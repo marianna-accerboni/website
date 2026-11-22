@@ -1,7 +1,7 @@
 ---
 title: All'international gin tonic day, a Padova il libro che ne svela i segreti
 slug: international-gin-tonic-day-padova
-createdAt: 2026-09-22T07:43:00
+createdAt: 2022-04-09T00:00:00
 coverImage: /media/crazy_gin-copertina.png
 info:
   openingDate: 2022-04-09 18:00

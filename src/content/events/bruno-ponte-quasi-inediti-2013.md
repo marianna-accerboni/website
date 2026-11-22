@@ -1,7 +1,7 @@
 ---
 title: "I miei “quasi” inediti per l'amico Bruno Ponte"
 slug: bruno-ponte-quasi-inediti-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-06-21T00:00:00
 coverImage: /media/events/bruno-ponte-quasi-inediti-2013/Panorama_1.jpg
 info:
   openingDate: 2013-06-22 18:30

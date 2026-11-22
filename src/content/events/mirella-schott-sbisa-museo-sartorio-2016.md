@@ -1,7 +1,7 @@
 ---
 title: "Giovedì 16 giugno al Museo Sartorio di Trieste presentazione del libro “Mirella Schott Sbisà, una vita di donna nell'arte e nella cultura di Trieste del Novecento”"
 slug: mirella-schott-sbisa-museo-sartorio-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-06-15T00:00:00
 coverImage: /media/events/mirella-schott-sbisa-museo-sartorio-2016/Passeggiata_sul_Carso_1999_-_acrilico_su_tela.jpg
 info:
   openingDate: 2016-06-16 18:30

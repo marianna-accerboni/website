@@ -1,7 +1,7 @@
 ---
 title: "Naturalia: mostra di Sergio Cecovini al Circolo Aziendale delle Assicurazioni Generali di Trieste"
 slug: sergio-cecovini-naturalia-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-09-09T00:00:00
 coverImage: /media/events/sergio-cecovini-naturalia-2012/alba_2010_-_acrilico_su_tela_-_cm_50x70.jpg
 info:
   openingDate: 2012-09-10 17:30

@@ -1,7 +1,7 @@
 ---
 title: "Quest'anno la sesta edizione della prestigiosa manifestazione Mare Nordest apre all'arte: venerdì 19 maggio al Molo IV di Trieste inaugurazione della mostra dedicata al pittore adriatico Nello Pacchietto"
 slug: nello-pacchietto-mare-nordest-2017
-createdAt: 2026-11-11T12:53:00
+createdAt: 2017-05-18T00:00:00
 coverImage: /media/events/nello-pacchietto-mare-nordest-2017/Pesca_notturna_1965_-_cm_50x40_-_tecnica_mista_su_incisione.jpg
 info:
   openingDate: 2017-05-19 19:30

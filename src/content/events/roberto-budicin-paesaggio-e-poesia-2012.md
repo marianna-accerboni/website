@@ -1,7 +1,7 @@
 ---
 title: "Paesaggio e poesia"
 slug: roberto-budicin-paesaggio-e-poesia-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-02-10T00:00:00
 coverImage: /media/events/roberto-budicin-paesaggio-e-poesia-2012/Fra_i_rami_e_la_neve_-_acquarello_-_cm._27x20.jpg
 info:
   openingDate: 2012-02-11 18:00

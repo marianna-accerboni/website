@@ -1,7 +1,7 @@
 ---
 title: "Sabato 7 settembre 2019 alla Galleria Rettori Tribbio di Trieste inaugurazione della personale della pittrice Olivia Siauss"
 slug: olivia-siauss-colori-e-luci-del-mio-bosco-2019
-createdAt: 2026-11-11T11:21:00
+createdAt: 2019-09-06T00:00:00
 coverImage: /media/events/olivia-siauss-colori-e-luci-del-mio-bosco-2019/Alberi_e_frutti_1981_-_tecnica_mista_su_tela_-_cm_80x100.jpg
 info:
   openingDate: 2019-09-07 18:00

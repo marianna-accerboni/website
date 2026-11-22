@@ -1,7 +1,7 @@
 ---
 title: "Presentazione del libro di poesie Dileto Dialeto di Nidia Robba"
 slug: nidia-robba-dileto-dialeto-2011
-createdAt: 2026-11-21T16:45:00
+createdAt: 2011-07-18T00:00:00
 coverImage: /media/events/nidia-robba-dileto-dialeto-2011/principale.jpg
 info:
   openingDate: 2011-07-19 18:30

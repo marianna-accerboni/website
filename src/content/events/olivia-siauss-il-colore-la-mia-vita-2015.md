@@ -1,7 +1,7 @@
 ---
 title: "Il colore, la mia vita: sabato 13 giugno alla Galleria Rettori Tribbio di Trieste inaugurazione della mostra della pittrice Olivia Siauss"
 slug: olivia-siauss-il-colore-la-mia-vita-2015
-createdAt: 2026-11-17T07:57:00
+createdAt: 2015-06-12T00:00:00
 coverImage: /media/events/olivia-siauss-il-colore-la-mia-vita-2015/Computergrafica_1_2015_-_cm_20x29.jpg
 info:
   openingDate: 2015-06-13 18:30

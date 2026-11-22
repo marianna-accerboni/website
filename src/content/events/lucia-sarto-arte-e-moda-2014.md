@@ -1,7 +1,7 @@
 ---
 title: "Dal 19 aprile 2014 alla Galleria Rettori Tribbio di Trieste l'arte e la moda della pittrice Lucia Sarto"
 slug: lucia-sarto-arte-e-moda-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-04-18T00:00:00
 coverImage: /media/events/lucia-sarto-arte-e-moda-2014/Bauletto_Easy_rider_-_2013_-_la_riproduzione_del_dipinto_e_incorniciata_da_vernice_di_vera_pelle.jpg
 info:
   openingDate: 2014-04-19 18:30

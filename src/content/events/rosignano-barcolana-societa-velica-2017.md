@@ -1,7 +1,7 @@
 ---
 title: "Venerdì 29 settembre alla Società Velica di Barcola e Grignano inaugurazione della mostra La Barcolana di Rosignano in concomitanza con l'apertura della 49esima edizione della storica regata"
 slug: rosignano-barcolana-societa-velica-2017
-createdAt: 2026-11-11T12:53:00
+createdAt: 2017-09-28T00:00:00
 coverImage: /media/events/rosignano-barcolana-societa-velica-2017/Barcolana_2_2011_-_olio_su_tela_-_cm._50_x_70.jpg
 info:
   openingDate: 2017-09-29 12:30

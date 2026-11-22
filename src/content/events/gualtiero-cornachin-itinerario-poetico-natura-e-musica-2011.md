@@ -1,7 +1,7 @@
 ---
 title: "Gualtiero Cornachin. L'itinerario poetico tra natura e musica"
 slug: gualtiero-cornachin-itinerario-poetico-natura-e-musica-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-10-06T00:00:00
 coverImage: /media/events/gualtiero-cornachin-itinerario-poetico-natura-e-musica-2011/invito_mostra_Cornachin.jpg
 info:
   openingDate: 2011-10-07 17:30

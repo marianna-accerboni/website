@@ -1,7 +1,7 @@
 ---
 title: Sabato 24 giugno 2023 alla Galleria Rettori Tribbio di Trieste inaugurazione della mostra Stati d'animo della pittrice Patrizia Grubissa
 slug: patrizia-grubissa-stati-d-animo-2023
-createdAt: 2026-09-20T20:27:00
+createdAt: 2023-06-24T00:00:00
 coverImage: /media/grubissa-basta-uno-sguardo-2022-acrilico-su-tela-cm-70x67.jpg
 info:
   openingDate: 2023-06-24 18:30

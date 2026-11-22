@@ -1,7 +1,7 @@
 ---
 title: "Il 12 aprile al Museo Revoltella di Trieste prende il via “Gillo 107”, evento ideato e curato da Marianna Accerboni per festeggiare il 107° compleanno di Gillo Dorfles. Prossime tappe Gorizia e Bruxelles"
 slug: gillo-107-museo-revoltella-2017
-createdAt: 2026-11-11T13:14:00
+createdAt: 2017-04-11T00:00:00
 coverImage: /media/events/gillo-107-museo-revoltella-2017/Gillo_Dorfles_2_2007_ph_Giorgetta_Dorfles.jpg
 info:
   openingDate: 2017-04-12 18:30

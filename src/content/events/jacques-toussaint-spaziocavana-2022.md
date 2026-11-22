@@ -1,7 +1,7 @@
 ---
 title: 'Jacques Toussaint. Passato / Futuro / Estetica / Funzione: da venerdì 4 marzo 2022 in mostra a Trieste da SpazioCavana la collezione privata del designer francese e alcune sue sculture mobili'
 slug: jacques-toussaint-spaziocavana-2022
-createdAt: 2026-09-22T08:58:00
+createdAt: 2022-03-04T00:00:00
 coverImage: /media/toussaint-jacques-toussaint---statico-dinamico-2022---lamiera-forata-acciaio-inox.jpg
 info:
   openingDate: 2022-03-04

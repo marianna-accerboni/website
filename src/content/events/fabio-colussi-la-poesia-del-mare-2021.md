@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. La poesia del mare: da mercoledì 24 novembre 2021 la mostra personale del pittore triestino alla Sala Comunale d'Arte di Trieste"
 slug: fabio-colussi-la-poesia-del-mare-2021
-createdAt: 2026-09-22T09:35:00
+createdAt: 2021-11-24T00:00:00
 coverImage: /media/Marina_al_tramonto_2016_-_olio_su_tela_-_cm_25x35.jpg
 info:
   openingDate: 2021-11-24 18:00

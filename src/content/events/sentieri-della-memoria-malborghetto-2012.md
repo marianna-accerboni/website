@@ -1,7 +1,7 @@
 ---
 title: "Sentieri della memoria"
 slug: sentieri-della-memoria-malborghetto-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-08-03T00:00:00
 coverImage: /media/events/sentieri-della-memoria-malborghetto-2012/foto_in_digitale_eleborata_in_post_produzione_02.jpg
 info:
   openingDate: 2012-08-04 18:00

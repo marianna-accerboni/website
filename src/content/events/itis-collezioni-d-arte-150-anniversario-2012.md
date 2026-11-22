@@ -1,7 +1,7 @@
 ---
 title: "Le collezioni d'arte dell'Itis esposte al pubblico per il 150° anniversario dell'Ente: venerdì 7 settembre 2012 evento collaterale con visita guidata alla mostra interpretata attraverso la musica"
 slug: itis-collezioni-d-arte-150-anniversario-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-09-28T00:00:00
 coverImage: /media/events/itis-collezioni-d-arte-150-anniversario-2012/Teodora_Tommasi_arpista_2012.jpg
 info:
   openingDate: 2012-09-07 19:00

@@ -1,7 +1,7 @@
 ---
 title: Da sabato 18 novembre alla Sala Xenia di Trieste al via la XXIV edizione della mostra d'arte La bellezza per la bontà – l'arte aiuta la vita
 slug: bellezza-per-la-bonta-2023
-createdAt: 2026-09-20T20:27:00
+createdAt: 2023-11-18T00:00:00
 coverImage: /media/Hazel_Marie_Cole_ingegnere_aeronautico_inglese.jpg
 info:
   openingDate: 2023-11-18 18:00

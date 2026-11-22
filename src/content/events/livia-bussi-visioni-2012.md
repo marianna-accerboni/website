@@ -1,7 +1,7 @@
 ---
 title: "Visioni"
 slug: livia-bussi-visioni-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-03-23T00:00:00
 coverImage: /media/events/livia-bussi-visioni-2012/Livia_Bussi_-_pastello_su_carta_2.JPG
 info:
   openingDate: 2012-03-24 18:00

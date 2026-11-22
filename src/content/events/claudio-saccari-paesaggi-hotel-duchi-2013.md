@@ -1,7 +1,7 @@
 ---
 title: "Paesaggi: dopo il successo della personale in corso alla Sala Comunale d'Arte, l'itinerario espositivo del fotografo-artista Claudio Saccari prosegue all'Hotel Duchi Vis à Vis di Trieste"
 slug: claudio-saccari-paesaggi-hotel-duchi-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-02-22T00:00:00
 coverImage: /media/events/claudio-saccari-paesaggi-hotel-duchi-2013/C.-Saccari---Giardino-Pubblico-2011---stampa-a-pigmenti-colorati-su-carta-di-cotone-al-100-baritata---cm-60x42.jpg
 info:
   openingDate: 2013-02-23 19:00

@@ -1,7 +1,7 @@
 ---
 title: "Nora Carella. Luce senza tempo: alla Banca Monte Paschi Belgio di Bruxelles la mostra personale della pittrice triestina"
 slug: nora-carella-luce-senza-tempo-bruxelles-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-04-04T00:00:00
 coverImage: /media/events/nora-carella-luce-senza-tempo-bruxelles-2012/A_Venezia_2010_-_olio_su_tela_-_cm_70x50.jpg
 info:
   openingDate: 2012-04-05

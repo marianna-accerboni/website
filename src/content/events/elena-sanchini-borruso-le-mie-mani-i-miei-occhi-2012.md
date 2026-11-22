@@ -1,7 +1,7 @@
 ---
 title: "Le mie mani i miei occhi"
 slug: elena-sanchini-borruso-le-mie-mani-i-miei-occhi-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-01-30T00:00:00
 coverImage: /media/events/elena-sanchini-borruso-le-mie-mani-i-miei-occhi-2012/PASSAGGIO_QUANTICO_-_2009_-_acciaio_e_pietre_-_kg._6_-_cm._85x27x27_.jpg
 info:
   openingDate: 2012-01-31 19:00

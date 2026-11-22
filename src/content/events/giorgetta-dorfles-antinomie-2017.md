@@ -1,7 +1,7 @@
 ---
 title: "Antinomie: giovedì 19 ottobre 2017 alla Sala Comunale d'Arte di Trieste inaugurazione della personale della fotografa-artista Giorgetta Dorfles"
 slug: giorgetta-dorfles-antinomie-2017
-createdAt: 2026-11-11T12:53:00
+createdAt: 2017-10-18T00:00:00
 coverImage: /media/events/giorgetta-dorfles-antinomie-2017/Rapsodia_in_viola_2015_-_colore_digitale_cm_30x40.JPG
 info:
   openingDate: 2017-10-19 19:00

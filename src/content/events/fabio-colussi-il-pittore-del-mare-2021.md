@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. Il pittore del mare: sabato 18 dicembre 2021 apre la mostra personale del pittore triestino al Salone d'Arte di Trieste"
 slug: fabio-colussi-il-pittore-del-mare-2021
-createdAt: 2026-09-20T21:16:00
+createdAt: 2021-12-18T00:00:00
 coverImage: /media/Lora_della_pesca_2019_-_olio_su_tela_-_cm_40x60.jpg
 info:
   openingDate: 2021-12-18 18:30

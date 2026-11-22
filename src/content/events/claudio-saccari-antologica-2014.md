@@ -1,7 +1,7 @@
 ---
 title: "Presentata al Palazzo del Consiglio Regionale di Trieste l'antologica Claudio Saccari 1964 - 2014. Cinquant'anni di fotografia: inaugurazione il 15 dicembre"
 slug: claudio-saccari-antologica-2014
-createdAt: 2026-11-17T08:26:00
+createdAt: 2014-12-14T00:00:00
 coverImage: /media/events/claudio-saccari-antologica-2014/Motivo_marino_-_Venezia_2012.jpg
 info:
   openingDate: 2014-12-15 13:00

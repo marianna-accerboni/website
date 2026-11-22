@@ -1,7 +1,7 @@
 ---
 title: "Venerdì 22 settembre 2017 al Circolo della Stampa di Trieste un tema di grande attualità: presentazione del libro “Perché ci attaccano. Al Qaeda, l'Islamic State e il terrorismo “fai da te”” di Laura Quadarella Sanfelice di Monteforte"
 slug: laura-quadarella-perche-ci-attaccano-2017
-createdAt: 2026-11-11T12:53:00
+createdAt: 2017-09-21T00:00:00
 coverImage: /media/events/laura-quadarella-perche-ci-attaccano-2017/copertina_libro_copy.jpg
 info:
   openingDate: 2017-09-22 17:30

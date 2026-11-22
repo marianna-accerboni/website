@@ -1,7 +1,7 @@
 ---
 title: "Il cammino della donna turca attraverso i secoli"
 slug: donna-turca-attraverso-i-secoli-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-02-26T00:00:00
 coverImage: /media/events/donna-turca-attraverso-i-secoli-2012/Isin_Atala_a_sin_con_Anita_Garibaldi_scrittrice_e_giornalista_pronipote_del_Generale_.jpg
 info:
   openingDate: 2012-02-27 17:30

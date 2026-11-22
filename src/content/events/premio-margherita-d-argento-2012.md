@@ -1,7 +1,7 @@
 ---
 title: "All'Oasi Felina di Trieste sabato 9 giugno Margherita Hack consegna a Daniela Schifani Luchetta l'XI premio Margherita d'argento, organizzato da Il Gattile"
 slug: premio-margherita-d-argento-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-06-08T00:00:00
 coverImage: /media/events/premio-margherita-d-argento-2012/Margherita_Hack_e_Geppetta.jpg
 info:
   openingDate: 2012-06-09 18:00

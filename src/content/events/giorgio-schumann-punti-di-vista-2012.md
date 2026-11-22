@@ -1,7 +1,7 @@
 ---
 title: "Punti di vista"
 slug: giorgio-schumann-punti-di-vista-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-01-13T00:00:00
 coverImage: /media/events/giorgio-schumann-punti-di-vista-2012/Timone_2_-_2011_-_acrilico_su_tavola_-_cm-_30x20.jpg
 info:
   openingDate: 2012-01-14 18:30

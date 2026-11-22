@@ -1,7 +1,7 @@
 ---
 title: "Il 28 aprile 2016 al Circolo della Stampa di Trieste presentazione della video-monografia della pittrice Serena Zors Breuer"
 slug: serena-zors-breuer-video-monografia-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-04-27T00:00:00
 coverImage: /media/events/serena-zors-breuer-video-monografia-2016/Aurora_boreale_2015_-_olio_su_tela_-_cm._50x60.jpg
 info:
   openingDate: 2016-04-28 17:30

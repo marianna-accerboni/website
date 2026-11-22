@@ -1,7 +1,7 @@
 ---
 title: "Lunedì 2 marzo alla Lux Art Gallery di Trieste inaugurazione della mostra “Venice memory. L'improvviso visibile” di Françoise Calcagno"
 slug: francoise-calcagno-venice-memory-2015
-createdAt: 2026-11-17T08:11:00
+createdAt: 2015-03-01T00:00:00
 coverImage: /media/events/francoise-calcagno-venice-memory-2015/Venice_memory_-_tecnica_mista_su_tela_-cm_10X15_4.JPG
 info:
   openingDate: 2015-03-02 18:30

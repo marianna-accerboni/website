@@ -1,7 +1,7 @@
 ---
 title: "Luce 2015: mostra personale della pittrice Alpina Della Martina alla Sala Comunale d'Arte di Trieste"
 slug: alpina-della-martina-luce-2015
-createdAt: 2026-11-17T08:26:00
+createdAt: 2015-02-26T00:00:00
 coverImage: /media/events/alpina-della-martina-luce-2015/12._Materia_di_rose_2014_-_acquarello_su_carta_-_cm_50x35_R_2.jpg
 info:
   openingDate: 2015-02-27 18:30

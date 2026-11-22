@@ -1,7 +1,7 @@
 ---
 title: "La dimensione del sogno"
 slug: elvio-zorzenon-la-dimensione-del-sogno-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-04-11T00:00:00
 coverImage: /media/events/elvio-zorzenon-la-dimensione-del-sogno-2012/Pangea_2011_-_tecnica_mista_su_tela_-_cm_170x100_.jpg
 info:
   openingDate: 2012-04-12 18:00

@@ -1,7 +1,7 @@
 ---
 title: "Dal 7 giugno 2017 nella sede della Comunità Evangelica Luterana di Trieste la mostra antologica dedicata al pittore triestino Guido Percacci"
 slug: guido-percacci-antologica-2017
-createdAt: 2026-11-11T12:53:00
+createdAt: 2017-06-06T00:00:00
 coverImage: /media/events/guido-percacci-antologica-2017/Cantiere_a_Helsinki_-_olio_su_tavola_-_cm_50x65.JPG
 info:
   openingDate: 2017-06-07 18:00

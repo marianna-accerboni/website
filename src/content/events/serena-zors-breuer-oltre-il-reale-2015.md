@@ -1,7 +1,7 @@
 ---
 title: "Oltre il reale: mercoledì 6 maggio 2015 alla Galleria Melori & Rosenberg di Venezia inaugurazione della mostra della pittrice Serena Zors Breuer con una performance multimediale di luce, parole e musica"
 slug: serena-zors-breuer-oltre-il-reale-2015
-createdAt: 2026-11-17T08:11:00
+createdAt: 2015-05-05T00:00:00
 coverImage: /media/events/serena-zors-breuer-oltre-il-reale-2015/click.jpg
 info:
   openingDate: 2015-05-06 19:00

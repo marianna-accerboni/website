@@ -1,7 +1,7 @@
 ---
 title: "Il 10 agosto al Deutschvilla Museum di Strobl (Austria) s'inaugura la mostra internazionale Bloody Mary Show: Maria Teresa interpretata da 9 artisti triestini e 15 austriaci in un evento artistico ideato per ricordare l'imperatrice a trecento anni dal"
 slug: bloody-mary-show-strobl-2018
-createdAt: 2026-11-11T12:02:00
+createdAt: 2018-08-09T00:00:00
 coverImage: /media/events/bloody-mary-show-strobl-2018/Deutschvilla_Museum_di_Strobl_am_Wolfgangsee_Austria.jpg
 info:
   openingDate: 2018-08-10 20:00

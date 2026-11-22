@@ -1,7 +1,7 @@
 ---
 title: "Sabato 5 maggio 2018 alla Galleria Rettori Tribbio di Trieste inaugurazione della mostra “La primavera nel cuore” della pittrice Bruna Naldi"
 slug: bruna-naldi-la-primavera-nel-cuore-2018
-createdAt: 2026-11-11T12:02:00
+createdAt: 2018-05-04T00:00:00
 coverImage: /media/events/bruna-naldi-la-primavera-nel-cuore-2018/Chiacchiere_in_giardino_iris_2018_-_olio_su_tavola_-_cm_50x60.jpg
 info:
   openingDate: 2018-05-05 18:00

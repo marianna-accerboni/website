@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi: da sabato 2 dicembre 2017 la mostra personale del pittore triestino al Salone d'Arte contemporanea di Trieste"
 slug: fabio-colussi-salone-darte-2017
-createdAt: 2026-11-11T12:22:00
+createdAt: 2017-12-01T00:00:00
 coverImage: /media/events/fabio-colussi-salone-darte-2017/Marina_al_tramonto_2017_-_olio_su_tela_-_cm_30x50.jpg
 info:
   openingDate: 2017-12-02 18:00

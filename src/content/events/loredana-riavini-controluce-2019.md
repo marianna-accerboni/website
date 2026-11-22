@@ -1,7 +1,7 @@
 ---
 title: "Controluce: venerdì 25 ottobre 2019 alla Sala Comunale d'Arte di Trieste inaugurazione della personale della pittrice Loredana Riavini"
 slug: loredana-riavini-controluce-2019
-createdAt: 2026-11-11T11:21:00
+createdAt: 2019-10-24T00:00:00
 coverImage: /media/events/loredana-riavini-controluce-2019/Barcolana_50_2018_-acrilico_su_tavola_-_cm_30x50.jpg
 info:
   openingDate: 2019-10-25 18:30

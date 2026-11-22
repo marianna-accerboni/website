@@ -1,7 +1,7 @@
 ---
 title: "Luce e gioia di vivere: sabato 16 maggio 2015 alla Galleria Rettori Tribbio di Trieste inaugurazione della mostra del pittore belga François Piers"
 slug: francois-piers-luce-e-gioia-di-vivere-2015
-createdAt: 2026-11-17T08:11:00
+createdAt: 2015-05-15T00:00:00
 coverImage: /media/events/francois-piers-luce-e-gioia-di-vivere-2015/Cinque_personaggi_in_cerca_di_autore_2015_-_vetro_soffiato_-_cm_30x10_misura_media.jpg
 info:
   openingDate: 2015-05-16 19:00

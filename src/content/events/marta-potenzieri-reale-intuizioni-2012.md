@@ -1,7 +1,7 @@
 ---
 title: "Intuizioni"
 slug: marta-potenzieri-reale-intuizioni-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-03-04T00:00:00
 coverImage: /media/events/marta-potenzieri-reale-intuizioni-2012/Rose_su_sfondo_azzurro_-_2011_-_tecnica_Zen_-_cm.32x42.jpg
 info:
   openingDate: 2012-03-05 17:30

@@ -1,7 +1,7 @@
 ---
 title: "Mittelart"
 slug: mittelart-museo-cara-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-10-18T00:00:00
 coverImage: /media/events/mittelart-museo-cara-2012/Roberto_Tigelli.jpg
 info:
   openingDate: 2012-10-19 18:00

@@ -1,7 +1,7 @@
 ---
 title: "Il progetto Fulcrum alla Sala Baroncini"
 slug: progetto-fulcrum-sala-baroncini-2011
-createdAt: 2026-11-21T16:22:00
+createdAt: 2011-12-18T00:00:00
 coverImage: /media/events/progetto-fulcrum-sala-baroncini-2011/Fulcrum003_.jpg
 info:
   openingDate: 2011-12-19 17:30

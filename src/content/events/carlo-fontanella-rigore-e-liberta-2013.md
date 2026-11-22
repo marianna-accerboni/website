@@ -1,7 +1,7 @@
 ---
 title: "Rigore e libertà: mostra personale dello scultore Carlo Fontanella alla Sala Comunale d'Arte di Trieste"
 slug: carlo-fontanella-rigore-e-liberta-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-02-24T00:00:00
 coverImage: /media/events/carlo-fontanella-rigore-e-liberta-2013/C._Fontanella_-__Conosci_te_stesso__e__Ama_il_prossimo_tuo_come_te_stesso__2010_-_tecnica_mista_-_cm_75x75_ogni_pezzo.jpg
 info:
   openingDate: 2013-02-25 18:00

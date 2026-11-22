@@ -1,7 +1,7 @@
 ---
 title: "Ex tempore di pittura"
 slug: ex-tempore-di-pittura-liceo-nordio-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-04-20T00:00:00
 coverImage: /media/events/ex-tempore-di-pittura-liceo-nordio-2012/Istituto_Nordio_Trieste.jpg
 info:
   openingDate: 2012-05-11 18:00

@@ -1,7 +1,7 @@
 ---
 title: "Nora Carella. Luce senza tempo"
 slug: nora-carella-luce-senza-tempo-2018
-createdAt: 2026-11-11T12:22:00
+createdAt: 2018-01-12T00:00:00
 coverImage: /media/events/nora-carella-luce-senza-tempo-2018/A_Barcola_fine_anni_60_-_olio_su_tela_-_cm_40x50_ph_Marino_Sterle.jpg
 info:
   openingDate: 2018-01-13 19:00

@@ -1,7 +1,7 @@
 ---
 title: "Omaggio a Nello Pacchietto nel decennale della morte: dal 10 ottobre la mostra all'Unione degli Istriani di Trieste"
 slug: nello-pacchietto-omaggio-decennale-2013
-createdAt: 2026-11-21T12:43:00
+createdAt: 2013-10-09T00:00:00
 coverImage: /media/events/nello-pacchietto-omaggio-decennale-2013/Barche_a_Bassedraga_1988_-_acquarello_su_tavola_-_cm_50x60.jpg
 info:
   openingDate: 2013-10-10 17:00

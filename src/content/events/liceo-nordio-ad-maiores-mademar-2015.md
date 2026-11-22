@@ -1,7 +1,7 @@
 ---
 title: "Presentato al Liceo artistico “Nordio” di Trieste il progetto che vede l'arte entrare nella Residenza per anziani “Ad Maiores” e nella Residenza sanitaria assistenziale “Mademar” grazie alla collaborazione con e il gruppo “Amici del"
 slug: liceo-nordio-ad-maiores-mademar-2015
-createdAt: 2026-11-17T08:11:00
+createdAt: 2015-04-09T00:00:00
 coverImage: /media/events/liceo-nordio-ad-maiores-mademar-2015/090.jpg
 info:
   openingDate: 2015-04-10 12:00

@@ -1,7 +1,7 @@
 ---
 title: "Nell'ambito della mostra dedicata agli artisti amburghesi il 12 ottobre avrà luogo a Trieste all'Arena Barcolana, nel cuore del Villaggio Barcolana, un incontro sul tema Il viaggio, il mare, l'arte"
 slug: incontro-il-viaggio-il-mare-l-arte-arena-barcolana-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-10-11T00:00:00
 coverImage: /media/events/incontro-il-viaggio-il-mare-l-arte-arena-barcolana-2012/Hinnerk-Bodendieck--Mary-Gold-fuori-St.-Tropez-2011--olio-su-faesite--cm.-80x60.jpg
 info:
   openingDate: 2012-10-12 18:00

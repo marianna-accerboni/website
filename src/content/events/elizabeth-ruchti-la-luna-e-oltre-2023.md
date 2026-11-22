@@ -1,7 +1,7 @@
 ---
 title: Sabato 20 maggio 2023 al Mercato Coperto di Trieste inaugurazione della mostra La luna e oltre dell'artista Elizabeth Ruchti
 slug: elizabeth-ruchti-la-luna-e-oltre-2023
-createdAt: 2026-09-20T20:27:00
+createdAt: 2023-05-20T00:00:00
 coverImage: /media/luna_oltre-lune-3-2012-carta-su-legno-cm-68x88.jpg
 info:
   openingDate: 2023-05-20 18:00

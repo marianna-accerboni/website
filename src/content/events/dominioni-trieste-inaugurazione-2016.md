@@ -1,7 +1,7 @@
 ---
 title: "Trieste inaugurazione - Paolo Caccia Dominioni. Un artista sul fronte di guerra cent'anni dopo. Nuovo ciclo di appuntamenti a Trieste"
 slug: dominioni-trieste-inaugurazione-2016
-createdAt: 2026-11-11T13:25:00
+createdAt: 2016-11-03T00:00:00
 coverImage: /media/events/dominioni-trieste-inaugurazione-2016/paolocaccia.jpg
 info:
   openingDate: 2016-11-04 17:30

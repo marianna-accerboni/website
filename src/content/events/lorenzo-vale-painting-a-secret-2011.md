@@ -1,7 +1,7 @@
 ---
 title: "Painting a secret: mostra personale del pittore Lorenzo Vale"
 slug: lorenzo-vale-painting-a-secret-2011
-createdAt: 2026-11-21T16:45:00
+createdAt: 2011-07-17T00:00:00
 coverImage: /media/events/lorenzo-vale-painting-a-secret-2011/Natura_morta_con_gerbere_2010_olio_su_tela_80x60_866x1200.jpg
 info:
   openingDate: 2011-07-18 18:30

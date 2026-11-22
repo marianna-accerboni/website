@@ -1,7 +1,7 @@
 ---
 title: "Lunedì 16 febbraio alla Libreria Lovat di Trieste inaugurazione della mostra “Foto-ritratti di autori italiani e altri (1967 - 2013)” dell'italianista croato Mladen Machiedo"
 slug: mladen-machiedo-foto-ritratti-2015
-createdAt: 2026-11-17T08:26:00
+createdAt: 2015-02-15T00:00:00
 coverImage: /media/events/mladen-machiedo-foto-ritratti-2015/foto.jpg
 info:
   openingDate: 2015-02-16 18:00

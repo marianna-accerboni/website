@@ -1,7 +1,7 @@
 ---
 title: Venetian soul
 slug: venetian-soul
-createdAt: 2026-09-20T20:27:00
+createdAt: 2023-06-11T00:00:00
 coverImage: /media/venetian_soul-isola-di-san-giorgio-a-venezia-2022-olio-su-tela-cm-40x60.jpg
 info:
   openingDate: 2023-06-11 11:00

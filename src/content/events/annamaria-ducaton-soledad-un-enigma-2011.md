@@ -1,7 +1,7 @@
 ---
 title: "Soledad, un enigma"
 slug: annamaria-ducaton-soledad-un-enigma-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-11-20T00:00:00
 coverImage: /media/events/annamaria-ducaton-soledad-un-enigma-2011/copertina.jpg
 info:
   openingDate: 2011-11-21 17:30

@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. Luce: dal 5 dicembre 2015 la mostra personale del pittore triestino al Salone d'Arte contemporanea di Trieste"
 slug: fabio-colussi-luce-2015
-createdAt: 2026-11-14T10:59:00
+createdAt: 2015-12-04T00:00:00
 coverImage: /media/events/fabio-colussi-luce-2015/11_Marina_al_tramonto_2015_-_olio_su_tavola_-_cm._35x25.jpg
 info:
   openingDate: 2015-12-05 19:15

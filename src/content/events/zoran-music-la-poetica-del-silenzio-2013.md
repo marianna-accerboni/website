@@ -1,7 +1,7 @@
 ---
 title: "Zoran Music. La poetica del silenzio alla Galleria One San Nicolò di Trieste dal 7 dicembre"
 slug: zoran-music-la-poetica-del-silenzio-2013
-createdAt: 2026-11-21T12:43:00
+createdAt: 2013-12-06T00:00:00
 coverImage: /media/events/zoran-music-la-poetica-del-silenzio-2013/Cavallini_-_1952_-_olio_su_tela_-_cm._58x79_gia_collezione_Estorick.jpg
 info:
   openingDate: 2013-12-07 19:00

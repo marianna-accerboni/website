@@ -1,7 +1,7 @@
 ---
 title: Leonor Fini segreta. Ceramica e Pittura, Note e Profumi
 slug: leonor-fini-segreta
-createdAt: 2026-09-20T22:22:00
+createdAt: 2022-04-10T00:00:00
 coverImage: /media/fini_segreta-logo-mostra-cs.jpg
 info:
   openingDate: 2022-04-10 10:00

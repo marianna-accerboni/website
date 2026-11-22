@@ -1,7 +1,7 @@
 ---
 title: "La poetica essenzialità di Luigi Spacal alla Galleria One San Nicolò di Trieste dal 20 giugno"
 slug: luigi-spacal-poetica-essenzialita-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-06-19T00:00:00
 coverImage: /media/events/luigi-spacal-poetica-essenzialita-2013/SPACAL.jpg
 info:
   openingDate: 2013-06-20 19:00

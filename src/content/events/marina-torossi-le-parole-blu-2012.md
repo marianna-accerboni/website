@@ -1,7 +1,7 @@
 ---
 title: "Le parole blu"
 slug: marina-torossi-le-parole-blu-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-01-29T00:00:00
 coverImage: /media/events/marina-torossi-le-parole-blu-2012/copertina_fidapa_tevini.jpg
 info:
   openingDate: 2012-01-30 17:30

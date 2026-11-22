@@ -1,7 +1,7 @@
 ---
 title: "IX mostra degli allievi dell'atelier di Livio Možina: inaugurazione sabato 25 agosto 2018 alla Galleria Rettori Tribbio di Trieste"
 slug: atelier-mozina-allievi-2018
-createdAt: 2026-11-11T12:02:00
+createdAt: 2018-08-23T00:00:00
 coverImage: /media/events/atelier-mozina-allievi-2018/Franca_Di_Lullo_2017_2018_-_Natura_morta_-_cm_35x45.jpg
 info:
   openingDate: 2018-08-25 18:00

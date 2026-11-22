@@ -1,7 +1,7 @@
 ---
 title: "La luce nella pittura. Il ruolo delle alterazioni percettive nel processo creativo: il 12 giugno l'evento al Caffè San Marco di Trieste nell'ambito di Sissa in festa 2014"
 slug: sissa-la-luce-nella-pittura-2014
-createdAt: 2026-11-17T08:38:00
+createdAt: 2014-06-11T00:00:00
 coverImage: /media/events/sissa-la-luce-nella-pittura-2014/Performance_di_luce_di_Marianna_Accerboni_per_Artefatto_2008.jpg
 info:
   openingDate: 2014-06-12 18:00

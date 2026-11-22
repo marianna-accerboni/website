@@ -1,7 +1,7 @@
 ---
 title: "Nell'ambito della mostra dedicata agli artisti amburghesi il 4 ottobre il prestigioso Coro sinfonico St. Johannis di Amburgo si esibisce alla Biblioteca Statale Stelio Crise e allo Yacht Club Adriaco di Trieste"
 slug: coro-st-johannis-amburgo-yacht-club-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-10-03T00:00:00
 coverImage: /media/events/coro-st-johannis-amburgo-yacht-club-2012/dirimike1.jpg
 info:
   openingDate: 2012-10-04 18:00

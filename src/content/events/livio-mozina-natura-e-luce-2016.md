@@ -1,7 +1,7 @@
 ---
 title: "Natura e luce: sabato 8 ottobre 2016 alla Galleria Rettori Tribbio di Trieste personale del pittore Livio Možina"
 slug: livio-mozina-natura-e-luce-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-10-07T00:00:00
 coverImage: /media/events/livio-mozina-natura-e-luce-2016/More_2015_-_olio_su_tavola_-_cm_50x50.jpg
 info:
   openingDate: 2016-10-08 18:00

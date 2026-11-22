@@ -1,7 +1,7 @@
 ---
 title: "IV edizione del Concorso internazionale di pittura “Dario Mulitsch”"
 slug: concorso-mulitsch-iv-edizione-presentazione-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-04-22T00:00:00
 coverImage: /media/events/concorso-mulitsch-iv-edizione-presentazione-2012/Palazzo_Coronini-Mostra_Concorso_Mulitsch_2010.jpg
 info:
   openingDate: 2012-04-23 11:00

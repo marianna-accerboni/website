@@ -1,7 +1,7 @@
 ---
 title: "Mercoledì 23 settembre 2020 al Circolo della Stampa di Trieste presentazione della monografia Ennio Cervi. I disegni, la pittura"
 slug: ennio-cervi-circolo-stampa-2020
-createdAt: 2026-10-16T09:16:00
+createdAt: 2020-09-22T00:00:00
 coverImage: /media/events/ennio-cervi-i-disegni-la-pittura-2020/Sottile_linea_certa_2020_-acrilici_tecnica_mista_-cm_70x100_.jpg
 info:
   openingDate: 2020-09-23 17:30

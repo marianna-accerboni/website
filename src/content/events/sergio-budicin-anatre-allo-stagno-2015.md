@@ -1,7 +1,7 @@
 ---
 title: "Da sabato 4 aprile il pittore Sergio Budicin alla Galleria Rettori Tribbio di Trieste"
 slug: sergio-budicin-anatre-allo-stagno-2015
-createdAt: 2026-11-17T08:11:00
+createdAt: 2015-04-03T00:00:00
 coverImage: /media/events/sergio-budicin-anatre-allo-stagno-2015/Anatre_allo_stagno_2015_-_olio_su_tela_-_cm_60x90.jpg
 info:
   openingDate: 2015-04-04 18:00

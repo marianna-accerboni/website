@@ -1,7 +1,7 @@
 ---
 title: "Gianni Borta alla Galleria Rettori Tribbio"
 slug: gianni-borta-fior-di-loto-mekong-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-03-22T00:00:00
 coverImage: /media/events/gianni-borta-fior-di-loto-mekong-2013/Gianni_Borta_-_Due_anatre_tra_i_fior_di_loto_2012_-_olio_su_tela_-_cm_70x100.jpg
 info:
   openingDate: 2013-03-23 18:00

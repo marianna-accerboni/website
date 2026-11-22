@@ -1,7 +1,7 @@
 ---
 title: Domenica 24 ottobre alla Ghetto Et Cetera Art Gallery di Venezia inaugurazione della personale del pittore Fabio Colussi
 slug: fabio-colussi-ghetto-venezia-2021
-createdAt: 2026-10-16T09:16:00
+createdAt: 2021-10-24T00:00:00
 coverImage: /media/events/colussi-la-serenissima-venezia-2021/Luci_in_Laguna-30x50-2018-olio_su_tela.jpg
 info:
   openingDate: 2021-10-24 12:00

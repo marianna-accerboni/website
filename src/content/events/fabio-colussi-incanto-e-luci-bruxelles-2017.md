@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. Incanto e luci dell'Adriatico: dal 22 novembre 2017 la mostra personale del pittore triestino all'Ufficio di collegamento della Regione FVG a Bruxelles"
 slug: fabio-colussi-incanto-e-luci-bruxelles-2017
-createdAt: 2026-11-11T12:22:00
+createdAt: 2017-11-21T00:00:00
 coverImage: /media/events/fabio-colussi-incanto-e-luci-bruxelles-2017/Lora_della_pesca_2016_-_olio_su_tela_-_cm_40x60_.jpg
 info:
   openingDate: 2017-11-22 18:30

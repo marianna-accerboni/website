@@ -1,7 +1,7 @@
 ---
 title: "Viaggio letterario e romantico nella Trieste di Svevo e di Saba"
 slug: furio-bomben-viaggio-letterario-svevo-saba-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-02-05T00:00:00
 coverImage: /media/events/furio-bomben-viaggio-letterario-svevo-saba-2012/Il_Viale_di_una_volta_2011_-_china_e_tempera_-_cm_70x50.jpg
 info:
   openingDate: 2012-02-06 18:30

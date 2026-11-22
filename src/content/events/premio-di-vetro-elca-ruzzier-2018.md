@@ -1,7 +1,7 @@
 ---
 title: "Premio di Vetro 'Elca Ruzzier' - X edizione. Quest'anno sarà assegnato all'architetto Marianna Accerboni, “Una vita per l'arte”: la cerimonia di premiazione si terrà mercoledì 17 ottobre, alle ore 18, nell'Auditorium del Museo Revoltella"
 slug: premio-di-vetro-elca-ruzzier-2018
-createdAt: 2026-11-11T12:02:00
+createdAt: 2018-10-16T00:00:00
 coverImage: /media/events/premio-di-vetro-elca-ruzzier-2018/M._Accerboni_con_labito_di_luce_per_la_contessa_Rosina_nelle_Nozze_di_Figaro_di_W.A._Mozart_ph_Maurizio_Frullani.jpg
 info:
   openingDate: 2018-10-17 18:00

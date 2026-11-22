@@ -1,7 +1,7 @@
 ---
 title: "Silvio Balestra: mercoledì 7 febbraio 2018 alla Sala Comunale d'Arte di Trieste inaugurazione della personale dell'artista Silvio Balestra"
 slug: silvio-balestra-sala-comunale-2018
-createdAt: 2026-11-11T12:22:00
+createdAt: 2018-02-06T00:00:00
 coverImage: /media/events/silvio-balestra-sala-comunale-2018/Ciclo_Confronti_-_Optical_Orange_Miraggi_2013_-_digital_cprint_lightjet_Diasec_dibond_4mm_-_cm_70x104_-_ediz_unica.jpg
 info:
   openingDate: 2018-02-07 19:00

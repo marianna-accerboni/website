@@ -1,7 +1,7 @@
 ---
 title: "Martedì 13 ottobre 2020 alla Saletta Hammerle Editori di Trieste inaugurazione della personale della pittrice Gianna Lampe"
 slug: gianna-lampe-hammerle-2020
-createdAt: 2026-10-16T09:16:00
+createdAt: 2020-10-12T00:00:00
 coverImage: /media/events/gianna-lampe-la-mia-grafica-2020/La_Prefettura_di_Trieste_1992_-_ceramolle_-_cm_38x52.jpg
 info:
   openingDate: 2020-10-13 18:30

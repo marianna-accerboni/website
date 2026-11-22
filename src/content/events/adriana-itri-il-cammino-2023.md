@@ -1,7 +1,7 @@
 ---
 title: Mercoledì 7 giugno 2023 al Double Tree by Hilton di Trieste inaugurazione della mostra Il cammino della pittrice Adriana Itri
 slug: adriana-itri-il-cammino-2023
-createdAt: 2026-09-20T20:27:00
+createdAt: 2023-06-07T00:00:00
 coverImage: /media/cammino-frammento-desistenza-2023-acrilico-cm-50x50.jpg
 info:
   openingDate: 2023-06-07 18:30

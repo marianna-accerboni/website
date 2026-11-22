@@ -1,7 +1,7 @@
 ---
 title: "Oggi 1 giugno s'inaugura alla Bottega Gibigiana di Venezia la mostra Percorsi di luce dell'artista bolognese Mirko Donati"
 slug: mirko-donati-percorsi-di-luce-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-05-31T00:00:00
 coverImage: /media/events/mirko-donati-percorsi-di-luce-2013/click.jpg
 info:
   openingDate: 2013-06-01 18:30

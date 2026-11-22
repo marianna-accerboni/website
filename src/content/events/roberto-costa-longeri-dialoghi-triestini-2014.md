@@ -1,7 +1,7 @@
 ---
 title: "Dialoghi triestini: mercoledì 14 maggio 2014 alla Libreria Minerva di Trieste presentazione del libro di Roberto Costa Longeri e di Franco Nuti"
 slug: roberto-costa-longeri-dialoghi-triestini-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-05-13T00:00:00
 coverImage: /media/events/roberto-costa-longeri-dialoghi-triestini-2014/Roberto_Costa.jpg
 info:
   openingDate: 2014-05-14 17:30

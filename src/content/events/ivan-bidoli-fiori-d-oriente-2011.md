@@ -1,7 +1,7 @@
 ---
 title: "Fiori d'Oriente: mostra personale del pittore Ivan Bidoli"
 slug: ivan-bidoli-fiori-d-oriente-2011
-createdAt: 2026-11-21T16:45:00
+createdAt: 2011-06-17T00:00:00
 coverImage: /media/events/ivan-bidoli-fiori-d-oriente-2011/2_Amaestramenti_dal_Sborf_-_acrilici_e_smalti_80x80_B.jpg
 info:
   openingDate: 2011-06-18 19:00

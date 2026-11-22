@@ -1,7 +1,7 @@
 ---
 title: "Connessione trascendentale di Nina Vlados: mercoledì 18 luglio 2018 alla Sala Comunale d'Arte di Trieste inaugurazione della personale dell'artista russa"
 slug: nina-vlados-connessione-trascendentale-2018
-createdAt: 2026-11-11T12:02:00
+createdAt: 2018-07-23T00:00:00
 coverImage: /media/events/nina-vlados-connessione-trascendentale-2018/Dionis_2004_-_tecnica_mista_-_cm_63x52.jpg
 info:
   openingDate: 2018-07-18 19:00

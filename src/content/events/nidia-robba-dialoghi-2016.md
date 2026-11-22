@@ -1,7 +1,7 @@
 ---
 title: "Domani giovedì 24 marzo nella casa studio della scrittrice Nidia Robba presentazione di “Dialoghi”, 22° libro dell'autrice che compie 92 anni"
 slug: nidia-robba-dialoghi-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-03-23T00:00:00
 coverImage: /media/events/nidia-robba-dialoghi-2016/robba.jpg
 info:
   openingDate: 2016-03-24 11:00

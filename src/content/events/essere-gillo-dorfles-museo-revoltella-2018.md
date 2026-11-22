@@ -1,7 +1,7 @@
 ---
 title: "Celebrazione “a più voci” per ricordare Gillo Dorfles: giovedì 12 aprile, dalle 17 alle 19, al Museo Revoltella"
 slug: essere-gillo-dorfles-museo-revoltella-2018
-createdAt: 2026-11-11T12:24:00
+createdAt: 2018-04-11T00:00:00
 coverImage: /media/events/essere-gillo-dorfles-museo-revoltella-2018/gillo.jpg
 info:
   openingDate: 2018-04-12 17:00

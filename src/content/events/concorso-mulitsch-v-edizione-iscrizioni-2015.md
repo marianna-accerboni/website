@@ -1,7 +1,7 @@
 ---
 title: "Prende il via a Gorizia la V edizione del Concorso internazionale di pittura Dario Mulitsch: iscrizioni aperte fino al 28 febbraio"
 slug: concorso-mulitsch-v-edizione-iscrizioni-2015
-createdAt: 2026-11-17T08:26:00
+createdAt: 2014-12-09T00:00:00
 coverImage: /media/events/concorso-mulitsch-v-edizione-iscrizioni-2015/Dario_Mulitsch_ritratto_da_Juan_Arias_Gonano_-_foto_di_Ilaria_Tassini.jpg
 info: null
 press:

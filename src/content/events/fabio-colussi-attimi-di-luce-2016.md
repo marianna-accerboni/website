@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. Attimi di luce: dal 3 dicembre 2016 la mostra personale del pittore triestino al Salone d'Arte contemporanea di Trieste"
 slug: fabio-colussi-attimi-di-luce-2016
-createdAt: 2026-11-11T13:17:00
+createdAt: 2016-12-02T00:00:00
 coverImage: /media/events/fabio-colussi-attimi-di-luce-2016/La_vecchia_pescheria_2015_2016_-_olio_su_tela_-_cm_50x70.jpg
 info:
   openingDate: 2016-12-03 18:00

@@ -1,7 +1,7 @@
 ---
 title: "Paolo Barozzi, una passione per l'arte"
 slug: paolo-barozzi-una-passione-per-l-arte-venezia-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-11-17T00:00:00
 coverImage: /media/events/paolo-barozzi-una-passione-per-l-arte-venezia-2011/Copertina-libro-Ottavio_Pinarello-su-Paolo_Barozzi_low-def.jpg
 info:
   openingDate: 2011-11-18 18:00

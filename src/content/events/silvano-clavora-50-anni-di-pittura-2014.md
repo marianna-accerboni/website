@@ -1,7 +1,7 @@
 ---
 title: Il 14 marzo al Circolo della Stampa di Trieste i 50 anni di pittura di Silvano Clavora in una monografia
 slug: silvano-clavora-50-anni-di-pittura-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-03-13T00:00:00
 coverImage: /media/events/silvano-clavora-50-anni-di-pittura-2014/clavora_coperta.jpg
 info:
   openingDate: 2014-03-14 18:00

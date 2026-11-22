@@ -1,7 +1,7 @@
 ---
 title: "Domani 18 dicembre 2014 al Circolo degli Antichi di Venezia presentazione di due libri di Paolo Barozzi dedicati alla Serenissima"
 slug: paolo-barozzi-circolo-degli-antichi-2014
-createdAt: 2026-11-17T08:26:00
+createdAt: 2014-12-17T00:00:00
 coverImage: /media/events/paolo-barozzi-circolo-degli-antichi-2014/foto.jpg
 info:
   openingDate: 2014-12-18 18:30

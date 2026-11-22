@@ -1,7 +1,7 @@
 ---
 title: "Villibossi. Sculture e disegni: personale dello scultore Villibossi nella sede di collegamento della Regione Autonoma Friuli Venezia Giulia a Bruxelles"
 slug: villibossi-sculture-e-disegni-bruxelles-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-09-13T00:00:00
 coverImage: /media/events/villibossi-sculture-e-disegni-bruxelles-2012/_Difesa_2011_-_13x54xh41.jpg
 info:
   openingDate: 2012-09-20 18:30

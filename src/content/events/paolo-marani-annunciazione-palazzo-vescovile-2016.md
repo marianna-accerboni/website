@@ -1,7 +1,7 @@
 ---
 title: "Sabato 19 novembre 2016 al Palazzo vescovile di Trieste presentazione del dittico sull'Annunciazione realizzato dall'artista Paolo Marani per il Salone delle Udienze"
 slug: paolo-marani-annunciazione-palazzo-vescovile-2016
-createdAt: 2026-11-11T13:17:00
+createdAt: 2016-11-18T00:00:00
 coverImage: /media/events/paolo-marani-annunciazione-palazzo-vescovile-2016/Paolo_Marani_-_Annunciazione_2016_-_tecnica_mista_su_tela_-_cm_160x240.jpg
 info:
   openingDate: 2016-11-19 11:00

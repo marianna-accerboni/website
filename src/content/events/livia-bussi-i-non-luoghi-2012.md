@@ -1,7 +1,7 @@
 ---
 title: "I non luoghi di Livia Bussi: mostra personale della pittrice triestina alla Sala Comunale d'Arte di Trieste"
 slug: livia-bussi-i-non-luoghi-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-07-04T00:00:00
 coverImage: /media/events/livia-bussi-i-non-luoghi-2012/Cavalli_lontani_-_2011_-_pastello_su_carta_-_cm_40x30.JPG
 info:
   openingDate: 2012-07-05 19:00

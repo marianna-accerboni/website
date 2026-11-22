@@ -1,7 +1,7 @@
 ---
 title: "Sabato 16 dicembre 2017 alla Galleria Rettori Tribbio di Trieste inaugurazione della mostra “Angeli” della pittrice Otilia Saldana"
 slug: otilia-saldana-angeli-2017
-createdAt: 2026-11-11T12:22:00
+createdAt: 2017-12-15T00:00:00
 coverImage: /media/events/otilia-saldana-angeli-2017/Angelo_alla_porta_2017_-_olio_-_cm_24x18.jpg
 info:
   openingDate: 2017-12-16 18:00

@@ -1,7 +1,7 @@
 ---
 title: "L'umano sentire di Luigi Forgini: alla Galleria Rettori Tribbio di Trieste la mostra personale dell'artista triestino"
 slug: luigi-forgini-l-umano-sentire-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-09-07T00:00:00
 coverImage: /media/events/luigi-forgini-l-umano-sentire-2012/L.-Forgini-2008---Trieste-Cittavecchia.jpg
 info:
   openingDate: 2012-09-08 18:00

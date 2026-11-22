@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. Light landscapes: dal 2 ottobre la mostra personale del pittore triestino alla Galleria Melori & Rosenberg di Venezia"
 slug: fabio-colussi-light-landscapes-venezia-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-10-01T00:00:00
 coverImage: /media/events/fabio-colussi-light-landscapes-venezia-2016/Luci_in_laguna_2015_-_olio_su_tela_-_cm_30x50.jpg
 info:
   openingDate: 2016-10-02 12:00

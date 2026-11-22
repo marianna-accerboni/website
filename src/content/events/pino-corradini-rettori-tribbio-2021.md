@@ -1,7 +1,7 @@
 ---
 title: Sabato 13 novembre 2021 alla Galleria Rettori Tribbio di Trieste inaugurazione della personale dello scultore Pino Corradini
 slug: pino-corradini-rettori-tribbio-2021
-createdAt: 2026-10-16T09:16:00
+createdAt: 2021-11-13T00:00:00
 coverImage: /media/events/pino-corradini-la-materia-e-il-segno/_Ritmo__anni_2000_-_bronzo_-_h._cm_100.jpg
 info:
   openingDate: 2021-11-13 17:00

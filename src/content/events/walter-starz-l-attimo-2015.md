@@ -1,7 +1,7 @@
 ---
 title: "Walter Starz. L'attimo: mostra personale del pittore Walter Starz alla Sala Comunale d'Arte di Trieste"
 slug: walter-starz-l-attimo-2015
-createdAt: 2026-11-17T07:57:00
+createdAt: 2015-08-12T00:00:00
 coverImage: /media/events/walter-starz-l-attimo-2015/Osservando_la_natura_2012_-_tecnica_mista_-_cm_70X50.jpg
 info:
   openingDate: 2015-08-13 19:00

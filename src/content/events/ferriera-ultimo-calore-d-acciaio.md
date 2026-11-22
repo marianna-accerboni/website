@@ -1,7 +1,7 @@
 ---
 title: Il docu-film sulla Ferriera di Trieste "L'ultimo calore d'acciaio" all'Ariston venerdì 18 febbraio presentato dagli autori Francesco De Filippo e Diego Cenetiempo
 slug: ferriera-ultimo-calore-d-acciaio
-createdAt: 2026-09-22T09:10:00
+createdAt: 2022-02-18T00:00:00
 coverImage: /media/l-ultimo-calore-d-acciaio.jpg
 info:
   openingDate: 2022-02-18 18:00

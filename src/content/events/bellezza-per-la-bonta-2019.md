@@ -1,7 +1,7 @@
 ---
 title: "XX edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita"
 slug: bellezza-per-la-bonta-2019
-createdAt: 2026-11-11T11:21:00
+createdAt: 2019-10-25T00:00:00
 coverImage: /media/events/bellezza-per-la-bonta-2019/Alice_Psacaropulo_-_Angeli_anni_80_-_acquarello_su_carta_-_cm_22x32.jpg
 info:
   openingDate: 2019-10-26 11:00

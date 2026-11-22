@@ -1,7 +1,7 @@
 ---
 title: "Squarci svizzeri a Trieste"
 slug: squarci-svizzeri-a-trieste-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-10-24T00:00:00
 coverImage: /media/events/squarci-svizzeri-a-trieste-2011/costa_b.jpg
 info:
   openingDate: 2011-10-25 18:00

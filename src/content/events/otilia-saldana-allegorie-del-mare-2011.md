@@ -1,7 +1,7 @@
 ---
 title: "Allegorie del mare"
 slug: otilia-saldana-allegorie-del-mare-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-09-30T00:00:00
 coverImage: /media/events/otilia-saldana-allegorie-del-mare-2011/Vela_al_vento_-_2011_-_olio_su_tela_-_cm_80x80.jpg
 info:
   openingDate: 2011-10-01 18:00

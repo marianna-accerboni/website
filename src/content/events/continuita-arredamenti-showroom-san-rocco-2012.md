@@ -1,7 +1,7 @@
 ---
 title: "Nuovo showroom di Continuità Arredamenti a San Rocco: inaugurazione con l'artista Michele Fiocco e una performance di musica e luce di Marianna Accerboni"
 slug: continuita-arredamenti-showroom-san-rocco-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-10-11T00:00:00
 coverImage: /media/events/continuita-arredamenti-showroom-san-rocco-2012/Michele_Fiocco_-_Cavalli_contrapposti_pesanti_-_tecnica_mista_su_tela_olio_smalti_e_collage_-_cm._70x170.jpg
 info:
   openingDate: 2012-10-12 19:00

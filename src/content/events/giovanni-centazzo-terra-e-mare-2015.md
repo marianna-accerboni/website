@@ -1,7 +1,7 @@
 ---
 title: "Da sabato 2 maggio 2015 il pittore Giovanni Centazzo alla Galleria Rettori Tribbio di Trieste"
 slug: giovanni-centazzo-terra-e-mare-2015
-createdAt: 2026-11-17T08:11:00
+createdAt: 2015-05-01T00:00:00
 coverImage: /media/events/giovanni-centazzo-terra-e-mare-2015/Il_Meduna_dopo_la_piena_2015_-_olio_su_tela_-_cm_50x40_.jpg
 info:
   openingDate: 2015-05-02 18:00

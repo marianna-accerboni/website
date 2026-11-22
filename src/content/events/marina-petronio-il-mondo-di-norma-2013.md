@@ -1,7 +1,7 @@
 ---
 title: "Il mondo di Norma: venerdì 1 marzo viene presentato all'Harry's Caffè e Restaurant di Trieste il libro Il mondo di Norma di Marina Petronio, dedicato alla moglie del pittore Dyalma Stultus con prefazione di Marianna Accerboni"
 slug: marina-petronio-il-mondo-di-norma-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-02-28T00:00:00
 coverImage: /media/events/marina-petronio-il-mondo-di-norma-2013/norma.jpg
 info:
   openingDate: 2013-03-01 17:00

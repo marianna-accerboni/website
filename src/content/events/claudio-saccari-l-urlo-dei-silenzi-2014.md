@@ -1,7 +1,7 @@
 ---
 title: "L'urlo dei silenzi: venerdì 6 giugno all'Hotel Duchi Vis à Vis di Trieste inaugurazione della mostra personale del fotografo-artista Claudio Saccari"
 slug: claudio-saccari-l-urlo-dei-silenzi-2014
-createdAt: 2026-11-17T08:38:00
+createdAt: 2014-06-05T00:00:00
 coverImage: /media/events/claudio-saccari-l-urlo-dei-silenzi-2014/Lurlo_dei_silenzi_10_Alasca_2014_-_foto_digitale_-_cm_70x50.jpg
 info:
   openingDate: 2014-06-06 19:00

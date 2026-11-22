@@ -1,7 +1,7 @@
 ---
 title: "Dal 13 novembre alla Sala Comunale di Trieste la mostra L'arte attraversa vittoriosamente la vita"
 slug: l-arte-attraversa-vittoriosamente-la-vita-2015
-createdAt: 2026-11-14T10:58:00
+createdAt: 2015-11-12T00:00:00
 coverImage: /media/events/l-arte-attraversa-vittoriosamente-la-vita-2015/Ad_Maiores_2_-_Il_Tram_dei_desideri.jpg
 info:
   openingDate: 2015-11-13 18:30

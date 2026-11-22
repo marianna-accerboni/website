@@ -1,7 +1,7 @@
 ---
 title: "Percorsi"
 slug: paola-gamba-percorsi-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-01-12T00:00:00
 coverImage: /media/events/paola-gamba-percorsi-2012/collage_19_-_2008_-_collage_e_acrilico_su_carta_incollata_su_tavola_-_cm_50x70.jpg
 info:
   openingDate: 2012-01-13 19:00

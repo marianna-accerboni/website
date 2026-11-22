@@ -1,7 +1,7 @@
 ---
 title: “L'anima, la terra, il colore. Arte d'azione e di inclusione” di Toni Zanussi
 slug: toni-zanussi-l-anima-la-terra-il-colore
-createdAt: 2026-09-26T22:09:00
+createdAt: 2021-12-29T00:00:00
 coverImage: /media/events/anima-terra-colore/Volo_a_Sarajevo_Gonico_Verde_2002_tecnica_mista_su_MDF_cm_87x120.jpg
 info:
   openingDate: 2021-12-29 11:00

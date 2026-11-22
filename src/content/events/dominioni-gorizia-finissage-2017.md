@@ -1,7 +1,7 @@
 ---
 title: "Gorizia finissage - martedì 10 gennaio 2017 alla Fondazione Cassa di Risparmio di Gorizia finissage della mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra."
 slug: dominioni-gorizia-finissage-2017
-createdAt: 2026-11-11T13:25:00
+createdAt: 2017-01-09T00:00:00
 coverImage: /media/events/dominioni-gorizia-finissage-2017/paolocaccia.jpg
 info:
   openingDate: 2017-01-10 17:30

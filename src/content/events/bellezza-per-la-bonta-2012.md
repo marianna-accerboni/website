@@ -1,7 +1,7 @@
 ---
 title: "XIII edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita"
 slug: bellezza-per-la-bonta-2012
-createdAt: 2026-11-21T14:43:00
+createdAt: 2012-10-29T00:00:00
 coverImage: /media/events/bellezza-per-la-bonta-2012/Annie_Blanchi_2012_-_Roma_citta_eterna_-_cm_100x70.jpg
 info:
   openingDate: 2012-10-30 18:30

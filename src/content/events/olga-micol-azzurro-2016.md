@@ -1,7 +1,7 @@
 ---
 title: "Azzurro: giovedì 29 settembre 2016 alla Sala Comunale d'Arte di Trieste mostra personale della fotografa-artista Olga Micol"
 slug: olga-micol-azzurro-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-09-28T00:00:00
 coverImage: /media/events/olga-micol-azzurro-2016/Barcolana_2014_partenza_-_rielaborazione_fotografica_-_cm_30x7260.jpg
 info:
   openingDate: 2016-09-29 19:00

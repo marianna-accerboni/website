@@ -1,7 +1,7 @@
 ---
 title: "Sabato 17 ottobre 2020 alla Galleria Rettori Tribbio di Trieste inaugurazione della personale della pittrice Livia Bussi"
 slug: livia-bussi-rettori-tribbio-2020
-createdAt: 2026-10-16T09:16:00
+createdAt: 2020-10-16T00:00:00
 coverImage: /media/events/livia-bussi-frammenti-2020/Il_boschetto_2020_-_pastello_-_cm._60_x_39.JPG
 info:
   openingDate: 2020-10-17 17:00

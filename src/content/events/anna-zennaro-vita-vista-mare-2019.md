@@ -1,7 +1,7 @@
 ---
 title: "Vita vista mare: mercoledì 14 agosto 2019 alla Sala Comunale d'Arte di Trieste inaugurazione della personale della pittrice Anna Zennaro"
 slug: anna-zennaro-vita-vista-mare-2019
-createdAt: 2026-11-11T11:21:00
+createdAt: 2019-08-13T00:00:00
 coverImage: /media/events/anna-zennaro-vita-vista-mare-2019/The_Blue_Cave_1_part._2018_-_tecnica_mista_su_legno_-_cm_30x30.jpg
 info:
   openingDate: 2019-08-14 19:00

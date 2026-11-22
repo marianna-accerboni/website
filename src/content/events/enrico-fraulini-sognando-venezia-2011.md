@@ -1,7 +1,7 @@
 ---
 title: "Sognando Venezia"
 slug: enrico-fraulini-sognando-venezia-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-10-13T00:00:00
 coverImage: /media/events/enrico-fraulini-sognando-venezia-2011/copertina_fraulini.jpg
 info:
   openingDate: 2011-10-14 18:30

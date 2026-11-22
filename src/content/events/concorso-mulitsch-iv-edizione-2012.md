@@ -1,7 +1,7 @@
 ---
 title: "IV edizione del Concorso internazionale di pittura Dario Mulitsch: il 6 ottobre 2012 al Palazzo Coronini Cronberg di Gorizia inaugurazione della mostra degli artisti selezionati e presentazione del catalogo"
 slug: concorso-mulitsch-iv-edizione-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-10-05T00:00:00
 coverImage: /media/events/concorso-mulitsch-iv-edizione-2012/Palazzo_Coronini-Mostra_Concorso_Mulitsch_2010-18.jpg
 info:
   openingDate: 2012-10-06 17:30

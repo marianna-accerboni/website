@@ -1,7 +1,7 @@
 ---
 title: "Triestini europei. Esperienze a confronto: venerdì 17 ottobre alla Camera di Commercio di Trieste la tavola rotonda tra manager triestini all'estero e giovani studenti universitari"
 slug: triestini-europei-camera-di-commercio-2014
-createdAt: 2026-11-17T08:26:00
+createdAt: 2014-10-16T00:00:00
 coverImage: /media/events/triestini-europei-camera-di-commercio-2014/trieste.jpg
 info:
   openingDate: 2014-10-17 17:00

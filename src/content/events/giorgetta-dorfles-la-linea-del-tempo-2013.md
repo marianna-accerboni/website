@@ -1,7 +1,7 @@
 ---
 title: "La linea del tempo: il video libro di Giorgetta Dorfles al Circolo della Stampa di Trieste"
 slug: giorgetta-dorfles-la-linea-del-tempo-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-03-18T00:00:00
 coverImage: /media/events/giorgetta-dorfles-la-linea-del-tempo-2013/Dal_video_limmagine_di_una_clessidra.jpg
 info:
   openingDate: 2013-03-19 18:00

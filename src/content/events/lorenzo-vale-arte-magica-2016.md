@@ -1,7 +1,7 @@
 ---
 title: "Arte magica: mostra personale del pittore Lorenzo Vale al Palazzo del Consiglio Regionale di Trieste"
 slug: lorenzo-vale-arte-magica-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-09-29T00:00:00
 coverImage: /media/events/lorenzo-vale-arte-magica-2016/Composizione_con_candelabro_2015_-_olio_su_tavola_-_cm_42x42.jpg
 info:
   openingDate: 2016-09-30 13:30

@@ -1,7 +1,7 @@
 ---
 title: "La cinese di Maputo: venerdì 24 aprile al Caffè San Marco di Trieste presentazione del romanzo del medico-scrittore Nathan Levi"
 slug: nathan-levi-la-cinese-di-maputo-2015
-createdAt: 2026-11-17T08:11:00
+createdAt: 2015-04-23T00:00:00
 coverImage: /media/events/nathan-levi-la-cinese-di-maputo-2015/Copertina_alta.jpg
 info:
   openingDate: 2015-04-24 18:30

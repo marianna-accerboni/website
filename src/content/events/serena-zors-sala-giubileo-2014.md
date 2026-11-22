@@ -1,7 +1,7 @@
 ---
 title: "Da Monaco di Baviera a Trieste: l'arte fantastica di Serena Zors alla Sala Giubileo di Trieste dal 28 marzo 2014"
 slug: serena-zors-sala-giubileo-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-03-27T00:00:00
 coverImage: /media/events/serena-zors-sala-giubileo-2014/Desideri_avverati_2013_-_acrilico_-_cm._50x36.jpg
 info:
   openingDate: 2014-03-28 19:00

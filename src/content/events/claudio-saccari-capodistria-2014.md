@@ -1,7 +1,7 @@
 ---
 title: "8 aprile 2014 al Museo regionale di Capodistria un'importante personale del fotografo triestino Claudio Saccari"
 slug: claudio-saccari-capodistria-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-04-07T00:00:00
 coverImage: /media/events/claudio-saccari-capodistria-2014/Ancarano_-_Contrasti_2014_-_fotografia_digitale_-_fineart_con_stampa_a_pigmenti_colorati_su_carta_100_cotone_-_cm_50x70.jpg
 info:
   openingDate: 2014-04-08 18:00

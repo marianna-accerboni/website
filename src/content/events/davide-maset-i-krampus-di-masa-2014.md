@@ -1,7 +1,7 @@
 ---
 title: "I Krampus di Masa: da venerdì 5 dicembre 2014 alla Torre medioevale di Tarvisio e al Museo Antiquarium di Camporosso (Tarvisio) la mostra dedicata dal giovane pittore veneto alle inquietanti e selvagge figure silvestri della tradizione austro-tedesca"
 slug: davide-maset-i-krampus-di-masa-2014
-createdAt: 2026-11-17T08:20:00
+createdAt: 2014-12-04T00:00:00
 coverImage: /media/events/davide-maset-i-krampus-di-masa-2014/Autoritratto_2012_-_elaborazione_digitale_-_cm._30x41.5.jpg
 info:
   openingDate: 2014-12-05 11:00

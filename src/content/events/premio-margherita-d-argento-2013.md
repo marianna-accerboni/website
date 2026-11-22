@@ -1,7 +1,7 @@
 ---
 title: "All'Oasi Felina di Trieste sabato 1 giugno Margherita Hack consegna all'attrice Loredana Cannata il XII premio Margherita d'argento, organizzato da Il Gattile"
 slug: premio-margherita-d-argento-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-05-31T00:00:00
 coverImage: /media/events/premio-margherita-d-argento-2013/click.jpg
 info:
   openingDate: 2013-06-01 18:00

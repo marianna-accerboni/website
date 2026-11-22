@@ -1,7 +1,7 @@
 ---
 title: "Mostra Dominioni: nuovo calendario eventi"
 slug: dominioni-trieste-nuovo-calendario-2015
-createdAt: 2026-11-17T07:28:00
+createdAt: 2015-09-17T00:00:00
 coverImage: /media/events/dominioni-trieste-nuovo-calendario-2015/PCD_Africa_Settentrionale_2GM.jpg
 info: null
 subEvents:

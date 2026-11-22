@@ -1,7 +1,7 @@
 ---
 title: "I ritratti interiori di Adriana Marchetti alla Sala Comunale d'Arte di Trieste"
 slug: adriana-marchetti-ritratti-interiori-2012
-createdAt: 2026-11-21T14:43:00
+createdAt: 2012-11-28T00:00:00
 coverImage: /media/events/adriana-marchetti-ritratti-interiori-2012/_Claudio_Magris_-_2011_-_pastello_-_cm_50x70.jpg
 info:
   openingDate: 2012-11-29 18:30

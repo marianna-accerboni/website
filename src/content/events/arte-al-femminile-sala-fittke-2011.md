@@ -1,7 +1,7 @@
 ---
 title: "L'arte al femminile"
 slug: arte-al-femminile-sala-fittke-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-12-02T00:00:00
 coverImage: /media/events/arte-al-femminile-sala-fittke-2011/Marta_Potenzieri_Reale_-_Autunno_-_2007_-_acquerello_su_carta_-_cm_42x34.jpg
 info:
   openingDate: 2011-12-03 18:30

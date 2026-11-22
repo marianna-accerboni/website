@@ -1,7 +1,7 @@
 ---
 title: "Nora Carella. Luce senza tempo"
 slug: nora-carella-luce-senza-tempo-bruxelles-ufficio-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-12-05T00:00:00
 coverImage: /media/events/nora-carella-luce-senza-tempo-bruxelles-ufficio-2011/prima.jpg
 info:
   openingDate: 2011-12-06 18:00

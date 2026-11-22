@@ -1,7 +1,7 @@
 ---
 title: "Claudio Barberi Disegni 1972 - 73: sabato 14 maggio 2016 al Museo Mini - Mu di Trieste inaugurazione mostra e presentazione del volume"
 slug: claudio-barberi-disegni-1972-73-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-05-13T00:00:00
 coverImage: /media/events/claudio-barberi-disegni-1972-73-2016/Img_1657.jpg
 info:
   openingDate: 2016-05-14 18:00

@@ -1,7 +1,7 @@
 ---
 title: "Temporanea-mente: dal 5 dicembre alla Sala Comunale d'Arte di Trieste la mostra personale del pittore Alessandro Calligaris"
 slug: alessandro-calligaris-temporanea-mente-2015
-createdAt: 2026-11-14T10:58:00
+createdAt: 2015-12-04T00:00:00
 coverImage: /media/events/alessandro-calligaris-temporanea-mente-2015/La_fine_di_un_tempo_2015_-_olio_su_tela_-_cm_134x94.jpg
 info:
   openingDate: 2015-12-05 18:00

@@ -1,7 +1,7 @@
 ---
 title: Mercoledì 24 gennaio alle 17.30 alla Sala Bazlen di Palazzo Gopcevich a Trieste presentazione della riedizione del volume Il Kitsch di Gillo Dorfles
 slug: il-kitsch-dorfles-gopcevich
-createdAt: 2026-09-20T09:25:00
+createdAt: 2024-01-24T00:00:00
 coverImage: /media/kitsch-copertina.jpg
 info:
   openingDate: 2024-01-24 17:30

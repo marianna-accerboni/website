@@ -1,7 +1,7 @@
 ---
 title: Patrizia Grubissa. Storie segrete 2 inaugurazione venerdì 3 maggio 2024 alla Sala Comunale d'Arte di Trieste
 slug: patrizia-grubissa-storie-segrete-2-2024
-createdAt: 2026-09-20T06:23:00
+createdAt: 2024-05-03T00:00:00
 coverImage: /media/grubissa-enigma-2023-acrilico-su-tela-cm-80x80.jpg
 info:
   openingDate: 2024-05-03 19:00

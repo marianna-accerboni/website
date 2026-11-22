@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. Il pittore del mare: sabato 5 dicembre 2020 apre la mostra personale del pittore triestino al Salone d'Arte di Trieste"
 slug: fabio-colussi-il-pittore-del-mare-2020
-createdAt: 2026-10-16T09:16:00
+createdAt: 2020-12-05T00:00:00
 coverImage: /media/events/colussi-il-pittore-del-mare-2020/Luci_in_laguna_2018_-_olio_su_tela_-_cm_30x50.jpg
 info:
   openingDate: 2020-12-05 18:00

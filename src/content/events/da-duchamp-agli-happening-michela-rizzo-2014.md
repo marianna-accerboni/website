@@ -1,7 +1,7 @@
 ---
 title: "Da Duchamp agli happening: sabato 18 ottobre a Venezia alla Galleria Michela Rizzo dell'isola della Giudecca presentazione del libro di Paolo Barozzi"
 slug: da-duchamp-agli-happening-michela-rizzo-2014
-createdAt: 2026-11-17T08:26:00
+createdAt: 2014-10-17T00:00:00
 coverImage: /media/events/da-duchamp-agli-happening-michela-rizzo-2014/Da_sin-lartista_Ottavio_Pinarello_e_il_gallerista_Paolo_Barozzi_sullo_sfondo_due_opere_di_Pinarello_.jpg
 info:
   openingDate: 2014-10-18 17:00

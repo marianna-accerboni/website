@@ -1,7 +1,7 @@
 ---
 title: "Le collezioni d'arte dell'ITIS"
 slug: itis-collezioni-d-arte-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-07-18T00:00:00
 coverImage: /media/events/itis-collezioni-d-arte-2012/Egidio_Lancerotto_-_In_famiglia_-_olio_su_tela_-_cm_805_x_1195.jpg
 info:
   openingDate: 2012-07-19 18:00

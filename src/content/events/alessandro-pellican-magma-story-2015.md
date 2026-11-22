@@ -1,7 +1,7 @@
 ---
 title: "Sabato 27 giugno allo spazio Kleine Berlin di Trieste inaugurazione della personale del fotografo-artista Alessandro Pellican"
 slug: alessandro-pellican-magma-story-2015
-createdAt: 2026-11-17T07:57:00
+createdAt: 2015-06-26T00:00:00
 coverImage: /media/events/alessandro-pellican-magma-story-2015/1.jpg
 info:
   openingDate: 2015-06-27 19:00

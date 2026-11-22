@@ -1,7 +1,7 @@
 ---
 title: "Da Vinci dal futuro: giovedì 18 giugno inaugurazione della mostra personale della pittrice russa Nina Vlados alla Sala Arturo Fittke di Trieste"
 slug: nina-vlados-da-vinci-dal-futuro-2015
-createdAt: 2026-11-17T07:57:00
+createdAt: 2015-06-17T00:00:00
 coverImage: /media/events/nina-vlados-da-vinci-dal-futuro-2015/Dionis_2004_-_tecnica_mista_-_cm_63x52.jpg.jpg
 info:
   openingDate: 2015-06-18 18:00

@@ -1,7 +1,7 @@
 ---
 title: "L'arte al femminile"
 slug: arte-al-femminile-sala-fittke-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-07-15T00:00:00
 coverImage: /media/events/arte-al-femminile-sala-fittke-2013/Nora_Carella_-_Venezia_Madonna_della_Salute_-_2010_-_olio_su_tela_-_cm._100_x_70.jpg
 info:
   openingDate: 2013-07-16 19:00

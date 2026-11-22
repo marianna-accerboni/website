@@ -1,7 +1,7 @@
 ---
 title: "I papier collé surreali di Maria Grazia Lazzari: inaugurazione sabato 11 giugno 2016 alla Galleria Rettori Tribbio di Trieste"
 slug: maria-grazia-lazzari-papier-colle-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-06-10T00:00:00
 coverImage: /media/events/maria-grazia-lazzari-papier-colle-2016/Girotondo_delluomo_nero_-_collage_fotografico_-_cm_50x70.jpg
 info:
   openingDate: 2016-06-11 18:00

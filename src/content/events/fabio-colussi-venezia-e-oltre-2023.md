@@ -1,7 +1,7 @@
 ---
 title: Sabato 2 dicembre 2023 alla Sala Xenia di Trieste inaugurazione della mostra “Fabio Colussi. Venezia e Oltre”
 slug: fabio-colussi-venezia-e-oltre-2023
-createdAt: 2026-09-20T17:09:00
+createdAt: 2023-12-02T00:00:00
 coverImage: /media/colussi-marina-al-tramonto-2022-olio-su-tela-cm-50x80.jpg
 info:
   openingDate: 2023-12-02 18:30

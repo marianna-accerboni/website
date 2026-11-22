@@ -1,7 +1,7 @@
 ---
 title: Apre il 10 luglio alla Galleria d'arte contemporanea Ghetto Et Cetera di Venezia la mostra Fuoco
 slug: ghetto-fuoco-venezia
-createdAt: 2026-09-20T21:16:00
+createdAt: 2022-07-10T00:00:00
 coverImage: /media/fuoco-02.jpg
 info:
   openingDate: 2022-07-10 12:00

@@ -1,7 +1,7 @@
 ---
 title: "Suggestioni antropomorfe: mostra personale della pittrice Rosella Gallicchio alla Sala Comunale d'Arte di Trieste"
 slug: rosella-gallicchio-suggestioni-antropomorfe-2013
-createdAt: 2026-11-21T12:43:00
+createdAt: 2013-10-16T00:00:00
 coverImage: /media/events/rosella-gallicchio-suggestioni-antropomorfe-2013/Anelante_energia_creatrice_2012_-_tecnica_mista_pigmenti_su_carta_-_cm_100x140.jpg
 info:
   openingDate: 2013-10-17 18:30

@@ -1,7 +1,7 @@
 ---
 title: "Fiabe e sogni: mostra di Olivia Siauss al Circolo Aziendale delle Assicurazioni Generali di Trieste"
 slug: olivia-siauss-fiabe-e-sogni-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-10-07T00:00:00
 coverImage: /media/events/olivia-siauss-fiabe-e-sogni-2012/Astrazione_del_paesaggio_2008_-_acrilico_su_tela_-_cm._80x80_.JPG
 info:
   openingDate: 2012-10-08 17:30

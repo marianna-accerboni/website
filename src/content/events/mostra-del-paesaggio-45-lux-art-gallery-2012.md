@@ -1,7 +1,7 @@
 ---
 title: "45° Mostra del paesaggio alla Lux Art Gallery di Trieste: lunedì 5 e martedì 6 novembre la consegna delle opere"
 slug: mostra-del-paesaggio-45-lux-art-gallery-2012
-createdAt: 2026-11-21T14:43:00
+createdAt: 2012-11-16T00:00:00
 coverImage: /media/events/mostra-del-paesaggio-45-lux-art-gallery-2012/IMG_2054.JPG
 info:
   openingDate: 2012-11-17 19:00

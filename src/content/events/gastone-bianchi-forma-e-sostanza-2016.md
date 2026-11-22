@@ -1,7 +1,7 @@
 ---
 title: "Forma e sostanza: da sabato 10 settembre 2016 le incisioni dell'artista Gastone Bianchi alla Galleria Rettori Tribbio di Trieste"
 slug: gastone-bianchi-forma-e-sostanza-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-09-09T00:00:00
 coverImage: /media/events/gastone-bianchi-forma-e-sostanza-2016/Scala_di_raggi_di_luna_Kusatao_2016_-_cera_molle_su_lastra_di_zinco_-_cm_30x40.jpg
 info:
   openingDate: 2016-09-10 19:00

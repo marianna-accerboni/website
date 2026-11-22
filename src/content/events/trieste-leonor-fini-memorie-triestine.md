@@ -1,7 +1,7 @@
 ---
 title: "Trieste / Leonor Fini. Memorie triestine"
 slug: trieste-leonor-fini-memorie-triestine
-createdAt: 2026-09-27T10:03:00
+createdAt: 2021-06-26T00:00:00
 coverImage: /media/events/leonor-fini-memorie-triestine/cover.jpg
 info:
   openingDate: 2021-06-26 21:00

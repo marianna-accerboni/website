@@ -1,7 +1,7 @@
 ---
 title: 'Sabato 21 giugno 2025 alla Galleria Rettori Tribbio di Trieste inaugurazione della personale di Aldo Bressanutti: in mostra disegni realizzati nel 2025 dal pittore ultracentenario'
 slug: aldo-bressanutti-rettori-tribbio-2025
-createdAt: 2026-09-19T09:27:00
+createdAt: 2025-06-21T00:00:00
 coverImage: /media/bressanutti-Aldo_Bressanutti_-_Bozzetto_con_armadio_bianco_-_olio_su_tavola_-_cm._25x35.jpg
 info:
   openingDate: 2025-06-21 17:00

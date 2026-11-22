@@ -1,7 +1,7 @@
 ---
 title: "Sabato 4 ottobre 2014 alla Galleria Rettori Tribbio di Trieste inaugurazione della mostra del pittore Livio Možina"
 slug: livio-mozina-sogno-e-realta-2014
-createdAt: 2026-11-17T08:38:00
+createdAt: 2014-10-03T00:00:00
 coverImage: /media/events/livio-mozina-sogno-e-realta-2014/Ciliegie_2011_14_-_olio_su_tavola_-_cm_50x32.jpg
 info:
   openingDate: 2014-10-04 18:00

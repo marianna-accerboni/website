@@ -1,7 +1,7 @@
 ---
 title: "Giochi di carte: giovedì 4 agosto 2016 al Museo d'Arte Moderna Ugo Carà di Muggia inaugurazione della personale del pittore Carlo Fontanella"
 slug: carlo-fontanella-giochi-di-carte-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-08-03T00:00:00
 coverImage: /media/events/carlo-fontanella-giochi-di-carte-2016/Fatto_a_pezzi_2015_-_acrilico_su_tela_-_cm100X150.jpg
 info:
   openingDate: 2016-08-04 19:00

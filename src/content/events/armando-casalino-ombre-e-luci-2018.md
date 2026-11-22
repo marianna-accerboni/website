@@ -1,7 +1,7 @@
 ---
 title: "Mostra Ombre e luci - Il paesaggio del corpo: sabato 25 agosto alla Sala Comunale d'Arte di Trieste Marianna Accerboni conduce un approfondimento critico sull'opera del fotografo/artista Armando Casalino"
 slug: armando-casalino-ombre-e-luci-2018
-createdAt: 2026-11-11T12:02:00
+createdAt: 2018-08-20T00:00:00
 coverImage: /media/events/armando-casalino-ombre-e-luci-2018/Ombre_e_luci_n_13_2013_-_stampa_digitale_su_forex_in_HD_-_cmx100x100.jpg
 info:
   openingDate: 2018-08-25 19:30

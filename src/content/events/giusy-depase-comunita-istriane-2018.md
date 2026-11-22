@@ -1,7 +1,7 @@
 ---
 title: "Sabato 28 aprile 2018 all'Associazione delle Comunità Istriane di Trieste inaugurazione mostra personale dell'artista Giusy Depase"
 slug: giusy-depase-comunita-istriane-2018
-createdAt: 2026-11-11T12:02:00
+createdAt: 2018-04-27T00:00:00
 coverImage: /media/events/giusy-depase-comunita-istriane-2018/Giusy_Depase_-_Grado_lungomare_2003_-_acquarello_su_carta_-_cm_35x50.jpg
 info:
   openingDate: 2018-04-28 18:00

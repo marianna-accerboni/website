@@ -1,7 +1,7 @@
 ---
 title: "VII mostra degli allievi dell'atelier di Livio Možina: inaugurazione sabato 27 agosto 2016 alla Galleria Rettori Tribbio di Trieste"
 slug: atelier-mozina-allievi-2016
-createdAt: 2026-11-11T21:19:00
+createdAt: 2016-08-26T00:00:00
 coverImage: /media/events/atelier-mozina-allievi-2016/Carlo_STAURINI_-_Do_di_petto_2016_-_olio.jpg
 info:
   openingDate: 2016-08-27 18:00

@@ -1,7 +1,7 @@
 ---
 title: "L'Occidente e parole: presentazione dell'ultimo libro di Marina Torossi Tevini a Trieste negli uffici di rappresentanza del Credito Cooperativo di Staranzano e Villesse nell'ambito dei pomeriggi culturali promossi dalla FIDAPA - Sezione storica di Trieste"
 slug: marina-torossi-l-occidente-e-parole-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-03-17T00:00:00
 coverImage: /media/events/marina-torossi-l-occidente-e-parole-2013/tevini001.jpg
 info:
   openingDate: 2013-03-18 18:00

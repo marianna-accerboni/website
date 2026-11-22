@@ -1,7 +1,7 @@
 ---
 title: "Martedì 4 settembre 2018 alla Terrazza a Mare di Lignano Sabbiadoro inaugurazione della mostra “Tra terra e mare. Le ceramiche di Katia Brugnolo”"
 slug: katia-brugnolo-tra-terra-e-mare-2018
-createdAt: 2026-11-11T12:02:00
+createdAt: 2018-09-03T00:00:00
 coverImage: /media/events/katia-brugnolo-tra-terra-e-mare-2018/Vaso_Ellisse_Atolli_2017_-_terraglia_e_ossidi_-_cm_19x44x13.jpg
 info:
   openingDate: 2018-09-04 18:30

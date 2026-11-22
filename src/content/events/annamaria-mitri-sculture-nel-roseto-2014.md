@@ -1,7 +1,7 @@
 ---
 title: "Sculture nel roseto: personale di Annamaria Mitri a Grignano (Trieste)"
 slug: annamaria-mitri-sculture-nel-roseto-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-06-02T00:00:00
 coverImage: /media/events/annamaria-mitri-sculture-nel-roseto-2014/Al_sole_che_sorge_2004_-_terracotta_cerata_-_cm_28x95_.jpg
 info:
   openingDate: 2014-06-03 20:00

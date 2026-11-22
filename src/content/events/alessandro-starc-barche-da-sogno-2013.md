@@ -1,7 +1,7 @@
 ---
 title: "Le barche da sogno di Alessandro Starc: dal 7 ottobre al Family Banker Office della Banca Mediolanum di Trieste le originali e raffinate sculture dell'eclettico artista triestino"
 slug: alessandro-starc-barche-da-sogno-2013
-createdAt: 2026-11-21T12:43:00
+createdAt: 2013-10-06T00:00:00
 coverImage: /media/events/alessandro-starc-barche-da-sogno-2013/Alessandro_Starc_-_Barca_lignea_su_base_di_bronzo_-_2013.jpg
 info:
   openingDate: 2013-10-07 19:00

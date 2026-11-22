@@ -1,7 +1,7 @@
 ---
 title: S'inaugura sabato 30 settembre al Magazzino 26 del Porto Vecchio di Trieste la mostra antologica Luìs. Since 1953 – 70° d'arte dedicata ai settant'anni di attività della pittrice Luisia Comelli
 slug: luisia-comelli-luis-since-1953
-createdAt: 2026-09-20T20:27:00
+createdAt: 2023-09-30T00:00:00
 coverImage: /media/luis-anno-2014-campi-di-lavanda-olio-su-compensato-marino-92-x-60.jpg
 info:
   openingDate: 2023-09-30 19:00

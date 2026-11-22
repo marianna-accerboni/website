@@ -1,7 +1,7 @@
 ---
 title: Si inaugura il 4 settembre 2022 alla Galleria d'arte contemporanea Ghetto Et Cetera di Venezia la mostra personale Infinito di Ari Erom
 slug: ari-erom-infinito-ghetto-2022
-createdAt: 2026-09-20T21:16:00
+createdAt: 2022-09-04T00:00:00
 coverImage: /media/infinito-arierom-sisters-tecnicamistasutela-100x50cm.jpg
 info:
   openingDate: 2022-09-04 12:00

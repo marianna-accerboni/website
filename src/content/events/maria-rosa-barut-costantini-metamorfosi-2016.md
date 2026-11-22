@@ -1,7 +1,7 @@
 ---
 title: "Dal 14 aprile al 1 maggio 2016 Metamorfosi"
 slug: maria-rosa-barut-costantini-metamorfosi-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-04-13T00:00:00
 coverImage: /media/events/maria-rosa-barut-costantini-metamorfosi-2016/image-acc.jpg
 info:
   openingDate: 2016-04-14 18:30

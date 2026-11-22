@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. Il pittore dell'Adriatico: da sabato 7 dicembre 2019 la mostra personale del pittore triestino al Salone d'Arte di Trieste"
 slug: fabio-colussi-il-pittore-dell-adriatico-2019
-createdAt: 2026-11-11T11:21:00
+createdAt: 2019-12-06T00:00:00
 coverImage: /media/events/fabio-colussi-il-pittore-dell-adriatico-2019/Riflessi_a_Duino__2019_-_olio_su_tela_-_cm_60x80.jpg
 info:
   openingDate: 2019-12-07 18:00

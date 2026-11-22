@@ -1,7 +1,7 @@
 ---
 title: "La joie de vivre nell'Atelier Možina: alla Galleria Rettori Tribbio di Trieste mostra di fine d'anno degli allievi del pittore"
 slug: atelier-mozina-allievi-joie-de-vivre-2012
-createdAt: 2026-11-21T16:07:00
+createdAt: 2012-08-24T00:00:00
 coverImage: /media/events/atelier-mozina-allievi-joie-de-vivre-2012/Bruna_Naldi_-_Dolce_vita_2012_-_olio_su_legno.jpg
 info:
   openingDate: 2012-08-25 18:00

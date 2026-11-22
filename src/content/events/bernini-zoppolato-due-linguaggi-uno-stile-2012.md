@@ -1,7 +1,7 @@
 ---
 title: "Bernini - Zoppolato, due linguaggi, uno stile: i due artisti a confronto alla Galleria Rettori Tribbio di Trieste"
 slug: bernini-zoppolato-due-linguaggi-uno-stile-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-06-15T00:00:00
 coverImage: /media/events/bernini-zoppolato-due-linguaggi-uno-stile-2012/Livio_Zoppolato_-_I_muri_raccontano_-_tecnica_mista.jpg
 info:
   openingDate: 2012-06-16 18:00

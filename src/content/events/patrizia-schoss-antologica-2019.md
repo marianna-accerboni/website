@@ -1,7 +1,7 @@
 ---
 title: "Giovedì 28 marzo 2019 al Palazzo del Consiglio Regionale di Trieste inaugurazione dell'antologica della pittrice Patrizia Schoss"
 slug: patrizia-schoss-antologica-2019
-createdAt: 2026-11-11T11:29:00
+createdAt: 2019-03-27T00:00:00
 coverImage: /media/events/patrizia-schoss-antologica-2019/Il_volo_2016_-_tecnica_mista_-_cm_70x100.jpg
 info:
   openingDate: 2019-03-28 13:30

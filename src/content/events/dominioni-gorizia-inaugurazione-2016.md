@@ -1,7 +1,7 @@
 ---
 title: "Gorizia inaugurazione - lunedì 5 dicembre 2016 alla Biblioteca Statale Isontina inaugurazione mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra. I giovani d'Europa cent'anni dopo"
 slug: dominioni-gorizia-inaugurazione-2016
-createdAt: 2026-11-11T13:25:00
+createdAt: 2016-12-04T00:00:00
 coverImage: /media/events/dominioni-gorizia-inaugurazione-2016/paolocaccia.jpg
 info:
   openingDate: 2016-12-05 18:00

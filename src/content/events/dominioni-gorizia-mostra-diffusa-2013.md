@@ -1,7 +1,7 @@
 ---
 title: "Paolo Caccia Dominioni. Un artista sul fronte di guerra"
 slug: dominioni-gorizia-mostra-diffusa-2013
-createdAt: 2026-11-21T12:24:00
+createdAt: 2013-11-03T00:00:00
 coverImage: /media/events/dominioni-gorizia-mostra-diffusa-2013/_Sogno_ottocentesco_del_Cadetto_in_Mac__100_1981__schizzo_preliminare_a_tecnica_mista_per_il_volume_Conoscere_lAccademia_edizione_1981_dellAccademia_Militare_di_Modena.jpg
 info:
   invitations:

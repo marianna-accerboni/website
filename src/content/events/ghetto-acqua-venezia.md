@@ -1,7 +1,7 @@
 ---
 title: La mostra "Acqua" alla Galleria d'Arte Contemporanea Ghetto Et Cetera di Venezia
 slug: ghetto-acqua-venezia
-createdAt: 2026-09-22T09:35:00
+createdAt: 2022-02-13T00:00:00
 coverImage: /media/Federico_Montagner_-_Moby_2021_-_installazione_a_tecnica_mista_-_cm_90x110.jpg
 info:
   openingDate: 2022-02-13 12:00

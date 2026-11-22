@@ -1,7 +1,7 @@
 ---
 title: "Mostra di Frida e Gabriella Giurovich e versi haiku di Cristina Scoppetta alla Galleria Rettori Tribbio 2"
 slug: frida-e-gabriella-giurovich-rose-dal-cuore-2011
-createdAt: 2026-11-21T16:45:00
+createdAt: 2011-03-11T00:00:00
 coverImage: /media/events/frida-e-gabriella-giurovich-rose-dal-cuore-2011/img_main.jpg
 info:
   openingDate: 2011-03-12 18:00

@@ -1,7 +1,7 @@
 ---
 title: "Amico legno"
 slug: edoardo-coral-amico-legno-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-12-11T00:00:00
 coverImage: /media/events/edoardo-coral-amico-legno-2011/Sacra_Famiglia_-_2011_-_intaglio_a_mano_su_legno_larice_e_cirmolo_-_cm._80x80.jpg
 info:
   openingDate: 2011-12-12 18:00

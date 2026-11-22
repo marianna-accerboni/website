@@ -1,7 +1,7 @@
 ---
 title: "Mercoledì 11 maggio al Circolo della Stampa di Trieste conferenza stampa di presentazione della mostra e del volume dedicati alla Toponomastica femminile a Trieste e provincia"
 slug: toponomastica-femminile-conferenza-stampa-2016
-createdAt: 2026-11-11T21:36:00
+createdAt: 2016-05-10T00:00:00
 coverImage: /media/events/toponomastica-femminile-conferenza-stampa-2016/Giardino_Marion_e_Wanda_Wulz_-_foto_di_Nadia_Sirca.jpg
 info:
   openingDate: 2016-05-11 11:00

@@ -1,7 +1,7 @@
 ---
 title: "Gianni Borta alla Galleria Rettori Tribbio 2"
 slug: gianni-borta-rettori-tribbio-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-09-09T00:00:00
 coverImage: /media/events/gianni-borta-rettori-tribbio-2011/Bagan_Birmania_2010_-_olio_su_tela_-_cm_120x120.jpg
 info:
   openingDate: 2011-09-10 18:00

@@ -1,7 +1,7 @@
 ---
 title: "La natura selvaggia di Gianni Borta: inaugurazione sabato 19 settembre alla Galleria Rettori Tribbio di Trieste e venerdì 25 alla Chiesa di S. Francesco a Udine"
 slug: gianni-borta-natura-selvaggia-2015
-createdAt: 2026-11-17T07:57:00
+createdAt: 2015-09-18T00:00:00
 coverImage: /media/events/gianni-borta-natura-selvaggia-2015/Natura_5_2014_-_olio_su_tela-_cm_100x100_.jpg
 info:
   openingDate: 2015-09-19 18:00

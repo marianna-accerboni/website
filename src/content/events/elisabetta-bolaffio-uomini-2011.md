@@ -1,7 +1,7 @@
 ---
 title: "Uomini"
 slug: elisabetta-bolaffio-uomini-2011
-createdAt: 2026-11-21T16:22:00
+createdAt: 2011-12-16T00:00:00
 coverImage: /media/events/elisabetta-bolaffio-uomini-2011/Uomini_11_-_2011_-_olio_su_tela_-_cm._100x60.jpg
 info:
   openingDate: 2011-12-17 18:30

@@ -1,7 +1,7 @@
 ---
 title: "La Serbia al Caffè Tommaseo: mostra fotografica di Olga Micol"
 slug: olga-micol-la-serbia-al-caffe-tommaseo-2012
-createdAt: 2026-11-21T16:22:00
+createdAt: 2012-06-17T00:00:00
 coverImage: /media/events/olga-micol-la-serbia-al-caffe-tommaseo-2012/2.jpg
 info:
   openingDate: 2012-06-18 18:30

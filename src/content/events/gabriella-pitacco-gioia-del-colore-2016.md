@@ -1,7 +1,7 @@
 ---
 title: "La gioia del colore e del silenzio: dal 10 febbraio alla Sala Comunale d'Arte di Trieste la mostra personale della pittrice Gabriella Pitacco Prestelli"
 slug: gabriella-pitacco-gioia-del-colore-2016
-createdAt: 2026-11-14T10:58:00
+createdAt: 2016-02-09T00:00:00
 coverImage: /media/events/gabriella-pitacco-gioia-del-colore-2016/Vergine_della_Tenerezza_2009_-_tempera_alluovo_su_tavola_-_cm._41x31.jpg
 info:
   openingDate: 2016-02-10 18:30

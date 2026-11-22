@@ -1,7 +1,7 @@
 ---
 title: "I colori della mia vita: mostra antologica della pittrice Luisia Comelli alla Sala Comunale d'Arte di Trieste"
 slug: luisia-comelli-i-colori-della-mia-vita-2015
-createdAt: 2026-11-14T10:58:00
+createdAt: 2015-10-02T00:00:00
 coverImage: /media/events/luisia-comelli-i-colori-della-mia-vita-2015/Sguardi_di_giovinezza_-_olio_su_tela_-_70_x_50_-_Anno_1997.jpg
 info:
   openingDate: 2015-10-03 18:30

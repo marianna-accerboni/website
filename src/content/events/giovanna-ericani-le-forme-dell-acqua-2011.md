@@ -1,7 +1,7 @@
 ---
 title: "Le forme dell'acqua: mostra personale della pittrice Giovanna Ericani"
 slug: giovanna-ericani-le-forme-dell-acqua-2011
-createdAt: 2026-11-21T16:45:00
+createdAt: 2011-06-17T00:00:00
 coverImage: /media/events/giovanna-ericani-le-forme-dell-acqua-2011/Mare-2010---acquarello-su-carta--cm-100x35.jpg
 info:
   openingDate: 2011-06-18 18:00

@@ -1,7 +1,7 @@
 ---
 title: "Fabio Colussi. La luce della Mitteleuropa a Venezia: dal 7 settembre la mostra personale del pittore triestino alla Galleria Melori & Rosenberg di Venezia"
 slug: fabio-colussi-luce-della-mitteleuropa-2014
-createdAt: 2026-11-17T08:38:00
+createdAt: 2014-09-06T00:00:00
 coverImage: /media/events/fabio-colussi-luce-della-mitteleuropa-2014/Calma_in_laguna_2011_-_olio_su_tela_-_cm._50x30.jpg
 info:
   openingDate: 2014-09-07 19:00

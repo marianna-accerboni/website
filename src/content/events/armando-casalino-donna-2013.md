@@ -1,7 +1,7 @@
 ---
 title: "Donna: venerdì 8 marzo mostra personale dell'artista fotografo Armando Casalino all'Atelier WorkingART di Trieste"
 slug: armando-casalino-donna-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-03-07T00:00:00
 coverImage: /media/events/armando-casalino-donna-2013/0001Kristel-femen-700_7066-2.jpg
 info:
   openingDate: 2013-03-08 19:00

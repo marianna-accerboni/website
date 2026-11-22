@@ -1,7 +1,7 @@
 ---
 title: "Blumen mantra: sabato 27 settembre 2014 al Museo d'Arte Moderna Ugo Carà di Muggia inaugurazione della personale della pittrice Femi Vilardo"
 slug: femi-vilardo-blumen-mantra-2014
-createdAt: 2026-11-17T08:38:00
+createdAt: 2014-09-26T00:00:00
 coverImage: /media/events/femi-vilardo-blumen-mantra-2014/Blumen_2_2014_-_elaborazione_digitale_-_cm_400x400.jpg
 info:
   openingDate: 2014-09-27 18:30

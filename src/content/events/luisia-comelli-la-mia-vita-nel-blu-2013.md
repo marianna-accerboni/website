@@ -1,7 +1,7 @@
 ---
 title: "La mia vita…nel blu dipinto di blu: la pittrice Luisia Comelli Luis incontra i critici al CPT di Sistiana (ex A.I.A.T.) - Trieste. Ospite d'onore Marianna Accerboni"
 slug: luisia-comelli-la-mia-vita-nel-blu-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-04-19T00:00:00
 coverImage: /media/events/luisia-comelli-la-mia-vita-nel-blu-2013/pagina-35---LA-CORNUCOPIA---DSC_9375.jpg
 info:
   openingDate: 2013-04-20 18:00

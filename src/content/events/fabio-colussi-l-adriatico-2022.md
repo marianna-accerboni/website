@@ -1,7 +1,7 @@
 ---
 title: "L'Adriatico di Fabio Colussi: sabato 3 dicembre 2022 apre la mostra personale del pittore triestino al Salone d'Arte di Trieste"
 slug: fabio-colussi-l-adriatico-2022
-createdAt: 2026-09-20T21:16:00
+createdAt: 2022-12-03T00:00:00
 coverImage: /media/colussi_natale_2022-la-sera-2021-olio-su-tela-cm-30x60.jpg
 info:
   openingDate: 2022-12-03 18:30

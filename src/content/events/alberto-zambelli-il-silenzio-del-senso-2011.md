@@ -1,7 +1,7 @@
 ---
 title: "Il silenzio del senso: mostra personale del pittore Alberto Zambelli"
 slug: alberto-zambelli-il-silenzio-del-senso-2011
-createdAt: 2026-11-21T16:45:00
+createdAt: 2011-06-25T00:00:00
 coverImage: /media/events/alberto-zambelli-il-silenzio-del-senso-2011/principale.jpg
 info:
   openingDate: 2011-06-26 18:00

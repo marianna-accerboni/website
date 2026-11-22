@@ -1,7 +1,7 @@
 ---
 title: "MitoLogicaMente: sabato 8 dicembre personale dell'artista fotografo Armando Casalino all'Atelier WorkingART di Trieste"
 slug: armando-casalino-mitologicamente-2012
-createdAt: 2026-11-21T14:43:00
+createdAt: 2012-12-07T00:00:00
 coverImage: /media/events/armando-casalino-mitologicamente-2012/Era_2012_-_cm100x70_-_stampa_digitale_su_supporto_rigido.jpg
 info:
   openingDate: 2012-12-08 18:30

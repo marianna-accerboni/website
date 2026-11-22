@@ -1,7 +1,7 @@
 ---
 title: "Il Cenacolo di Livio Možina. Mostra degli allievi 2015: inaugurazione sabato 22 agosto alla Galleria Rettori Tribbio di Trieste"
 slug: cenacolo-livio-mozina-allievi-2015
-createdAt: 2026-11-17T07:57:00
+createdAt: 2015-08-21T00:00:00
 coverImage: /media/events/cenacolo-livio-mozina-allievi-2015/Barbara_Schreiber_-_Tenerezza_2015_-_olio.jpg
 info:
   openingDate: 2015-08-22 18:00

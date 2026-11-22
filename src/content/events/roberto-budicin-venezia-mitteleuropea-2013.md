@@ -1,7 +1,7 @@
 ---
 title: "La Venezia mitteleuropea di Budicin: mostra personale del pittore triestino alla Galleria Melori & Rosenberg di Venezia"
 slug: roberto-budicin-venezia-mitteleuropea-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-04-06T00:00:00
 coverImage: /media/events/roberto-budicin-venezia-mitteleuropea-2013/Da_Rialto_2012_-_olio_su_tavola_-_cm._40x20.jpg
 info:
   openingDate: 2013-04-07 16:00

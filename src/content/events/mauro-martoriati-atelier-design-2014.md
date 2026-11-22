@@ -1,7 +1,7 @@
 ---
 title: "Venerdì 11 aprile apre a Trieste con una mostra di design l'atelier dell'artista romano Mauro Martoriati"
 slug: mauro-martoriati-atelier-design-2014
-createdAt: 2026-11-17T08:51:00
+createdAt: 2014-04-10T00:00:00
 coverImage: /media/events/mauro-martoriati-atelier-design-2014/Anunnaki_2012_-_ferro_di_recupero_assemblato_in_piu_strati_e_laccato_girevole_su_base_-_cm_270x190.jpg
 info:
   openingDate: 2014-04-11 19:00

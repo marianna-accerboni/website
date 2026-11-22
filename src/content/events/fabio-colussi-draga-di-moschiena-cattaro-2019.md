@@ -1,7 +1,7 @@
 ---
 title: "Il 15 agosto a Draga di Moschiena (Croazia) e il 4 settembre a Cattaro (Montenegro) s'inaugura la mostra “Fabio Colussi. Il pittore dell'Adriatico”, evento clou della Settimana di lingua, arte e cultura italiana"
 slug: fabio-colussi-draga-di-moschiena-cattaro-2019
-createdAt: 2026-11-11T11:21:00
+createdAt: 2019-08-14T00:00:00
 coverImage: /media/events/fabio-colussi-draga-di-moschiena-cattaro-2019/10._Notturno_a_Trieste_2015_-_olio_-_cm_35x80.JPG
 info:
   openingDate: 2019-08-15

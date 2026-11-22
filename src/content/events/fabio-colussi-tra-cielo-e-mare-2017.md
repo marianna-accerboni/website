@@ -1,7 +1,7 @@
 ---
 title: "Giovedì 20 aprile 2017 alla Sala Comunale d'Arte di Trieste inaugurazione della mostra personale di Fabio Colussi"
 slug: fabio-colussi-tra-cielo-e-mare-2017
-createdAt: 2026-11-11T13:14:00
+createdAt: 2017-04-19T00:00:00
 coverImage: /media/events/fabio-colussi-tra-cielo-e-mare-2017/Canale_2015_-_olio_su_tela_-_cm_24x18.jpg
 info:
   openingDate: 2017-04-20 19:00

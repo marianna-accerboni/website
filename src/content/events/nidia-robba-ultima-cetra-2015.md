@@ -1,7 +1,7 @@
 ---
 title: "Venerdì 27 marzo al Circolo della Stampa di Trieste presentazione del volume di liriche “Ultima cetra” della scrittrice e poetessa triestina Nidia Robba"
 slug: nidia-robba-ultima-cetra-2015
-createdAt: 2026-11-17T08:11:00
+createdAt: 2015-03-26T00:00:00
 coverImage: /media/events/nidia-robba-ultima-cetra-2015/robba.jpg
 info:
   openingDate: 2015-03-27 17:30

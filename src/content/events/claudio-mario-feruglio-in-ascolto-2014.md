@@ -1,7 +1,7 @@
 ---
 title: "In ascolto: mercoledì 6 agosto 2014 al Museo d'Arte Moderna Ugo Carà di Muggia inaugurazione della personale del pittore Claudio Mario Feruglio"
 slug: claudio-mario-feruglio-in-ascolto-2014
-createdAt: 2026-11-17T08:38:00
+createdAt: 2014-08-05T00:00:00
 coverImage: /media/events/claudio-mario-feruglio-in-ascolto-2014/Claudio_Mario_Feruglio_2012_-_Memento_dove_si_fermera_la_poesia_si_aprira_leternita_-_acrilico_su_tela_-_cm_100_x_120.JPG
 info:
   openingDate: 2014-08-06 19:00

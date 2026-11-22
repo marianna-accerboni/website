@@ -1,7 +1,7 @@
 ---
 title: "Vele e marine 2011"
 slug: vele-e-marine-sala-fittke-2011
-createdAt: 2026-11-21T16:34:00
+createdAt: 2011-09-15T00:00:00
 coverImage: /media/events/vele-e-marine-sala-fittke-2011/Sede_Associazione_Artesette.jpg
 info:
   openingDate: 2011-09-16 18:30

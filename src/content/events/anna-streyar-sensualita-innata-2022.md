@@ -1,7 +1,7 @@
 ---
 title: Venerdì 16 settembre 2022 alla Galleria Rossoni di Trieste presentazione del libro Sensualità innata di Anna Streyar
 slug: anna-streyar-sensualita-innata-2022
-createdAt: 2026-09-20T21:16:00
+createdAt: 2022-09-16T00:00:00
 coverImage: /media/sensualita_innata-copertina.jpg
 info:
   openingDate: 2022-09-16 18:30

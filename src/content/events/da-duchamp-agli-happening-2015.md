@@ -1,7 +1,7 @@
 ---
 title: "Da Duchamp agli happening"
 slug: da-duchamp-agli-happening-2015
-createdAt: 2026-11-14T10:58:00
+createdAt: 2015-12-14T00:00:00
 coverImage: /media/events/da-duchamp-agli-happening-2015/Paolo_Barozzi_con_Gillo_Dorfles.jpg
 info:
   openingDate: 2015-12-15 18:30

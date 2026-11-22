@@ -1,7 +1,7 @@
 ---
 title: "Presentato il catalogo della mostra Devetta, il poeta del colore, visitabile al Palazzo del Consiglio Regionale fino al 9 novembre"
 slug: edoardo-devetta-il-poeta-del-colore-catalogo-2012
-createdAt: 2026-11-21T14:58:00
+createdAt: 2012-09-30T00:00:00
 coverImage: /media/events/edoardo-devetta-il-poeta-del-colore-catalogo-2012/Edoardo_Devetta_1.jpg
 info:
   venue: Palazzo del Consiglio Regionale · Piazza Oberdan, 6 Trieste

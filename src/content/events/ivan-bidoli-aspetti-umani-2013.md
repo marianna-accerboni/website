@@ -1,7 +1,7 @@
 ---
 title: "Gli aspetti umani verso il terzo millennio: mostra del pittore Ivan Bidoli nell'atrio della Questura di Trieste"
 slug: ivan-bidoli-aspetti-umani-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-06-07T00:00:00
 coverImage: /media/events/ivan-bidoli-aspetti-umani-2013/Bidoli_Invito-1-1.jpg
 info:
   openingDate: 2013-06-08 19:00

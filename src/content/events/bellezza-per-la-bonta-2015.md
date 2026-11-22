@@ -1,7 +1,7 @@
 ---
 title: "XVI edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita"
 slug: bellezza-per-la-bonta-2015
-createdAt: 2026-11-14T10:58:00
+createdAt: 2015-10-30T00:00:00
 coverImage: /media/events/bellezza-per-la-bonta-2015/click.jpg
 info:
   openingDate: 2015-10-31 11:00

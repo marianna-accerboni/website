@@ -1,7 +1,7 @@
 ---
 title: "I silenzi di Annamaria Ducaton alla Galleria Rettori Tribbio di Trieste"
 slug: annamaria-ducaton-i-silenzi-2012
-createdAt: 2026-11-21T14:43:00
+createdAt: 2012-11-30T00:00:00
 coverImage: /media/events/annamaria-ducaton-i-silenzi-2012/5_Silenzi_nella_notte_100x80_Web.jpg
 info:
   openingDate: 2012-12-01 18:00

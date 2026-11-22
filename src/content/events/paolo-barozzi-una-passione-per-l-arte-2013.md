@@ -1,7 +1,7 @@
 ---
 title: "Paolo Barozzi, una passione per l'arte"
 slug: paolo-barozzi-una-passione-per-l-arte-2013
-createdAt: 2026-11-21T14:19:00
+createdAt: 2013-05-12T00:00:00
 coverImage: /media/events/paolo-barozzi-una-passione-per-l-arte-2013/Copertina_libro_di_Ottavio_Pinarello_su_Paolo_Barozzi.jpg
 info:
   openingDate: 2013-05-13 18:00

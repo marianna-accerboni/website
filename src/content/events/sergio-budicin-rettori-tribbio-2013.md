@@ -1,7 +1,7 @@
 ---
 title: "Mostra personale del pittore Sergio Budicin alla Galleria Rettori Tribbio di Trieste"
 slug: sergio-budicin-rettori-tribbio-2013
-createdAt: 2026-11-21T14:27:00
+createdAt: 2013-03-08T00:00:00
 coverImage: /media/events/sergio-budicin-rettori-tribbio-2013/a15.jpg
 info:
   openingDate: 2013-03-09 18:00
