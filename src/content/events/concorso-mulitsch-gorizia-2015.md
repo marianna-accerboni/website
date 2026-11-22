@@ -78,17 +78,17 @@ press:
 
     **VIDEO GALLERY**
 
-    **Prima conferenza stampa al Comune di Gorizia**
-
     <iframe src="https://www.youtube.com/embed/hGpSzF9ihYQ" height="288" allowfullscreen="allowfullscreen"></iframe>
 
-    **Seconda conferenza stampa al Comune di Gorizia**
+    Prima conferenza stampa al Comune di Gorizia
 
     <iframe src="https://www.youtube.com/embed/JsdlRheIbG0" height="288" allowfullscreen="allowfullscreen"></iframe>
 
-    **Intervista a Caterina Mulitsch e Marianna Accerboni**
+    Seconda conferenza stampa al Comune di Gorizia
 
     <iframe src="https://www.youtube.com/embed/v2IoEjQ_6ZY" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Intervista a Caterina Mulitsch e Marianna Accerboni
 gallerySection:
   gallery:
     - image: /media/events/concorso-mulitsch-gorizia-2015/mulitsch.jpg

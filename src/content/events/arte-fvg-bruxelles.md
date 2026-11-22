@@ -127,7 +127,7 @@ press:
 gallerySection:
   gallery:
     - image: /media/arte-fvg-screen-shot-2024-05-11-at-5.38.28-pm.png
-      alt: L'ARTE DELLA REGIONE FRIULI VENEZIA GIULIA A BRUXELLES
-      title: L'ARTE DELLA REGIONE FRIULI VENEZIA GIULIA A BRUXELLES
+      alt: "L'arte della Regione Friuli Venezia Giulia a Bruxelles"
+      title: "L'arte della Regione Friuli Venezia Giulia a Bruxelles"
 draft: false
 ---

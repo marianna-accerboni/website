@@ -31,7 +31,7 @@ press:
 
     Paolo Barozzi nasce a Venezia da un'antica famiglia di antiquari. Negli anni sessanta lavora per due anni negli Stati Uniti, a Dallas, da Neiman-Marcus, dove gestisce la galleria della Marlboro di Roma. Tramite Leo Castelli e Marta Jackson entra in contatto con alcuni dei maggiori artisti americani come Rauchenberg, Jasper Johns, Cy Twobly, Allan Kaprow, Andy Warhol, ecc. Al rientro a Venezia diventa l'assistente di Peggy Guggenheim, svolgendo varie mansioni tra cui quella di gestire la galleria a Palazzo Venier dei Leoni adiacente alle due sale allora dedicate alle opere di Jackson Pollock. Nel 1966 oltre al lavoro alla collezione di Peggy Guggenheim apre una propria galleria a Venezia alla Salute. Inizia con una grande mostra di scultura nella quale espone opere dei maggiori scultori del tempo da David Smith a Gio e Arnaldo Pomodro, e mostre personali di Pietro Dorazio e Gastone Novelli. Tra la fine degli anni sessanta e gli anni settanta si reca spesso a New York. In Italia si divide tra Venezia e Milano con la sua attività di gallerista, esponendo opere di alcuni dei protagonisti dei movimenti storici della nostra epoca: pop art, optical art, land art, arte povera, concettuale, ecc.
 
-    ![DA DUCHAMP AGLI HAPPENING](/media/events/da-duchamp-agli-happening-2015/Peggy_Guggenheim_e_Paolo_Barozzi_alla_mostra_darte_africana_1960_.jpg "DA DUCHAMP AGLI HAPPENING")
+    ![Da Duchamp agli happening](/media/events/da-duchamp-agli-happening-2015/Peggy_Guggenheim_e_Paolo_Barozzi_alla_mostra_darte_africana_1960_.jpg "Da Duchamp agli happening")
 
     Peggy Guggenheim e Paolo Barozzi alla mostra d'arte africana, 1960
 

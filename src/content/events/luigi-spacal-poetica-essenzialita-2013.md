@@ -28,8 +28,8 @@ press:
 gallerySection:
   gallery:
     - image: /media/events/luigi-spacal-poetica-essenzialita-2013/SPACAL.jpg
-      alt: "SPACAL"
-      title: "SPACAL"
+      alt: "Spacal"
+      title: "Spacal"
     - image: /media/events/luigi-spacal-poetica-essenzialita-2013/spacal1.jpg
       alt: "spacal1"
       title: "spacal1"

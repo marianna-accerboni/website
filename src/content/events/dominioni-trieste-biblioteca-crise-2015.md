@@ -157,33 +157,33 @@ press:
 
     **VIDEO GALLERY**
 
-    **Inaugurazione Biblioteca Statale Crise di Trieste**
-
     <iframe src="https://www.youtube.com/embed/Fb1YJeXLiSM" height="288" allowfullscreen="allowfullscreen"></iframe>
 
-    **Inaugurazione Spaziocavana Zinelli&Perizzi di Trieste**
+    Inaugurazione Biblioteca Statale Crise di Trieste
 
     <iframe src="https://www.youtube.com/embed/aWtq30d-yYo" height="288" allowfullscreen="allowfullscreen"></iframe>
 
-    **Installazione multimediale su Redipuglia**
+    Inaugurazione Spaziocavana Zinelli&Perizzi di Trieste
 
     <iframe src="https://www.youtube.com/embed/o8hbqPFJNgo" height="288" allowfullscreen="allowfullscreen"></iframe>
 
-    **Il Prof. Giorgio Gabassi su Khaled Fouad Allam**
+    Installazione multimediale su Redipuglia
 
     <iframe src="https://www.youtube.com/embed/rKKxeyuF7qc" height="288" allowfullscreen="allowfullscreen"></iframe>
 
-    **L'Amm. Sq. Ferdinando Sanfelice su Dominioni**
+    Il Prof. Giorgio Gabassi su Khaled Fouad Allam
 
     <iframe src="https://www.youtube.com/embed/WGYsUL0FXNo" height="288" allowfullscreen="allowfullscreen"></iframe>
 
-    **Lo studioso Alessandro Gualtieri su l'Isonzo e l'Yser**
+    L'Amm. Sq. Ferdinando Sanfelice su Dominioni
 
     <iframe src="https://www.youtube.com/embed/5i6luTjB_JE" height="288" allowfullscreen="allowfullscreen"></iframe>
 
-    **Il critico d'arte Philippe Daverio su Caccia Dominioni**
+    Lo studioso Alessandro Gualtieri su l'Isonzo e l'Yser
 
     <iframe src="https://www.youtube.com/embed/MwInYQGqybg" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Il critico d'arte Philippe Daverio su Caccia Dominioni
 gallerySection:
   gallery:
     - image: /media/events/dominioni-trieste-biblioteca-crise-2015/CD_Il_negozio_della_biondina_Palmanova_aprile_1917.jpg

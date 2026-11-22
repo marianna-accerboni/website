@@ -43,7 +43,7 @@ gallerySection:
       alt: "30tn DL BL062"
       title: "30tn DL BL062"
     - image: /media/events/franco-viezzoli-viaggio-in-dalmazia-2019/V.FRANCO_REALE.jpg
-      alt: "V.FRANCO REALE"
-      title: "V.FRANCO REALE"
+      alt: "V. Franco Reale"
+      title: "V. Franco Reale"
 draft: false
 ---

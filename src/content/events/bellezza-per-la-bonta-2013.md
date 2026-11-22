@@ -34,8 +34,8 @@ press:
 gallerySection:
   gallery:
     - image: /media/events/bellezza-per-la-bonta-2013/FIOCCHI.jpg
-      alt: "FIOCCHI"
-      title: "FIOCCHI"
+      alt: "Fiocchi"
+      title: "Fiocchi"
     - image: /media/events/bellezza-per-la-bonta-2013/LAMPE.jpg
       alt: "LAMPE"
       title: "LAMPE"
@@ -43,22 +43,22 @@ gallerySection:
       alt: "LAURO"
       title: "LAURO"
     - image: /media/events/bellezza-per-la-bonta-2013/LOFFREDA.jpg
-      alt: "LOFFREDA"
-      title: "LOFFREDA"
+      alt: "Loffreda"
+      title: "Loffreda"
     - image: /media/events/bellezza-per-la-bonta-2013/LONGO.jpg
       alt: "LONGO"
       title: "LONGO"
     - image: /media/events/bellezza-per-la-bonta-2013/ORSETTI.jpg
-      alt: "ORSETTI"
-      title: "ORSETTI"
+      alt: "Orsetti"
+      title: "Orsetti"
     - image: /media/events/bellezza-per-la-bonta-2013/PISANI.jpg
-      alt: "PISANI"
-      title: "PISANI"
+      alt: "Pisani"
+      title: "Pisani"
     - image: /media/events/bellezza-per-la-bonta-2013/POTENZIERI.jpg
-      alt: "POTENZIERI"
-      title: "POTENZIERI"
+      alt: "Potenzieri"
+      title: "Potenzieri"
     - image: /media/events/bellezza-per-la-bonta-2013/PSACAROPULO.jpg
-      alt: "PSACAROPULO"
-      title: "PSACAROPULO"
+      alt: "Psacaropulo"
+      title: "Psacaropulo"
 draft: false
 ---
