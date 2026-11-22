@@ -191,6 +191,57 @@ function rehypeSchede() {
   };
 }
 
+/** Two or more videos in a row (a "video gallery") sit side by side, each with its caption. */
+function rehypeVideoGrid() {
+  const isWs = (n: any) => n.type === 'text' && !n.value.trim();
+  const isEmbed = (n: any) => n?.type === 'element' && n.tagName === 'div' && (n.properties?.className || []).includes('embed');
+  const isCaption = (n: any) => n?.type === 'element' && n.tagName === 'p' && (n.properties?.className || []).includes('embed-caption');
+  return (tree: any) => {
+    const kids = tree.children || [];
+    const out: any[] = [];
+    for (let i = 0; i < kids.length; ) {
+      // collect a run of [embed, caption*] units separated only by whitespace
+      const units: any[][] = [];
+      let j = i;
+      while (j < kids.length) {
+        let k = j;
+        while (k < kids.length && isWs(kids[k])) k++;
+        if (!isEmbed(kids[k])) break;
+        const unit = [kids[k]];
+        k++;
+        while (true) {
+          let c = k;
+          while (c < kids.length && isWs(kids[c])) c++;
+          if (!isCaption(kids[c])) break;
+          unit.push(kids[c]);
+          k = c + 1;
+        }
+        units.push(unit);
+        j = k;
+      }
+      if (units.length >= 2) {
+        // a bold-only line right before the videos ("VIDEO GALLERY") becomes a section heading
+        let h = out.length - 1;
+        while (h >= 0 && isWs(out[h])) h--;
+        const prev = out[h];
+        if (prev?.type === 'element' && prev.tagName === 'p') {
+          const real = prev.children.filter((c: any) => !isWs(c));
+          if (real.length === 1 && real[0].tagName === 'strong') {
+            prev.children = [{ type: 'text', value: (real[0].children || []).map((c: any) => c.value || '').join('').replace(/:\s*$/, '') }];
+            prev.properties = { ...(prev.properties || {}), className: ['schede-heading'] };
+          }
+        }
+        out.push(el('div', { className: ['video-grid'] }, units.map((u) => el('figure', { className: ['video-grid__item'] }, u))));
+        i = j;
+      } else {
+        out.push(kids[i]);
+        i++;
+      }
+    }
+    tree.children = out;
+  };
+}
+
 function wrapIframe(iframe: any) {
   const src = String(iframe.properties.src || '');
   iframe.properties.loading = 'lazy';
@@ -202,7 +253,7 @@ function wrapIframe(iframe: any) {
 }
 
 export const processor = await createMarkdownProcessor({
-  rehypePlugins: [rehypeRaw, rehypeBaseUrls, rehypeArt, rehypeEmbedCaptions, rehypeSchede]
+  rehypePlugins: [rehypeRaw, rehypeBaseUrls, rehypeArt, rehypeEmbedCaptions, rehypeVideoGrid, rehypeSchede]
 });
 
 export async function renderMarkdown(md?: string | null): Promise<string> {

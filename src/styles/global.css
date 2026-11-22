@@ -236,6 +236,35 @@ input {
   display: block;
 }
 
+/* ---------- several videos in a row: side by side ---------- */
+.prose .video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px 20px;
+  margin-block: 2.2em;
+}
+
+.prose .video-grid__item {
+  margin: 0;
+}
+
+.prose .video-grid .embed {
+  margin: 0;
+}
+
+.prose .video-grid .embed-caption {
+  margin-top: 10px;
+  font-size: 13px;
+  line-height: 18px;
+  text-align: left;
+}
+
+@media (max-width: 600px) {
+  .prose .video-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 /* one contact per line (event sheet and scheda cards) */
 .contact-line {
   display: block;
@@ -248,7 +277,7 @@ input {
 /* ---------- "Scheda" blocks inside long texts ---------- */
 .prose .schede {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: minmax(0, 1fr); /* cards stack, one per row */
   gap: 16px;
   margin-block: 2.2em;
 }
@@ -290,9 +319,22 @@ input {
   margin: 0;
 }
 
+.prose .scheda__row {
+  display: grid;
+  grid-template-columns: 168px minmax(0, 1fr);
+  gap: 4px 20px;
+  align-items: start;
+}
+
+.prose .scheda__row--plain {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .prose .scheda__row dt {
-  margin: 0 0 2px;
+  margin: 0;
+  padding-top: 4px;
   font-size: 11px;
+  line-height: 16px;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -309,6 +351,13 @@ input {
 
 .prose .scheda__row dd strong {
   color: var(--text);
+}
+
+@media (max-width: 600px) {
+  .prose .scheda__row {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2px;
+  }
 }
 
 @media (max-width: 727px) {
