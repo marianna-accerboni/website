@@ -16,11 +16,11 @@ info:
     - /media/events/olga-micol-venezia-il-sogno-dell-arsenale-2012/invito.pdf
 press:
   pressRelease: |-
-    ![Le mura](/media/events/olga-micol-venezia-il-sogno-dell-arsenale-2012/le_mura.jpg "Le mura")
-
     **Lunedì 17 settembre alle 19 prende il via a Trieste allo storico Caffè Tommaseo (piazza Tommaseo 4/C) la rassegna della fotografa triestina Olga Micol intitolata _Venezia, il sogno dell'Arsenale_ e dedicata al fascino dell'antico Arsenale della Serenissima. Nella mostra, che sarà presentata sul piano critico dall'arch. Marianna Accerboni, saranno esposte 24 foto dal linguaggio eclettico e baroccheggiante, che testimoniano la capacità della Micol d'interpretare i luoghi in modo particolarmente coinvolgente, inserendo nelle immagini una cifra di elegante e coraggiosa originalità. Le foto,** realizzate nel 2003, quando la fotografa esponeva i suoi lavori all'Arsenale di Venezia, **sono realizzate e stampate in digitale, mezzo adottato dalla Micol da più di quindici anni, nei toni morbidi del grigio e rielaborate a computer.**
 
     La rassegna, come tutte le sue esposizioni, è una manifestazione riconosciuta dalla F.I.A.F. (Federazione Italiana Associazioni Fotografiche), che seleziona le immagini e gli autori migliori.
+
+    ![Le mura](/media/events/olga-micol-venezia-il-sogno-dell-arsenale-2012/le_mura.jpg "Le mura")
 
     **Lunedì 24 settembre alle 19** verrà proiettato il **video della Micol con le foto originali dedicate a Venezia e all'Arsenale** realizzate per la maggior parte a colori (fino al 30 settembre / orario tutti i giorni dalle 8 alle 23).
 

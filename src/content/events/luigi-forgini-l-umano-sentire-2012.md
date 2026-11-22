@@ -16,11 +16,11 @@ info:
     - /media/events/luigi-forgini-l-umano-sentire-2012/invito.pdf
 press:
   pressRelease: |-
-    ![L. Forgini, 2012 - Trieste, il Portovecchio di un tempo](/media/events/luigi-forgini-l-umano-sentire-2012/L.-Forgini-2012---Trieste-il-Portovecchio-di-un-tempo.jpg "L. Forgini, 2012 - Trieste, il Portovecchio di un tempo")
-
     S'inaugura **sabato 8 settembre 2012 alle ore 18.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la mostra intitolata _L'umano sentire di Luigi Forgini_, che sarà introdotto dall'architetto Marianna Accerboni, curatrice dell'esposizione. La rassegna** propone **una quarantina di opere recenti di gusto figurativo realizzate tutte a olio su tela e cartone telato**. Visitabile **fino al 21 settembre** (orario: feriali 10.00 - 12.30 e 17.00 - 19.30/ festivi 10.00 - 12.00/ venerdì e lunedì chiuso).
 
     _Un “amarcord” delicato e vitale_ - scrive Accerboni _- rappresenta il filo conduttore della creatività del pittore triestino Luigi Forgini, espressa mediante pennellate vivaci e armoniose: la realtà agreste, simbolizzata attraverso la tranquilla, quasi bucolica, operosità della gente di campagna, è resa per esempio attraverso brillanti colpi di luce che suggeriscono un'interpretazione positiva di questo e degli altri temi affrontati dall'artista nella sua pittura, quasi sempre inondati dal sole e avvolti nella luce oppure colti in controluce._
+
+    ![L. Forgini, 2012 - Trieste, il Portovecchio di un tempo](/media/events/luigi-forgini-l-umano-sentire-2012/L.-Forgini-2012---Trieste-il-Portovecchio-di-un-tempo.jpg "L. Forgini, 2012 - Trieste, il Portovecchio di un tempo")
 
     ![L. Forgini 2012 - Trieste piazza Ponterosso](/media/events/luigi-forgini-l-umano-sentire-2012/L.-Forgini-2012---Trieste-piazza-Ponterosso.jpg "L. Forgini 2012 - Trieste piazza Ponterosso")
 

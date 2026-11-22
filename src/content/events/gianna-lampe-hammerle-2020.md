@@ -16,11 +16,11 @@ info:
     - /media/events/gianna-lampe-la-mia-grafica-2020/invito.pdf
 press:
   pressRelease: |-
-    ![Tramonto, 1989 - acquaforte-acquatinta - cm 50x70](/media/events/gianna-lampe-la-mia-grafica-2020/Tramonto_1989_-_acquaforte-acquatinta_-_cm_50x70.jpg "Tramonto, 1989 - acquaforte-acquatinta - cm 50x70")
-
     **S'inaugura martedì 13 ottobre 2020 alle ore 18.30 alla Saletta *Hammerle Editori*** (via della Maiolica 15/a) **di Trieste, la mostra personale della pittrice Gianna Lampe, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni. Nella mostra, intitolata “La mia grafica”, sarà esposta, in una sorta di antologica, oltre una ventina tra disegni realizzati a crayon e incisioni accanto a un olio, eseguiti tra gli anni Ottanta e oggi.** Fino al 31 ottobre (orario: da lunedì a venerdì 10 - 12.30 e 15 – 18, sabato 10 – 12.30, domenica e festivi chiuso).
 
     *Sensibile, colta, amante della musica, un po' timida,* - scrive Marianna Accerboni - *Gianna Lampe ha percorso silenziosamente nella sua vita il dolce sentiero dell'arte, attratta - lei, così discreta e apparentemente semplice – da uno degli stili pittorici più aggressivi e spiazzanti del Novecento, l'espressionismo, appreso nei due anni trascorsi nel periodo giovanile a Monaco di Baviera. E, non a caso, anche il più introspettivo. Alla ricerca di comprendere meglio l'essere umano e se stessa, è riuscita a esprimersi con proprietà di linguaggio e talento nel raccontare, attraverso il graffio dei crayon, gli interni del suo luogo di lavoro, la casa di spedizioni Francesco Parisi di Trieste, del cui presidente ha dipinto a olio un ritratto perfetto; così come appare molto azzeccato quello del pittore Nino Perizi, di cui Lampe ha saputo cogliere il temperamento severo e un po' melanconico.*
+
+    ![Tramonto, 1989 - acquaforte-acquatinta - cm 50x70](/media/events/gianna-lampe-la-mia-grafica-2020/Tramonto_1989_-_acquaforte-acquatinta_-_cm_50x70.jpg "Tramonto, 1989 - acquaforte-acquatinta - cm 50x70")
 
     ![La strada, 1987 - acquaforte-acquatinta - cm 70x50](/media/events/gianna-lampe-la-mia-grafica-2020/La_strada_1987_-_acquaforte-acquatinta_-_cm_70x50.jpg "La strada, 1987 - acquaforte-acquatinta - cm 70x50")
 

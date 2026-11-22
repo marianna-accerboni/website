@@ -16,11 +16,11 @@ info:
     - /media/events/katia-brugnolo-tra-terra-e-mare-2018/invito.pdf
 press:
   pressRelease: |-
-    ![Sfera Atolli,2017 - terraglia e ossidi - diametro cm 26](/media/events/katia-brugnolo-tra-terra-e-mare-2018/Sfera_Atolli2017_-_terraglia_e_ossidi_-_diametro_cm_26_.jpg "Sfera Atolli,2017 - terraglia e ossidi - diametro cm 26")
-
     **Martedì 4 settembre alle 18.30 alla Terrazza a Mare di Lignano Sabbiadoro avrà luogo l' inaugurazione della mostra “Tra terra e mare. Le ceramiche di Katia Brugnolo”. L'esposizione rientra nel progetto "Una Terrazza d'Arte" a cura di Ada Iuri, Assessore alla Cultura del Comune di Lignano Sabbiadoro: in mostra una quindicina di opere ceramiche recenti, tra cui molti inediti creati ad hoc per quest'esposizione, realizzate dall'artista vicentina dal 2016 a oggi. Visitabile fino al 14 settembre (orario: tutti i giorni ore 18.30 · 23.00).**
 
     _La preziosa rassegna_ - scrive il critico Marianna Accerboni - _propone una serie di accurati lavori, che abbracciano i temi della terra e del mare, assai cari all'artista, espressi attraverso molte pezzi inediti realizzati in funzione della mostra: si tratta di opere d'arte vere e proprie, complementi d'arredo e sculture, in prevalenza dedicate al tema marino, come per esempio “Ninfa”, “Ninfa con fiore” e “Sirena”, mentre alla terra sono ispirate “Fanciulla cinese” e “Ragazza col girasole”. Il percorso raggiunge il suo acme e la sua sintesi con la complessa opere intitolata “Mani-Danza”, che allude all'arte di Tersicore, perché la danza unisce Terra e Mare in quanto_ - afferma Brugnolo - _quando danziamo, ci sentiamo leggeri, una sensazione che avvicina la sensazione terrestre a quella marina._
+
+    ![Sfera Atolli,2017 - terraglia e ossidi - diametro cm 26](/media/events/katia-brugnolo-tra-terra-e-mare-2018/Sfera_Atolli2017_-_terraglia_e_ossidi_-_diametro_cm_26_.jpg "Sfera Atolli,2017 - terraglia e ossidi - diametro cm 26")
 
     _Una mostra_ - osserva Accerboni - _in cui la profonda conoscenza dell'antica arte ceramica, di cui Brugnolo è profonda studiosa, si fonde in modo armonico e molto personale con il contemporaneo._
 

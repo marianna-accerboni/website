@@ -14,11 +14,11 @@ info:
     - /media/events/serena-zors-breuer-video-monografia-2016/invito.pdf
 press:
   pressRelease: |-
-    ![La gioia delle ombre, 2015 - olio su tela - cm. 40x50](/media/events/serena-zors-breuer-video-monografia-2016/La_gioia_delle_ombre_2015_-_olio_su_tela_-_cm._40x50_.jpg "La gioia delle ombre, 2015 - olio su tela - cm. 40x50")
-
     **Giovedì 28 aprile alle 17.30 nella Sala Paolo Alessi del Circolo della Stampa di Trieste** (corso Italia 13) **l'arch. Marianna Accerboni, curatrice della pubblicazione, presenta la video-monografia dedicata alla pittrice Serena Zors Breuer con l'introduzione del Presidente del Circolo Pierluigi Sabatti, scrittore e giornalista. Nel corso dell'incontro sarà proiettato il video dell'evento multimediale di luce, parole e musica, che ha sottolineato l'ultima esposizione dell'artista alla Galleria Rettori Tribbio di Trieste ed è allegato al volume.**
 
     **La monografia, intitolata _Io cerco sempre. Opere scelte_, ripercorre attraverso numerose immagini a colori e testi in italiano, tedesco e inglese il poliedrico itinerario creativo della Zors, attiva da molti anni a Monaco di Baviera, nel campo della pittura, della scultura e del design, in particolare del vetro Tiffany, accostando ai suoi lavori anche diversi pensieri poetici dell'autrice** (info 335 6750946).
+
+    ![La gioia delle ombre, 2015 - olio su tela - cm. 40x50](/media/events/serena-zors-breuer-video-monografia-2016/La_gioia_delle_ombre_2015_-_olio_su_tela_-_cm._40x50_.jpg "La gioia delle ombre, 2015 - olio su tela - cm. 40x50")
 
     **Serena Zors Breuer** si dedica sin da giovanissima al disegno e alla pittura. Nel 1980 è allieva a Monaco della Kunstgewerblerin Erika Liebl, da cui apprende l'arte del vetro secondo la famosa tecnica Tiffany. Dal 1985 realizza su proprio design oggetti, lampade e vetrate in questo stile: presentati in numerose mostre, riscuotono grande consenso e la portano a lavorare per arredamenti d'interni. Espone a Trieste, alla Scuola dei Mercanti della Madonna dell'Orto di Venezia e a Monaco, dove riceve la Medaglia al Merito per gli Italiani all'estero.
 

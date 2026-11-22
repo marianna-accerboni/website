@@ -18,13 +18,13 @@ subEvents:
   - - Visita guidata con l'artista Fabio Colussi
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/5DE48rQqgeo?si=yfEx5_z7TmZsvtG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    Video Fabio Colussi. Orizzonti di luce
-
     Sabato 13 dicembre 2025 alle ore 18.30 si apre alla Sala Xenia della Comunità Greco-Orientale di Trieste (ex Sala Giubileo, Riva 3 Novembre 9) la mostra “Fabio Colussi. Orizzonti di luce”, curata dall’arch. Marianna Accerboni, che introdurrà l’esposizione assieme a Gabriella Pastor. In mostra una quarantina di oli dedicati alle vedute marine di Trieste e di Venezia, per la maggior parte inediti e realizzati negli ultimi due anni prevalentemente su tela (fino al 19 gennaio 2025 / orario 10-13 e 15.30-20/ chiuso 25 dicembre 2024 e 1 gennaio 2025 / info 347 6965772).
 
     **Maestro del contrappunto luministico - scrive Accerboni -, Fabio Colussi sa ricostruire con delicata e calibrata vena lirica il fascino di Trieste, di Venezia e del loro mare. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l’artista sa descrivere gli incantati tramonti e le albe che sorgono nel golfo di Trieste e catturare l’ineffabile e magica luce della Serenissima e la pace della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancor, grazie al prezioso virtuosismo di questo poeta del paesaggio.**
+
+    <iframe src="https://www.youtube.com/embed/5DE48rQqgeo?si=yfEx5_z7TmZsvtG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    Video Fabio Colussi. Orizzonti di luce
 
     _Memore di una vena neoclassica, che appartiene culturalmente a Trieste, sua città d’origine, l’artista prosegue in modo del tutto personale l’antica tradizione di pittori e vedutisti attivi a Venezia nel ‘700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l’interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri artisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell’altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo Ottocento e nel primo Novecento, accanto all’Accademia di Monaco, per i pittori triestini._
 

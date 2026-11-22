@@ -7,7 +7,6 @@ info: null
 bodySection:
   body: |-
     Sabato 7 agosto al Magazzino 26 del Porto vecchio di Trieste: la curatrice Marianna Accerboni terrà una visita guidata e una conversazione con il noto giornalista, imitatore ed eclettico autore e conduttore radiotelevisivo triestino Andro Merkù, grande amico dei gatti, soggetto prediletto da Leonor Fini.
-     
 
     Nell’ambito della mostra “Leonor Fini. Memorie triestine”,Porto vecchio **di Trieste, la curatrice Marianna Accerboni** terrà una visita guidata e una conversazione con il noto giornalista, imitatore, autore e conduttore radiotelevisivo di origine triestina Andro Merkù, grande amico degli animali e in particolare dei gatti, soggetto prediletto da Leonor Fini nella sua pittura ed elemento iconografico protagonista dell’esposizione. Merkù è stato anche molto attivo nel collaborare con Giorgio Cociani, storico presidente de Il Gattile e grande amico di Leonor, con la quale quest’ultimo tenne una corrispondenza epistolare e telefonica più che  ventennale sui gatti e su altri temi, testimoniata nella rassegna. All'incontro con Merkù - per una decina d’anni redattore e voce de “La Zanzara”, programma di punta di Radio24, e ora passato a Radio Monte Carlo nel morning show “Bonjour bonjour” - seguirà una degustazione di vini offerti da Zidarich (Prepotto, Duino Aurisina). Realizzata in coorganizzazione con l’Assessorato alla Cultura del Comune di Trieste, la mostra si avvale del sostegno, tra gli altri, delle Fondazioni CRTrieste e Kathleen Foreman Casali e del media partenariato del nostro giornale.
 
@@ -21,23 +20,14 @@ bodySection:
 
     Per raggiungere il Magazzino 26 sono disponibili i bus linea 6, fermata Polo museale, e linea 80 (alle signore un cadeau con il profumo inedito “Lolò” creato per la mostra/info 335 6750946).
 
-     
-
-    **DOVE**: Polo museale del Magazzino 26 · Porto vecchio · Trieste
-
-    **DATA e ORARIO APPUNTAMENTO COLLATERALE**: 7 agosto alle 18.30
-
-    **DATE MOSTRA**: 26 giugno_22 agosto 2021
-
-    **ORARIO MOSTRA**: mercoledì e giovedì 10_13 e 17_20 / venerdì e domenica 10_13 e 17_21 / sabato 10_13 e 15_21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80) 
-
-    **A CURA DI**: Marianna Accerboni
-
-    **CATALOGO**: sì
-
-    **INFO**: **leonorfinimemorietriestine@gmail.com**
-
-    **CELL. +39 335 6750946**
+    **Informazioni**
+    - Dove: Polo museale del Magazzino 26 · Porto vecchio · Trieste
+    - Appuntamento: 7 agosto alle 18.30
+    - Periodo: 26 giugno – 22 agosto 2021
+    - Orario: mercoledì e giovedì 10 – 13 e 17 – 20 / venerdì e domenica 10 – 13 e 17 – 21 / sabato 10 – 13 e 15 – 21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80)
+    - A cura di: Marianna Accerboni
+    - Catalogo: sì
+    - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
     ![Foto Battocletti (foto di Maria Cristina Vimercati)](/media/events/leonor-fini-memorie-triestine/Foto_Battocletti_foto_di_Maria_Cristina_Vimercati.jpg) Foto Battocletti (foto di Maria Cristina Vimercati)
 ---

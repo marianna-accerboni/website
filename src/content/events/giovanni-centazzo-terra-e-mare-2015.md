@@ -18,11 +18,11 @@ subEvents:
   - - "Venerdì 15 maggio 2015 alla Galleria Rettori Tribbio di Trieste finissage della mostra del pittore Giovanni Centazzo"
 press:
   pressRelease: |-
-    ![La spiaggia rosa, 2015 - olio su tela - cm 70x60](/media/events/giovanni-centazzo-terra-e-mare-2015/La_spiaggia_rosa_2015_-_olio_su_tela_-_cm_70x60.jpg "La spiaggia rosa, 2015 - olio su tela - cm 70x60")
-
     **Sabato 2 maggio 2015 alle 18 alla Galleria Rettori Tribbio di Trieste** (Piazza Vecchia 6) **avrà luogo l'inaugurazione della mostra personale del pittore Giovanni Centazzo, intitolata _Tra terra e mare_, che sarà presentata sul piano critico dall'arch. Marianna Accerboni: in mostra quasi una trentina di opere realizzate a olio su tela prevalentemente nel 2015**. (**fino al 15 maggio**/ orario: feriali 10.00 - 12.30 e 17.00 - 19.30 / festivi 10.00 - 12.00 / lunedì e venerdì pomeriggio chiuso).
 
     _Un'interpretazione del tema prediletto del paesaggio, molto personale, delicata, intensa e idealizzata nel suo aspetto più intenso e luminoso: così_ - scrive Accerboni - _Giovanni Centazzo ha costruito nel corso del tempo il proprio linguaggio pittorico, intriso di soluzioni e intrecci cromatici dinamici e coinvolgenti come l'onda del mare e la forza del vento. Un lieve simbolismo fantastico accentua lo slancio del suo gesto pittorico, veemente e istintivo, ma venato di dolcezza; mentre i toni brillanti delle diverse sfumature di colore, volutamente non sempre aderenti al reale, donano un tocco di sottile narrazione onirica al dipinto, in cui spesso il paesaggio appare intriso di una sobria vena favolistica._
+
+    ![La spiaggia rosa, 2015 - olio su tela - cm 70x60](/media/events/giovanni-centazzo-terra-e-mare-2015/La_spiaggia_rosa_2015_-_olio_su_tela_-_cm_70x60.jpg "La spiaggia rosa, 2015 - olio su tela - cm 70x60")
 
     _Così tra sogno e realtà, l'espressionismo figurativo di Centazzo ci accompagna alla scoperta del silenzio dei Magredi, che incontriamo nel Pordenonese: spazi singolari, silenziosi, deserti e incontaminati, una sorta di avanterra alpino costituito da depositi alluvionali, siti nella parte occidentale dell'alta pianura friulana, incorniciata da grandi varietà di flora, dove le acque dei torrenti Cellina e Meduna sprofondano nella falda acquifera._
 

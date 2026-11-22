@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Riscatto](/media/Riscatto.jpg "Riscatto")
-
     **Mercoledì 25 giugno 2025 alle ore 18 a Trieste nella sede di Battello Stampatore (saletta 89/1A La Parete** di viale XX Settembre 89/1a), s'inaugura **l'esposizione fotografica La colomba nel buio. Vertigini della psiche con immagini e parole di Giorgetta Dorfles, che sarà introdotta da Marianna Accerboni. In mostra diciotto immagini fotografiche, realizzate nel corso degli anni, ispirate a ciascuno dei racconti presenti nel volume omonimo, uscito di recente per i tipi dell'editore Battello, e per la maggior parte inedite. Ogni foto è sottolineata da una frase significativa del racconto stesso** (fino al 4 luglio 2025/ orario: da lunedì a venerdì 9 -17 / info 349 3767600).
 
     **Giorgetta Dorfles** è nata a Volterra ma ha vissuto fin dai primi anni a Trieste, dove si è laureata in Lettere moderne con tesi in Estetica. Trasferitasi a Roma, svolge il ruolo di _editor_ per un'agenzia pubblicitaria, di fotoreporter per _Il giornale di Roma_ e di aiuto regista e sceneggiatore in alcuni documentari per una società di produzioni televisive. Tornata a Trieste, collabora come giornalista _free lance_ per le pagine culturali di Il Meridiano, Trieste Oggi e Il Piccolo con recensioni di libri, interviste e inchieste, corredate anche da servizi fotografici.
+
+    ![Riscatto](/media/Riscatto.jpg "Riscatto")
 
     Suoi racconti sono inclusi nelle antologie _La nostra gente racconta_ (Vita Nuova,1989), _Trieste e un manicomio_ (Lint, 1998) e _Racconti triestini_ (Arbor librorum edizioni, 2011). Come fotografa espone ripetutamente alla Galleria Comunale d'arte di Trieste.
 

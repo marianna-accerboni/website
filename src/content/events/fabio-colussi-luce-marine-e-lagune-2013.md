@@ -16,11 +16,11 @@ info:
     - /media/events/fabio-colussi-luce-marine-e-lagune-2013/invito.pdf
 press:
   pressRelease: |-
-    ![Tramonto sul golfo - 2011 - olio su tavola (faesite) - cm. 40x60](/media/events/fabio-colussi-luce-marine-e-lagune-2013/Tramonto_sul_golfo_-_2011_-_olio_su_tavola_faesite_-_cm._40x60.jpg "Tramonto sul golfo - 2011 - olio su tavola (faesite) - cm. 40x60")
-
     **S'inaugura sabato 30 novembre 2013 alle ore 18.00 al Salone d'Arte Contemporanea di Trieste (via della Zonta 2) la mostra personale del pittore Fabio Colussi, intitolata “Luce. Marine e lagune”, che sarà introdotta sul piano critico dalla curatrice arch. Marianna Accerboni.** In esposizione **25 raffinati dipinti realizzati a olio su tela negli anni 2012 e 2013 e dedicati al tema della veduta marina di Trieste e della laguna**. Nell'occasione sarà presentato il nuovo catalogo delle opere dell'artista. Fino al 31 dicembre (orario: lun - sab 10 · 12 / 17 · 19/ dom su appuntamento/ 3488965899).
 
     _Partendo da una visione quasi neoclassica della città e della natura_ - scrive Marianna Accerboni _- Colussi ricostruisce con delicata vena poetica l'immagine dei luoghi, raffinando con equilibrio e perizia nel corso del tempo il suo luminoso e vivido linguaggio attraverso un colorismo avvincente e reale, che lascia tuttavia spazio anche al sogno. Proseguendo in modo del tutto personale l'antica tradizione di pittori e vedutisti quali Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, l'artista, oggi cinquantacinquenne, è riuscito nel corso del tempo a comporre, nel delineare la veduta, una propria maniera intensa e precisa, ma nel contempo sobria ed essenziale._
+
+    ![Tramonto sul golfo - 2011 - olio su tavola (faesite) - cm. 40x60](/media/events/fabio-colussi-luce-marine-e-lagune-2013/Tramonto_sul_golfo_-_2011_-_olio_su_tavola_faesite_-_cm._40x60.jpg "Tramonto sul golfo - 2011 - olio su tavola (faesite) - cm. 40x60")
 
     ![Tramonto sul golfo - 2013 - olio su tavola (faesite) - cm. 40x80](/media/events/fabio-colussi-luce-marine-e-lagune-2013/Tramonto_sul_golfo_-_2013_-_olio_su_tavola_faesite_-_cm._40x80.jpg "Tramonto sul golfo - 2013 - olio su tavola (faesite) - cm. 40x80")
 

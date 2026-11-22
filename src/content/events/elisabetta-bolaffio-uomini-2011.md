@@ -18,11 +18,11 @@ subEvents:
   - - "Uomini: mostra personale di Elisabetta Bolaffio alla Galleria Rettori Tribbio"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/qyo-11Cc0Vc" width="350" height="288"></iframe>
-
     **Sabato 17 dicembre alle ore 18.30 a Trieste alla Galleria Rettori Tribbio** (Piazza Vecchia 2) **avrà luogo l'inaugurazione della mostra personale della pittrice Elisabetta Bolaffio, intitolata _Uomini_**. La rassegna, che propone una quindicina di oli su tela realizzati dall'artista dal 2009 a oggi, sarà introdotta sul piano critico dall'architetto **Marianna Accerboni**. Visitabile **fino al 30 dicembre** (orario: feriali 10.00 - 12.30 e 17.00 - 19.30 / festivi 10.00 - 12.00 / lunedì chiuso / domenica 18 dicembre in occasione del mercatino dell'antiquariato: 10.00 - 13.00 e 16.00 - 18.00).
 
     _Esiste un'anima del nostro tempo_ - scrive Accerboni - _che mira alla materialità dell'avere, l'altra all'essere. Su quest'ultimo concetto si sono focalizzate di recente l'attenzione e la visione pittorica di Elisabetta Bolaffio, triestina di ceppo ebraico e di madre milanese, che nei grandi occhi dei suoi modelli immaginari traduce, con intensa sensibilità estetica e narrativa, tutto il fascino e il dolore di un mondo che spesso, per fretta, egoismo e noncuranza, siamo usi tenere a distanza: un'umanità dolente, simbolica, spesso attonita, che il pennello fine dell'artista descrive nell'intimo, avvalendosi della grande dimensione per accentuare la pura, a volte inconsapevole, bellezza, la malinconia, la solitudine di quelle anime pensierose._
+
+    <iframe src="https://www.youtube.com/embed/qyo-11Cc0Vc" width="350" height="288"></iframe>
 
     ![Uomini - 2011 - olio su tela - cm. 70x120](/media/events/elisabetta-bolaffio-uomini-2011/Uomini_-_2011_-_olio_su_tela_-_cm._70x120.jpg "Uomini - 2011 - olio su tela - cm. 70x120")
 

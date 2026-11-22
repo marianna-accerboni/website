@@ -18,13 +18,13 @@ subEvents:
   - - "L'esprit del colore e dell'amicizia: giovedì 5 settembre alla Galleria Rettori Tribbio di Trieste gli allievi del pittore Livio Možina incontrano il pubblico"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/aL-hqE4A4ZE" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura **sabato 24 agosto 2013 alle ore 18.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la mostra intitolata _L'esprit del colore e dell'amicizia_, che propone le opere realizzate nell'anno accademico 2012/ 2013 da 61 dei 72 allievi del corso che il pittore Livio Možina tiene in Galleria. La rassegna, che sarà introdotta dall'architetto Marianna Accerboni**, propone **più di una sessantina di opere di gusto figurativo, realizzate quasi tutte a olio, ognuna delle quali rappresenta il quadro simbolo tra le molte realizzate nell'anno accademico da ciascun artista**. Visitabile **fino al 6 settembre** (orario: feriali 10.00 - 12.30 e 17.00 - 19.30/ domenica, lunedì e venerdì pomeriggio chiuso).
 
     _Il colore e la luce rappresentano_ - scrive Accerboni - _il_ fil rouge _di questa piacevole rassegna, la quale dimostra ancora una volta di più quanto l'amore per l'arte sia radicato nella nostra città, che certamente compendia l'assenza in loco di un'Accademia di Belle Arti con l'appassionato interesse con cui artisti in erba e non, di tutte le età, amano perfezionarsi in ambito pittorico._
+
+    <iframe src="https://www.youtube.com/embed/aL-hqE4A4ZE" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _In mostra sono esposte più di una sessantina di opere di gusto figurativo, realizzate quasi tutte a olio, ognuna delle quali rappresenta il quadro simbolo tra le molte realizzate nell'anno accademico 2012/ 13 da 61 dei 72 allievi del corso che il pittore Mozina tiene in Galleria. A tal proposito va sottolineato che il numero dei partecipanti - la più giovane ha 14 anni, il più maturo 74 - aumenta con carattere esponenziale poichè nel 2012 la collettiva finale proponeva, su 64 partecipanti al corso, le opere di 58 pittori, contro i 46 del 2011 e i 34 del 2010: una scuola dunque in ascesa per il numero di allievi e l'interesse che suscita in una città come Trieste,_ _protesa da sempre, per antica tradizione, verso le arti. I temi prediletti rimangono anche quest'anno il ritratto, la danza, la figura umana, il mondo animale e vegetale e il paesaggio_.
 

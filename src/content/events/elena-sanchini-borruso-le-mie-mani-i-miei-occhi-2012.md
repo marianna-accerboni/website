@@ -18,13 +18,13 @@ subEvents:
   - - "Finissage d'eccezione per la personale di scultura di Elena Sanchini Borruso: giovedì 16 febbraio alle ore 19 all'Hotel Duchi Vis à Vis di Trieste"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/M0xn04mlZGw" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura martedì 31 gennaio 2012 alle ore 19 all'Hotel Duchi Vis à Vis di Trieste la mostra personale della scultrice triestina Elena Sanchini Borruso**, che sarà **introdotta sul piano critico dall'architetto Marianna Accerboni.** Interverrà Andrea Gilli presidente Forum Italia Austria. **In mostra una quindicina di eccezionali sculture realizzate in acciaio realizzate dal 2008 a oggi e quasi tutte inedite. Fino al 16 febbraio** (lun · ven 9.00 · 17.00 / sabato 9.00 · 15.30 / dom chiuso / info: [www.elenartonline.com](http://www.elenartonline.com) / +39 347 4400510).
 
     _È minuta e ha due piccole mani vitali: non si direbbe facilmente che sappia dare forma - perchè sa intuire il messaggio e la poesia dei materiali - all'acciaio. E invece -_ scrive Marianna Accerboni _- la raffinata rassegna allestita nell'elegante cornice dell'Hotel Duchi Vis à Vis ha dimostrato il contrario. Il fascino dei lavori della Sanchini Borruso, che ha iniziato a esporre una decina di anni fa le sue originali, coraggiose e inedite sculture, sta nel fatto che l'artista non solo dimostra di “sentire” la materia, ma sa anche dominarla. E alla possanza dell'acciaio intreccia insoliti elementi quali i tessuti fatti di metallo e seta, i led oppure altri materiali di riciclo, come vecchio ferro arrugginito, ripulito, trattato con vernici speciali e poi ridipinto._
+
+    <iframe src="https://www.youtube.com/embed/M0xn04mlZGw" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Non a caso la scultrice, che espone ora per la prima volta nella città natale, ha già presentato i propri lavori in sedi prestigiose in Italia, Austria, a Bruxelles e a Milano, incuriosendo ed entusiasmando il pubblico e riscuotendo sempre meritato successo. Un itinerario il suo, nato diversi anni fa all'Internationale Stahlpark Symposium di Riedersbach, vicino a Salisburgo, dove, in una sorta di enorme fucina di Vulcano contemporanea, artisti selezionati in tutto il mondo incontrano il fascino della materia e del riciclo. Che ha catturato anche Elena -_ conclude Accerboni _- favorendo in lei la passione per la terza dimensione assieme a quella per l'object trouvé di duchampiana memoria, qui rivisitato con femminea energia in una sintesi espressiva e decorativa di grande equilibrio e bellezza._
 gallerySection:

@@ -16,11 +16,11 @@ info:
     - /media/events/livia-bussi-i-non-luoghi-2012/invito_2.pdf
 press:
   pressRelease: |-
-    ![Fuga dalla spiaggia, 2008 - pastelli su carta - cm. 51x33](/media/events/livia-bussi-i-non-luoghi-2012/Fuga_dalla_spiaggia_2008_-_pastelli_su_carta_-_cm._51x33.jpg "Fuga dalla spiaggia, 2008 - pastelli su carta - cm. 51x33")
-
     **Giovedì 5 luglio 2012 alle ore 19.00 nella Sala Comunale d'Arte di Trieste** (Piazza dell'Unità d'Italia 4) **avrà luogo l'inaugurazione della mostra personale della pittrice Livia Bussi, intitolata I non luoghi, che sarà presentata dall'architetto Marianna Accerboni. La rassegna, che propone quasi una trentina di pastelli su carta realizzati tra il 2007 e il 2011.** Visitabile **fino al 25 luglio** (orario feriale e festivo 10 - 13 e 17 - 20).
 
     _C'è un'anima culturale austro-tedesca, probabilmente inconscia -_ scrive Accerboni _- che sopravvive in molti artisti triestini, i cui antenati, se pittori o scultori, frequentarono le Accademie di Monaco, di Berlino e di Vienna tra la fine dell'800 e il primo novecento, raccogliendovi i semi di quella coeva avanguardia internazionale che collegava Parigi a Mosca e al mondo slavo, passando per Trieste, allora in posizione centro-europea._
+
+    ![Fuga dalla spiaggia, 2008 - pastelli su carta - cm. 51x33](/media/events/livia-bussi-i-non-luoghi-2012/Fuga_dalla_spiaggia_2008_-_pastelli_su_carta_-_cm._51x33.jpg "Fuga dalla spiaggia, 2008 - pastelli su carta - cm. 51x33")
 
     _È così, credo, che si può spiegare l'intenso respiro espressionista che si leva e s'intravvede in molti lavori di artisti locali: tra questi, mi ha sempre particolarmente colpita la traccia di malinconia e d'angoscia che s'insinua nel segno pittorico intenso ed elegante, sobrio e al tempo stesso incisivo, di Livia Bussi, autrice dal temperamento discreto e signorile, che, formatasi in gioventù a Roma, è poi vissuta un trentennio in Piemonte e Lombardia, per poi ritornare nella città natale; e testimoniare nella sua pittura non solo le origini culturali centro-europee, ma anche il dramma dell'esodo dall'Istria, vissuto quasi in prima persona._
 

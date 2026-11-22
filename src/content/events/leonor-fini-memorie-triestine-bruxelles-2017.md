@@ -22,13 +22,13 @@ subEvents:
   - - "Il 28 novembre all'Istituto Italiano di Cultura di Bruxelles presentazione dei libri “Bobi Bazlen. L'ombra di Trieste” e “Paesaggi e personaggi”"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/saOKBb7cTrQ" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     Dal 17 novembre 2017 al 5 gennaio 2018 l'Istituto Italiano di Cultura di Bruxelles ospita la mostra **_Leonor Fini. Memorie triestine_**, che sarà inaugurata giovedì 16 novembre dal direttore dell'IIC Paolo Grossi e dalla curatrice Marianna Accerboni con uno speciale contributo video inedito di Gillo Dorfles. L'esposizione si propone di portare nel cuore d'Europa l'artista Leonor Fini, argentina di nascita e triestina d'adozione, riunendo per la prima volta un'ottantina di opere, molte delle quali inedite, espressione del suo personale lessico surrealista e della sua personalità.
 
     Bruxelles è la prima tappa di un ciclo espositivo che vedrà la mostra toccare, nel 2018, Parigi, Laveno Mombello (Varese) e infine Trieste, città dove la Fini crebbe e si formò, e da dove – idealmente – la mostra prende avvio. L'inaugurazione a Bruxelles sarà l'occasione per assistere a un'inedita performance multimediale di luce e musica ispirata alle sue opere: la facciata dell'antico e centralissimo palazzo che ospita l'Istituto Italiano di Cultura sarà illuminata per la prima volta da un colore azzurro-blu, a ricordare il mare di Trieste, che la Fini amava molto. Il musicista italo-brasiliano Paolo Troni interpreterà dal vivo alcune sue composizioni inedite ispirate alla Fini e realizzate espressamente per la mostra. Tali brani continueranno a essere diffusi all'interno della rassegna, divenendone la colonna sonora per tutta la durata dell'esposizione. Anche nelle tappe successive l'inaugurazione sarà caratterizzata da una performance multimediale di luce e musica, realizzata _site specific_, in tema con la mostra.
+
+    <iframe src="https://www.youtube.com/embed/saOKBb7cTrQ" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     Attraverso una serie di testimonianze artistiche e culturali per la maggior parte inedite, l'esposizione si propone di mostrare il risvolto più intimo e privato della personalità di Leonor Fini, a 110 anni dalla nascita (Buenos Aires 1907 - Parigi 1996), tornando innanzitutto alle radici della sua formazione: Trieste, città fondamentale per lo sviluppo del suo linguaggio artistico, dove fu portata nel 1908 dalla madre, Malvina Braun, appartenente a una colta famiglia della borghesia intellettuale triestina, in fuga da Buenos Aires, e dal marito argentino di origini beneventane, dalla dubbia personalità.
 

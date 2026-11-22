@@ -16,13 +16,13 @@ info:
     - /media/events/sergio-budicin-rettori-tribbio-2013/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/A6Kym8lbYL8" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Sabato 9 marzo 2013 alle ore 18.00 a Trieste alla Galleria Rettori Tribbio** (Piazza Vecchia 6) **avrà luogo l'inaugurazione della mostra personale del pittore triestino Sergio Budicin**. La rassegna, che propone quasi una quarantina di oli su tela e su tavola realizzati tra il 2009 e il 2012, sarà introdotta sul piano critico dall'architetto **Marianna Accerboni**. Visitabile **fino al 22 marzo** (orario: feriali 10.00 - 12.30 e 17.00 - 19.30 / festivi 10.00 - 12.00 / lunedì e venerdì pomeriggio chiuso / domenica 17 marzo in occasione del Mercatino dell'antiquariato 10 · 13 e 16 · 18).
 
     _In un momento di sensibile ritorno al figurativo_ - scrive Accerboni - _il linguaggio di un artista dalla grande professionalità e dall'acuta sensibilità come Sergio Budicin, appare molto attuale e sottolinea il ritorno a Trieste di questo poetico ed equilibrato pittore, che per decenni ha operato con grande successo a Londra, Stoccolma, Milano e Roma, negli Stati Uniti, ma soprattutto in Germania. E in quest'ultimo paese si è fatto conoscere attraverso il rapporto con prestigiose gallerie di riferimento quali la Aukloster di Monschau, la Nürnberger Rachmenkunst Haus der Gemalde, la Galerie Vogel di Heidelberg, la Schoeninger, la Reith e la Galerie in der Prannerstrasse di Monaco e la Bilder im Hof di Flensburg, tanto per citarne solo alcune, conseguendo per altro anche un premio importantissimo come il Goldenen Elefanten._
+
+    <iframe src="https://www.youtube.com/embed/A6Kym8lbYL8" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     ![a2](/media/events/sergio-budicin-rettori-tribbio-2013/a2.jpg "a2")
 

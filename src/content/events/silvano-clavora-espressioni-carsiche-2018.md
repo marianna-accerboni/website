@@ -19,11 +19,11 @@ subEvents:
   - - "Espressioni Carsiche: venerdì 18 maggio visita guidata alla mostra personale del pittore Silvano Clavora al Palazzo del Consiglio Regionale di Trieste. prorogata fino al 31 maggio."
 press:
   pressRelease: |-
-    ![Espressione carsica_01, 2013 _ 2016 - tecnica mista - cm. 50x50](/media/events/silvano-clavora-espressioni-carsiche-2018/Espressione_carsica_01_2013___2016_-_tecnica_mista_-_cm._50x50.jpg "Espressione carsica_01, 2013 _ 2016 - tecnica mista - cm. 50x50")
-
     **Venerdì 13 aprile 2018 alle ore 13.30 al Palazzo del Consiglio Regionale di Trieste** (piazza Oberdan 6) avrà luogo l'inaugurazione della **mostra personale del pittore Silvano Clavora,** intitolata **_Espressioni carsiche_, che sarà introdotta dall'architetto Marianna Accerboni**. La rassegna, corredata da un catalogo, propone più di **una cinquantina di lavori, tra cui molti inediti, realizzati dall'artista secondo varie tecniche e dedicati esclusivamente al Carso:** dal figurativo d'inclinazione tradizionale dipinto a olio su faesite negli anni sessanta, al materico a tecnica mista degli anni Duemila, orientato sempre più verso l'informale. Pittore poliedrico e sperimentatore inesauribile, attraverso l'evoluzione del proprio linguaggio Clavora offre al fruitore in un percorso consequenziale e coerente, molteplici ed efficaci interpretazioni dell'essenza di questo paesaggio speciale, dalle energie segrete, che l'artista riesce efficacemente a tradurre nelle prove più mature in una sorta di bassorilievo. **Fino al 18 maggio 2018.**
 
     _Il Carso con i suoi molteplici aspetti e umori, le sue brume e gli abissi di luce, il rosso brillante del sommaco e i toni verdi della bella stagione, le algide cave, le sue acque segrete,_ - scrive Marianna Accerboni - _ha rappresentato per anni, dagli esordi dell'artista ai nostri giorni, una delle tematiche predilette e più sentite da Silvano Clavora, pittore estremamente poliedrico e sperimentatore fantasioso e inesauribile._
+
+    ![Espressione carsica_01, 2013 _ 2016 - tecnica mista - cm. 50x50](/media/events/silvano-clavora-espressioni-carsiche-2018/Espressione_carsica_01_2013___2016_-_tecnica_mista_-_cm._50x50.jpg "Espressione carsica_01, 2013 _ 2016 - tecnica mista - cm. 50x50")
 
     _L'evoluzione del suo linguaggio, dal figurativo d'inclinazione tradizionale realizzato a olio su faesite negli anni sessanta al materico a tecnica mista degli anni Duemila, orientato sempre più verso l'informale, ha abbracciato in modo continuativo il Carso, offrendo al fruitore molteplici interpretazioni dell'essenza di questo paesaggio speciale, dalle energie segrete e unico per certe caratteristiche della flora._
 

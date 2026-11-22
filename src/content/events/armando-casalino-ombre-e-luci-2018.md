@@ -16,11 +16,11 @@ info:
     - /media/events/armando-casalino-ombre-e-luci-2018/invito.pdf
 press:
   pressRelease: |-
-    ![Ombre e luci n° 9, 2014 - stampa digitale su forex in HD - cm 100x100](/media/events/armando-casalino-ombre-e-luci-2018/Ombre_e_luci_n_1_2015_-_opera_luminosa_su_pvc_retroilluminato_a_led_-_cm_100x100.jpg "Ombre e luci n° 9, 2014 - stampa digitale su forex in HD - cm 100x100")
-
     **Sabato 25 agosto alle 19.30 l'arch. Marianna Accerboni condurrà alla Sala Comunale d'arte di Trieste (piazza Unità d'Italia 4), alla presenza dell'autore, un approfondimento critico sull'opera del fotografo/artista Armando Casalino, nell'ambito della mostra personale _Ombre e Luci - il paesaggio del corpo,_ già visitata da 1500 persone. La rassegna propone una ventina di foto realizzate dal 2013 a oggi, avvalendosi di un unico punto di luce cruda in controluce, non ammorbidita da diffusori, senza ritocchi in fase di postproduzione e stampate in HD su forex. Visitabile fino al 2 settembre.**
 
     _Il corpo femminile, ripreso in tutta la sua bellezza e il suo fascino_ - scrive Accerboni - _rappresenta il tema di questa mostra davvero speciale per la padronanza tecnica, la profonda e sottile sensibilità e la maestria creativa dell'autore, capace di comporre con tale rassegna una sorta d'installazione totale. Che si leva, come un canto sospeso tra cronaca e passione, creato da un artista che dal soggetto femminile - anche inteso nel senso più lato della sua valenza sociale - ha quasi sempre tratto ispirazione per le sue accuratissime opere._
+
+    ![Ombre e luci n° 9, 2014 - stampa digitale su forex in HD - cm 100x100](/media/events/armando-casalino-ombre-e-luci-2018/Ombre_e_luci_n_1_2015_-_opera_luminosa_su_pvc_retroilluminato_a_led_-_cm_100x100.jpg "Ombre e luci n° 9, 2014 - stampa digitale su forex in HD - cm 100x100")
 
     _I lavori di Casalino rappresentano una sorta di racconto: il dinamismo insito nel corpo è individuato in modo virtuoso dall'autore, che riesce a fermarlo in immagini dagli echi classici, che per la loro potenza ricordano l'antica scultura greca, fornendo al fruitore, grazie alla loro_ vis _icastica, la suggestione di trovarsi per lo meno dinanzi a un bassorilievo. Anche se l'elegante impaginazione cromatica, che il fotografo/artista dona alle proprie creazioni, esula da un contesto antico e si riferisce soprattutto alla forza dell'attimo che stiamo vivendo,_ hic et nunc, _espresso secondo un linguaggio del tutto personale._
 

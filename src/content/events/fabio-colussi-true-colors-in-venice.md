@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Tramonto sul Canal Grande, 2023 - olio su cartone - cm. 50x60](/media/colussi-venezia-Tramonto_sul_Canal_Grande_2023_-_olio_su_cartone_-_cm._50x60.jpg "Tramonto sul Canal Grande, 2023 - olio su cartone - cm. 50x60")
-
     Domenica 26 maggio 2024 alle ore 12 s’inaugura alla Galleria d’arte contemporanea Ghetto Et Cetera di Venezia (Campo del Ghetto novo 2919) la mostra personale del pittore triestino Fabio Colussi, intitolata True colors in Venice e curata dell’arch. Marianna Accerboni, che introdurrà, alla presenza dell’artista, l’esposizione con Gabriella Pastor. In mostra una ventina di oli su tela e cartone telato, quasi tutti inediti e realizzati nel 2023 (fino al 14 giugno/ orario: da martedì a domenica 10-13 e 15-18 / sabato pomeriggio e lunedì chiuso/info: ghetto-etcetera.com, +39 (0)41 2750039, +39 335 6750946, ghetto.etcetera@gmail.com, Social: @ghettoetcetera)
 
     Maestro del contrappunto luministico - scrive Accerboni -, Fabio Colussi sa ricostruire con delicata e calibrata vena lirica il fascino di Venezia e del suo mare. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l’artista sa catturare l’ineffabile e magica luce della Serenissima e la pace della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio. 
+
+    ![Tramonto sul Canal Grande, 2023 - olio su cartone - cm. 50x60](/media/colussi-venezia-Tramonto_sul_Canal_Grande_2023_-_olio_su_cartone_-_cm._50x60.jpg "Tramonto sul Canal Grande, 2023 - olio su cartone - cm. 50x60")
 
     Memore di una vena neoclassica, che appartiene culturalmente a Trieste, sua città d’origine, l’artista prosegue in modo del tutto personale l’antica tradizione di pittori e vedutisti attivi a Venezia nel ‘700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l’interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri artisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell’altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo Ottocento e nel primo Novecento, accanto all’Accademia di Monaco, per i pittori triestini. 
 

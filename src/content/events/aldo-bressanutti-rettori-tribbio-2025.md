@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Aldo Bressanutti - Armadio con griglia - olio su tavola - cm. 20x30](/media/bressanutti-Aldo_Bressanutti_-_Armadio_con_griglia_-_olio_su_tavola_-_cm._20x30.jpg "Aldo Bressanutti - Armadio con griglia - olio su tavola - cm. 20x30")
-
     SABATO 21 GIUGNO 2025 alle 17 s’inaugura alla GALLERIA **_RETTORI TRIBBIO_** **di TRIESTE (piazza Vecchia 6) la rassegna intitolata** **_Interni e studi per interni,_** **che sarà introdotta da Marianna Accerboni**. I**n mostra 55 opere: oltre a 24 oli, 3 bozzetti a olio, 9 acqueforti colorate e in bianco e nero e una litografia, realizzati dagli anni ’70 in poi, sono esposti 18 disegni a china colorati e in bianco e nero eseguiti dall’artista nel 2025.** **Bressanutti, nato a Latisana il 31 ottobre 1923, ha compiuto 101 anni nel 2024 ed è tuttora attivo. Fino al 4 luglio** (orario: feriali 10 · 12.30 e 17 · 19.30 / domenica 10 – 12, festivi e lunedì chiuso) info +39 335 6750946).
 
     **Aldo Bressanutti** inizia a dipingere da giovanissimo. Del tutto autodidatta, riprende definitivamente l’attività pittorica nel 1947, realizzando sia opere d’ispirazione narrativa, che lo rendono fin dagli inizi molto popolare, sia, subito dopo, lavori di gusto surreale. Ha esposto in importanti e numerose rassegna personali e collettive in Italia, Inghilterra, Germania, Canada, Australia, Spagna ecc. Negli ultimi decenni è stato presente con le sue opere in varie città italiane ed estere, da Roma a Milano e Genova a Berlino, Toronto, Melbourne, Tenerife, Düsseldorf, Londra, Berna ecc., suscitando sempre molto interesse e curiosità e conseguendo notevole successo. I suoi quadri si trovano in collezioni private in Italia e all’estero.
+
+    ![Aldo Bressanutti - Armadio con griglia - olio su tavola - cm. 20x30](/media/bressanutti-Aldo_Bressanutti_-_Armadio_con_griglia_-_olio_su_tavola_-_cm._20x30.jpg "Aldo Bressanutti - Armadio con griglia - olio su tavola - cm. 20x30")
 
     Ha realizzato sei volumi dedicati a Trieste, al Friuli Venezia Giulia, all’Istria e a Muggia (quest’ultimo in collaborazione con Italico Stener) con testi, tra gli altri, di C. Bergamini, L. Lago, L. Padovese, A. Seri e S. Tavano, illustrando tali luoghi con oltre 1500 tra grafiche, disegni e dipinti e fermandone con taglio indelebile ed efficace la memoria. Ha anche dipinto più di 1500 opere a olio.
 

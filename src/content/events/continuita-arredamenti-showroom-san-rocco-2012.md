@@ -14,13 +14,13 @@ info:
     - /media/events/continuita-arredamenti-showroom-san-rocco-2012/invito.pdf
 press:
   pressRelease: |-
-    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/p4uUh1Y6cpU" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **Inaugurazione d'eccezione per il nuovo showroom di _Continuità Arredamenti_ che venerdì 12 ottobre apre alle ore 19 un nuovo e ampio spazio espositivo a Porto San Rocco** (Strada per Lazzaretto 2, int. 16 b/c - Muggia - Trieste) **con una mostra dell'artista veneto Michele Fiocco e una performance di musica e luce ideata dall'arch. Marianna Accerboni**. La nuova ed elegante sede fa il paio con quella di via Cologna 21, che, da sempre aperta all'arte, ospita il migliore design italiano e straniero nel campo dell'arredo e dell'illuminazione.
 
     La mostra dedicata a Fiocco, che sarà presente al vernissage, propone una sequenza di più di una ventina di opere recenti dell'artista, che predilige la grande dimensione e si esprime attraverso una raffinata tecnica mista, realizzata a olio, smalti e collage, la quale conferisce ai suoi lavori, soprattutto quelli più recenti, un'interessante valenza materica: una pittura declinata su tela di lino preparata, a volte su tela grezza di juta, che spesso si esprime anche attraverso terre colorate, acrilico, pastelli e matita e carboncino per gli ultimi ritocchi, accanto a collage di carta velina e di giornale.
+
+    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/p4uUh1Y6cpU" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     ![Michele Fiocco nel suo studio](/media/events/continuita-arredamenti-showroom-san-rocco-2012/Michele_Fiocco_nel_suo_studio.jpg "Michele Fiocco nel suo studio")
 

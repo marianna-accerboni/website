@@ -18,13 +18,13 @@ subEvents:
   - - "Mercoledì 7 settembre 2016 alla Galleria Rettori Tribbio di Trieste finissage della VII mostra degli allievi dell'Atelier di Livio Možina"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/qdSz3z7UDxc" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Sabato 27 agosto alle 18 s'inaugura come di consueto alla Galleria _Rettori Tribbio_ di Trieste (piazza Vecchia 6) la mostra, quest'anno intitolata _Un fiore con molti petali_ e giunta alla VII edizione, che propone le opere realizzate nel 2015/ 2016 da 70 allievi del corso che il maestro tiene in Galleria. La rassegna, che sarà introdotta dall'architetto Marianna Accerboni**, **propone dipinti di gusto figurativo, realizzati tutti a olio su tela o su tavola, ognuno dei quali rappresenta il quadro simbolo tra i molti realizzati nel corso dell'anno da ciascun artista**.
 
     **Fino al 9 settembre** (orario: feriali 10 · 12.30 e 17 · 19.30 / festivi 10 · 12 / venerdì 10 · 12.30 / lunedì chiuso/ info 335 6750946).
+
+    <iframe src="https://www.youtube.com/embed/qdSz3z7UDxc" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     ![Ida MAROTTOLI - Amor Vincit Omnia, 2016 - olio](/media/events/atelier-mozina-allievi-2016/Ida_MAROTTOLI_-_Amor_Vincit_Omnia_2016_-_olio.jpg "Ida MAROTTOLI - Amor Vincit Omnia, 2016 - olio")
 

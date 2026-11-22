@@ -18,13 +18,13 @@ subEvents:
   - - "Mostra personale dell'artista fotografo Claudio Saccari alla Sala Comunale d'Arte di Trieste: mercoledì 20 febbraio l'autore incontra il pubblico in galleria"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/k12ajtyMaDo" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura giovedì 31 gennaio alle ore 18 alla Sala Comunale d'Arte di Trieste** (piazza Unità d'Italia 4) **un'interessante e originale rassegna dedicata al fotografo-artista triestino Claudio Saccari. La mostra, intitolata _Attimi_ e introdotta sul piano critico dall'architetto Marianna Accerboni**, propone **una ventina di immagini realizzate prevalentemente negli ultimi 4 anni in bianco e nero e stampate a pigmenti di carbone su carta 100% cotone baritata. In questa mostra l'autore coglie una sequenza di “istanti decisivi”, come li avrebbe chiamati il grande Henri Cartier-Bresson, che nel '900 teorizzò tale modo di fare fotografia. Fino al 24 febbraio** (orario feriale e festivo 10-13 e 17-20).
 
     _In questa occasione_ - scrive Accerboni - _Saccari abbandona l'amato tema del paesaggio naturale e il vivace approccio cromatico, per comporre attraverso il bianco e nero una sequenza di affascinanti e “unici” ritratti e attimi, che da esteriori molto spesso si fanno interiori: l'artista fotografa una situazione “hic et nunc”, l'attimo che non è però sempre fuggente, ma talvolta è teso all'eterno o all'infinito, come “Il bacio” o “Ricordi”, in cui una frazione di secondo si frange nel pathos dilatato della memoria. Sono “Attimi”, intorno ai quali s'intrecciano però anche molteplici parametri che raccontano di una vita, di un paese, di una mentalità, di una civiltà, come per esempio “Qui comando io”, immagine colta nel corso di un viaggio in Marocco, o “Greca al mercato”, ritratto intenso ed essenziale, icastica sintesi di un mondo di bellezza e di classicità trasposto nel quotidiano; o ancora “Il sax e la fanciulla”, autentico attimo fuggente e di costume, o immagini umanamente e socialmente emozionanti come la vecchiaia estrema all'Itis, che si eleva in una solidale “Carezza” e si spegne in un corridoio delle attese; o la cruda povertà di una madre che chiede la carità con in braccio la sua bambina._
+
+    <iframe src="https://www.youtube.com/embed/k12ajtyMaDo" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Il pathos di questi “Attimi”, che talvolta stanno a significare anche “una parte per il tutto”, si placa e si acquieta in un intensissimo paesaggio intitolato “Nembi”, di straordinaria bellezza nella sua carica emotiva e simbolica, che in qualche modo svela e si riallaccia all'origine famigliare di questo poliedrico fotografo-artista, il cui cognome oscillò nel tempo da Sacher a Scakar: il ceppo è originario dalla metà del '700 dal nostro Carso e germina da una cultura di matrice nordica, che spesso ci riconduce in qualche modo, soprattutto per quanto riguarda le immagini in bianco e nero, a un mondo educato a emozionarsi per i versi di Rilke e il grigio-scuro fantasticare kafkiano_.
 

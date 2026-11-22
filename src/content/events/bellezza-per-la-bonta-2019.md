@@ -18,11 +18,11 @@ subEvents:
   - - "XX edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita: dal 9 novembre 2019 nella sede della Comunità Greco-Orientale di Trieste"
 press:
   pressRelease: |-
-    ![Claudia Raza - Ginestre sul mare, 2009 - acquerello - cm 30x40](/media/events/bellezza-per-la-bonta-2019/Claudia_Raza_-_Ginestre_sul_mare_2009_-_acquerello_-_cm_30x40.jpg "Claudia Raza - Ginestre sul mare, 2009 - acquerello - cm 30x40")
-
     Apre **sabato 26 ottobre alle ore 11 al Castello di Duino la XX edizione della mostra d'arte intitolata _La bellezza per la bontà, l'arte aiuta la vita_, organizzata a favore del Premio alla Bontà Hazel Marie Cole Onlus,** istituito da **Aldo e Donatella Pianciamore**, e curata dall'architetto **Marianna Accerboni**, che introdurrà l'esposizione. Interverranno il Principe Dimitri della Torre e Tasso, il Sindaco di Duino, la presidente del Premio Etta Carignani, Aldo Pianciamore con la presentazione critica della curatrice Marianna Accerboni. Gli organizzatori ringraziano i principi della Torre e Tasso, la Comunita' Greco Orientale di Trieste, Metalgalante SpA, Mezzacorona ScA, Zudecche Day Surgery Trieste.
 
     Alla rassegna, visitabile **fino al 7 novembre** e accompagnata da un esaustivo catalogo, partecipano **34 artisti tra pittori triestini, di altre città italiane e stranieri**: Alda Baglioni, Paolo Barducci, Nadia Bencic, Diana Bosnjak Monai, Valerie Bregaint, Alessandro Calligaris, Paolo Calvino, Giorgio Cappel, Nora Carella, Luisia Comelli, Bruna Daus Medin, Elsa Delise, Fulvio Dot, Annamaria Ducaton, Carla Fiocchi, Silva Fonda, Carolina Franza, Holly Furlanis, Paolo Guglielmo Giorio, Paola Martinella, Marta Potenzieri Reale, Alice Psacaropulo, Claudia Raza, Svyatoslav Ryabkin, Angelo Salemi, Mirella Schott Sbisà, Carlo Sini, Erika Stocker Micheli, Roberto Tigelli, Fabrizio Vascotto, Valentina Verani, Meri Zanolla, Livio Zoppolato, Serena Zors.
+
+    ![Claudia Raza - Ginestre sul mare, 2009 - acquerello - cm 30x40](/media/events/bellezza-per-la-bonta-2019/Claudia_Raza_-_Ginestre_sul_mare_2009_-_acquerello_-_cm_30x40.jpg "Claudia Raza - Ginestre sul mare, 2009 - acquerello - cm 30x40")
 
     **Dal 9 all'18 novembre la mostra sarà visitabile nella sede della Comunità Greco-Orientale di Trieste** (riva 3 novembre 9/ inaugurazione ore 11/ info 335 6750946).
 

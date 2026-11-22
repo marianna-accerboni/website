@@ -20,13 +20,13 @@ subEvents:
   - - "Grande successo di pubblico alla Sala Fittke per la rassegna “L'arte al Femminile” - 51° collettiva delle socie F.I.D.A.P.A. della Sezione Storica di Trieste, visitata nella prima settimana da più di 600 persone"
 press:
   pressRelease: |-
-    ![Rossana Longo - St. Michael's Mount, 2009](/media/events/arte-al-femminile-sala-fittke-2013/s_Mount_-_2009_-_olio_su_tela_tecnica_antica_-_cm._80x40.jpg "Rossana Longo - St. Michael's Mount, 2009")
-
-    olio su tela (tecnica antica) - cm. 80x40
-
     S'inaugura martedì 16 luglio 2013 alle ore 19 a Trieste, nella Sala “Arturo Fittke” di Piazza Piccola, 3, la 51° Mostra Collettiva delle Socie F.I.D.A.P.A. organizzata dalla Sezione Storica di Trieste della Federazione Italiana Donne Arti Professioni Affari in collaborazione con il Comune di Trieste. Intitolata **_Arte al femminile_** e curata dall'architetto **Marianna Accerboni**, che introdurrà l'esposizione, la rassegna vede protagoniste le socie artiste del sodalizio **Nora Carella**, **Egle Ciacchi**, **Giuliana Griselli**, **Gabriella Giurovich**, **Rossana Longo**, **Valdea Maniago Ravalico, Marta Potenzieri Reale, Paola Sbisà, Edda Romanzin Starz**, presenti con dipinti realizzati a olio, tecnica mista.
 
     La rassegna propone anche quest'anno alcune novità poiché accosta ai dipinti, i preziosi lavori dedicati alla moda e ai gioielli da due stiliste, la creatrice di moda di origine pugliese **Nika Bianco** e l'architetto triestino **Anna Negrelli**, componendo, mediante tecniche, linguaggi e orientamenti di gusto diversi, un interessante e variegato microcosmo creativo.
+
+    ![Rossana Longo - St. Michael's Mount, 2009](/media/events/arte-al-femminile-sala-fittke-2013/s_Mount_-_2009_-_olio_su_tela_tecnica_antica_-_cm._80x40.jpg "Rossana Longo - St. Michael's Mount, 2009")
+
+    olio su tela (tecnica antica) - cm. 80x40
 
     “Va sottolineato che Trieste – scrive Marianna Accerboni - luogo colto e per molti aspetti all'avanguardia, è stata una delle prime città italiane in cui venne costituita una sezione F.I.D.A.P.A.; non solo, ma nel suo nucleo fondatore, già negli anni Trenta, comparivano molte artiste”.
 

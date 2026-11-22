@@ -16,13 +16,13 @@ info:
     - /media/events/adriana-marchetti-ritratti-interiori-2012/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/tscgaF96lDQ?rel=0" width="350" height="197"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura giovedì 29 novembre 2012 alle ore 18.30 alla Sala Comunale d'Arte di Trieste la mostra della pittrice Adriana Marchetti intitolata “Ritratti interiori”, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni.** In esposizione **una trentina di opere realizzate negli anni 2000 a matita, pastelli colorati, fusaggine e tecnica mista dedicate soprattutto al tema del ritratto accanto a quello della natura morta**. Fino al 19 dicembre (orario: feriale e festivo 10 · 13 / 17 · 20).
 
     _Racchiude in sè tutta l'angoscia insita nel linguaggio espressionista, ma un raggio di luce limpidissima_ - scrive Marianna Accerboni - _come quella che s'intravvede dalle finestre della sua casa-studio, affacciate sulla parte industriale del golfo di Trieste, penetra gli occhi dei soggetti ritratti con pertinenza e fascino o avvolge le geometriche nature morte di morandiana memoria._
+
+    <iframe src="https://www.youtube.com/embed/tscgaF96lDQ?rel=0" width="350" height="197"></iframe>
+
+    Video dell'inaugurazione
 
     _Innamorata da sempre dell'arte e attiva in questo campo fin dalla prima giovinezza, Adriana Marchetti, già stretta collaboratrice per decenni di Marino Cassetti, ma impedita dalla famiglia d'origine a intraprendere professionalmente la nobile via della pittura, avrebbe rappresentato nella storia triestina uno dei tanti talenti perduti, se una volontà fortissima o meglio l'ineludibile necessità di compiere la mission per cui ognuno di noi è venuto al mondo, non l'avessero condotta, ormai già adulta, a dedicarsi completamente a questa diciplina. Ed ecco una galleria d'intensissimi ritratti, realizzati a matita, a fusaggine e con pastelli colorati, sua tecnica preferita, in cui il segno scava dentro l'animo del soggetto e, attraverso luce, sapiente chiaroscuro e colore, ne disegna la personalità e il temperamento impietosamente ma umanamente, con obiettiva sensibilità._
 

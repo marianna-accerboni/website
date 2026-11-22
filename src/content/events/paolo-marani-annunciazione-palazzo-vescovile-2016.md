@@ -16,11 +16,11 @@ subEvents:
   - - "Inaugurato davanti a un folto pubblico al Palazzo Vescovile il dittico dell'artista Paolo Marani"
 press:
   pressRelease: |-
-    ![Paolo Marani - La Vergine Maria, 2016 - tecnica mista su tela - cm 160x120](/media/events/paolo-marani-annunciazione-palazzo-vescovile-2016/Paolo_Marani_-_La_Vergine_Maria_2016_-_tecnica_mista_su_tela_-_cm_160x120.jpg "Paolo Marani - La Vergine Maria, 2016 - tecnica mista su tela - cm 160x120")
-
     Sabato 19 novembre 2016 alle 11 **al Palazzo vescovile di Trieste** (via Cavana 16, 1° piano) **avrà luogo, alla presenza di S.E. Mons. Giampaolo Crepaldi, l'inaugurazione del dittico dedicato al tema dell'Annunciazione, realizzato dall'artista Paolo Marani per il salone delle udienze. Commento critico di Marianna Accerboni e introduzione musicale di Ennio Guerrato alla chitarra e Aurora Roiaz all'arpa.**
 
     Le due opere create da Paolo Marani (Monfalcone 1946) per il Vescovado conciliano tradizione e modernità. - scrive Accerboni - Le figure dell'Angelo annunciante e della Vergine Maria sono infatti delineate dall'artista seguendo i canoni della figurazione classica e simbolica che definiscono tale evento nell'iconografia storica. L'autore tuttavia - polivalente di natura per essersi espresso nel corso della sua attività come scultore e vignettista-caricaturista di grande efficacia per le pagine de Il Piccolo di Trieste - ha saputo innescare sulla tela una sorta di emozionante coup de théâtre reso mediante il grande bagliore di luce che fa da sfondo intenso e coinvolgente alle due opere, rappresentandone pure il comun denominatore, ossia la presenza divina simbolizzata appunto dall'elemento luministico.
+
+    ![Paolo Marani - La Vergine Maria, 2016 - tecnica mista su tela - cm 160x120](/media/events/paolo-marani-annunciazione-palazzo-vescovile-2016/Paolo_Marani_-_La_Vergine_Maria_2016_-_tecnica_mista_su_tela_-_cm_160x120.jpg "Paolo Marani - La Vergine Maria, 2016 - tecnica mista su tela - cm 160x120")
 
     Una tecnica ad acrilico, ammorbidita e implementata da tocchi di pastelli acquerellabili e velature, cattura il fruitore attraverso colori vivaci e gioiosi, ma declinati con discrezione. Classici e misurati anch'essi, però freschi e non òvvi negli accostamenti eleganti e delicati. Per rappresentare la felicità di una nuova vita che nasce e che vita: Gesù!
 

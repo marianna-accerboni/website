@@ -14,11 +14,11 @@ info:
     - /media/events/franco-viezzoli-viaggio-in-dalmazia-2019/invito.pdf
 press:
   pressRelease: |-
-    ![25ctn DAL AL314](/media/events/franco-viezzoli-viaggio-in-dalmazia-2019/25ctn_DAL_AL314.jpg "25ctn DAL AL314")
-
     **Venerdì 18 gennaio alle 17.30 nella Sala Paolo Alessi del Circolo della Stampa di Trieste** (Corso Italia 13) il Presidente **Pierluigi Sabatti e l'arch. Marianna Accerboni, curatrice e ideatrice dell'evento, presenteranno il video “Viaggio in Dalmazia” (1996) di Franco Viezzoli, che parteciperà all'incontro.**
 
     **Un amarcord interessante e poetico - scrive Accerboni - che racconta un itinerario percorso via mare sull'aliscafo, che oggi non esiste più. Viezzoli sa calibrare con molto equilibrio le immagini, che sono tutte foto scattate da lui stesso, a volte anche dall'aereo, con i brani - pezzi della cultura musicale fiumana o del Rondò veneziano per esempio - selezionati con grande sensibilità a seconda dei luoghi, della loro atmosfera e della loro storia. In un incontro felice fra terra, mare, architettura e arte in una Dalmazia deserta di turisti, colta nel periodo immediatamente successivo al conflitto dell'ex Yugoslavia. La storia e i luoghi - si potrebbe dire - narrati con gli occhi dell'amore.**
+
+    ![25ctn DAL AL314](/media/events/franco-viezzoli-viaggio-in-dalmazia-2019/25ctn_DAL_AL314.jpg "25ctn DAL AL314")
 
     **Franco Viezzoli** è originario di Pirano, come tutta la sua famiglia, ma è nato ad Albona perché nel 1937 il padre era minatore ad Arsia. Fortunatamente i Viezzoli fecero ritorno a Pirano prima del febbraio 1940, quando un violento scoppio nella miniera di carbone provocò 185 vittime e altrettanti intossicati. Nel 1951, finita la scuola media, andò a lavorare nella rimessa del tram di Pirano, dove rimase fino all'esodo del 1954, in seguito al quale si trasferì con la famiglia a Trieste, accolto in diversi campi profughi. Nel 1956 entrò nella Società Italia di Navigazione e, dopo sei mesi di Scuola Alberghiera a Bordighera, s'imbarcò come cameriere sulla Monotonave Saturnia e quindi sulle altre grandi navi passeggeri della stessa Società che facevano rotta verso il Nord America. Nei primi anni '60 si fermò a terra, lavorando nel ristorante Suban di Trieste e nel 1977 aprì la Trattoria Trieste Mia, che condusse con notevole successo, ma che purtroppo dovette chiudere nel 2000 causa demolizione dell'edificio.
 

@@ -19,9 +19,12 @@ subEvents:
   - - "Mostra personale del pittore Roberto Budicin alla Galleria Rettori Tribbio 2: giovedì 23 febbraio alle ore 18 l'artista incontra il pubblico"
 press:
   pressRelease: |-
-    **Inaugurazione Udine: sabato 3 marzo 2012, ore 18.00**
-
-    **Dove:** Galleria La Loggia / Direttore Artistico Maristella Cescutti · piazza Libertà · Udine. **Quando:** 3 - 22 marzo 2012. **Orari:** feriali 17.30 · 19.30 / sabato 11 · 13 e 16.30 · 19.30 / festivi 10 · 13. [Scarica l'invito](/media/events/roberto-budicin-paesaggio-e-poesia-2012/invito2.pdf)
+    **Seconda sede: Galleria La Loggia, Udine**
+    - Inaugurazione: sabato 3 marzo 2012, ore 18.00
+    - Indirizzo: piazza Libertà · Udine (direttore artistico Maristella Cescutti)
+    - Periodo: 3 – 22 marzo 2012
+    - Orario: feriali 17.30 · 19.30 / sabato 11 · 13 e 16.30 · 19.30 / festivi 10 · 13
+    - Invito: [Scarica l'invito](/media/events/roberto-budicin-paesaggio-e-poesia-2012/invito2.pdf)
 
     <iframe src="https://www.youtube.com/embed/TK3AkQWc5WM" width="350" height="288"></iframe>
 

@@ -20,16 +20,12 @@ bodySection:
 
     **Le etichette per vini fanno parte dell'ampia sezione dedicata al design, attività forse tra le meno note di Dorfles, che l'aveva espletata con raffinatezza e originalità nel campo della creazione di gioielli, tessuti, tappeti, arazzi, manifesti pubblicitari, mosaici, servizi da caffè ecc. Oltre alle etichette per i vini sono quindi presenti, tra gli altri, anche un raro ciclo di eleganti e preziosi disegni per stoffe degli anni Trenta e Cinquanta, un servizio di tazze da cappuccino e altri oggetti disegnati per la illy Art Collection, un grande manifesto pubblicitario per il tartufo d'Alba e quello per la Barcolana, un prezioso gioiello inedito e un bozzetto mai esposto di Dorﬂes per dei mosaici realizzati sotto la sua guida dalla Scuola Mosaicisti del Friuli di Spilimbergo, mai usciti dalla scuola e ora presenti in mostra.**
 
-    **DOVE**: Biblioteca statale _Stelio Crise_ - Largo Papa Giovanni XXIII, 6 - Trieste
-
-    **QUANDO**: lunedì 20 gennaio 2020
-
-    **ORARIO**: 17.00
-
-    **A CURA DI**: Marianna Accerboni
-
-    **CATALOGO**: sì
-
-    **INFO**: 335 6750946
+    **Informazioni**
+    - Dove: Biblioteca statale _Stelio Crise_ - Largo Papa Giovanni XXIII, 6 - Trieste
+    - Quando: lunedì 20 gennaio 2020
+    - Orario: 17.00
+    - A cura di: Marianna Accerboni
+    - Catalogo: sì
+    - Info e contatti: 335 6750946
 draft: false
 ---

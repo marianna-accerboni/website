@@ -16,13 +16,13 @@ info:
     - /media/events/manuela-marussi-pneuma-2012/invito_p.pdf
 press:
   pressRelease: |-
-    ![La chiara visione, 2012 - olio su tela - cm 60x60](/media/events/manuela-marussi-pneuma-2012/La_chiara_visione_2012_-_olio_su_tela_-_cm_60x60.jpg "La chiara visione, 2012 - olio su tela - cm 60x60")
-
     **Sabato 30 giugno alle 18.30 nella Sala Giubileo (via Mazzini 3) avrà luogo l'inaugurazione della mostra personale della pittrice triestina Manuela Marussi intitolata _PNEUMA - il soffio vitale_**, che sarà **introdotta sul piano critico dall'architetto Marianna Accerboni**. **Realizzata in collaborazione con l'Associazione culturale _Reiki...la via del cuore_ di Trieste**, la rassegna propone **una quarantina di opere realizzate a olio su tela prevalentemente nel 2012 con numerosi inediti**. **Fino al 14 luglio** (orario: feriali 10-12.30 e 16-19.30/ festivi 11-12.30).
 
     ![Born in the sun, 2012 - olio su tela - cm 60x60](/media/events/manuela-marussi-pneuma-2012/Born_in_the_sun_2012_-_olio_su_tela_-_cm_60x60.jpg "Born in the sun, 2012 - olio su tela - cm 60x60")
 
     _Quest'esposizione_ - scrive Marianna Accerboni - _rappresenta un ulteriore passo avanti nell'evoluzione stilistica e concettuale della Marussi, che ora affronta il tema dell'Unità, quale spazio ideale fondamentale in cui può fluire l'energia divina, che invece trova ostacoli nella separazione degli opposti. E' infatti la sintesi, dove non esiste né luce né ombra, la condizione perfetta per accogliere, come in un abbraccio, la conoscenza._
+
+    ![La chiara visione, 2012 - olio su tela - cm 60x60](/media/events/manuela-marussi-pneuma-2012/La_chiara_visione_2012_-_olio_su_tela_-_cm_60x60.jpg "La chiara visione, 2012 - olio su tela - cm 60x60")
 
     _“Accogliere in noi luce e ombra in un'unità” afferma l'artista “ci consente di essere più aperti a lasciarci attraversare dal Divino”. Ed è proprio l'energia divina la fonte della pittura della Marussi, che in questo senso si considera un mezzo: le sue opere non nascono infatti da uno studio, ma spontaneamente e istintivamente._
 

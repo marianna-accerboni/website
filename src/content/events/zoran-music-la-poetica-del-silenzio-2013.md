@@ -18,13 +18,13 @@ subEvents:
   - - "Ultimi giorni alla Galleria One San Nicolò di Trieste per visitare la prestigiosa mostra Zoran Music. La poetica del silenzio: sabato 1 febbraio finissage con visita guidata"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/Xcnz2M9pgHE" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura sabato 7 dicembre alle 19 **nell'elegante Galleria One San Nicolò (Via S. Nicolò 1) di Trieste, diretta da Parmiani, una rassegna d'eccezione dedicata al pittore Anton Zoran Music (Bukovica, vicino a Gorizia, oggi Slovenia**, **allora Impero asburgico 1909 - Venezia 2005). Curata dall'arch. Marianna Accerboni e intitolata “La poetica del silenzio”, la mostra propone più di una novantina di opere tra dipinti a olio, acrilici, acquerelli, tecniche miste, pastelli colorati, carboncini e grafiche (acqueforti, acquetinte puntesecche, litografie) realizzati dal 1946 al '90.**
 
     La rassegna riassume felicemente, attraverso una preziosa selezione e alcuni pezzi inediti o rarissimi, le tematiche più amate dal pittore: dai cavallini ai paesaggi dalmati, senesi e umbri, a Venezia, alle Dolomiti e alle rocce; dall'autoritratto e dal ritratto della moglie Ida, al doppio ritratto, ai disegni sull'uomo e sulla sua decadenza, al ciclo “Non siamo gli ultimi”, ispirato alla sua tragica esperienza a Dachau, e al ciclo naturalistico della vita, dove nei “Motivi vegetali” e nelle radici è simbolizzato il concetto di trasmutazione. I lavori provengono da importanti collezioni internazionali come la raccolta de Rothschild, la Estorick di Londra (oggi Fondazione Estorick), la Galleria Jan Krugier (gallerista di Picasso) di Ginevra e New York e la Galleria Ugo Meneghini di Venezia, le collezioni Lizzola di Milano e Bosi di Bologna e quella di Patty Birch, famosa gallerista americana a Venezia. In tal modo viene ripercorso a Trieste l'itinerario creativo di uno dei grandi maestri del '900.
+
+    <iframe src="https://www.youtube.com/embed/Xcnz2M9pgHE" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     ![Nudino, 1951 - olio su tela - cm 46x65 (già collezione de Rothschild)](/media/events/zoran-music-la-poetica-del-silenzio-2013/Nudino_1951_-_olio_su_tela_-_cm_46x65_gia_collezione_de_Rothschild.jpg "Nudino, 1951 - olio su tela - cm 46x65 (già collezione de Rothschild)")
 

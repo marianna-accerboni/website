@@ -16,13 +16,13 @@ info:
     - /media/events/marta-potenzieri-reale-intuizioni-2012/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/nSeLJ_M3X9c" width="350" height="288"></iframe>
-
     **Video dell'inaugurazione**
 
     **S'inaugura lunedì 5 marzo alle 17.30 al Circolo Aziendale delle Assicurazioni Generali di Trieste** (piazza Duca degli Abruzzi 1) **Intuizioni, mostra personale della pittrice triestina Marta Potenzieri Reale, che sarà introdotta sul piano critico dalla curatrice Marianna Accerboni**: in mostra più di **una trentina di tele, prevalentemente inedite, realizzate dal 2008 a oggi ad acquarello**, sua tecnica prediletta, **e chine indiane, seguendo il pensiero e il concetto di meditazione Zen.** Vincitrice ad Amalfi del 1° Premio nazionale per l'Acquerello, nel 2011 la pittrice è stata invitata al Padiglione FVG della Biennale di Venezia. **Fino al 16 marzo** (orario da lun a giov 9.30 · 12.30 e 15.30 · 18 / ven 9.30 · 12.30 / info +39 339 1309091; marta.repo@alice.it).
 
     _Frizzante femminilità -_ scrive Accerboni _- padronanza tecnica e capacità di acquisire intimamente il soggetto attraverso una sintesi percettiva e intellettuale che intreccia i metodi più pragmatici della cultura occidentale alla capacità di “volare alto”, verso l'infinito che c'è in noi, proprio delle filosofie orientali, condeterminano la pittura fine e fantasiosa di Marta Potenzieri Reale._
+
+    <iframe src="https://www.youtube.com/embed/nSeLJ_M3X9c" width="350" height="288"></iframe>
 
     _Formatasi negli anni ottanta nell'atelier del pittore acquerellista triestino Lido Dambrosi, dove ebbe modo di sperimentare molteplici tecniche, l'artista si perfeziona successivamente in Inghilterra nell'acquerello, “perigliosa” pittura, da lei preferita, che continua ad approfondire in seminari condotti all'estero da docenti di fama internazionale._
 

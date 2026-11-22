@@ -18,11 +18,11 @@ subEvents:
   - - "Presentata questa mattina a Gorizia nella Sala Bianca del Comune di Gorizia la IV edizione del concorso internazionale di pittura “Dario Mulitsch”: iscrizioni aperte fino al 10 giugno"
 press:
   pressRelease: |-
-    ![Premio pittura Mulitsch 2010 - inaugurazione](/media/events/concorso-mulitsch-iv-edizione-presentazione-2012/Premio_pittura_Mulitsch_2010-inaugurazione_01.jpg "Premio pittura Mulitsch 2010 - inaugurazione")
-
     **L'Associazione culturale Concorso di Pittura “Dario Mulitsch” di Gorizia indice per lunedì 23 aprile 2012 alle ore 11 nella Sala Bianca del Comune di Gorizia** la **conferenza stampa di presentazione** del **prestigioso Concorso internazionale di Pittura “Dario Mulitsch” 2012**, che con cadenza biennale è **giunto quest'anno alla IV edizione.** L'evento è intitolato dalla moglie Caterina alla figura di **Dario Mulitsch, illuminato imprenditore goriziano di antica nobiltà sassone, fondatore del Centro Culturale "Tullio Crali" e appassionato promotore della cultura e delle arti**. Sono previsti premi in denaro e una mostra nel prestigioso Palazzo Coronini Cronberg di Gorizia, al cui vernissage ha partecipato nel 2010 un foltissimo e selezionato pubblico di centinaia e centinaia di persone. **Le iscrizioni al Concorso sono aperte fino al 10 giugno 2012.**
 
     Interverranno **l'Assessore alla Cultura del Comune di Gorizia Antonio Devetag, l'Assessore alle Politiche Giovanili del Comune di Gorizia Stefano Ceretta, l'Assessore alla Cultura della Provincia di Gorizia Federico Portelli, la presidente dell'Associazione culturale “Dario Mulitsch”, Caterina Trevisan Mulitsch e l'arch. Marianna Accerboni, membro della Giuria dell'edizione 2010 e di quella attuale.**
+
+    ![Premio pittura Mulitsch 2010 - inaugurazione](/media/events/concorso-mulitsch-iv-edizione-presentazione-2012/Premio_pittura_Mulitsch_2010-inaugurazione_01.jpg "Premio pittura Mulitsch 2010 - inaugurazione")
 
     Si coglie l'occasione per ringraziare le redazioni che già nella scorsa edizione hanno dato ampio rilievo al Concorso, in particolare nel periodo della mostra, **nell'ottobre 2010**, sostenendo e valorizzando **un evento che ha portato in città più di un migliaio di persone per l'inaugurazione e le premiazioni**.
 

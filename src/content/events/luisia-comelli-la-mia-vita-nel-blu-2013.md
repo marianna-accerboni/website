@@ -12,11 +12,11 @@ info:
   infoContacts: +39 347 4861129
 press:
   pressRelease: |-
-    ![La bora, 2012 - olio su tela - cm 70x50](/media/events/luisia-comelli-la-mia-vita-nel-blu-2013/pagina-50---12.12.12---LA-BORA---DSC_9206.jpg "La bora, 2012 - olio su tela - cm 70x50")
-
     **Sabato 20 aprile alle 18 al Centro Promozione Territoriale di Sistiana** (ex A.I.A.T.) - **Trieste, nell'ambito della mostra antologica “La mia vita…nel blu dipinto di blu”**, **dedicata ai 60 anni di pittura (1953 - 2013) della pittrice Luisia Comelli Luis,** avrà luogo un **incontro tra l'artista e i critici** che hanno scritto sui suoi lavori. **Ospite d'onore sarà l'arch. Marianna Accerboni.**
 
     Comelli, triestina, si è formata con Carlo Pacifico e negli ultimi vent'anni ha allestito 30 mostre personali, ricevendo riconoscimenti molto significativi. “Questa sensibile artista” scrive Accerboni “ha il merito di saper tradure sulla tela attraverso un intenso e personale lirismo e un cromatismo vitale, ma equilibrato e sintonico con il dato naturale, la luce e l'anima della sua terra, adagiata tra cielo e mare”.
+
+    ![La bora, 2012 - olio su tela - cm 70x50](/media/events/luisia-comelli-la-mia-vita-nel-blu-2013/pagina-50---12.12.12---LA-BORA---DSC_9206.jpg "La bora, 2012 - olio su tela - cm 70x50")
 
     **La mostra, organizzata dal Comune di Duino Aurisina in collaborazione con il Gruppo Ajser 2000 e la Provincia di Trieste, rimarrà visitabile fino al 5 maggio** (orario 10 - 13 e 17 - 20/ info 3474861129).
 

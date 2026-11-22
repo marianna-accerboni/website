@@ -7,7 +7,6 @@ info: null
 bodySection:
   body: |-
     Venerdì 30 luglio al Magazzino 26 del Porto vecchio di Trieste: Cristina Battocletti de Il sole 24 ore parlera’ su “Leonor fini; Bobi Bazlen, Gillo Dorfles e gli altri nella Trieste degli anni venti” e presentera’ in anteprima il suo libro su Giorgio Strehler
-     
 
     Nell’ambito della mostra “Leonor Fini. Memorie triestine”,Porto vecchio **di Trieste, Cristina Battocletti, giornalista per la Domenica de Il Sole 24 Ore, scrittrice e grande esperta di cultura del Nord Est e di Trieste in particolare, parlerà, con la conduzione della curatrice Marianna Accerboni, sul tema “Leonor Fini, Bobi Bazlen, Gillo Dorfles e gli altri nel clima culturale d’avanguardia della Trieste degli anni Venti”. Seguirà la presentazione, in anteprima per Trieste e in occasione del centenario della nascita del celebre regista, del suo ultimo libro intitolato “Giorgio Strehler. Il ragazzo di Trieste: vita morte e miracoli” (La nave di Teseo, pgg. 435, € 20,00**): un approfondita e interessante testimonianza sul grande regista di origine triestina (Trieste 1921 - Lugano 1997), che verrà esposta anche in rapporto all’attività di costumista e scenografa di Leonor e a quella di Luciano Damiani, per anni scenografo di Strehler. 
 
@@ -25,21 +24,12 @@ bodySection:
 
     Per raggiungere il Magazzino 26 sono disponibili i bus linea 6, fermata Polo museale, e linea 80 (alle signore un cadeau con il profumo inedito “Lolò” creato per la mostra/ info 335 6750946).
 
-     
-
-    **DOVE**: Polo museale del Magazzino 26 · Porto vecchio · Trieste
-
-    **DATA e ORARIO APPUNTAMENTO COLLATERALE**: 30 luglio alle 18.30
-
-    **DATE MOSTRA**: 26 giugno_22 agosto 2021
-
-    **ORARIO MOSTRA**: mercoledì e giovedì 10_13 e 17_20 / venerdì e domenica 10_13 e 17_21 / sabato 10_13 e 15_21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80) 
-
-    **A CURA DI**: Marianna Accerboni
-
-    **CATALOGO**: sì
-
-    **INFO**:**leonorfinimemorietriestine@gmail.com**
-
-    **CELL. +39 335 6750946**
+    **Informazioni**
+    - Dove: Polo museale del Magazzino 26 · Porto vecchio · Trieste
+    - Appuntamento: 30 luglio alle 18.30
+    - Periodo: 26 giugno – 22 agosto 2021
+    - Orario: mercoledì e giovedì 10 – 13 e 17 – 20 / venerdì e domenica 10 – 13 e 17 – 21 / sabato 10 – 13 e 15 – 21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80)
+    - A cura di: Marianna Accerboni
+    - Catalogo: sì
+    - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 ---

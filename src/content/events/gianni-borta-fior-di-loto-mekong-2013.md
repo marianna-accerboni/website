@@ -18,11 +18,11 @@ subEvents:
   - - "Nell'ambito della personale “I fior di loto nel delta del Mekong” alla Galleria Rettori Tribbio di Trieste giovedì 28 marzo Gianni Borta presenta i video libri dedicati ai suoi viaggi"
 press:
   pressRelease: |-
-    ![Gianni Borta - I fior di loto nel delta del Mekong, 2012 - olio e acrilico su tela - cm 70x90- Copia](/media/events/gianni-borta-fior-di-loto-mekong-2013/Gianni_Borta_-_I_fior_di_loto_nel_delta_del_Mekong_2012_-_olio_e_acrilico_su_tela_-_cm_70x90-_Copia.jpg "Gianni Borta - I fior di loto nel delta del Mekong, 2012 - olio e acrilico su tela - cm 70x90- Copia")
-
     S'inaugura **sabato 23 marzo 2013 alle ore 18.00 alla Galleria Rettori Tribbio (Piazza Vecchia, 6) di Trieste la personale del pittore friulano Gianni Borta, che sarà introdotta dall'architetto Marianna Accerboni: in mostra più di una ventina di opere recenti tra oli e tecniche miste del 2012 ispirate al recente viaggio compiuto dall'artista nel Vietnam alla ricerca della vita e della luce. Protagonista della mostra è il fior di loto, il fiore nazionale di quel paese, che rinasce oggi sui campi che furono martoriati dalla guerra e dalle bombe al napalm. Borta ne raccoglie il messaggio ed ecco che questo fiore diventa il simbolo della rinascita.**
 
     **In precedenza il pittore aveva compiuto dei viaggi in altri paesi esotici, dipingendone i fiori simbolo, come per esempio le peonie in Cina, il fior di loto in India, l'iris nero in Giordania, la protea in Giordania, il padouk in Birmania, che racchiudono l'anima e la poesia di tali paesi.**
+
+    ![Gianni Borta - I fior di loto nel delta del Mekong, 2012 - olio e acrilico su tela - cm 70x90- Copia](/media/events/gianni-borta-fior-di-loto-mekong-2013/Gianni_Borta_-_I_fior_di_loto_nel_delta_del_Mekong_2012_-_olio_e_acrilico_su_tela_-_cm_70x90-_Copia.jpg "Gianni Borta - I fior di loto nel delta del Mekong, 2012 - olio e acrilico su tela - cm 70x90- Copia")
 
     **Coerentemente con tale attività,** durante la rassegna saranno presentati anche tre libri multimediali, editi da Campanotto, contenenti i diari di viaggio di Gianni Borta in India, Giordania e Sud Africa con disegni, fotografie, quadri e filmati inseriti nei DVD che accompagnano le pubblicazioni. Visitabile **fino al 5 aprile** (orario: feriali 10.00 - 12.30 / 17.00 - 19.30 · festivi 10.00 -12.00 · lunedì chiuso).
 

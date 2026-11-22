@@ -18,13 +18,13 @@ press:
   pressRelease: |-
     _introduzione critica e allestimento di Marianna Accerboni_
 
-    <iframe src="https://www.youtube.com/embed/qZofdWhipcQ" width="350" height="288"></iframe>
-
-    Video della mostra
-
     S'inaugura domenica **26 giugno 2011 alle ore 18.00 alla Galleria Melori & Rosenberg di Venezia,** situata nella fascinosa e storica cornice del **Campo del Ghetto Novo (Cannaregio 2919), la mostra personale del giovane pittore veneziano Alberto Zambelli,** intitolata **_Il silenzio del senso_, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni, curatrice dell'allestimento.** La rassegna propone **una ventina di opere quasi del tutto inedite, realizzate dall'artista soprattutto nell'ultimo anno:** in mostra **lavori a tecnica mista su tela e su tavola, vetri dipinti secondo una particolare tecnica segreta,** appresa dal nonno Giorgio, notissimo artista veneto e raffinati marmi incisi. Visitabile **fino al 6 luglio** (orario: da lunedì a venerdì 10.00 - 13.00/ 15.00 - 18.00 - sabato 10 - 13/ sabato pomeriggio e domenica su appuntamento).
 
     _I grandi occhi azzurri del pittore Alberto Zambelli -_ scrive Accerboni _- riflettono la consapevolezza di un mondo, come quello a noi contemporaneo, condizionato da scienza e tecnologia, discipline che inducono i giovani come lui a vivere una sorta di disagio culturale ed esistenziale, sulle orme del nichilismo di Nietzsche e, implicitamente, dell'esistenzialismo di Heidegger, di cui Nietzsche fu considerato l'antesignano, così come da alcuni è ritenuto precursore di Freud, perchè inseriva il concetto d'inconscio in tutta la sua filosofia._
+
+    <iframe src="https://www.youtube.com/embed/qZofdWhipcQ" width="350" height="288"></iframe>
+
+    Video della mostra
 
     ![Terra senza cielo, 2010 - olio su tela - cm 70x90](/media/events/alberto-zambelli-il-silenzio-del-senso-2011/4.jpg "Terra senza cielo, 2010 - olio su tela - cm 70x90")
 

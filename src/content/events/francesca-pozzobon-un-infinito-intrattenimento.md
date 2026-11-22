@@ -18,11 +18,11 @@ subEvents:
   - - "Sabato 7 e domenica 8 marzo ultimi giorni e visite guidate alla sala Veruda di palazzo Costanzi a Trieste, per la mostra antologica della pittrice veneta Francesca Pozzobon \"Un infinito intrattenimento\""
 press:
   pressRelease: |-
-    ![Informazione istituzionale e open government](/media/pozzobon-Screenshot_2026-02-20_at_8.22.58_PM.png "Informazione istituzionale e open government")
-
     Sabato 21 febbraio 2026 alle ore 18.30 verrà inaugurata la mostra "Francesca Pozzobon. Un infinito intrattenimento" nella Sala Veruda di Palazzo Costanzi (piazza Piccola 2).
 
     L'esposizione, **organizzata dall'associazione Pic Nick Art Cafè Aps e curata dall'architetto Marianna Accerboni**, propone per la prima volta a Trieste la creatività della pittrice e restauratrice veneta **Francesca Pozzobon (Montebelluna, 1950 – 2023)**: formatasi all'Istituto d'arte di Venezia, ha vissuto a Losanna e ad Asolo, dove ha svolto per molti la professione di artista, restauratrice e antiquaria. Ha esposto in varie mostre personali, destando curiosità e largo consenso.
+
+    ![Informazione istituzionale e open government](/media/pozzobon-Screenshot_2026-02-20_at_8.22.58_PM.png "Informazione istituzionale e open government")
 
     La mostra triestina è concepita come una rassegna con un taglio antologico attraverso una quarantina di opere tra dipinti, sculture e oggetti realizzati **fra il 1967 e gli anni Duemila**.
 

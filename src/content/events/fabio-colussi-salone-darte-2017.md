@@ -16,11 +16,11 @@ info:
     - /media/events/fabio-colussi-salone-darte-2017/invito.pdf
 press:
   pressRelease: |-
-    ![Tramonto sul Faro della Vittoria, 2017 - olio su cartone telato - cm 40x70](/media/events/fabio-colussi-salone-darte-2017/Tramonto_sul_Faro_della_Vittoria_2017_-_olio_su_cartone_telato_-_cm_40x70.jpg "Tramonto sul Faro della Vittoria, 2017 - olio su cartone telato - cm 40x70")
-
     Mentre a Bruxelles la personale di Fabio Colussi sta riscuotendo grande apprezzamento nella sede della Regione FVG, sabato **2 dicembre alle 18 l'artista inaugura al Salone d'Arte Contemporanea di Trieste (via della Zonta 2) un'altra rassegna dedicata al tema prediletto della veduta marina,** che sarà introdotta **sul piano critico dalla curatrice Marianna Accerboni**: in mostra **una ventina di oli su tela e su tavola inediti, realizzati con grande maestria tra il 2015 e il 2017.**
 
     _In questa esposizione_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare della sua città, Trieste, accostandolo a quello di Venezia. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l'artista sa catturare l'ineffabile luce del nostro golfo e quella magica della Serenissima, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._ Fino al 31 dicembre (orario: lun - sab 10 · 12 e 16.30 · 19, domenica chiuso / info 335 6750946 - 348 8965899).
+
+    ![Tramonto sul Faro della Vittoria, 2017 - olio su cartone telato - cm 40x70](/media/events/fabio-colussi-salone-darte-2017/Tramonto_sul_Faro_della_Vittoria_2017_-_olio_su_cartone_telato_-_cm_40x70.jpg "Tramonto sul Faro della Vittoria, 2017 - olio su cartone telato - cm 40x70")
 
     _Memore di una vena neoclassica, che appartiene culturalmente a Trieste, l'artista prosegue in modo del tutto personale l'antica tradizione di pittori e vedutisti attivi a Venezia nel '700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l'interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri artisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell'altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo ottocento e nel primo novecento, accanto all'Accademia di Monaco, per i pittori triestini._
 

@@ -16,13 +16,13 @@ info:
     - /media/events/fabio-colussi-venice-forever-2015/invito.pdf
 press:
   pressRelease: |-
-    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ijqYzfiLX90" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     Si apre il **27 settembre alle 18 alla Galleria Melori & Rosenberg di Venezia, situata nella fascinosa storica cornice del Campo del Ghetto Novo (Cannaregio 2919), la personale del piittore triestino Fabio Colussi,** intitolata **_Venice forever_, introdotta sul piano critico dalla curatrice Marianna Accerboni**: in mostra **una ventina di oli inediti, realizzati nel 2014-2015.**
 
     In queste pagine pittoriche - scrive Accerboni - Colussi ricostruisce con delicata e calibrata vena poetica il fascino di Venezia e della laguna, raffinando con equilibrio e perizia il suo luminoso e vivido linguaggio attraverso un colorismo avvincente e reale, che lascia tuttavia spazio anche al sogno. Memore di una vena neoclassica, che appartiene culturalmente a Trieste, sua città d'origine, l'artista prosegue in modo del tutto personale l'antica tradizione di pittori e vedutisti attivi a Venezia nel '700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l'interpretazione più razionale dei luoghi (fino al 4 ottobre / orario tutti i giorni 10 · 17 / info 348 8965899/ [info@melori-rosenberg.com](mailto:info@melori-rosenberg.com)).
+
+    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ijqYzfiLX90" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Agli esordi tuttavia Colussi_ - scrive Accerboni - _ha guardato anche ad altri pittori e vedutisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell'altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo ottocento e nel primo novecento, accanto all'Accademia di Monaco, per gli artisti triestini._
 

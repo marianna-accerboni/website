@@ -14,13 +14,13 @@ info:
     - /media/events/mauro-martoriati-atelier-design-2014/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/zcukaTrKeSM" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura a Trieste venerdì 11 aprile 2014 alle 19 lo spazio “Martoriati Arte” (via Rittmeyer 4/a): è l'atelier dell'artista romano Mauro Martoriati, situato nel centro cittadino, che si propone anche quale nuovo punto d'incontro per l'arte e la cultura contemporanea, ospitando l'associazione M.A.R.T. (Movimento artistico Roma - Trieste), promotrice dello scambio fra artisti romani e triestini, in collaborazione con la curatrice di Roma Manuela Vannozzi. Nella mostra inaugurale, che darà presentata dalla curatrice dell'evento Marianna Accerboni, verrà esposto in particolare il magico design neobarocco di Martoriati, accanto ai dipinti dall'acceso e personale cromatismo espressionista e alle sculture fantastiche dall'impulso cinetico**: **un'arte per sognare un mondo migliore**.
 
     La ricerca artistica di **Martoriati** nasce più di trent'anni fa, con **Mario Schifano**, all'insegna della libertà, nell'ambito della Scuola di Piazza del Popolo. Il pittore, molto noto e apprezzato anche per le **sculture urbane**, intensamente simboliche e innovative, ora ha scelto la luce del Nord - Est per esprimere la propria poliedrica creatività. (orario: lun-ven 10 - 13 e 16 - 20/ mart aperto fino alle ore 24/ sab-dom su appuntamento/ info 335 6750946 329/ 328 9683335/ 329 3947761 - [www.mauromartoriati.it](http://www.mauromartoriati.it)).
+
+    <iframe src="https://www.youtube.com/embed/zcukaTrKeSM" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Abbandonando per il momento il resto del mondo_ - scrive Accerboni - **_Mauro Martoriati_**, _artista nomade e immaginifico, che_ **_ha operato per anni a Roma, New York, Madrid e Parigi_**, _per poi scegliere di stanziare per più di un decennio nella dolce_ **_Anguillara Sabazia (Lazio)_**, _lascia ora le sponde del lago di Bracciano e la latinità per aprire uno studio, dall'inusitato impianto scenografico, nel cuore di Trieste._
 

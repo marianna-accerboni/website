@@ -18,13 +18,13 @@ subEvents:
   - - "I papier collé di Maria Grazia Lazzari: ultimi giorni per visitare la mostra alla Galleria Rettori Tribbio di Trieste, con l'artista in galleria mercoledì 22 e giovedì 23 giugno"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/Yghw8PwryC8" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Sabato 11 giugno alle 18 s'inaugura alla Galleria Rettori Tribbio di Trieste (piazza Vecchia 6) la mostra intitolata _I papier collé di Maria Grazia Lazzari_, che sarà introdotta dall'architetto Marianna Accerboni. La rassegna propone più di una sessantina di opere realizzate a collage negli ultimi cinque anni, in cui, da acuta osservatrice e spiritosa interprete del reale, l'autrice adotta il modernissimo _medium_ del riciclo per raccontare un'esperienza di vita al femminile.** Per desiderio dell'artista tre dipinti contrassegnati dal bollino rosso verranno sorteggiati il giorno giovedì 23 giugno alle ore 18.30 tra tutti coloro che avranno la curiosità di assegnare un titolo alle opere stesse.
 
     **Fino al 24 giugno** (orario: feriali 10 · 12.30 e 17 · 19.30 / festivi 10 · 12 / venerdì 10 · 12.30 / lunedì chiuso/ info 335 6750946).
+
+    <iframe src="https://www.youtube.com/embed/Yghw8PwryC8" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Il novecento, in Arte, ha significato soprattutto libertà e innovazione. Da Braque a Picasso_ - scrive Accerboni - _fino al taglio di Fontana e alle esperienze a lui successive, ogni tecnica, linguaggio e stile è stato ammesso tra i_ media _che veicolano il verbo artistico. È così che si palesa, a poco a poco, la brillante creatività di Maria Grazia Lazzari, figlia d'arte, adepta per motivi professionali della precisione ma, proprio per questo, istintivamente attratta dal libero agire. Ed è così che nasce la necessità di svelare i molteplici aspetti della vita - e anche i sentimenti - attraverso un collage di emozioni, tenacemente e accuratamente ritagliate dalle pagine di riviste e quotidiani. A formare un caleidoscopio colorato, per raccontare il mondo, soprattutto al femminile._
 

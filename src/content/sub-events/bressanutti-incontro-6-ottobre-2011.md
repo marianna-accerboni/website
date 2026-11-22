@@ -16,14 +16,11 @@ bodySection:
 
     _Asciutto, formalmente disincantato ma sensibilissimo, nei suoi interni d'infanzia poverissima traccia un velo costante d'intimismo, donando nuova vita ad ambienti in cui la realtà doveva apparire ben più cruda._
 
-    Dove: Galleria Rettori Tribbio 2 · Piazza Vecchia, 6 · Trieste
-
-    Quando: 6 ottobre 2011
-
-    Orario: ore 18
-
-    A cura di: Marianna Accerboni
-
-    Info e contatti: +39 335 6750946
+    **Informazioni**
+    - Dove: Galleria Rettori Tribbio 2 · Piazza Vecchia, 6 · Trieste
+    - Quando: 6 ottobre 2011
+    - Orario: ore 18
+    - A cura di: Marianna Accerboni
+    - Info e contatti: +39 335 6750946
 draft: false
 ---

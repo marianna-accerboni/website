@@ -18,8 +18,6 @@ subEvents:
   - - Nell’ambito della mostra “Il Cammino” di Adriana Itri, giovedì 15 giugno 2023 al Doubletree by Hilton  di Trieste avrà luogo una visita guidata condotta dall’artista
 press:
   pressRelease: |-
-    ![Il profumo delle rose, 2022 - acrilico e smalto -  cm. 120x120](/media/cammino-il-profumo-delle-rose-2022-acrilico-e-smalto-cm-120x120.jpg "Il profumo delle rose, 2022 - acrilico e smalto -  cm. 120x120") 
-
     **MERCOLEDÌ 7 GIUGNO** alle 18.30 al **Double Tree by Hilton Trieste** (Piazza della Repubblica 1) avrà luogo l’**inaugurazione della mostra “IL CAMMINO” della pittrice Adriana Itri**, **che sarà introdotta dalla curatrice Marianna Accerboni**: in mostra **una quindicina di opere inedite, tutte realizzate nell’ultimo anno** ad acrilico, spesso implementato da smalti, pigmenti e calce e illuminato da polvere d’oro.
 
     Seguirà un vin d'honneur.
@@ -27,6 +25,8 @@ press:
     Fino al 17 giugno / orario: tutti i giorni ore 17 – 23 / info: +39 328 6953948/ adrianaitri@hotmail.it.
 
     _Dal suo atelier ai piedi del colle di San Giusto_ – scrive Accerboni _- Adriana Itri riflette nella sua pittura, attraverso riverberi dorati e luci repentine, i segreti palpiti di un universo senza confini, in cui ognuno di noi è solo come la rosa vermiglia che rappresenta un costante Leitmotiv della sua visione del mondo. Ma ognuno nel contempo guarda con delicato sentire ai suoi simili, rappresentati quali altrettanti fiori dipinti nel contesto di una natura infinita, in cui si librano foglie mosse come pensieri da un vento leggero._
+
+    ![Il profumo delle rose, 2022 - acrilico e smalto -  cm. 120x120](/media/cammino-il-profumo-delle-rose-2022-acrilico-e-smalto-cm-120x120.jpg "Il profumo delle rose, 2022 - acrilico e smalto -  cm. 120x120") 
 
     _Il ritmo che si avverte nelle sue opere è armonico e apparentemente lieve, in realtà cela un’intuizione profonda e istintiva, propria dei migliori artisti. Così, abbandonati – forse solo momentaneamente - gli abiti simbolo, che raccontano e denunciano la violenza di vario genere sulle donne e che hanno riscosso grande apprezzamento da parte della critica e del pubblico, dal 2020 Itri ha iniziato questo nuovo percorso dedicato a una natura gentile e misteriosa, che ci accoglie silente, salvo gli aliti di vento che ci ricordano, come i suoi delicati cromatismi, quelli della Venere del Botticelli._
 

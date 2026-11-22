@@ -20,22 +20,21 @@ press:
   pressRelease: |-
     _introduzione critica di Marianna Accerboni_
 
+    S'inaugura **sabato 24 settembre 2011 alle ore 18.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la personale del pittore Aldo Bressanutti, intitolata Tra ironia e metafisica, che sarà introdotta dall'architetto Marianna Accerboni: in mostra più di una ventina di oli su tavola realizzati tra il 2010 e il 2011 e dedicati alla poetica surreale degli interni di Cittàvecchia.** Visitabile **fino al 7 ottobre** (orario: feriali 10.00 - 12.30 / 17.00 - 19.30 · festivi 11.00 -12.30 · lunedì chiuso).
+
+    _Voce solista del panorama artistico triestino e regionale -_ scrive Accerboni _- Bressanutti è capace di coniugare l'indagine del reale, attraverso cui ci dona una testimonianza preziosa e imperitura degli interni scomparsi di Cittàvecchia, con il sogno introverso e metafisico, eppure solare, e la tenerezza del ricordo, celata dietro cenni ludici e ironici._
+
     <iframe src="https://www.youtube.com/embed/iPoEVlPS6oU" width="350" height="288"></iframe>
 
     Video dell'inaugurazione della mostra "Tra ironia e metafisica"
 
     di Aldo Bressanutti
 
-    S'inaugura **sabato 24 settembre 2011 alle ore 18.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la personale del pittore Aldo Bressanutti, intitolata Tra ironia e metafisica, che sarà introdotta dall'architetto Marianna Accerboni: in mostra più di una ventina di oli su tavola realizzati tra il 2010 e il 2011 e dedicati alla poetica surreale degli interni di Cittàvecchia.** Visitabile **fino al 7 ottobre** (orario: feriali 10.00 - 12.30 / 17.00 - 19.30 · festivi 11.00 -12.30 · lunedì chiuso).
-
-    _Voce solista del panorama artistico triestino e regionale -_ scrive Accerboni _- Bressanutti è capace di coniugare l'indagine del reale, attraverso cui ci dona una testimonianza preziosa e imperitura degli interni scomparsi di Cittàvecchia, con il sogno introverso e metafisico, eppure solare, e la tenerezza del ricordo, celata dietro cenni ludici e ironici._
-
     _Nel ritrarre la realtà - in questo caso i memorabili luoghi autobiografici - il pennello si tinge sovente di una sfumatura poetica, non dichiarata ma latente, che si addolcisce in un originale racconto, declinato dal pittore come un apparente divertissement._
 
     _Asciutto, formalmente disincantato, in realtà sensibilissimo, il pittore traccia, in particolare nei suoi interni d'infanzia e di esistenza poverissima, un velo costante d'intimismo, che rimane la sua cifra prima, donando nuova vita, attraverso il ricordo, ad ambienti in cui la realtà doveva apparire ben più cruda. È come se Bressanutti vi ambientasse e cercasse di raccontare - a noi e a se stesso - una favola a lieto fine, in cui la matrice intimista, espressa attraverso la volontà di rendere intima una realtà dura, ben si sposa -_ conclude Accerboni _- con la vena surreale, che negli interni rende, come nelle fiabe e nei cartoons, tutto possibile, al di là e al di fuori, al di sopra, appunto, del reale._
 
     ![La barchetta, 2011 - olio su tavola - cm 33x24](/media/events/aldo-bressanutti-tra-ironia-e-metafisica-2011/La_barchetta_2011_-_olio_su_tavola_-_cm_33x24.jpg "La barchetta, 2011 - olio su tavola - cm 33x24")
-
 
     **Aldo Bressanutti**, nato a Latisana nel 1923, inizia a dipingere giovanissimo. Del tutto autodidatta, riprende definitivamente l'attività pittorica nel '47, realizzando sia opere d'ispirazione narrativa, che lo rendono fin dagli inizi molto popolare, sia, subito dopo, lavori di gusto surreale. Ha esposto in importanti e numerose rassegne personali e collettive in Italia, Inghilterra, Germania, Canada, Australia, Spagna ecc. Nell'ultimo decennio è stato presente con i suoi quadri in varie città italiane ed estere: da Roma a Milano e Genova a Berlino, Toronto, Melbourne, Tenerife, Düsseldorf, Londra, Berna ecc., suscitando sempre molto interesse e conseguendo notevole successo.
 

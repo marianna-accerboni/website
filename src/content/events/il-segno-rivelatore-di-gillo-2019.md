@@ -25,25 +25,11 @@ subEvents:
   - - "Incontro con Giorgetta Dorfles"
 press:
   pressRelease: |-
-    ![Senza titolo, 1955 - litografia - cm 35x23](/media/events/il-segno-rivelatore-di-gillo-2019/Senza_titolo_1955_-_litografia_-_cm_35x23.jpg "Senza titolo, 1955 - litografia - cm 35x23")
-
-    **Biblioteca Statale _S. Crise_ • Trieste**
-
-    Mostra promossa da
-
-    **Associazione Culturale Gillo Dorﬂes • Milano**
-
-    ideazione e curatela
-
-    **arch. Marianna Accerboni**
-
-    inaugurazione
-
-    **venerdì 15 novembre ore 18.30**
-
-    conferenza stampa
-
-    **mercoledì 13 novembre ore 11.30**
+    **Il segno rivelatore di Gillo · Biblioteca Statale S. Crise, Trieste**
+    - Mostra promossa da: Associazione Culturale Gillo Dorfles · Milano
+    - Ideazione e curatela: arch. Marianna Accerboni
+    - Inaugurazione: venerdì 15 novembre, ore 18.30
+    - Conferenza stampa: mercoledì 13 novembre, ore 11.30
 
     <iframe src="https://www.youtube.com/embed/rzEAOVYjp5Y" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
 
@@ -54,6 +40,8 @@ press:
     **Venerdì 15 novembre 2019 alle ore 18.30 alla Biblioteca Statale _S. Crise_** di **Trieste** (Largo Papa Giovanni XXIII, 6) s'inaugura la mostra artistico/ documentaria **_Il segno rivelatore di Gillo_, ideata e curata dall'arch. Marianna Accerboni e promossa dall'Associazione Culturale Gillo Dorﬂes di Milano**, fondata da poco nella casa/studio del grande intellettuale artista. La rassegna si svolge **con il patrocinio del Comune di Trieste, in collaborazione con la Biblioteca Statale _S. Crise_ di Trieste, con la Media partnership del quotidiano Il Piccolo** / GEDI Gruppo Editoriale e partecipa all'iniziativa **LET'S Read - Trieste Città della Letteratura** - Candidata 2019 Città Creativa UNESCO. **La vernice sarà sottolineata da una performance di luce e musica ispirata a Dorﬂes e creata _site speciﬁc_ da Accerboni con la partecipazione della violista Sara Zoto, che interpreterà dal vivo le note che l'intellettuale/ artista amava, in considerazione anche della sua grande passione per quest'arte. Molto spesso infatti, ﬁno a tarda età, Gillo sedeva al pianoforte e improvvisava.**
 
     **La mostra rappresenta il primo evento espositivo dedicato a Gillo Dorﬂes dopo la sua morte, avvenuta a Milano il 2 marzo 2018. Non a caso viene proposta a Trieste, dove l'intellettuale/ artista era nato nel 1910 ed era vissuto ﬁno a tutta l'adolescenza, rimanendo sempre molto legato alla sua città d'origine**, in cui si era formato nell'ambito del ricco _milieu_ culturale dell'epoca, **a contatto con personaggi del calibro di Saba, Svevo, Leonor Fini, Leo Castelli, Bobi Bazlen. Per tale motivo l'esposizione sarà anche occasione per un approfondimento sul clima culturale della Trieste del Novecento**. Una città, in cui Dorﬂes ritornava ciclicamente a trovare la famiglia e per motivi di lavoro, ricordato con molto affetto ed entusiasmo dagli studenti che avevano
+
+    ![Senza titolo, 1955 - litografia - cm 35x23](/media/events/il-segno-rivelatore-di-gillo-2019/Senza_titolo_1955_-_litografia_-_cm_35x23.jpg "Senza titolo, 1955 - litografia - cm 35x23")
 
     frequentato i suoi corsi di Estetica all'Università di Trieste, dove aveva insegnato per molti anni. L'evento si situa in un ciclo di manifestazioni dedicato a personaggi internazionali della cultura triestina del '900, ideato e curato da Accerboni e iniziato con la mostra **_Leonor Fini. Memorie triestine_**, svoltasi all'Istituto Italiano di Cultura di Bruxelles nel 2017/2018, e con l'**_Incontro multimediale con Umberto Saba_**, svoltosi al Circolo della Stampa e alla Libreria Antiquaria Saba di Trieste nel settembre 2019 per celebrare il centenario dell'inizio dell'attività libraria di uno dei maggiori poeti italiani del '900. Il percorso si concluderà con la replica della mostra su **Leonor Fini** il prossimo anno a Trieste e a Parigi, testimoniando il particolare _milieu_ culturale della Trieste tra le due guerre e nel '900, in cui la memoria mitteleuropea s'incontrava con la realtà italiana. **Dorﬂes, Saba** e **Leonor Fini** sono infatti tre personalità che negli anni Trenta si conobbero e si frequentarono a Trieste assieme a **Bobi Bazlen, Leo Castelli** e **Svevo**, prima di decollare verso l'internazionalità.
 
@@ -79,33 +67,14 @@ press:
 
     **L'attività critica e di ﬁlosofo da un canto e quella di artista, hanno sempre seguito in lui binari paralleli**. **Nel '48**, in seguito anche agli stretti contatti con la **_Konkrete Kunst_ zurighese e gli svizzeri Lohse, Graeser e Roth**, era addivenuto a una posizione estetica internazionale e aveva fondato con altri, tra cui Bruno Munari, il **_MAC - Movimento Arte Concreta_**, contrario a ﬁgurazione e astrazione lirica, facendosi contemporaneamente interprete sul piano critico ed estetico di astrattismo e concretismo. **Nel '55 intraprese la carriera universitaria, che determinò una riduzione, in favore della graﬁca, dell'attività pittorica, ripresa verso la metà degli anni '80. Ha ricevuto molti premi prestigiosi tra cui il Compasso d'oro, la Medaglia d'oro alla Triennale di Milano, il San Giusto d'oro. E' del 2001** - conclude Accerboni - **la prima grande mostra al PAC, seguita, tra le altre, da quelle a Palazzo Reale e allo Studio Marconi di Milano e, nel 2015, al MACRO di Roma e dalla pubblicazione di un catalogo ragionato di tutte le opere (Mazzotta).**
 
-    _mostra promossa da_
-
-    **Associazione Culturale _Gillo Dorﬂes_ • Milano**
-
-    _ideata e curata da_
-
-    **arch. Marianna Accerboni**
-
-    _con il patrocinio_ del
-
-    **Comune di Trieste**
-
-    _in collaborazione con_
-
-    **Biblioteca Statale _S. Crise_ di Trieste**
-
-    _media partnership_
-
-    **Il Piccolo / GEDI Gruppo Editoriale**
-
-    _con il sostegno_
-
-    **Fondazione CRTrieste • Fondazione Kathleen Foreman Casali** - Trieste **• Samer&Co.shipping** - Trieste **• Ciaccio Arte Big Broker Insurance Group** - Milano **• Rotary Club Trieste Alto Adriatico • Spaziocavana Zinelli&Perizzi • Associazione APS Nova Accademia Alpe Adria • M° Marco Podda • Victoria Hotel Letterario • Bocconcino Trieste • Tenuta Baroni del Mestri** (Cormons, Gorizia)
-
-    _partecipa all'iniziativa_
-
-    **LET'S Read - Trieste Città della Letteratura** - Candidata 2019 Città Creativa UNESCO
+    **Crediti**
+    - Mostra promossa da: Associazione Culturale Gillo Dorfles · Milano
+    - Ideata e curata da: arch. Marianna Accerboni
+    - Con il patrocinio del: Comune di Trieste
+    - In collaborazione con: Biblioteca Statale S. Crise di Trieste
+    - Media partnership: Il Piccolo / GEDI Gruppo Editoriale
+    - Con il sostegno di: Fondazione CRTrieste • Fondazione Kathleen Foreman Casali - Trieste • Samer&Co.shipping - Trieste • Ciaccio Arte Big Broker Insurance Group - Milano • Rotary Club Trieste Alto Adriatico • Spaziocavana Zinelli&Perizzi • Associazione APS Nova Accademia Alpe Adria • M° Marco Podda • Victoria Hotel Letterario • Bocconcino Trieste • Tenuta Baroni del Mestri (Cormons, Gorizia)
+    - Partecipa all'iniziativa: LET'S Read - Trieste Città della Letteratura, candidata 2019 Città Creativa UNESCO
 
     ![sponsors](/media/events/il-segno-rivelatore-di-gillo-2019/loghi.jpg "sponsors")
 

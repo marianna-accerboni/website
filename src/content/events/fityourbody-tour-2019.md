@@ -12,11 +12,11 @@ info:
     - /media/events/fityourbody-tour-2019/invito.pdf
 press:
   pressRelease: |-
-    ![Paola Gregoric arpista](/media/events/fityourbody-tour-2019/Paola_Gregoric_arpista.jpg "Paola Gregoric arpista")
-
     **Lunedì 15 aprile 2019 alle ore 18 alla Biblioteca Statale S. Crise** di **Trieste** (Largo Papa Giovanni XXIII, 6) verrà presentato il **Fityourbody tour,** organizzato dallo **Studio di personal training Fityourbody di Trieste** (via del Lazzaretto Vecchio 18/1), **che ha ricevuto il vivo apprezzamento anche dal celebre rugbista Martin Castrogiovanni**: un viaggio articolato in quattro eventi che si terranno nel corso del 2019 e che vedrà protagonisti lo sport e il benessere come fenomeno di aggregazione, attorno al quale si muoveranno iniziative benefiche, artistiche e musicali.
 
     Contestualmente avrà luogo il primo degli eventi, il **Meeting Fityourbody**, workshop tecnico - scientifico che introdurrà il tema del **Fitness e Wellness d'avanguardia: il benessere attraverso un nuovo sistema professionale di allenamento _total body (EMS - Electrical Muscle Stimulation)_**, che verte anche sull'elettrostimolazione.
+
+    ![Paola Gregoric arpista](/media/events/fityourbody-tour-2019/Paola_Gregoric_arpista.jpg "Paola Gregoric arpista")
 
     Parteciperanno **Paola Lorenzon**, Responsabile del Laboratorio di Biofisica e Neurobiologia Cellulare dell'Università di Trieste, che affronterà l'argomento focalizzando l'attenzione sull'esercizio fisico: nuove sfide, **Cinzia Cosimi**, medico specialista in nefrologia, che approfondirà il concetto di benessere in rapporto alla prevenzione, ed **Enzo Lebani**, docente di Scienze motorie e sportive, che divulgherà alcuni dati statistici sul mercato del fitness & wellness, e sull'importanza dell'allenamento non solo per mettersi in forma ma soprattutto per il proprio benessere. lntervento musicale di **Paola Gregoric,** conduttrice **Marianna Accerboni.**
 

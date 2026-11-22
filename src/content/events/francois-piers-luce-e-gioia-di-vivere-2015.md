@@ -16,11 +16,11 @@ info:
     - /media/events/francois-piers-luce-e-gioia-di-vivere-2015/invito.pdf
 press:
   pressRelease: |-
-    ![In carrozzella sulla spiaggia, 2014 - acquerello - cm 46x61](/media/events/francois-piers-luce-e-gioia-di-vivere-2015/In_carrozzella_sulla_spiaggia_2014_-_acquerello_-_cm_46x61.jpg "In carrozzella sulla spiaggia, 2014 - acquerello - cm 46x61")
-
     **Sabato 16 maggio alle 19 alla Galleria Rettori Tribbio di Trieste (piazza Vecchia 6) s'inaugura la prima esposizione italiana del pittore belga François Piers, intitolata _Luce e gioia di vivere_. Nella rassegna, curata dall'arch. Marianna Accerboni con Flavio Tossi, incontriamo più di una sessantina di vivaci ma nel contempo delicati acquerelli, dipinti dall'artista dal 2004 a oggi. In questa sorta di luminosa antologica spicca anche l'ultima, originale produzione del poliedrico autore di Ostenda: una serie di vetri ispirati ai personaggi che popolano le sue opere ambientate in Tunisia, della quale è console onorario in Belgio, e che vengono presentati in prima assoluta a Trieste. Alle affascinanti spiagge dorate del Mare del Nord e ai verdi paesaggi delle Fiandre e della Francia, Piers accosta il ricco, colorato e a volte misterioso mondo orientale, sottolineando in tal modo ineffabilmente la propria capacità d'interpretare il reale anche attraverso la terza dimensione.**
 
     **La mostra propone una visione sottilmente lirica della realtà, dietro alla quale scorre con semplicità la lunga storia dell'arte fiamminga, nelle sue propaggini più contemporanee e romanticamente idealiste, come per esempio quella perseguita dal grande pittore brussellese Jean-Michel Folon.**
+
+    ![In carrozzella sulla spiaggia, 2014 - acquerello - cm 46x61](/media/events/francois-piers-luce-e-gioia-di-vivere-2015/In_carrozzella_sulla_spiaggia_2014_-_acquerello_-_cm_46x61.jpg "In carrozzella sulla spiaggia, 2014 - acquerello - cm 46x61")
 
     **Nel corso della vernice sarà presentata anche la monografia dell'artista con testi di Flavio Tossi e Marianna Accerboni** (**fino al 22 maggio**/ orario: feriali 10.00 - 12.30 e 17.00 - 19.30 / domenica 10.00 - 12 / lunedì e venerdì pomeriggio chiuso).
 

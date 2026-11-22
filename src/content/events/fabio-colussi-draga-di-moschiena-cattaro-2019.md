@@ -16,11 +16,11 @@ info:
     - /media/events/fabio-colussi-draga-di-moschiena-cattaro-2019/invito.pdf
 press:
   pressRelease: |-
-    ![24. Luci in laguna, 2015 - olio - cm 30x50](/media/events/fabio-colussi-draga-di-moschiena-cattaro-2019/24._Luci_in_laguna_2015_-_olio_-_cm_30x50.JPG "24. Luci in laguna, 2015 - olio - cm 30x50")
-
     **Giovedì 15 agosto prende avvio a Draga di Moschiena (Croazia) la prima tappa della mostra intitolata "Fabio Colussi. Il pittore dell'Adriatico" che, allestita alla Galleria La Cisterna, sarà visitabile fino al 31 agosto, per poi spostarsi dal 4 al 25 settembre a Cattaro (Montenegro) nella prestigiosa sede di Palazzo Pima**. **In mostra 25 raffinati dipinti a olio: secondo il progetto della curatrice Marianna Accerboni, che introdurrà l'esposizione, testimonieranno il fascino e le luci dell'Adriatico lungo un itinerario pittorico ideale che dall'Istria e dalla Dalmazia condurrà, attraverso le vedute dell'artista, a Trieste e Venezia.** L'evento espositivo, organizzato dalle **Comunità Italiane di Draga di Moschiena e del Montenegro con il sostegno di Università Popolare di Trieste e Regione FVG, apre, quale evento clou, la ”Settimana di lingua, arte e cultura italiana” in Croazia e in Montenegro.**
 
     _Un ponte culturale tra Trieste, la Croazia e il Montenegro attraverso la pittura dell'artista triestino Fabio Colussi_ - scrive Accerboni -. _Colussi si è formato studiando i grandi pittori triestini del passato, sospesi tra la lezione artistica della pittura veneziana e quella proveniente dalla cultura mitteleuropea. Dipinge i primi acquerelli a 4 anni, i temi sono paesaggi, boschi e figure realizzati anche a pastelli a cera; più tardi approccia la tempera e l'acrilico, per poi passare nei primi anni novanta all'olio su tela e su tavola. Per realizzare i suoi lavori, trae spunto dagli schizzi annotati su un taccuino che porta sempre con sé e che talvolta sono implementati, per quanto riguarda le architetture, da appunti fotografici. Le sue opere sono presenti in collezioni negli Stati Uniti, Germania, Spagna, Australia e Belgio._ _Ha esposto a livello europeo e recentemente, con molto successo, a Bruxelles._
+
+    ![24. Luci in laguna, 2015 - olio - cm 30x50](/media/events/fabio-colussi-draga-di-moschiena-cattaro-2019/24._Luci_in_laguna_2015_-_olio_-_cm_30x50.JPG "24. Luci in laguna, 2015 - olio - cm 30x50")
 
     ![4. Marina istriana con pescatori 2, 2017 - olio - cm 40x60](/media/events/fabio-colussi-draga-di-moschiena-cattaro-2019/4._Marina_istriana_con_pescatori_2_2017_-_olio_-_cm_40x60.JPG "4. Marina istriana con pescatori 2, 2017 - olio - cm 40x60")
 

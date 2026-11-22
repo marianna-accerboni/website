@@ -13,12 +13,11 @@ info:
     - /media/events/enrico-fraulini-sognando-venezia-2011/invito.pdf
 press:
   pressRelease: |-
-    ![Dipinto di Nello Pacchietto per la copertina del libro](/media/events/enrico-fraulini-sognando-venezia-2011/immagine_cop_fraulini.png "Dipinto di Nello Pacchietto per la copertina del libro")
-
-
     **Venerdì 14 ottobre 2011** alle **ore 18.30 alla LUX ART GALLERY di Trieste (via Rittmeyer 7/A), l'architetto Marianna Accerboni, curatrice dell'incontro, presenterà in anteprima l'ultimo romanzo dello scrittore e poeta Enico Fraulini, intitolato . Viaggio in treno di un triestino (Edizioni Italo Svevo, pgg. 54, € 10,00). Sarà presente l'Autore, che rievocherà la genesi del libro, la cui copertina riporta un'opera del pittore istriano Nello Pacchietto.**
 
     **L'iniziativa rappresenta il primo evento collaterale della mostra _Nello Pacchietto. Dipingere la poesia_, dedicata all'artista (Capodistria 1922 - Venezia 2003) con il patrocinio del Comune di Trieste, promossa da Giorgio e Anita Parovel, rispettivamente moglie e nipote dell'artista, e curata da Accerboni. La rassegna rimarrà visitabile fino al 31 ottobre nel nuovo spazio espositivo istituito dallo stesso Parovel e da Manuel Levi e inauguratosi di recente davanti a più di 1200 persone con un'originale vernice multimediale ideata da Accerboni.**
+
+    ![Dipinto di Nello Pacchietto per la copertina del libro](/media/events/enrico-fraulini-sognando-venezia-2011/immagine_cop_fraulini.png "Dipinto di Nello Pacchietto per la copertina del libro")
 
     _Un triestino prende il treno per andare a Venezia dalla sua fidanzata. Ma il breve viaggio gli riserva un'incredibile sorpresa. Tra un evento misterioso che lo travolge improvvisamente e l'inaspettata incertezza del futuro che si presenta davanti, tra un passato che potrebbe ritornare e un avvenire insondabile, il viaggiatore si ritrova solo e pieno d'ansia in un mondo nuovo come potrebbe essere quello del domani._
 

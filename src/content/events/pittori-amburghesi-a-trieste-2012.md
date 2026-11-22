@@ -19,11 +19,11 @@ subEvents:
   - - "Prosegue con successo fino al 31 ottobre la mostra Pittori amburghesi a Trieste: giovedì 18 ottobre ore 18.30 visita guidata alla Biblioteca Statale Stelio Crise"
 press:
   pressRelease: |-
-    ![Aaron D. Neumann - Faro della Vittoria - 2011 - cm. 40x50 - olio su tela](/media/events/pittori-amburghesi-a-trieste-2012/Aaron_D._Neumann_-_Faro_della_Vittoria_-_2011_-_cm._40x50_-_olio_su_tela.jpg "Aaron D. Neumann - Faro della Vittoria - 2011 - cm. 40x50 - olio su tela")
-
     **Nell'ambito delle Giornate del Patrimonio indette dal Ministero per i Beni e le Attività culturali, prende il via giovedì 27 settembre 2012 alle ore 19.15 alla Biblioteca Statale Stelio Crise di Trieste (Largo Papa Giovanni XXIII, 6 · 1° piano ), con un vernissage di musica e luce, un'importante e unica rassegna che vede per la prima volta presenti sul territorio giuliano 6 prestigiose firme dell'arte visiva amburghese contemporanea. 150 le opere, che saranno esposte in 5 sedi cittadine: gli artisti sono Hinnerk Bodendieck, Herbert Grunwald, Meike Lipp, Aaron D. Neumann, Regina Porip e Hieronymus Proske e nei loro lavori si riflette il fascino dell'atmosfera marittima della città anseatica e la luce del mare del Nord, con interessanti analogie con il nostro porto. E proprio a Trieste sono ispirati diversi dipinti presenti in mostra, creati dai pittori appositamente per questa prestigiosa rassegna.**
 
     **L'evento è organizzato dal gruppo.040, uno Studio di architettura con sede ad Amburgo, Monaco ed Erfurt, e nasce da un'idea dell'arch. ing. Krista Blassy, responsabile dello Studio PAB ARCHITEKTEN, e del designer Roberto Weck, triestino di nascita, attivo ad Amburgo da 25 anni. La manifestazione è realizzata in collaborazione con l'arch. Marianna Accerboni.**
+
+    ![Aaron D. Neumann - Faro della Vittoria - 2011 - cm. 40x50 - olio su tela](/media/events/pittori-amburghesi-a-trieste-2012/Aaron_D._Neumann_-_Faro_della_Vittoria_-_2011_-_cm._40x50_-_olio_su_tela.jpg "Aaron D. Neumann - Faro della Vittoria - 2011 - cm. 40x50 - olio su tela")
 
     **4 le sedi espositive: oltre alla Biblioteca Statale, dove i lavori dei pittori tedeschi saranno esposti al 1° piano fino al 31 ottobre** (orario da lun a ven 9.30 18.30 / giov 9.30 · 21.45 / sab 9.30 · 13.30 / Giornate Europee del Patrimonio sab 29 e dom 30 settembre: 9.30 · 18.30), **l'evento artistico avrà luogo in alcune sedi satellite come** lo **Yacht Club Adriaco** (Molo Sartorio, **4** • **31 ottobre**, vernissage su invito 4 ottobre alle 19, orario tutti i giorni 10 · 22) e la **Società Triestina Canottieri Adria 1877** (Pontile Istria, **6** • **31 ottobre**, vernissage 6 ottobre ore 19, orario da mart a sab 10 · 19, festivi 10 · 13, lun chiuso); inoltre, fino al 15 ottobre, **la mostra sarà ospitata al Molo IV.**
 
@@ -58,30 +58,20 @@ press:
     **Gallerie satellite**
 
     **Yacht Club Adriaco**
-
-    Molo Sartorio
-
-    4 · 31 ottobre
-
-    vernissage 4 ottobre ore 19 (su invito)
-
-    orario: tutti i giorni 10 · 22
+    - Indirizzo: Molo Sartorio · Trieste
+    - Periodo: 4 – 31 ottobre
+    - Vernissage: 4 ottobre, ore 19 (su invito)
+    - Orario: tutti i giorni 10 · 22
 
     **Società Triestina Canottieri Adria 1877**
-
-    Pontile Istria
-
-    6 · 31 ottobre
-
-    vernissage 6 ottobre ore 19
-
-    orario: da mart a sab 10 · 19 / festivi 10 · 13 / lun chiuso
+    - Indirizzo: Pontile Istria · Trieste
+    - Periodo: 6 – 31 ottobre
+    - Vernissage: 6 ottobre, ore 19
+    - Orario: da mart a sab 10 · 19 / festivi 10 · 13 / lun chiuso
 
     **Molo IV**
-
-    10 · 15 ottobre
-
-    orario: tutti i giorni 9 · 20
+    - Periodo: 10 – 15 ottobre
+    - Orario: tutti i giorni 9 · 20
 gallerySection:
   gallery:
     - image: /media/events/pittori-amburghesi-a-trieste-2012/foto_di_gruppo_Amburghesi.jpg

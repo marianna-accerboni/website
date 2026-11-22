@@ -24,8 +24,6 @@ subEvents:
   - - "Selezionati i vincitori della V° edizione del Concorso Internazionale di Pittura Dario Mulitsch: oggi sabato 6 giugno al Palazzo Attems di Gorizia la premiazione e l'inaugurazione della mostra"
 press:
   pressRelease: |-
-    ![Allestimento](/media/events/concorso-mulitsch-gorizia-2015/Allestimento_2.jpg "Allestimento")
-
     **_Conferenza stampa di presentazione_**
 
     **Mercoledì 3 giugno 2015 ore 12**
@@ -41,6 +39,8 @@ press:
     **Palazzo Attems · piazza De Amicis 5 · Gorizia**
 
     L'Associazione Culturale Concorso di Pittura _Dario Mulitsch_ di Gorizia invita alla **conferenza stampa di presentazione della mostra e del catalogo degli artisti selezionati al prestigioso Concorso internazionale di Pittura _Dario Mulitsch_ 2012**, **promosso dall'Associazione stessa** e **giunto** quest'anno, con cadenza biennale, **alla V edizione.** L'evento è intitolato dalla moglie Caterina alla figura di **Dario Mulitsch, illuminato imprenditore goriziano di antica nobiltà sassone, fondatore del Centro Culturale _Tullio Crali_ e appassionato promotore della cultura e delle arti**. Mulitsch, di cui si commemora quest'anno il 10° anniversario della morte, è stato autore della raccolta delle _Poesie dell'infinito,_ premiata dalla Giuria del Premio _Franz Kafka Italia_ - Edizione 2012, e del volume intitolato _Chi siamo, da dove veniamo,_ sull'origine dell'uomo, editi da _La laguna._
+
+    ![Allestimento](/media/events/concorso-mulitsch-gorizia-2015/Allestimento_2.jpg "Allestimento")
 
     **Sabato 6 giugno alle ore 17.30** avrà luogo nel prestigioso **Palazzo Attems di Gorizia la premiazione, l'inaugurazione della mostra degli artisti selezionati e la presentazione al pubblico del catalogo**. Il Concorso, **aperto a tutte le tecniche e tendenze artistiche, è suddiviso in una Sezione riservata agli Artisti e in una agli Studenti, ognuna delle quali ripartita in _Tema libero_ e nel tema _La 1° guerra mondiale nell'immaginario contemporaneo_.** Nella presente edizione il concorso ha registrato un'affluenza maggiore di artisti rispetto agli anni passati e numerosi sono stati anche gli studenti. La **prima Giuria tecnica, composta da 3 critici,** ha provveduto a una prima scrematura, **selezionando** i lavori di **70 artisti e 27 studenti su 255 opere pervenute (di cui 205 artisti e 50 studenti) provenienti da varie regioni italiane** (Friuli, Veneto, Emilia Romagna, Lombardia, Piemonte, Toscana, Lazio, Campania, Abruzzo, Sicilia), da Slovenia, Croazia, Austria, Germania e Francia, mentre gli studenti provengono da licei artistici italiani (_Max Fabiani_ Gorizia), sloveni (_Gimnazija_ Nova Gorica) e austriaci (BRG Viktring Klagenfurt). Tutte le opere selezionate saranno esposte nella prestigiosa sede goriziana di Palazzo Attems e inserite nel catalogo del V Concorso Mulitsch.
 

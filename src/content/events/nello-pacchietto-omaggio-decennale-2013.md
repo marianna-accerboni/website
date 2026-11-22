@@ -16,11 +16,11 @@ info:
     - /media/events/nello-pacchietto-omaggio-decennale-2013/invito.pdf
 press:
   pressRelease: |-
-    ![Muggia arrivo del Re Carnevale, 1985 - disegno a penna - cm 20x18.5](/media/events/nello-pacchietto-omaggio-decennale-2013/Muggia_arrivo_del_Re_Carnevale_-_1985_-_disegno_a_penna_-_cm_20x18.5.jpg "Muggia arrivo del Re Carnevale, 1985 - disegno a penna - cm 20x18.5")
-
     **S'inaugura il 10 ottobre alle ore 17 all'Unione degli Istriani di Trieste (via S. Pellico 2) la rassegna “Omaggio a Nello Pacchietto nel decennale della morte”, dedicata all'importante artista (Capodistria 1922 - Venezia 2003), che sarà presentata dall'arch. Marianna Accerboni: in mostra quasi una cinquantina di opere** (fino al 18 ottobre/ orario: lun-ven 10-12/ info 3347231216).
 
     _Dipingere la poesia non è facile. Nello Pacchietto, finissimo disegnatore, pittore e incisore_ - scrive Accerboni _- lo ha fatto per tutta la vita, con passione, dal suo fascinoso studio a due passi dall'acqua, situato in un palazzetto quattrocentesco della magica isola della Giudecca, quando ancora quest'ultima non era meta dei Vip. E a due passi dalla moglie Anita, che lo ha sempre accompagnato amorevolmente, da quando, nel '50, avevano lasciato l'amata Capodistria per Venezia._
+
+    ![Muggia arrivo del Re Carnevale, 1985 - disegno a penna - cm 20x18.5](/media/events/nello-pacchietto-omaggio-decennale-2013/Muggia_arrivo_del_Re_Carnevale_-_1985_-_disegno_a_penna_-_cm_20x18.5.jpg "Muggia arrivo del Re Carnevale, 1985 - disegno a penna - cm 20x18.5")
 
     _Nella città lagunare il pittore ebbe modo di conoscere e frequentare poeti, artisti, scrittori notissimi, tra cui il poeta Diego Valeri, con il quale nacque un'amicizia così intensa che, per esempio, la serie di liriche_ Storie di mare, molto rappresentativa della creatività dell'artista, _fu scritta praticamente a quattro mani._
 

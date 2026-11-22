@@ -19,11 +19,11 @@ subEvents:
   - - "Fabio Colussi. Attimi di luce: prorogata fino al 15 gennaio 2017 la mostra personale del pittore triestino al Salone d'Arte contemporanea di Trieste"
 press:
   pressRelease: |-
-    ![Momento magico a Venezia, 2015/ 2016 - olio su tela - cm 30x50](/media/events/fabio-colussi-attimi-di-luce-2016/Momento_magico_a_Venezia_2015_2016_-_olio_su_tela_-_cm_30x50.jpg "Momento magico a Venezia, 2015/ 2016 - olio su tela - cm 30x50")
-
     Dopo il grande successo della mostra di Venezia, da poco conclusasi, si apre il **3 dicembre alle 18 al Salone d'Arte Contemporanea di Trieste (via della Zonta 2) la personale del pittore triestino Fabio Colussi,** intitolata **_Attimi di luce_ e introdotta sul piano critico dalla curatrice Marianna Accerboni**: in mostra **più di una ventina di oli su tela inediti, realizzati con grande maestria dall'artista tra il 2015 e il 2016.**
 
     _In questa rassegna_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare di Venezia e della laguna, accostandolo a quello della sua città, Trieste. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica, caratterizza le marine veneziane e quelle triestine: con grande abilità tecnica e avvalendosi di infinite velature, Colussi cattura l'ineffabile luce del golfo di Trieste e quella magica della Serenissima e della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._ Fino al 31 dicembre (orario: tutti i giorni 10 · 12 / 16.30 · 19/ info 335 6750946 - 348 8965899).
+
+    ![Momento magico a Venezia, 2015/ 2016 - olio su tela - cm 30x50](/media/events/fabio-colussi-attimi-di-luce-2016/Momento_magico_a_Venezia_2015_2016_-_olio_su_tela_-_cm_30x50.jpg "Momento magico a Venezia, 2015/ 2016 - olio su tela - cm 30x50")
 
     ![Momento magico, 2015/ 2016 -olio su tela - cm 40x60](/media/events/fabio-colussi-attimi-di-luce-2016/Momento_magico_2015_2016_-olio_su_tela_-_cm_40x60.jpg "Momento magico, 2015/ 2016 -olio su tela - cm 40x60")
 

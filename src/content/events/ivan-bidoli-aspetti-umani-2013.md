@@ -16,13 +16,13 @@ info:
     - /media/events/ivan-bidoli-aspetti-umani-2013/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/l3fIOoiKqLI" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura sabato 8 giugno alle 19 nell'Atrio della Questura di Trieste, la mostra personale del pittore Ivan Bidoli intitolata “Gli aspetti umani verso il terzo millennio”, che sarà presentata dal Questore Giuseppe Padulano e sotto il profilo critico da Marianna Accerboni, curtrice del'esposizione: in mostra una cinquantina di preziose tecniche miste realizzate dal 2010 a oggi.** L'artista, classe 1933, che festeggia con questo evento i 50 anni di attività, è stato l'unico allievo del grande architetto e urbanista Max Fabiani, dal quale fu profondamente apprezzato. Espone dal '60 con grande successo in Italia e all'estero e per la sua arte è stato ripetutamente premiato con la medaglia d'oro. Con grande eleganza, tecnica complessa e raffinata e un pizzico d'umana ironia, racconta con sensibilità, attraverso un linguaggio simbolico e intuizioni del tutto personali, pregi e difetti dell'animo umano, castigando le dipendenze e i vizi ed esaltando la bellezza femminile e i sentimenti, con grande attenzione al sociale e alla storia (**fino al 30 giugno**/ da lun a sab 10-20/ festivi 10-13/ il maestro sarà a disposizione per illustrare le opere ogni sabato, dom e lun 9 - 13/ info 333 6569779).
 
     _Tra ironia e metafora, sogno e bellezza, idioma ed epica popolari e fine inventiva tecnica_ - scrive Marianna Accerboni - _si dipana il racconto serio e nel contempo un po' faceto, drammatico e giocoso di Ivan Bidoli, cantore della femminilità e delle miserie umane, dell'amore e degli emarginati._
+
+    <iframe src="https://www.youtube.com/embed/l3fIOoiKqLI" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Talento raffinato, ma nel contempo vicino al sentimento e al mondo degli umili, l'artista racconta, attraverso un segno valente e incisivo e una tecnica complessa, elegante e laboriosa, molteplici e contrastanti aspetti della realtà contemporanea, con attenzione al sociale e alla storia, e libera nel contempo la propria inclinazione al sogno nella composizione di raffinate allegorie d'ispirazione e tema rinascimentali._
 

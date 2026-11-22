@@ -17,11 +17,11 @@ subEvents:
   - - "Fabio Colussi. Luce: mostra prorogata al Salone d'Arte di Trieste fino al 31 gennaio 2016. Il 9 gennaio visita guidata."
 press:
   pressRelease: |-
-    ![Vele sul mare, 2015 - olio su tela - cm. 500x30](/media/events/fabio-colussi-luce-2015/17_Vele_sul_mare_2015_-_olio_su_tela_-_cm._500x30.jpg "Vele sul mare, 2015 - olio su tela - cm. 500x30")
-
     Dopo il grande successo della mostra di Venezia, da poco conclusasi, si apre il **5 dicembre alle 19.15 al Salone d'Arte Contemporanea di Trieste (via della Zonta 2) la personale del pittore triestino Fabio Colussi,** intitolata **_Luce_ e introdotta sul piano critico dalla curatrice Marianna Accerboni**: in mostra **più di una ventina di oli su tela inediti, realizzati con grande maestria dall'artista soprattutto nel 2015.**
 
     _In questa rassegna_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare di Venezia e della laguna, accostandolo a quello della sua città, Trieste. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica, caratterizzano le marine veneziane e quelle triestine: con grande abilità tecnica e avvalendosi di infinite velature, Colussi cattura l'ineffabile luce del golfo di Trieste e quella magica della città lagunare, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._ Fino al 31 dicembre (orario: tutti i giorni 10 · 12 / 17 · 19/ info 335 6750946 - 348 8965899).
+
+    ![Vele sul mare, 2015 - olio su tela - cm. 500x30](/media/events/fabio-colussi-luce-2015/17_Vele_sul_mare_2015_-_olio_su_tela_-_cm._500x30.jpg "Vele sul mare, 2015 - olio su tela - cm. 500x30")
 
     _Memore di una vena neoclassica, che appartiene culturalmente a Trieste, l'artista prosegue in modo del tutto personale l'antica tradizione di pittori e vedutisti attivi a Venezia nel '700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l'interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri pittori e vedutisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell'altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo ottocento e nel primo novecento, accanto all'Accademia di Monaco, per gli artisti triestini._
 

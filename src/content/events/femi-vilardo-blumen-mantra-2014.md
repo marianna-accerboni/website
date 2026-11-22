@@ -19,13 +19,13 @@ subEvents:
   - - "Blumen mantra: venerdì 3 ottobre 2014 al Museo d'Arte Moderna Ugo Carà di Muggia, nell'ambito della personale della pittrice Femi Vilardo, avrà luogo la performance “Cupidus minimus” di Fabiola Faidiga + Enrico Bonivento"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/21TV7B57rUE?list=UULOxGOgwZ9UMDyWOFxAwKEA" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Sabato 27 settembre 2014 alle ore 18.30 s'inaugura al Museo d'Arte Moderna _Ugo Carà_ di Muggia (via Roma 20), con la presentazione critica della curatrice Marianna Accerboni, la personale della pittrice triestina Femi Vilardo intitolata _Blumen mantra_.**
 
     **La mostra - proposta dall'Associazione _Juliet_, in collaborazione con l'Assessorato alla Cultura del Comune di Muggia - si inserisce nel programma _PRACC_ che l'Amministrazione Comunale di Muggia ha varato, già nel 2007, assieme alle associazioni culturali _Photo-Imago_, _Gruppo 78_ e _Juliet_ con l'intento di promuovere e valorizzare le nuove forme artistiche contemporanee, in una prospettiva nazionale e internazionale.**
+
+    <iframe src="https://www.youtube.com/embed/21TV7B57rUE?list=UULOxGOgwZ9UMDyWOFxAwKEA" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     **In mostra più di una ventina di opere scelte, tecniche miste e stampe artistiche digitali stampate in alta definizione su tela, per la maggior parte inedite e realizzate ad hoc nel 2014, in cui l'artista affronta maggiormente la grande dimensione. Con la consueta, fascinosa, calibrata raffinatezza inventiva e tecnica - scrive Accerboni - Vilardo sa comporre un messaggio di passione e riflessione sulla vita e il suo divenire, simbolizzato dalla rosa e sospeso fra caducità e rinascita** (fino al 18 ottobre/ orario da mart a ven 17- 19; sab 10-12 e 17-19; dom e festivi 10-12/ info Comune di Muggia-Assessorato alla Cultura 040 3360340 - [ufficio.cultura@comunedimuggia.ts.it](mailto:ufficio.cultura@comunedimuggia.ts.it) - [www.benvenutiamuggia.eu](http://www.benvenutiamuggia.eu)).
 

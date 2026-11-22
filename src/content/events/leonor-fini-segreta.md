@@ -20,19 +20,13 @@ press:
   pressRelease: |-
     **Una mostra multimediale di pittura, musica e percezione olfattiva**, che prosegue l’indagine sulla personalità e l’arte della grande pittrice attraverso la sua fondamentale formazione giovanile a Trieste
 
-    **MIDeC / Museo Internazionale del Design • Laveno-Mombello (Varese)**
-    10 aprile • 3 luglio 2022
-
-    Mostra promossa da
-    **Associazione Foemina APS • Trieste**
-
-    in coorganizzazione con
-    **Assessorato alla Cultura del Comune di Laveno-Mombello (Varese)**
-
-    ideazione, allestimento e curatela
-    **arch. Marianna Accerboni**
-
-    inaugurazione: **domenica 10 aprile ore 10**
+    **Leonor Fini segreta · MIDeC, Laveno-Mombello (Varese)**
+    - Sede: MIDeC / Museo Internazionale del Design · Laveno-Mombello (Varese)
+    - Periodo: 10 aprile – 3 luglio 2022
+    - Inaugurazione: domenica 10 aprile, ore 10
+    - Mostra promossa da: Associazione Foemina APS · Trieste
+    - In coorganizzazione con: Assessorato alla Cultura del Comune di Laveno-Mombello (Varese)
+    - Ideazione, allestimento e curatela: arch. Marianna Accerboni
 
     ![Leonor Fini - Ritratto di Maria Giussani - 1946 - olio - cm 25x21 - collezione privata, Trieste - © Marianna Accerboni](/media/fini_segreta-1-b-leonor-fini-ritratto-di-maria-giussani-1946-olio-cm-25x21-collezione-privata-trieste-marianna-accerboni.jpg "Leonor Fini - Ritratto di Maria Giussani - 1946 - olio - cm 25x21 - collezione privata, Trieste - © Marianna Accerboni")
 
@@ -79,25 +73,14 @@ press:
 
     ![Loghi](/media/fini_segreta-pannello-loghi.jpg "Loghi")
 
-    **LEONOR FINI SEGRETA. CERAMICA e PITTURA, NOTE e PROFUMI**
+    **Info**
+    - Info e contatti: +39 0332 625551 · +39 335 6750946 · leonorfinisegretalaveno@gmail.com
+    - Segreteria MIDeC: segreteria@midec.org
+    - Catalogo e profumi: disponibili nel bookshop della mostra, oppure al +39 335 6750946 · leonorfinisegretalaveno@gmail.com
 
-    **INFO:** +39 0332 625551 / +39 335 6750946
-
-    leonorfinisegretalaveno@gmail.com
-
-    Segreteria MIDeC - segreteria@midec.org
-
-    **Il catalogo e i profumi sono disponibili nel bookshop della mostra**
-
-    o contattando **+39 335 6750946** o scrivendo a **leonorfinisegretalaveno@gmail.com**
-
-    **Ufficio Stampa** del Comune di Laveno-Mombello (Varese)
-
-    Francesco Bonadiman - c.bonadiman@gmail.com
-
-    **Ufficio Stampa** della mostra
-
-    Studio Pierrepi - Alessandra Canella / +39 348 3423647 / canella@studiopierrepi.it
+    **Ufficio stampa**
+    - Comune di Laveno-Mombello: Francesco Bonadiman · c.bonadiman@gmail.com
+    - Mostra: Studio Pierrepi, Alessandra Canella · +39 348 3423647 · canella@studiopierrepi.it
 gallerySection:
   gallery:
     - image: /media/fini_segreta-1-b-leonor-fini-ritratto-di-maria-giussani-1946-olio-cm-25x21-collezione-privata-trieste-marianna-accerboni.jpg

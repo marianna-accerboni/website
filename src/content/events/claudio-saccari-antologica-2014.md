@@ -19,13 +19,13 @@ subEvents:
   - - "Presentata al Palazzo del Consiglio Regionale di Trieste l'antologica Claudio Saccari 1964 - 2014. Cinquant'anni di fotografia: martedì 23 dicembre visita guidata"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/V21auqtt-Ec" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     E' stata presentata oggi al Consiglio Regionale FVG di Trieste l'antologica **Claudio Saccari 1964 - 2014. Cinquant'anni di Fotografia, che s'inaugura lunedì 15 dicembre ore 13.00 nella stessa sede.** Il Consigliere regionale Emiliano Edera, che ha portato i saluti del Presidente della Consiglio regionale Franco Iacop, ha precisato che l'esposizione si affianca alla celebrazione del cinquantesimo anniversario del Consiglio regionale FVG. Edera ha inoltre sottolineato la volontà della Regione di proporre attraverso le fotografie di Saccari una sezione di immagini dedicate al Centenario della Grande Guerra, che vada a coprire tutte le province del territorio regionale.
 
     “Un protagonista del panorama della fotografia artistica italiana”, così la curatrice Marianna Accerboni ha definito l'autore “perché ha saputo affrontare nel corso di cinquant'anni di attività, molteplici espressioni delle avanguardie”.
+
+    <iframe src="https://www.youtube.com/embed/V21auqtt-Ec" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     A corredo dell'antologica è stato editato un elegante e accurato catalogo che testimonia, attraverso un centinaio di opere in bianco e nero e a colori - tanti sono i lavori in mostra - il percorso dell'esposizione, suddiviso in 5 sezioni, che ripercorrono l'evoluzione del linguaggio dell'autore dal mezzo analogico a quello digitale e dallo stile narrativo e neorealista a quello surreale e d'ispirazione pop, dalla narrazione figurativa classica e neoromantica fin quasi al limitare dell'astrazione _(_**_fino al 31 dicembre_**. _Orario: da lunedì a giovedì 9.30 ·12.30 e 14.30 · 16.30 / venerdì 9.30 · 13.00 / info: 040 3773106 · 335 6750946)._
 

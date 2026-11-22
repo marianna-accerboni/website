@@ -16,11 +16,11 @@ info:
     - /media/events/claudio-saccari-l-urlo-dei-silenzi-2014/invito.pdf
 press:
   pressRelease: |-
-    ![L'Urlo dei silenzi 11, 2014 - foto digitale - cm 70x50](/media/events/claudio-saccari-l-urlo-dei-silenzi-2014/LUrlo_dei_silenzi_11_2014_-_foto_digitale_-_cm_70x50.jpg "L'Urlo dei silenzi 11, 2014 - foto digitale - cm 70x50")
-
     Dopo il grande successo della mostra personale al Museo Regionale di Capodistria, l'itinerario espositivo del fotografo-artista Claudio Saccari prosegue a Trieste nell'elegante spazio espositivo dell'Hotel Duchi Vis à Vis (piazza dello Squero Vecchio 1) con “L'urlo dei silenzi”, una rassegna curata dall'arch. Marianna Accerboni, che s'inaugura venerdì 6 giugno alle 19 ed è dedicata a un tema del tutto nuovo: ossia il grido che divampa dalla solitudine, in un momento d'intima introspezione davanti alla bellezza di una natura algida, a volte misteriosa o surreale.
 
     Una quindicina di foto digitali, realizzate tutte nel 2014, ci conducono ancora una volta per mano in un mondo magico, questa volta soprattutto interiore. L'ambientazione delle immagini paesaggistiche modulata prevalentemente secondo un'infinita gamma di tonalità azzurre o argentee ci traducono dalla realtà in un universo lievemente onirico, al cui baricentro incontriamo quasi sempre - simbolo e protagonista - l'essere umano con la sua psiche (fino al 27 giugno/ orario lunedì - venerdì 9 - 17/ info 3484503368). Saccari è inoltre presente fino al 30 settembre con 20 opere al'Hotel Harmonie del Faaker See (Austria).
+
+    ![L'Urlo dei silenzi 11, 2014 - foto digitale - cm 70x50](/media/events/claudio-saccari-l-urlo-dei-silenzi-2014/LUrlo_dei_silenzi_11_2014_-_foto_digitale_-_cm_70x50.jpg "L'Urlo dei silenzi 11, 2014 - foto digitale - cm 70x50")
 
     ![L'urlo dei silenzi 13, 2014 - foto digitale - cm 70x50](/media/events/claudio-saccari-l-urlo-dei-silenzi-2014/Lurlo_dei_silenzi_13_2014_-_foto_digitale_-_cm_70x50.jpg "L'urlo dei silenzi 13, 2014 - foto digitale - cm 70x50")
 

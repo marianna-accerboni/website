@@ -16,7 +16,9 @@ info:
     - /media/events/bellezza-per-la-bonta-2012/invito.pdf
 press:
   pressRelease: |-
-    **2ª sede: Castello di Duino (Trieste)**. **Quando:** 10 - 25 novembre 2012. **Orario:** di apertura del Castello.
+    **Seconda sede: Castello di Duino (Trieste)**
+    - Periodo: 10 – 25 novembre 2012
+    - Orario: di apertura del Castello
 
     <iframe src="https://www.youtube.com/embed/AQpR-SIffOQ" width="350" height="288"></iframe>
 

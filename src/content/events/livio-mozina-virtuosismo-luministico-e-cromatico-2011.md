@@ -20,13 +20,13 @@ press:
   pressRelease: |-
     _introduzione critica di Marianna Accerboni_
 
-    <iframe src="https://www.youtube.com/embed/y5l3Ngj3yL0" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura **sabato 8 ottobre 2011 alle ore 18.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la mostra intitolata _Il virtuosismo luministico e cromatico_ di Livio Možina, che sarà introdotta dall'architetto Marianna Accerboni: in mostra quasi una cinquantina di oli su compensato marino di mogano, realizzati negli ultimi tre anni e dedicati a un'interpretazione ideale della natura.** Visitabile **fino al 21 ottobre** (orario: feriali 10.00 - 12.30 / 17.00 - 19.30 · festivi 11.00 -12.30 · lunedì chiuso / domenica 9 e domenica 16 : 10.00 - 13.00 e 16.00 - 18.00).
 
     _Autodidatta, e proprio per questo, nel suo caso, talento autentico, Možina_ - scrive Marianna Accerboni - _si è costruito da più di quarant'anni a questa parte (dipinge infatti dal '69), un linguaggio autonomo nell'ambito della pittura figurativa d'inclinazione narrativa, attingendo istintivamente, per certi versi, alla cultura dell'Est, cui in parte si possono ascrivere la sua ispirazione e la sua origine._
+
+    <iframe src="https://www.youtube.com/embed/y5l3Ngj3yL0" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Non a caso l'artista dipinge ascoltando incessantemente la musica romantica dei compositori russi dell'ottocento minore, da Kalinikov a Glazunov, da Balakiren a Rimski Korsakov; e, ineffabilmente, le sue composizioni - formalmente perfette, virtuosistiche anche sotto il profilo cromatico e nel contempo delicate - riflettono a volte la luce e l'atmosfera immobile eppure vitale, legata alla natura, tipica di molti pittori russi del XIX e del XX secolo._
 

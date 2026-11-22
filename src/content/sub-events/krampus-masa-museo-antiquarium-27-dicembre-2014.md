@@ -14,24 +14,21 @@ bodySection:
 
     **Davide Maset in arte Masa** (Conegliano, TV, 1990), diplomato al Liceo Artistico _Bruno Munari_ di Vittorio Veneto (TV), frequenta attualmente il corso di Laurea in Beni Culturali all'Università Ca' Foscari di Venezia. Ha esposto in sedi prestigiose quali il Museo del Cenedese e Palazzo Ragazzoni-Flangini-Biglia e in occasione dell'_Anno_ _della cultura italiana_ negli USA ha ricevuto a New York il _Premio Internazionale_ _ProArte 2014_.
 
-    **DOVE** e **ORARIO:**
+    **Sedi e orari**
 
-    **Torre medioevale ·** piazza Unità d'Italia **·** Tarvisio (UD)
+    **Torre medioevale**
+    - Indirizzo: piazza Unità d'Italia · Tarvisio (UD)
+    - Inaugurazione: venerdì 5 dicembre, ore 11
+    - Orario: da lun a ven 10 – 12 e 16 – 18 / sab 10 – 12 e 16 – 19 / dom 10 – 13
 
-    **inaugurazione: venerdì 5 dicembre ore 11**
+    **Museo Antiquarium**
+    - Indirizzo: Vicolo Florianca · Camporosso · Tarvisio (UD)
+    - Visita guidata: sabato 27 dicembre, ore 18.30
+    - Orario: ven, sab e dom 10 – 12 e 15 – 18
 
-    da lun a ven 10 - 12 e 16 - 18/ sab 10 - 12 e 16 - 19/ dom 10 - 13
-
-    **Museo Antiquarium ·** Vicolo Florianca · Camporosso
-
-    **_visita guidata_ sabato 27 dicembre ore 18.30** · Tarvisio (UD)
-
-    ven sab e dom 10 - 12 e 15 - 18
-
-    **Reporter's · via Roma 15 · Tarvisio (UD)**
-
-    **_opening_ sabato 6 dicembre ore 17**
-
-    tutti i giorni 9 - 12.30 e 15 - 19
+    **Reporter's**
+    - Indirizzo: via Roma 15 · Tarvisio (UD)
+    - Opening: sabato 6 dicembre, ore 17
+    - Orario: tutti i giorni 9 – 12.30 e 15 – 19
 draft: false
 ---

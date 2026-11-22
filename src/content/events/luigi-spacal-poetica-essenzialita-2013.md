@@ -20,11 +20,11 @@ subEvents:
   - - "Prorogata fino al 26 luglio alla Galleria One San Nicolò di Trieste la mostra antologica “Luigi Spacal. La poetica dell'essenzialità”"
 press:
   pressRelease: |-
-    ![L.Spacal - Paese istriano, 1951 - olio su tela su faesite - cm 71x58](/media/events/luigi-spacal-poetica-essenzialita-2013/spacal1.jpg "L.Spacal - Paese istriano, 1951 - olio su tela su faesite - cm 71x58")
-
     S'inaugura giovedì 20 giugno alle 19 **nell'elegante Galleria One San Nicolò (Via S. Nicolò 1) di Trieste, diretta da Parmiani, una prestigiosa rassegna dedicata al pittore Luigi Spacal (Trieste 1907 - 2000), raffinato poeta dell'essenziale, e curata dall'arch. Marianna Accerboni: in mostra una sessantina di opere, in prevalenza dipinti, ma anche disegni e incisioni, realizzati dal maestro dagli anni '30 ai '90. Nell'ambito della rassegna alcuni lavori di Spacal saranno esposti anche nella storica “Nuova bottega” di Parmiani a Barcola (v.le Miramare 103/a).**
 
     Il linguaggio essenziale e icastico del pittore e incisore continua ad affascinare ed è ormai divenuto nel corso del tempo, senza dimenticare altre tematiche, icona e memoria del Carso e del lavoro, connotate da un segno personalissimo e avvincente e da accostamenti cromatici raffinati e illimitati. Non per nulla Spacal, che fu anche attivo nella scultura, nell'arazzo e nella litografia, partecipò più volte alle Quadriennali romane e alla Biennale di Venezia, dove nel '54 e '58 ottenne il 1° premio per la grafica (fino al 21 luglio/ orario 10-13 e 17-20/ dom e lun chiuso/ info 335 6750946/ 040 410311/ 349 7174017).
+
+    ![L.Spacal - Paese istriano, 1951 - olio su tela su faesite - cm 71x58](/media/events/luigi-spacal-poetica-essenzialita-2013/spacal1.jpg "L.Spacal - Paese istriano, 1951 - olio su tela su faesite - cm 71x58")
 gallerySection:
   gallery:
     - image: /media/events/luigi-spacal-poetica-essenzialita-2013/SPACAL.jpg

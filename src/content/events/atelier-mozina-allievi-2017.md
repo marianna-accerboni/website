@@ -16,11 +16,11 @@ info:
     - /media/events/atelier-mozina-allievi-2017/invito.pdf
 press:
   pressRelease: |-
-    ![Gabriella Pitacco - Aria di festa, 2017 - olio - cm 40x40](/media/events/atelier-mozina-allievi-2017/Gabriella_Pitacco_-_Aria_di_festa_2017_-_olio_-_cm_40x40.jpg "Gabriella Pitacco - Aria di festa, 2017 - olio - cm 40x40")
-
     **Sabato 26 agosto alle 18 s'inaugura alla Galleria _Rettori Tribbio_ di Trieste (piazza Vecchia 6) la mostra, quest'anno intitolata _Livio Možina. L'arte di insegnare l'arte_ e giunta all'VIII edizione, che propone le opere realizzate nel 2016/ 2017 da 76 allievi del corso che il maestro tiene in Galleria. La rassegna, che sarà introdotta dall'architetto Marianna Accerboni**, **propone dipinti di gusto figurativo, realizzati tutti a olio su tela o su tavola, ognuno dei quali rappresenta il quadro simbolo tra i molti realizzati nel corso dell'anno da ciascun artista**.
 
     **Fino all'8 settembre** (orario: feriali 10 · 12.30 e 17 · 19.30 / domenica 10 · 12 / venerdì pomeriggio e lunedì chiuso/ info 335 6750946).
+
+    ![Gabriella Pitacco - Aria di festa, 2017 - olio - cm 40x40](/media/events/atelier-mozina-allievi-2017/Gabriella_Pitacco_-_Aria_di_festa_2017_-_olio_-_cm_40x40.jpg "Gabriella Pitacco - Aria di festa, 2017 - olio - cm 40x40")
 
     _Ritorna anche quest'anno quello che è ormai considerato un appuntamento artistico molto significativo per la nostra città: è la mostra_ - scrive Marianna Accerboni _- degli allievi del maestro Livio Možina, pittore finissimo e insegnante molto valente, capace di trasferire ai propri discepoli, accanto alle tecniche pittoriche che ormai sono in genere sempre meno diffuse e conosciute, anche “l'arte di stare insieme” e di lavorare uno accanto all'altro in armonia, scambiandosi suggerimenti e conoscenza. Quest'anno inoltre gli allievi sono ancor più numerosi delle stagioni passate, seguendo un concetto di crescita esponenziale, che aveva preso il via nel 2009, periodo in cui fu fondata la scuola, che cerca di sopperire all'assenza in ambito triestino e regionale di una accademia di belle arti istituzionale._
 

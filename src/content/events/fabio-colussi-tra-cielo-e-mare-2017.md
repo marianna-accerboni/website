@@ -16,11 +16,11 @@ info:
     - /media/events/fabio-colussi-tra-cielo-e-mare-2017/invito.pdf
 press:
   pressRelease: |-
-    ![Porto Vecchio, 2015 - olio su tela - cm 30x50](/media/events/fabio-colussi-tra-cielo-e-mare-2017/Porto_Vecchio_2015_-_olio_su_tela_-_cm_30x50.jpg "Porto Vecchio, 2015 - olio su tela - cm 30x50")
-
     **Mercoledì 20 aprile 2017 alle ore 19 alla Sala Comunale d'Arte di Trieste** (piazza Unità d'Italia 4) **avrà luogo l'inaugurazione della personale del pittore Fabio Colussi, dal titolo _Tra cielo e mare_, che sarà presentata sul piano critico dall'arch. Marianna Accerboni. In mostra una trentina di oli su tela e su tavola inediti, realizzati dal 2015 a oggi e dedicati alle vedute marine di Trieste e di Venezia** (orario tutti i giorni 10 · 13 e 17 · 20/ info +39 335 6750946).
 
     _Ho conosciuto Fabio Colussi molti anni fa_ - scrive Accerboni - _e ho avuto modo di seguire poi nel tempo, con piacere, l'evoluzione coerente e appassionata del suo lavoro pittorico, che lo ha condotto, dalla narrazione attenta e delicata della veduta marina verso traguardi sempre più elevati, raggiunti attraverso un'interpretazione del paesaggio d'acqua sottilmente poetica e intrisa di molteplici valenze luministiche._
+
+    ![Porto Vecchio, 2015 - olio su tela - cm 30x50](/media/events/fabio-colussi-tra-cielo-e-mare-2017/Porto_Vecchio_2015_-_olio_su_tela_-_cm_30x50.jpg "Porto Vecchio, 2015 - olio su tela - cm 30x50")
 
     _Affascinato dal mare, ritratto sempre in momenti di quiete e perciò rasserenanti, l'artista ci offre con la sua pittura un idillio lieve e al contempo profondo con la natura, che si estrinseca nei notturni sull'acqua veneziani, in cui un sogno lieve solca la veduta, o nei tramonti infuocati che rendono l'orizzonte marino unico a Trieste, com'ebbe occasione di farmi notare alcuni anni fa, nel corso di un'intervista, il celebre architetto Richard Rogers._
 

@@ -14,13 +14,13 @@ info:
     - /media/events/alessandra-scarino-il-preferito-della-strada-2019/invito.pdf
 press:
   pressRelease: |-
-    ![Vito Timmel - L'albero della vita (Eternità), 1942 - tecnica mista su cartone - cm 65x95](/media/events/alessandra-scarino-il-preferito-della-strada-2019/Vito_Timmel_-_Lalbero_della_vita_Eternita_1942_-_tecnica_mista_su_cartone_-_cm_65x95.jpg "Vito Timmel - L'albero della vita (Eternità), 1942 - tecnica mista su cartone - cm 65x95")
-
     Venerdì 1 febbraio 2019 alle ore 18.30, all'Auditorium Marco Sofianopulo del Museo Revoltella (Via Diaz 27, Trieste), verrà presentato il libro di Alessandra Scarino “Il preferito della strada. Il magico viaggio di Vito Timmel” (pgg 132, LibertàEdizioini, € 12,00). Interverranno l'architetto Marianna Accerboni e la prof.ssa Cristina Benussi. Sarà presente l'autrice.
 
     **L'autrice**
 
     Alessandra Scarino è nata a Trieste nel 1966. Laureata in Lettere moderne, ha pubblicato nel 1999 la silloge di racconti fantastici e _noir_ “Gli Interiora”, nel 2004 il romanzo breve “Infanzia di Gesù”, nel 2014 il romanzo “Il silenzio dell'angelo” e nel 2017 una nuova silloge di racconti tutti al femminile e ambientati nel Medioevo dal titolo “Fiori di aconito”. Attualmente lavora come giornalista presso il settimanale diocesano “Vita Nuova”.
+
+    ![Vito Timmel - L'albero della vita (Eternità), 1942 - tecnica mista su cartone - cm 65x95](/media/events/alessandra-scarino-il-preferito-della-strada-2019/Vito_Timmel_-_Lalbero_della_vita_Eternita_1942_-_tecnica_mista_su_cartone_-_cm_65x95.jpg "Vito Timmel - L'albero della vita (Eternità), 1942 - tecnica mista su cartone - cm 65x95")
 
     ![Vito Timmel - Paesaggio (Panorama di Radkersburg), 1916-18 - olio su cartone - cm 1916/ 18 ca](/media/events/alessandra-scarino-il-preferito-della-strada-2019/Vito_Timmel_-_Paesaggio_Panorama_di_Radkersburg_1916-18_-_olio_su_cartone_-_cm_1916_18_ca.jpg "Vito Timmel - Paesaggio (Panorama di Radkersburg), 1916-18 - olio su cartone - cm 1916/ 18 ca")
 

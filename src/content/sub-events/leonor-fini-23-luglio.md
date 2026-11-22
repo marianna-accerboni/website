@@ -14,21 +14,14 @@ bodySection:
 
     La mostra è realizzata in coorganizzazione con l’Assessorato alla Cultura del Comune di Trieste, in collaborazione con Biblioteca Statale Isontina di Gorizia, Assessorato alla Cultura del Comune di Laveno-Mombello (Varese), MIDeC-Museo Internazionale del Design Ceramico di Laveno-Mombello, con la media partnership del quotidiano Il Piccolo e con il sostegno delle Fondazioni CRTrieste e Kathleen Foreman Casali, Associazione Giuliani nel Mondo, Studio Luce Sime Vignuda Gruppo Comet, Ciaccio Arte Big Broker Insurance Group, Milano, Rotary Club Trieste Alto Adriatico, Azienda Agricola Zidarich  (Prepotto, Duino Aurisina, Trieste), Sponza Tappezzeria Trieste,  Andromeda, Ottica Dambrosi Trieste, Flowers Gorizia, Laboratorio cornici Asso di Quadri, Plexi & Star.
 
-    DOVE: Polo museale del Magazzino 26 · Porto vecchio · Trieste
-
-    DATA e ORARIO APPUNTAMENTO COLLATERALE: 23 luglio alle 18.30
-
-    DATE MOSTRA: 26 giugno_22 agosto 2021
-
-    ORARIO MOSTRA: mercoledì e giovedì 10_13 e 17_20 / venerdì e domenica 10_13 e 17_21 / sabato 10_13 e 15_21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 81)
-
-    A CURA DI: Marianna Accerboni
-
-    CATALOGO: sì
-
-    INFO: leonorfinimemorietriestine@gmail.com
-
-    CELL. +39 335 6750946
+    **Informazioni**
+    - Dove: Polo museale del Magazzino 26 · Porto vecchio · Trieste
+    - Appuntamento: 23 luglio alle 18.30
+    - Periodo: 26 giugno – 22 agosto 2021
+    - Orario: mercoledì e giovedì 10 – 13 e 17 – 20 / venerdì e domenica 10 – 13 e 17 – 21 / sabato 10 – 13 e 15 – 21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 81)
+    - A cura di: Marianna Accerboni
+    - Catalogo: sì
+    - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
     ![Arturo Nathan - L'attesa (Autoritratto al tramonto), 1940 - olio su tavola - cm 65x90 - coll. privata, Trieste - © Marianna Accerboni](/file/get/Eventi/memorie_triestine_2021/gallery/Arturo_Nathan_-_Lattesa_Autoritratto_al_tramonto_1940_-_olio_su_tavola_-_cm_65x90_-_coll._privata_Trieste_-__Marianna_Accerboni.jpg "Arturo Nathan - L'attesa (Autoritratto al tramonto), 1940 - olio su tavola - cm 65x90 - coll. privata, Trieste - © Marianna Accerboni") Arturo Nathan - L'attesa (Autoritratto al tramonto), 1940
 

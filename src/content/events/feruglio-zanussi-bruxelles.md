@@ -15,11 +15,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![](/media/mail.jpg)
-
     **Inaugurata con grande successo alla presenza di un folto pubblico internazionale, all’ufficio di collegamento della Regione FVG nella capitale belga, la seconda tappa del progetto “L’arte della regione Friuli Venezia giulia a Bruxelles”: in mostra più di una cinquantina di importanti opere dei pittori friulani Claudio Mario Feruglio e Toni Zanussi** 
 
     Inaugurata con grande successo all'Ufficio di collegamento della Regione Friuli Venezia Giulia a Bruxelles, davanti a un folto pubblico internazionale, la seconda tappa del progetto **_L’arte della Regione Friuli Venezia Giulia a Bruxelles_**. A presentare l'evento, che vede protagonisti fino al 31 ottobre con due personali e più di una cinquantina di importanti opere i pittori friulani **Claudio Mario Feruglio** e **Toni Zanussi**, sono intervenuti **il capo di gabinetto della Presidenza della Regione FVG Sandra Sodini, il Console Generale d'Italia a Bruxelles e Reggente dell'Istituto Italiano di Cultura Francesco Varriale e l’architetto Marianna Accerboni, ideatrice e curatrice dell’intero progetto**.
+
+    ![](/media/mail.jpg)
 
     La prima tappa era rappresentata dalla rassegna _L’arte triestina al femminile nel ‘900 d’avanguardia italiano ed europeo_ (protagoniste Leonor Fini, Maria Lupieri, Maria Melan, Anita Pittoni e Miela Reina), conclusasi con grande successo il 31 luglio all’Istituto Italiano di Cultura di Bruxelles. 
 

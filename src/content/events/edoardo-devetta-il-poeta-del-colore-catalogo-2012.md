@@ -15,11 +15,11 @@ info:
     - /media/events/edoardo-devetta-il-poeta-del-colore-catalogo-2012/invito.pdf
 press:
   pressRelease: |-
-    ![Edoardo Devetta](/media/events/edoardo-devetta-il-poeta-del-colore-catalogo-2012/Edoardo_Devetta_2.jpg "Edoardo Devetta")
-
     **_Devetta, il poeta del colore_, la mostra dedicata dal Consiglio regionale fino al 9 novembre al maestro triestino scomparso quasi vent'anni fa, è ora corredata da un elegante catalogo, che è stato presentato in questi giorni al Palazzo del Consiglio regionale da Piero Tononi**, **componente l'Ufficio di presidenza**, **assieme a Paolo Cavallini**, **nipote del maestro e curatore del coordinamento generale della mostra e del catalogo**, e **a Marianna Accerboni, autrice del testo critico della mostra.**
 
     Le opere, quasi una settantina di tele, raccontano il percorso evolutivo lungo quarant'anni di Devetta, dal figurativo all'astratto, attraverso una continua ricerca artistica che lo ha portato a raggiungere prestigiosi traguardi come la partecipazione alla Biennale di Venezia nel 1966 e a numerose Quadriennali di Roma.
+
+    ![Edoardo Devetta](/media/events/edoardo-devetta-il-poeta-del-colore-catalogo-2012/Edoardo_Devetta_2.jpg "Edoardo Devetta")
 
     _La bellezza e il valore di una pittura ricca di valenze cromatiche e tonali, da cui scaturisce la luce, e connotata con armonico equilibrio da un segno intenso e nel contempo delicato, rappresentano il filo conduttore della rassegna intitolata “Devetta, il poeta del colore”, dedicata fino al 9 novembre al grande artista, nei prestigiosi spazi del Palazzo del Consiglio Regionale. In tale sede è stato presentato in questi giorni anche l'elegante catalogo della rassegna (pgg. 82, Battello stampatore), che, attraverso 65 oli su tela e un acquarello di grande freschezza e immortale attualità, realizzati dal '40 ai primi anni '80, ricorda il pittore (Trieste 1912 - 1993) a quasi vent'anni dalla morte._
 

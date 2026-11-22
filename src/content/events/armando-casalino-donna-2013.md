@@ -18,11 +18,11 @@ subEvents:
   - - "Donna: venerdì 22 marzo all'Atelier WorkingART di Trieste finissage della mostra personale dell'artista fotografo Armando Casalino"
 press:
   pressRelease: |-
-    ![Femen](/media/events/armando-casalino-donna-2013/0014Femen_Ita-700_7753.jpg "Femen")
-
     S'inaugura **venerdì 8 marzo 2013 alle ore 19 all'Atelier WorkingART (Via del Trionfo 1) di Trieste, la mostra dell'artista fotografo Armando Casalino, che sarà introdotta dall'architetto Marianna Accerboni. La rassegna, sostenuta da** dall'Associazione culturale _WorkingArt_ e dall'Associazione onlus _Il Ponte_ di Trieste,
 
     propone **15 foto di grande dimensione, tra cui alcuni megawall, realizzate nel 2013 con tecnica digitale su supporto rigido**. **Testimonial della mostra saranno alcune donne appartenenti alla sezione italiana dell'Associazione Femen, nata in Ucraina alcuni anni fa per difendere la dignità e i diritti della donna soprattutto contro la prostituzione**. Le associate protestano coperte da tatuaggi e a seno nudo e alcune compariranno nelle immagini esposte in mostra.
+
+    ![Femen](/media/events/armando-casalino-donna-2013/0014Femen_Ita-700_7753.jpg "Femen")
 
     La rassegna invita a riflettere sul tema della donna e su alcuni aspetti del vivere al femminile: sulla donna vista attraverso il Burka o attraverso l'assurda pratica della mutilazione, come il _breast ironing_ (stiramento del seno) e l'infibulazione genitale, ma anche attraverso la dolcezza di essere donna, la bellezza della pubertà, la rabbia dell'incomprensione, la solitudine, l'ambiguità della crisi d'identità, la depressione, la felicità, la femminilità (**fino al 22 marzo** con orario: da lun a sab 10 · 12 e 16 · 19/ dom 10 · 12)
 

@@ -16,13 +16,13 @@ info:
     - /media/events/claudia-raza-verso-l-infinito-2015/invito.pdf
 press:
   pressRelease: |-
-    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/dB3wvjfGQn4" width="350" height="288"></iframe>
-
-    Video dell' inaugurazione
-
     **Venerdì 3 luglio 2015 alle ore 19 s'inaugura al Museo d'Arte Moderna _Ugo Carà_ di Muggia la mostra personale della pittrice Claudia Raza, intitolata _Verso l'infinito_. Organizzata dal Comune di Muggia – Assessorato alla Cultura e introdotta sul piano critico dall'arch. Marianna Accerboni, la rassegna propone una trentina di opere realizzate dall'artista dalla fine degli anni '90 a oggi e suddivise in tre tematiche: le scritture dipinte, i libri d'artista e i canneti** (fino al 26 luglio / orario: da mart a ven 18 - 20; sabato 10 - 12 e 18 - 20; dom e festivi 10 - 12 / info Comune di Muggia - Assessorato alla Cultura 040 3360340 - [ufficio.cultura@comunedimuggia.ts.it](mailto:ufficio.cultura@comunedimuggia.ts.it) - [www.benvenutiamuggia.eu](http://www.benvenutiamuggia.eu)).
 
     _Il poetico sentire_ - scrive Accerboni - _si traduce nelle anime elette in forme diverse e biunivoche: così accade per la bella Claudia Raza, nei cui verdi occhi scintillano dolcezza e fermezza, lirismo, entusiasmo, misura e riflessione, dolce rigore._
+
+    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/dB3wvjfGQn4" width="350" height="288"></iframe>
+
+    Video dell' inaugurazione
 
     _Nata in una famiglia di architetti, l'artista declina, con delicata tenacia e prolifica laboriosità, la sua interpretazione del reale in tre ambiti diversi: la pittura, in seno alla quale vanno collocati anche il disegno e l'amata incisione; la poesia, persuasiva, profonda e riservata - così come lo è la figurazione - commovente nella sua essenzialità e nella sua apparente semplicità. E poi ci sono i libri d'artista, piccoli autentici capolavori, personalissimi e variegati, che a volte sfiorano il concetto di scultura e di bassorilievo: in questi deliziosi oggetti d'arte, realizzati per la maggior parte con carta fatta a mano dall'artista stessa o in carta finlandese con finezze particolari come il legnetto di sommaco che fa da chiusura al libro sul Carso, la Raza riesce a comporre una simbiosi perfetta tra pittura e (spesso) figurazione da un canto ed espressione poetica e letteraria dall'altro. ”Adornando” - è il caso di dirlo - o sottolineando queste calibrate, sobrie ed eleganti composizioni attraverso intrecci di segni e intarsi di calligrafie antiche come la carolingia od onciale o più contemporanee come quella realizzata con i caratteri mobili. Ed ecco quindi lo svelarsi della duplice natura dell'artista e delle sue inclinazioni più proprie: la capacità di raccontare attraverso il pennello e la scrittura._
 

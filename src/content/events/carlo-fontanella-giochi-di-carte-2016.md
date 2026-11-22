@@ -18,11 +18,11 @@ subEvents:
   - - "Giochi di carte: domenica 21 agosto 2016 al Museo d'Arte Moderna Ugo Carà di Muggia finissage della mostra personale di Carlo Fontanella"
 press:
   pressRelease: |-
-    ![Punto croce, 2016 - carta, ferro e legno - cm 80X90](/media/events/carlo-fontanella-giochi-di-carte-2016/Punto_croce_2016_-_carta_ferro_e_legno_-_cm_80X90.jpg "Punto croce, 2016 - carta, ferro e legno - cm 80X90")
-
     **Giovedì 4 agosto 2016 alle ore 19 s'inaugura al Museo d'Arte Moderna _Ugo Carà_ di Muggia la mostra personale del pittore Carlo Fontanella, intitolata _Giochi di carte_. Organizzata dal Comune di Muggia – Assessorato alla Cultura e introdotta sul piano critico dall'arch. Marianna Accerboni, la rassegna propone una ventina tra dipinti, installazioni e video realizzati di recente dall'artista che, di origine campana, è attivo nel Friuli Venezia Giulia da più di quarant'anni** (fino al 21 agosto / orario: da mart a ven 18 - 20; sabato 10 - 12 e 18 - 20; dom e festivi 10 - 12 / info Comune di Muggia - Assessorato alla Cultura 040 3360340 - [ufficio.cultura@comunedimuggia.ts.it](mailto:ufficio.cultura@comunedimuggia.ts.it) - [www.benvenutiamuggia.eu](http://www.benvenutiamuggia.eu/)).
 
     Artista complesso ma essenziale - _scrive Accerboni_ - Carlo Fontanella si esprime da sempre per cicli unitari, allusivi e simbolici, nel cui ambito la scelta estetica e linguistica dimostra sempre di appartenere a un ritmo consequenziale e logico in rapporto alle opere pregresse, anche molto lontane. E certamente sarà così pure in futuro.
+
+    ![Punto croce, 2016 - carta, ferro e legno - cm 80X90](/media/events/carlo-fontanella-giochi-di-carte-2016/Punto_croce_2016_-_carta_ferro_e_legno_-_cm_80X90.jpg "Punto croce, 2016 - carta, ferro e legno - cm 80X90")
 
     Coerente, ma sempre capace d'innovazioni, l'artista immagina e costruisce ogni sua mostra come una sorta di opera totale, che compendia l'arte della pittura e della scultura accanto alla capacità d'interpretare lo spazio deputato anche attraverso installazioni che hanno il seme dell'originalità e nello stesso tempo della riconoscibilità. Ed esprimendosi attraverso moduli geometrici mediante i quali fantasticare.
 

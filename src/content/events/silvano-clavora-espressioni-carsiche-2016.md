@@ -14,13 +14,13 @@ info:
     - /media/events/silvano-clavora-espressioni-carsiche-2016/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/2EFOR_EYX5U" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     Mercoledì 9 marzo alle ore 18.30 alla Sala Comunale d'arte di Trieste (piazza Unità d'Italia 4) avrà luogo l'inaugurazione della rassegna “Espressioni carsiche” del pittore Silvano Clavora, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni e dal prof. Sergio Brossi. Nella mostra, con cui il pittore festeggia sessant'anni di pittura, è esposta una quindicina di opere di grande formato realizzate negli ultimi anni a tecnica mista (cemento bianco e grigio e acrilico). Fino al 3 aprile (orario: feriale e festivo 10 · 13 / 17 · 20/ info 335 6750946).
 
     Immaginifico autore dalla variegata produzione pittorica, instancabile operatore e organizzatore culturale e docente di discipline artistiche, Silvano Clavora si presenta ora alla Sala Comunale d'arte con un tema che testimonia un vecchio amore: il Carso. Espresso negli anni settanta attraverso una fine visione pittorica e grafica delicatamente neoromantica, ricca di cromatismi aderenti al reale e sottolineata da un segno incisivo e preciso, negli anni ottanta con atmosfere al limite dell'informale e negli anni novanta grazie a una sintesi segnica e cromatica di notevole originalità, il nostro altipiano è rivisitato in questa mostra da Clavora mediante una serie di concrezioni in cemento bianco e grigio e in acrilico, realizzate negli ultimi anni, che ci riconducono alla sassosità e alla pietrosità del Carso, evidenziandone le superfici scabre, aperte e lacerate spesso come ferite nella pietra e nella terra. Sperimentatore inesauribile e appassionato in particolare del paesaggio, l'artista ha orientato infatti, fin dagli esordi, avvenuti nei primi anni cinquanta, la propria ricerca verso la verifica di numerose tecniche e stili, espletandoli sempre in modo personale e coerente.
+
+    <iframe src="https://www.youtube.com/embed/2EFOR_EYX5U" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     Oggi il Carso, che, con le sue asprezze, le sue infinite sfumature e il suo fascino misterioso, ha rappresentato per Clavora il luogo e il momento fisico da cui partire per una complessa e variegata avventura creativa, viene espletato dall'autore come emozione pura, cromatica e materica, simbolizzando così uno degli approdi del suo lungo itinerario pittorico. Percorso che l'artista ha saputo sempre condurre con una sensibilità e una capacità fantastica in continua evoluzione, facendosi interprete dello spirito delle avanguardie del 2° novecento e degli anni 2000.
 

@@ -19,13 +19,13 @@ subEvents:
   - - "Mostra Viaggio letterario e romantico nella Trieste di Svevo e di Saba del pittore Furio Bomben alla Sala Comunale d'Arte di Trieste: venerdì 24 febbraio incontro con l'artista e la curatrice Marianna Accerboni sul tema “Bomben illustratore di libri”"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/_UzaYZylKVs" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **Lunedì 6 febbraio 2012 alle ore 18.30 a Trieste alla Sala Comunale d'Arte** (Piazza dell'Unità d'Italia 4) **avrà luogo l'inaugurazione della mostra personale del pittore e illustratore Furio Bomben, intitolata “_Viaggio letterario e romantico nella Trieste di Svevo e di Saba_”. La rassegna, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni, propone una trentina di opere su carta realizzate dall'artista nel 2011 e rimarrà visitabile fino al 26 febbraio** (orario: feriale e festivo 10·13 / 17·20).
 
     _L'anima letteraria di Trieste -_ scrive Accerboni _- ispira ancora una volta la creatività di un artista, noto e sapiente illustratore, come Furio Bomben. Che, figlio d'arte (il padre era pittore famoso soprattutto per i suoi cavalli in corsa), ricostruisce con accurata pazienza e intensa sensibilità luministica le atmosfere un po' fané della Trieste del primo Novecento, rievocando nelle vedute di mare e in quelle degli antichi caffè, il sapore di un passato glorioso, accanto alle due principali vocazioni della città: quella emporiale, testimoniata dai velieri ancorati sulle rive e sul Canale, che però Bomben sviscera nella loro accezione più romantica, e la vocazione letteraria, svolta attraverso il ricordo dei più grandi scrittori di Trieste._
+
+    <iframe src="https://www.youtube.com/embed/_UzaYZylKVs" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     ![Joyce alla libreria, 2011 - china e tempera - cm 50x70](/media/events/furio-bomben-viaggio-letterario-svevo-saba-2012/Joyce_alla_libreria_2011_-_china_e_tempera_-_cm_50x70.jpg "Joyce alla libreria, 2011 - china e tempera - cm 50x70")
 

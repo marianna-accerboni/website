@@ -14,11 +14,11 @@ info:
     - /media/events/premio-di-vetro-elca-ruzzier-2018/invito.pdf
 press:
   pressRelease: |-
-    ![Marianna Accerboni (ph Franco Viezzoli)](/media/events/premio-di-vetro-elca-ruzzier-2018/Marianna_Accerboni_ph_Franco_Viezzoli.jpg "Marianna Accerboni (ph Franco Viezzoli)")
-
     **Il Premio di Vetro _'Elca Ruzzier'_ - _X edizione -_ sarà assegnato all'architetto Marianna Accerboni nel corso di una cerimonia che si terrà mercoledì 17 ottobre, alle ore 18, nell'Auditorium del Museo Revoltella di via Diaz 27.**
 
     **Interverranno l'Assessore alla Comunicazione, Teatri e Pari Opportunità Serena Tonel e la Presidente della Commissione Pari opportunità del Comune di Trieste Laura Di Pinto.**
+
+    ![Marianna Accerboni (ph Franco Viezzoli)](/media/events/premio-di-vetro-elca-ruzzier-2018/Marianna_Accerboni_ph_Franco_Viezzoli.jpg "Marianna Accerboni (ph Franco Viezzoli)")
 
     Il prestigioso riconoscimento - istituito nel 2007 dalla Commissione nel ricordo dell'ex commissaria Elca Ruzzier, cofondatrice del GOAP - è finalizzato alla valorizzazione di figure di donne triestine appartenenti al mondo della cultura, delle scienze, dell'economia, dell'arte e dello sport.
 

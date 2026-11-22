@@ -16,11 +16,11 @@ info:
     - /media/events/giorgetta-dorfles-antinomie-2017/invito.pdf
 press:
   pressRelease: |-
-    ![Monumento all'anatra, 2016 - colore digitale - cm 30x40](/media/events/giorgetta-dorfles-antinomie-2017/Monumento_allanatra_2016_-_colore_digitale_-_cm_30x40.jpg "Monumento all'anatra, 2016 - colore digitale - cm 30x40")
-
     **Si inaugura giovedì 19 ottobre 2017 alle ore 19 alla Sala Comunale d'Arte (piazza Unità d'Italia 4) di Trieste, la mostra _Antinomie,_ personale della fotografa-artista Giorgetta Dorfles, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni. In mostra più di una trentina d'immagini digitali realizzate negli ultimi due anni.**
 
     _Una parte per il tutto, spesso in sottile contrappunto con il suo doppio ideale: -_ scrive Marianna Accerboni _- prende il via da tale concetto il fil rouge che condetermina questa originale e raffinata sequenza di oltre trenta immagini digitali che Giorgetta Dorfles, poliedrica artista e acuta osservatrice, ha realizzato dal 2014 al 2016, sospesa tra razionalità, passione e imprevedibile estro creativo. Sono lavori che non si peritano di essere descrittivi o documentari, ma estrapolano dal reale un dettaglio significante, che spesso suggerisce un'intuizione astratta di ciò che appare, sottesa tra un sottile equilibrio segnico e una raffinata e inusitata opzione cromatica._
+
+    ![Monumento all'anatra, 2016 - colore digitale - cm 30x40](/media/events/giorgetta-dorfles-antinomie-2017/Monumento_allanatra_2016_-_colore_digitale_-_cm_30x40.jpg "Monumento all'anatra, 2016 - colore digitale - cm 30x40")
 
     _Straniamento, Relitti e Spunti concettuali sono le tre sezioni, in cui l'autrice ha voluto suddividere le proprie riflessioni che invitano esse stesse alla riflessione. Non prive di un sottile velo di malinconia, cifra che non abbandona quasi mai un'artista nel cui intimo, all'intensità e all'essenzialità, si coniugano introspezione e riservatezza,_
 

@@ -13,19 +13,18 @@ info:
     Ilaria Tassini: +39 349 8722014 · ilaria.tax@libero.it
 press:
   pressRelease: |-
-    ![Premio pittura Mulitsch 2010 - da sin l'assessore Devetag e Caterina Mulitsch](/media/events/concorso-mulitsch-iv-edizione-2012/Premio_pittura_Mulitsch_2010-da_sin_lassessore_Devetag_e_Caterina_Mulitsch_199.jpg "Premio pittura Mulitsch 2010 - da sin l'assessore Devetag e Caterina Mulitsch")
-
-    **Martedì 2 ottobre 2012 ore 10.30**
-
-    **Sala Bianca del Comune di Gorizia**
-
-    Interverranno **l'Assessore alla Cultura del Comune di Gorizia Rodolfo Ziberna**, **l'Assessore alla Cultura della Provincia di Gorizia Federico Portelli, la Presidente dell'Associazione culturale “Dario Mulitsch” Caterina Trevisan Mulitsch, ideatrice e organizzatrice dell'evento, e i critici Marianna Accerboni, Cristina Feresin e Josko Vetrih**
+    **Conferenza stampa**
+    - Quando: martedì 2 ottobre 2012, ore 10.30
+    - Dove: Sala Bianca del Comune di Gorizia
+    - Interverranno: l'Assessore alla Cultura del Comune di Gorizia Rodolfo Ziberna, l'Assessore alla Cultura della Provincia di Gorizia Federico Portelli, la Presidente dell'Associazione culturale “Dario Mulitsch” Caterina Trevisan Mulitsch, ideatrice e organizzatrice dell'evento, e i critici Marianna Accerboni, Cristina Feresin e Josko Vetrih
 
     **Inaugurazione della mostra, presentazione del catalogo e premiazione degli artisti**
-
-    **Sabato 6 ottobre ore 17.30 - Palazzo Coronini Cronberg (viale XX Settembre 14) · Gorizia**
+    - Quando: sabato 6 ottobre, ore 17.30
+    - Dove: Palazzo Coronini Cronberg · viale XX Settembre 14 · Gorizia
 
     L'Associazione culturale Concorso di Pittura _Dario Mulitsch_ di Gorizia invita alla **conferenza stampa di presentazione della mostra e del catalogo degli artisti selezionati al prestigioso Concorso internazionale di Pittura _Dario Mulitsch_ 2012**, **promosso dall'Associazione stessa** e **giunto** quest'anno, con cadenza biennale, **alla IV edizione.** L'evento è intitolato dalla moglie Caterina alla figura di **Dario Mulitsch, illuminato imprenditore goriziano di antica nobiltà sassone, fondatore del Centro Culturale "Tullio Crali" e appassionato promotore della cultura e delle arti**. Va per altro segnalato che proprio in questi giorni la sua opera _Poesie dell'infinito_ è stata premiata dalla Giuria del Premio _Franz Kafka Italia_ - Edizione 2012 con il Premio Speciale della Giuria per la Sezione Poesie.
+
+    ![Premio pittura Mulitsch 2010 - da sin l'assessore Devetag e Caterina Mulitsch](/media/events/concorso-mulitsch-iv-edizione-2012/Premio_pittura_Mulitsch_2010-da_sin_lassessore_Devetag_e_Caterina_Mulitsch_199.jpg "Premio pittura Mulitsch 2010 - da sin l'assessore Devetag e Caterina Mulitsch")
 
     ![Premio pittura Mulitsch 2010-inaugurazione](/media/events/concorso-mulitsch-iv-edizione-2012/Premio_pittura_Mulitsch_2010-inaugurazione_-_011.jpg "Premio pittura Mulitsch 2010-inaugurazione")
 

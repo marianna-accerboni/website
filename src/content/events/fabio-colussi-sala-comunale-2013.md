@@ -18,15 +18,15 @@ subEvents:
   - - "Mostra personale del pittore Fabio Colussi alla Sala Comunale d'Arte di Trieste: mercoledì 23 gennaio l'artista incontra il pubblico in galleria"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/LdsZOl6BI4c" width="350" height="197"></iframe>
-
-    Video dell'inaugurazione
-
     **MOSTRA PERSONALE DEL PITTORE FABIO COLUSSI ALLA SALA COMUNALE D'ARTE DI TRIESTE**
 
     **S'inaugura lunedì 7 gennaio 2013 alle ore 18.00 alla Sala Comunale d'Arte di Trieste la mostra personale del pittore Fabio Colussi, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni.** In esposizione **25 raffinati dipinti realizzati a olio su tela soprattutto negli anni 2011 e 2012 e dedicati al tema della veduta marina di Trieste**. Fino al 30 gennaio (orario: feriale e festivo 10 · 13 / 17 · 20).
 
     _Partendo da una visione quasi neoclassica della città e della natura_ - scrive Marianna Accerboni _- Colussi ricostruisce con delicata vena poetica l'immagine dei luoghi, raffinando con equilibrio e perizia nel corso del tempo il suo luminoso e vivido linguaggio attraverso un colorismo avvincente e reale, che lascia tuttavia spazio anche al sogno. Proseguendo in modo del tutto personale l'antica tradizione di pittori e vedutisti quali Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, l'artista, oggi cinquantacinquenne, è riuscito nel corso del tempo a comporre, nel delineare la veduta, una propria maniera intensa e precisa, ma nel contempo sobria ed essenziale. Che fa vivere il paesaggio soprattutto della luce (diurna o notturna che essa sia), ottenuta attraverso ripetute e raffinate velature e un cromatismo deciso ma morbido._
+
+    <iframe src="https://www.youtube.com/embed/LdsZOl6BI4c" width="350" height="197"></iframe>
+
+    Video dell'inaugurazione
 
     ![Fabio Colussi - Portovecchio, 2010 - olio su tela - cm 40x60](/media/events/fabio-colussi-sala-comunale-2013/Fabio_Colussi_-_Portovecchio_2010_-_olio_su_tela_-_cm_40x60.jpg "Fabio Colussi - Portovecchio, 2010 - olio su tela - cm 40x60")
 

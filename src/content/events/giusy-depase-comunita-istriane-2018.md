@@ -16,11 +16,11 @@ info:
     - /media/events/giusy-depase-comunita-istriane-2018/invito.pdf
 press:
   pressRelease: |-
-    ![Giusy Depase, 2018 - Nevicata sulla Napoleonica - china - cm 33x24](/media/events/giusy-depase-comunita-istriane-2018/Giusy_Depase_2018_-_Nevicata_sulla_Napoleonica_-_china_-_cm_33x24.jpg "Giusy Depase, 2018 - Nevicata sulla Napoleonica - china - cm 33x24")
-
     Sabato 28 aprile 2018 alle ore 18 all'Associazione delle Comunità Istriane di Trieste (via Belpoggio 29/1) **avrà luogo l'inaugurazione della personale della pittrice Giusy Depase, che sarà introdotta dall'arch. Marianna Accerboni. In mostra una quarantina di opere dedicate al paesaggio, soprattutto istriano, alla natura morta, al ritratto e alla figura umana, realizzati dal 2002 a oggi prevalentemente a olio, acquerello e china** (orario tutti i giorni 10 · 13 e 17 · 20/ info +39 335 6750946).
 
     _Dotata di un naturale, istintivo talento artistico,_ - scrive Accerboni - _la pittrice istriana Giusy Depase interpreta con grande freschezza e immediatezza i luoghi a lei cari, la terra natia, Isola d'Istria in particolare, che fu costretta ad abbandonare e di cui ci fa sentire, attraverso le sue pennellate, i profumi e l'indimenticata bellezza._
+
+    ![Giusy Depase, 2018 - Nevicata sulla Napoleonica - china - cm 33x24](/media/events/giusy-depase-comunita-istriane-2018/Giusy_Depase_2018_-_Nevicata_sulla_Napoleonica_-_china_-_cm_33x24.jpg "Giusy Depase, 2018 - Nevicata sulla Napoleonica - china - cm 33x24")
 
     _La dote principale di quest'artista gentile e volitiva è senz'altro rappresentata dalla sensibilità cromatica: in tutti suoi lavori, sia che il soggetto rappresenti l'essere umano o il paesaggio o la natura morta, il colore è l'elemento trainante e più emozionante del quadro. Che da questo sa far scaturire una luce morbida e naturalmente accattivante, a sottolineare il fascino dei luoghi, degli oggetti e dei soggetti umani ritratti._
 

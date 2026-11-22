@@ -18,13 +18,13 @@ subEvents:
   - - "Mercoledì 25 giugno alla Galleria Rettori Tribbio di Trieste alle 18.30 “Tè con l'artista”: Gabriella Dipietro e la curatrice Marianna Accerboni incontrano il pubblico nell'ambito della mostra “Gratia plena”"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/b9nR7CswqZs" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura sabato 14 giugno alle 18.30 alla Galleria Rettori Tribbio di Trieste (piazza Vecchia 6) “Gratia plena”, raffinata e intensa rassegna dedicata dalla pittrice Gabriella Dipietro al tema della donna, che sa interpretare con poetico sentire, grande aderenza, originalità e abile gesto pittorico. Curata e presentata dall'arch. Marianna Accerboni, la mostra propone una ventina di oli dipinti tra il 2010 e il 2014 e sarà introdotta alla vernice dal coro femminile “Auricorale VivaVoce” (fino al 27 giugno (orario: feriali 10-12.30 e 17-19.30/ festivi 10-12/ ven pomeriggio e lun chiuso/ per il Mercatino dell'antiquariato domenica 15 giugno 10-13 e 16-18/ info 333 5343028).
 
     Gratia plena _s'intitola questa prima personale della pittrice Gabriella Dipietro: raffinata e intensa rassegna dedicata al tema della donna, che_ - scrive Marianna Accerboni - _l'artista sa interpretare con poetico sentire, grande aderenza, originalità e abile gesto pittorico._
+
+    <iframe src="https://www.youtube.com/embed/b9nR7CswqZs" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Sottesa tra passato e contemporaneità, la sua arte si snoda con eleganza e talento secondo i parametri di un gusto figurativo dall'accezione simbolica di grande suggestione e sincera partecipazione ai momenti più intensi, fortunati o meno lieti, della vita al femminile, di cui sa interpretare con felici intuizioni compositive e interessanti predilezioni cromatiche i diversi stati d'animo._
 

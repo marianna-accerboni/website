@@ -18,13 +18,13 @@ subEvents:
   - - "Percorsi: mercoledì 1 febbraio la pittrice Paola Gamba incontra il pubblico all'Antico Caffè Stella Polare"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/TSPeKkwncDE" width="350" height="288"></iframe>
-
     **Video dell'inaugurazione**
 
     **S'inaugura venerdì 13 gennaio 2012 alle ore 19.00 all'Antico Caffè Stella Polare di Trieste (via Dante, 14) la mostra personale della pittrice Paola Gamba, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni.** In mostra saranno esposte più di una trentina di opere: nella saletta interna verranno presentati i nudi e i ritratti composti tra il 1999 e il 2003 secondo i modi del linguaggio espressionista figurativo e realizzati in acrilico su masonite o su compensato, mentre nella sala principale saranno proposti i dipinti più recenti, di gusto astratto, eseguiti a collage e ad acrilico prevalentemente su tavola tra il 2008 e il 2011. **Fino al 4 febbraio** (orario: tutti giorni dalle ore 7.00 alle 21.00 - chiuso la domenica).
 
     _Analisi e sintesi, intuizione del significato più intimo delle forme -_ scrive Accerboni _- sono alla base del processo di ricerca artistica della pittrice veneta Paola Gamba. Originaria di Thiene (Vicenza) e attiva oggi a Portogruaro (Venezia), l'autrice ha sperimentato diversi e consequenziali orientamenti della pittura contemporanea, partendo da un espressionismo figurativo di ottimo livello, in cui il linguaggio del corpo è interpretato in acrilico su masonite con grande perizia._
+
+    <iframe src="https://www.youtube.com/embed/TSPeKkwncDE" width="350" height="288"></iframe>
 
     _In tali lavori i toni sono cupi e luminosi al tempo stesso, il chiaroscuro e il contrappunto luministico si rivelano intensissimi, sì da generare nel fruitore un impatto emotivo, che coglie il dramma esistenziale espresso da questa pittura attraverso il segno morbido ma incisivo e la forte accentuazione dei volumi. Tale esperienza e tale percezione emozionale e spirituale della realtà si ampliano successivamente nell'ambito dell'astrazione e dell'informale, traducendo sensazione ed emozione in puro segno, luce e colore. Il simbolismo segnico, reso più attraente e materico dalla tecnica del collage, si ammanta ora di cromatismi più morbidi e vivaci, come se l'autrice stesse tentando di uscire da un tunnel d'introspezione verso il mondo e la luce._
 

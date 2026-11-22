@@ -18,13 +18,13 @@ subEvents:
   - - "I colori della mia vita: mercoledì 21 ottobre alla Sala Comunale d'Arte di Trieste finissage della mostra antologica della pittrice Luisia Comelli Lalovich"
 press:
   pressRelease: |-
-    ![I colori della mia vita: mostra antologica della pittrice Luisia Comelli alla Sala Comunale d'Arte di Trieste](/media/events/luisia-comelli-i-colori-della-mia-vita-2015/Sognando_la_Barcolana_-_olio_su_faesite_163_x_50_cm_-_Anno_2000_1.jpg "I colori della mia vita: mostra antologica della pittrice Luisia Comelli alla Sala Comunale d'Arte di Trieste")
-
-    Sognando la Barcolana - olio su faesite 163 x 50 cm - Anno 2000
-
     **S'inaugura sabato 3 ottobre 2015 alle ore 18.30 alla Sala Comunale d'Arte di Trieste (piazza Unità d'Italia 4) la mostra antologica della pittrice Luisia Comelli Lalovich, intitolata I colori della mia vita, che sarà introdotta da Marianna Accerboni con lettura delle opere di Giancarlo Bonomo. In esposizione una trentina di oli su tela e su tavola realizzati dal 1953 a oggi accanto a xilografie degli anni '50. Fino al 21 ottobre (orario: feriale e festivo 10 · 13 / 17 · 20/ info 335 6750946).**
 
     Un espressionismo - scrive Accerboni - solare e intenso rappresenta la cifra determinante della pittura di Luisia Comelli Lalovich, il cui filo conduttore è sostanziato dalla luce, da un acceso cromatismo, da un segno morbido ma deciso e da quel blu onnipresente, che rammenta la natura di mare e di cielo, in cui si colloca l'esistenza quotidiana e di lavoro dell'artista.
+
+    ![I colori della mia vita: mostra antologica della pittrice Luisia Comelli alla Sala Comunale d'Arte di Trieste](/media/events/luisia-comelli-i-colori-della-mia-vita-2015/Sognando_la_Barcolana_-_olio_su_faesite_163_x_50_cm_-_Anno_2000_1.jpg "I colori della mia vita: mostra antologica della pittrice Luisia Comelli alla Sala Comunale d'Arte di Trieste")
+
+    Sognando la Barcolana - olio su faesite 163 x 50 cm - Anno 2000
 
     Le sue opere sono una continua sorpresa e scoperta. Luisia, in arte Luis, apre il prezioso scrigno della propria creatività e ne escono, quali doni variegati e coinvolgenti, dipinti realizzati d'istinto, ma dietro i quali s'intuisce una meditata assimilazione dei valori umani della vita, che si esprime nei ritratti e negli autoritratti densi di carattere e di partecipazione, d'intuizione e di affondo psicologico, di rapida declinazione del proprio sentimento e del gesto pittorico nell'atto di raccontare una vita. Un istinto che l'accompagna - intelletto assorto e
 

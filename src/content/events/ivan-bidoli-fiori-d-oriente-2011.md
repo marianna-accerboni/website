@@ -18,13 +18,13 @@ press:
   pressRelease: |-
     _introduzione critica di Marianna Accerboni_
 
-    <iframe src="https://www.youtube.com/embed/om1GLubxfaw" width="350" height="288"></iframe>
-
-    _Video della mostra_
-
     S'inaugura **sabato 18 giugno 2011 alle ore 19.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la mostra personale del pittore Ivan Bidoli, intitolata _Fiori d'Oriente_, che sarà introdotta dall'architetto Marianna Accerboni.** La rassegna propone **una trentina di opere del tutto inedite, realizzate dall'artista nell'ultimo anno mediante acrilici e smalti su tavola e acrilico, china e tempera su carta.** Visitabile **fino al 1 luglio** (orario feriali 10.00 - 12.30 / 17.00 - 19.30 - festivi 11.00 - 12.30 - lunedì chiuso / Domenica 19 giugno, in occasione del Mercatino dell'Antiquariato: 10.00 - 13.00 e 16.00 - 18.00).
 
     _È stato l'unico allievo di Max Fabiani, uno dei più importanti e significativi architetti e urbanisti del “finis Austriae”, e lo si vede. Pittore di razza -_ scrive Accerboni _- Ivan Bidoli, 78 anni a dicembre, presenta in questa mostra un'ampia sequenza di opere tutte inedite, che raccontano con taglio surreale, simbolico e spesso giocoso, l'epopea quotidiana degli umili, ma anche tematiche dal più ampio respiro come per esempio la lotta alle dipendenze, l'importanza e le sfumature del sentimento, il gioco rischioso dell'amore con le sue schermaglie e alcune sapide considerazioni sul rapporto uomo-donna._
+
+    <iframe src="https://www.youtube.com/embed/om1GLubxfaw" width="350" height="288"></iframe>
+
+    _Video della mostra_
 
     _Nell'esporre il proprio punto di vista, Bidoli dà spazio a tutta la sua inesauribile fantasia, di visionario profondo e semplice al tempo stesso e di elegante decoratore di favole contemporanee, che l'artista sa impreziosire attraverso finezze tecniche ed espressive di grande effetto, contrappunti di luce e superfici opache, colori simbolici come il rosa che caratterizza l'esistenza dei non fumatori o il decoro-tatuaggio-ricamo su pelle che ingentilisce le nudità delle sensuali ed eleganti protagoniste dei suoi quadri, descritte con apparente levità, tenendo conto, sotto il profilo compositivo ed estetico, dell'esperienza della Secession viennese._
 

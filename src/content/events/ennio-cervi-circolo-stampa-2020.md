@@ -16,13 +16,13 @@ info:
     - /media/events/ennio-cervi-i-disegni-la-pittura-2020/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcircolo.dellastampa.16%2Fvideos%2F152341669871574%2F&show_text=0&width=267" width="267" height="476" allowfullscreen="true"></iframe>
-
-    Presentazione della monografia Ennio Cervi. I disegni, la pittura
-
     **Mercoledì 23 settembre alle 17.30 nella Sala Paolo Alessi del Circolo della Stampa di Trieste** (corso Italia 13, 1° piano) **l'arch. Marianna Accerboni, ideatrice e curatrice dell'incontro, presenterà la monografia *Ennio Cervi. I disegni, la pittura*** (Franco Rosso Editore, pgg. 234, € 25,00). **Interverranno il critico d'arte Giulio Montenero, il giornalista e scrittore Roberto Curci e Franco Rosso. Sarà presente l'Artista.**
 
     **L'accurato e ampio volume riassume, attraverso numerosi testi e oltre 200 foto riprese dai fotografi Ennio Demarin e Gianni Mohor, più di settant'anni dell'attività di Cervi e rappresenta una memoria storica molto dettagliata dell'evoluzione del linguaggio artistico dell'architetto e pittore triestino dagli esordi, avvenuti a fine anni Quaranta, a oggi.**
+
+    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcircolo.dellastampa.16%2Fvideos%2F152341669871574%2F&show_text=0&width=267" width="267" height="476" allowfullscreen="true"></iframe>
+
+    Presentazione della monografia Ennio Cervi. I disegni, la pittura
 
     **I posti sono limitati in base alle disposizioni anti Covid, prenotabili telefonando allo 040 370371 dal lunedì al venerdì ore 9 – 15.**
 

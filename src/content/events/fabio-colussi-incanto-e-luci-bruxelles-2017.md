@@ -16,11 +16,11 @@ info:
     - /media/events/fabio-colussi-incanto-e-luci-bruxelles-2017/invito.pdf
 press:
   pressRelease: |-
-    ![Momento magico, 2015 - olio su tela - cm 40x60](/media/events/fabio-colussi-incanto-e-luci-bruxelles-2017/Momento_magico_2015_-_olio_su_tela_-_cm_40x60.jpg "Momento magico, 2015 - olio su tela - cm 40x60")
-
     **S'inaugura il 22 novembre 2017 alle ore 18.30 nella Sede dell'Ufficio di collegamento della Regione FVG a Bruxelles la mostra _Incanto e luci dell'Adriatico_ del pittore triestino Fabio Colussi. A presentarla la direttrice Raffaella Viviani, il presidente del Circolo di Bruxelles dell'Associazione Giuliani nel Mondo, Flavio Tossi, e la curatrice Marianna Accerboni. La rassegna, organizzata dall'Ufficio di collegamento e dall'AGM di Bruxelles e Trieste con il presidente Dario Locchi e il direttore Fabio Ziberna, propone quasi una trentina di dipinti a olio su tela e su tavola realizzati dall'artista dal 2015 a oggi, per la maggior parte inediti. I lavori sono dedicati alle vedute d'acqua, con particolare riferimento alla laguna di Trieste, ma anche di Grado e di Venezia**. **Fino all'8 dicembre**.
 
     _In questa rassegna_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare della sua città, Trieste, accostandolo a quello della laguna e di Venezia. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica, caratterizzano tali vedute: con grande abilità tecnica e avvalendosi di infinite velature, Colussi cattura l'ineffabile luce del golfo di Trieste e quella magica della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._
+
+    ![Momento magico, 2015 - olio su tela - cm 40x60](/media/events/fabio-colussi-incanto-e-luci-bruxelles-2017/Momento_magico_2015_-_olio_su_tela_-_cm_40x60.jpg "Momento magico, 2015 - olio su tela - cm 40x60")
 
     _Memore di una vena neoclassica, che appartiene culturalmente a Trieste, l'artista prosegue in modo del tutto personale l'antica tradizione di pittori e vedutisti attivi a Venezia nel '700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l'interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri pittori e vedutisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell'altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo ottocento e nel primo novecento, accanto all'Accademia di Monaco, per gli artisti triestini._
 

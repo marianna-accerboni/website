@@ -16,11 +16,11 @@ info:
     - /media/events/serena-boccanegra-sotto-al-letto-di-mia-nonna-2017/invito.pdf
 press:
   pressRelease: |-
-    ![Ines (part.), 2016 - tecnica mista - cm 44x27](/media/events/serena-boccanegra-sotto-al-letto-di-mia-nonna-2017/Ines_part._2016_-_tecnica_mista_-_cm_44x27.jpg "Ines (part.), 2016 - tecnica mista - cm 44x27")
-
     **S'inaugura sabato 6 maggio alle 18.30 alla Bottega d'arte Gibigiana di Venezia la rassegna Sotto al letto di mia nonna di Serena Boccanegra, ideata e realizzata da quest'ultima con la curatela di Marianna Accerboni, che introdurrà l'esposizione. In mostra una trentina di assemblage inediti creati ad hoc dall'artista** (fino al 6 luglio/ orario lun - sab 10 - 15.30 o su appuntamento tel 338 6165074).
 
     **La rassegna -** annota la curatrice **- si configura come un'installazione totale site specific**: attraverso il filo di un'amorevole memoria, simbolizzata da una variegata sequenza di oggetti e micro mondi sognati dall'autrice, emerge in senso catartico l'importanza del rapporto di Serena con il proprio contesto famigliare.
+
+    ![Ines (part.), 2016 - tecnica mista - cm 44x27](/media/events/serena-boccanegra-sotto-al-letto-di-mia-nonna-2017/Ines_part._2016_-_tecnica_mista_-_cm_44x27.jpg "Ines (part.), 2016 - tecnica mista - cm 44x27")
 
     Figura idealmente centrale della composizione - scrive Accerboni - è Rina Nono, la nonna, una forte personalità illuminata da intensi occhi verdi, che rappresenta una sorta di nume tutelare, che nel corso del tempo ha fermamente mantenuto la memoria della sua famiglia d'origine, conservandone gli oggetti più vari, che Serena implementa con altre testimonianze materiche, anche questa volta foto, oggetti, tessuti, pizzi, lettere, scarpe e scarpette, appartenute pure alla famiglia del padre, i Boccanegra. Simboli di una catena d'amore che l'artista - scenografa realizzatrice per il teatro e per il cinema, che ha sempre parallelamente condotto un proprio percorso di ricerca artistica personale - collega e ramifica come se il suo racconto per immagini - dedicato alla nonna Rina e al figlio Orlando - andasse a rappresentare in realtà l'albero della vita.
 

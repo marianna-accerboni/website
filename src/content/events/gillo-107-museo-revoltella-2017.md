@@ -14,13 +14,13 @@ info:
     - /media/events/gillo-107-museo-revoltella-2017/invito.pdf
 press:
   pressRelease: |-
-    ![Gillo Dorfles e Marianna Accerboni nella casa milanese dell'intellettuale-artista](/media/events/gillo-107-museo-revoltella-2017/Gillo_Dorfles_e_Marianna_Accerboni_nella_casa_milanese_dellintellettuale-artista.jpg "Gillo Dorfles e Marianna Accerboni nella casa milanese dell'intellettuale-artista")
-
     Mercoledì 12 aprile alle 18.30 all'Auditorium del Civico Museo Revoltella di Trieste (via Diaz 27) prende il via “Gillo 107”, evento ideato e curato da Marianna Accerboni per festeggiare, nel giorno del suo 107° compleanno e nella sua città natale, Gillo Dorfles. Verrà proiettato in anteprima mondiale “La guerra del tempo” (44'), il video dedicato dal regista Francesco Leprino al **grande critico, filosofo dell'Estetica e artista di fama internazionale, in cui quest'ultimo viene ripreso nel 2016 mentre legge e commenta le proprie poesie in un affascinante percorso di gusto surreale**.
 
     Seguirà un **brindisi augurale offerto dalla Tenuta Baroni del Mestri di Cormons (Gorizia)**.
 
     **Il progetto** di Accerboni **proseguirà in sedi istituzionali** a **Gorizia, poiché la famiglia paterna di Dorfles fu presente in quella città fin dal '700 con esponenti di grande prestigio,** e a **Bruxelles, per l'internazionalità del protagonista.**
+
+    ![Gillo Dorfles e Marianna Accerboni nella casa milanese dell'intellettuale-artista](/media/events/gillo-107-museo-revoltella-2017/Gillo_Dorfles_e_Marianna_Accerboni_nella_casa_milanese_dellintellettuale-artista.jpg "Gillo Dorfles e Marianna Accerboni nella casa milanese dell'intellettuale-artista")
 
     **L'evento, realizzato con il sostegno di Spaziocavana Zinelli&Perizzi, si colloca a quasi 10 anni di distanza dalla presentazione a Trieste, Gorizia e Bruxelles del video “Attraverso il tempo attraversato dal tempo” del regista Francesco Leprino, ideata e curata da Marianna Accerboni nel 2008, che riscosse grande successo nelle tre sedi europee**, con ampia diffusione in università, sedi televisive, gallerie d'arte, musei, Istituiti Italiani di Cultura e varie istituzioni.
 

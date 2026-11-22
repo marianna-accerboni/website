@@ -15,11 +15,11 @@ subEvents:
   - - 'Il catalogo della mostra “Il segno rivelatore di Gillo”: i video della trasmissione Sconfinamenti e della presentazione LIVE'
 press:
   pressRelease: |-
-    ![Gillo Dorfles negli anni 2000](/media/events/gillo-dorfles-catalogo-live-2020/Gillo_Dorfles_negli_anni_2000.jpg "Gillo Dorfles negli anni 2000")
-
     **_Martedì 23 giugno alle 12 Marianna Accerboni, dalla Sala conferenze della Biblioteca statale_ Stelio Crise _di Trieste, in diretta sul suo profilo facebook presenterà il catalogo della mostra “Il segno rivelatore di Gillo”, chiusa anticipatamente per emergenza sanitaria._**
 
     **La pubblicazione, _che propone opere, documenti e testi, tra cui molti inediti, esce in occasione del 110° anniversario del compleanno di Gillo Dorfles (Trieste 1910 – Milano 2.3.2018) e sarà introdotta, oltre che da Accerboni, dalla direttrice della Biblioteca Francesca Richetti e dal presidente del Rotary Club Trieste Alto Adriatico Giancarlo Cortellino._**
+
+    ![Gillo Dorfles negli anni 2000](/media/events/gillo-dorfles-catalogo-live-2020/Gillo_Dorfles_negli_anni_2000.jpg "Gillo Dorfles negli anni 2000")
 
     **Il video della presentazione rimarrà visibile sul profilo facebook di Accerboni e sarà inserito nel suo sito** [**http://www.mariannaaccerboni.com/**](http://www.mariannaaccerboni.com/)
 

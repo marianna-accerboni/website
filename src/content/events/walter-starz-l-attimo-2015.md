@@ -18,13 +18,13 @@ subEvents:
   - - "Walter Starz. L'attimo: sabato 29 agosto alla Sala Comunale d'Arte di Trieste finissage della mostra personale del pittore Walter Starz"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/QTDQ1IHNL7I" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura giovedì 13 agosto 2015 alle ore 19 alla Sala Comunale d'Arte di Trieste (piazza Unità d'Italia 4) la mostra personale del pittore Walter Starz, intitolata _L'attimo_, che sarà introdotta sul piano critico da Marianna Accerboni.** In esposizione **una serie di originali tecniche miste realizzate tra il 2011 e il 2014**. Fino al 1° settembre (orario: feriale e festivo 10 · 13 / 17 · 20/ info 335 6754946).
 
     _Il vortice delle emozioni e dei ricordi, intuizioni e sensazioni tracciate secondo un ritmo d'ispirazione quasi musicale_ - scrive Accerboni - _s'intrecciano nella brillante pittura di Walter Starz: note danzanti che si fanno colore, azione e racconto, per decrittare gli infiniti accadimenti della vita, dai più semplici ai più complessi, e per svelare i pensieri in libertà che attraversano la nostra mente._
+
+    <iframe src="https://www.youtube.com/embed/QTDQ1IHNL7I" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Libertà è un termine che vibra sovente nella creatività di Starz, un concetto che l'artista sa esprimere in modo molto personale attraverso un gesto originale e ricco di vis simbolica, guidato da una forte emotività, coinvolgente nel suo intimo entusiasmo, ma calibrata e resa lieve da una sottile, lieve intuizione poetica. Così Starz si rivela autore che, nella gioia del colore e nella mobilità del gesto, sa individuare sempre nuovi spunti e sfaccettature, quasi che l'universo fosse un cristallo di energia cromatica, mosso da sottili vibrazioni cinetiche, espresse da dettagli dipinti sovente a ritmo di jazz._
 

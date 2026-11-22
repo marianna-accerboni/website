@@ -16,13 +16,13 @@ info:
     - /media/events/carlo-fontanella-rigore-e-liberta-2013/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/3s4agWDNZqE" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura lunedì 25 febbraio 2013 alle ore 18 alla Sala Comunale d'Arte di Trieste la mostra dello scultore Carlo Fontanella intitolata “Rigore e libertà”, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni. In esposizione una quindicina di sculture realizzate tra il 2005 e il 2012 a tecnica mista (legno, polistirene e materiale cementizio). Fino al 20 marzo (orario: feriale e festivo 10 · 13 / 17 · 20).**
 
     **_Carlo Fontanella tende alla sintesi delle forme, dei volumi e del linguaggio pittorico e plastico, che sa esprimere_ - scrive Accerboni - _in raffinati elementi geometrici, spesso quasi dei bassorilievi, caratterizzati dall'eleganza del ritmo e da una calibrata modularità, espressa, con sensibilità molto contemporanea, attraverso l'uso di materiali di recupero e la poetica dell'objet trouvé (polistirolo) o mediante legno patinato, tufo e cemento, intrecciati in essenziali, simboliche tecniche miste._**
+
+    <iframe src="https://www.youtube.com/embed/3s4agWDNZqE" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     **_Il bianco, il colore della purezza e della sintesi, è il suo prediletto e connota in modo coerente e armonico la chiarezza delle linee e dei ritmi che contraddistinguono i lavori di quest'artista, il quale, con taglio concettuale, sa approfondire e tradurre in modo anche introspettivo e delicatamente poetico l'analisi del reale visibile e invisibile._**
 

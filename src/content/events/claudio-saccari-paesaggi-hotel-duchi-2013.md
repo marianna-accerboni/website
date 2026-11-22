@@ -16,11 +16,11 @@ info:
     - /media/events/claudio-saccari-paesaggi-hotel-duchi-2013/invito.pdf
 press:
   pressRelease: |-
-    ![C. Saccari - Fusine 2012 - stampa a pigmenti colorati su carta di cotone al 100 baritata - cm-60x42](/media/events/claudio-saccari-paesaggi-hotel-duchi-2013/C.-Saccari---Fusine-2012---stampa-a-pigmenti-colorati-su-carta-di-cotone-al-100-baritata---cm-60x42.jpg "C. Saccari - Fusine 2012 - stampa a pigmenti colorati su carta di cotone al 100 baritata - cm-60x42")
-
     **Dopo il grande successo della mostra personale alla Sala Comunale d'Arte, che ha registrato più di 1500 visitatori e rimane visitabile fino al 24 febbraio,** l'itinerario espositivo del fotografo-artista Claudio Saccari **prosegue a Trieste nell'elegante spazio espositivo** dell'Hotel Duchi Vis à Vis (piazza dello Squero Vecchio 1), dove **sabato 23 febbraio alle ore 19 s'inaugura, con presentazione critica dell'arch. Marianna Accerboni, una rassegna dedicata all'amato tema del paesaggio da questo autore straordinario, che sa usare in contemporanea timbri segnici e cromatici diversi per interpretare e raccontare il reale** (**fino al 15 marzo**/ orario 10.30 - 12.30 e 15.00 - 18.00/ lunedì chiuso).
 
     **Una dozzina di foto digitali di grandi dimensioni, realizzate da Claudio Saccari tutte nel 2011 - 2012, salvo che per due lavori degli anni '80 dedicati al Giardino pubblico di Trieste, ci conducono per mano in un mondo magico, quasi fatato, in cui, pur nell'armonico sentire, non c'è limite alla fantasia.**
+
+    ![C. Saccari - Fusine 2012 - stampa a pigmenti colorati su carta di cotone al 100 baritata - cm-60x42](/media/events/claudio-saccari-paesaggi-hotel-duchi-2013/C.-Saccari---Fusine-2012---stampa-a-pigmenti-colorati-su-carta-di-cotone-al-100-baritata---cm-60x42.jpg "C. Saccari - Fusine 2012 - stampa a pigmenti colorati su carta di cotone al 100 baritata - cm-60x42")
 
     ![C. Saccari - Giardino pubblico 1988 - stampa a pigmenti colorati su carta di cotone al 100 baritata - cm 42x60](/media/events/claudio-saccari-paesaggi-hotel-duchi-2013/C.-Saccari---Giardino-pubblico-1988---stampa-a-pigmenti-colorati-su-carta-di-cotone-al-100-baritata---cm-42x60.jpg "C. Saccari - Giardino pubblico 1988 - stampa a pigmenti colorati su carta di cotone al 100 baritata - cm 42x60")
 

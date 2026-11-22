@@ -16,11 +16,11 @@ info:
     - /media/events/livia-bussi-visioni-2012/invito.pdf
 press:
   pressRelease: |-
-    ![Livia Bussi - pastello su carta](/media/events/livia-bussi-visioni-2012/Livia_Bussi_-_pastello_su_carta_1.JPG "Livia Bussi - pastello su carta")
-
     **Sabato 24 marzo 2012 alle ore 18.00 a Trieste alla Galleria Rettori Tribbio** (Piazza Vecchia 6) **avrà luogo l'inaugurazione della mostra personale della pittrice Livia Bussi, intitolata Visioni**. La rassegna, che propone quasi una trentina di pastelli su carta realizzati tra il 2010 e il 2011, sarà introdotta sul piano critico dall'architetto **Marianna Accerboni**. Visitabile **fino al 6 aprile** (orario: feriali 10.00 - 12.30 e 17.00 - 19.30 / festivi 10.00 - 12.00 / lunedì e venerdì pomeriggio chiuso).
 
     _C'è un'anima culturale austro-tedesca, probabilmente inconscia_ - scrive Accerboni - _che sopravvive in molti artisti triestini, i cui antenati, se pittori o scultori, frequentarono le Accademie di Monaco, di Berlino e di Vienna tra la fine dell'800 e il primo novecento, raccogliendovi i semi di quella coeva avanguardia internazionale che collegava Parigi a Mosca e al mondo slavo, passando per Trieste, allora in posizione centro-europea._
+
+    ![Livia Bussi - pastello su carta](/media/events/livia-bussi-visioni-2012/Livia_Bussi_-_pastello_su_carta_1.JPG "Livia Bussi - pastello su carta")
 
     _È così, credo, che si può spiegare l'intenso respiro espressionista che si leva e s'intravvede in molti lavori di artisti locali: tra questi, mi ha sempre particolarmente colpita la traccia di malinconia e d'angoscia che s'insinua nel segno pittorico intenso ed elegante, sobrio e al tempo stesso incisivo, di Livia Bussi, autrice dal temperamento discreto e signorile, che, formatasi in gioventù a Roma, è poi vissuta un trentennio in Piemonte e Lombardia, per poi ritornare nella città natale; e testimoniare nella sua pittura non solo le origini culturali centro-europee, ma anche il dramma dell'esodo dall'Istria, vissuto quasi in prima persona._
 

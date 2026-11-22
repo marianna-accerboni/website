@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    **2° inaugurazione:** 
-
-    - **Quanto:** 5 novembre 2018, ore 17.30
-    - **Dove:** nella Sede della Comunità Greco-Orientale di Trieste (Riva 3 Novembre, 9). 
-    - **Periodo:** 5 - 11 novembre 2018. **Orario:** tutti i giorni ore 11 - 13 / 17 - 19.
+    **Seconda sede: Comunità Greco-Orientale di Trieste**
+    - Inaugurazione: 5 novembre 2018, ore 17.30
+    - Indirizzo: Riva 3 Novembre, 9 · Trieste
+    - Periodo: 5 – 11 novembre 2018
+    - Orario: tutti i giorni ore 11 – 13 / 17 – 19
 
     ![Carolina Franza - Festa dell'Annunziazione, 2013 - tecnica mista - cm 20x30](/media/events/bellezza-per-la-bonta-2018/Carolina_Franza_-_Festa_dellAnnunziazione_2013_-_tecnica_mista_-_cm_20x30.jpg "Carolina Franza - Festa dell'Annunziazione, 2013 - tecnica mista - cm 20x30")
 

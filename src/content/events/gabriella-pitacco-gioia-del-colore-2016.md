@@ -18,13 +18,13 @@ subEvents:
   - - "La gioia del colore e del silenzio: sabato 5 marzo alla Sala Comunale d'Arte di Trieste finissage della mostra della pittrice Gabriella Pitacco Prestelli"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/ohmXKqR83jU" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Mercoledì 10 febbraio alle 18.30 alla Sala Comunale d'arte di Trieste** (piazza Unità d'Italia 4) **avrà luogo l'inaugurazione della personale della pittrice Gabriella Pitacco Prestelli, intitolata _La gioia del colore e del silenzio_,** che sarà **presentata sul piano critico dall'arch. Marianna Accerboni**: in mostra una ricca sequenza di icone realizzate secondo la tecnica antica negli ultimi anni. _Fino al 5 marzo (orario: feriale e festivo 10 · 13 / 17 · 20/ info 347 6923755)._
 
     _A Trieste, in uno studio arroccato sul colle di San Vito, rutilante di colori, di smalti, polvere d'oro e d'argento_ - scrive Accerboni - _lavora una pittrice dagli occhi azzurri e dal sorriso sempre pronto. Gabriella Pitacco Prestelli dipinge nel silenzio, con certosina pazienza, con molta tenacia, talento e accuratezza, immagini luminose e narrative, ricche di cromatismi brillanti ma spesso delicati, avvalendosi di una tecnica filologica e antica per quanto riguarda l'icona e interpretando in modo personale, ma aderente alla tradizione, quest'arte, che assume la propria fisionomia nel V secolo e si configura come una rappresentazione filosofica e squisitamente simbolica del Sacro. Redatta per altro secondo rigidi canoni estetici e tecnici, millenari e ben precisi, che fanno riferimento alla teologia e al mondo naturale, da cui provengono tutti i materiali usati per la realizzazione dell'opera. Inoltre va tenuto presente che l'icona trasmette un particolare messaggio teologico per mezzo del_ [_linguaggio iconico_](https://it.wikipedia.org/wiki/Linguaggio_iconico) _espresso dai colori utilizzati dall'artista._
+
+    <iframe src="https://www.youtube.com/embed/ohmXKqR83jU" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Elementi culturali e tecnici questi, di cui uno spirito contemporaneo come quello della Pitacco Prestelli sa offrirci una versione nella quale s'intrecciano amore, dedizione e virtuosismo, determinanti per la riuscita dell'icona, “luogo in cui il mistero si fa presente”._
 

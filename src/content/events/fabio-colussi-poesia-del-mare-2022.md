@@ -18,11 +18,11 @@ subEvents:
   - - Ultimi giorni per visitare la mostra Fabio Colussi. Poesia del mare alla Sala Comunale d'Arte di Trieste fino al 30 marzo
 press:
   pressRelease: |-
-    ![Tramonto in sacchetta, 2018 - olio su tela - cm 60x120](/media/colussi_2022-tramonto-in-sacchetta-2018---olio-su-tela---cm-60x120.jpg "Tramonto in sacchetta, 2018 - olio su tela - cm 60x120")
-
     **Venerdì 4 marzo alle 18 si apre alla Sala Comunale d’arte di Trieste (piazza dell’Unità d’Italia 4) la rassegna “Fabio Colussi. Poesia del mare”, curata dall’architetto Marianna Accerboni e dedicata dal pittore triestino al tema prediletto della veduta marina**: in mostra **più di una ventina di oli recenti su tela e su tavola per la maggior parte inediti.**
 
     _In questa esposizione_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare della sua città, Trieste, accostandolo anche a quello di Venezia. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l’artista sa catturare l’ineffabile luce del nostro golfo, quella magica della Serenissima e la pace della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._ Fino al 30 marzo (orario: tutti i giorni 10 · 13 e 17 · 20/ info 335 6750946 - 348 8965899).
+
+    ![Tramonto in sacchetta, 2018 - olio su tela - cm 60x120](/media/colussi_2022-tramonto-in-sacchetta-2018---olio-su-tela---cm-60x120.jpg "Tramonto in sacchetta, 2018 - olio su tela - cm 60x120")
 
     _L’evoluzione coerente e appassionata del lavoro pittorico di Colussi, - scrive Accerboni - ha condotto l’artista dalla narrazione attenta e delicata della veduta marina verso traguardi sempre più elevati, raggiunti attraverso un’interpretazione del paesaggio d’acqua sottilmente poetica e intrisa di molteplici valenze luministiche._
 

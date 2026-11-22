@@ -18,11 +18,11 @@ subEvents:
   - - "Viaggio nel colore: mercoledì 16 ottobre il pittore Roberto Budicin incontra il pubblico alla Sala Comunale d'Arte di Trieste per il finissage della mostra"
 press:
   pressRelease: |-
-    ![Inverno, 2013 - olio su tela - cm 30x50](/media/events/roberto-budicin-viaggio-nel-colore-2013/inverno_2013_-_olio_su_tela_-_cm_30x50.jpg "Inverno, 2013 - olio su tela - cm 30x50")
-
     S'inaugura mercoledì 2 ottobre alle ore 18.30 alla Sala Comunale d'Arte di Trieste (piazza Unità d'Italia 4) la mostra personale del giovane pittore triestino **Roberto BUDICIN**, intitolata **Viaggio nel colore**, che sarà presentata dall'arch. Marianna Accerboni. La rassegna propone **una trentina tra oli su tavola e su tela e acquerelli, quasi tutti inediti, realizzati dall'artista nel 2013. Fino al 16 ottobre** (orario: tutti i giorni 10.00 **·** 13.00/ 17.00 **·** 20.00).
 
     _Talento precoce e figlio d'arte_ - scrive Accerboni - _Roberto Budicin affronta il tema della natura e del paesaggio con una dolcezza che si potrebbe definire quasi insolita per un giovane degli anni Duemila. Con molta professionalità e naturale istinto compositivo il pennello scivola con forza sulla tela, “costruendo” con abilità momenti di luminosa, equilibrata bellezza, che sanno cogliere in modo aderente la realtà, intridendola tuttavia di un lieve senso lirico, che solo la sensibilità di un pittore-poeta sa cogliere e trasfondere con semplicità al fruitore._
+
+    ![Inverno, 2013 - olio su tela - cm 30x50](/media/events/roberto-budicin-viaggio-nel-colore-2013/inverno_2013_-_olio_su_tela_-_cm_30x50.jpg "Inverno, 2013 - olio su tela - cm 30x50")
 
     _Dipingere il silenzio, la luce, le atmosfere, la neve e - a volte - trasporre la cultura mitteleuropea nel milieu veneziano, non è da tutti e Budicin ci riesce con un'elegante naturalezza sostenuta da un approfondito studio delle tecniche e molta dedizione all'esercizio pittorico. In tale ambito sperimentale, il giovane artista ripropone per esempio, tra i vari “segreti” tecnici, un raffinato virtuosismo usato da Tiziano, che consiste nello stendere delle pennellate a secco su un fondo a trama forte, cosicché da lontano l'effetto raggiunto è quello di una morbida vibrazione cromatica._
 

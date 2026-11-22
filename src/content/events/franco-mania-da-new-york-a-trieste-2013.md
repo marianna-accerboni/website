@@ -20,13 +20,13 @@ subEvents:
   - - "Prorogata fino al 20 agosto alla Lux Art Gallery di Trieste la mostra Franco Manià da New York a Trieste, visitata finora da più di 1500 persone"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/Itjg7DNuh3U" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura venerdì 14 giugno alle 19 negli ampi spazi della Lux Art Gallery (via Rittmeyer 7/A) di Trieste, diretta da Giorgio Parovel, un'importante rassegna intitolata “Franco Manià da New York a Trieste” e curata dell'arch. Marianna Accerboni.** Nel capoluogo giuliano sarà così visitabile **la grande mostra che New York City sogna**: attraverso 80 dipinti dal 1990 a oggi, è infatti la prima rassegna in assoluto a raccontare in modo esaustivo l'arte di questo pittore che, nato a Ronchi dei Legionari (Gorizia) nel '39, vive e opera nella sua città, dopo aver riscosso negli Stati Uniti un enorme successo. **Ha** infatti **esposto _in alcune delle gallerie più importanti degli Stati Uniti e i suoi quadri figurano in alcune delle collezioni più prestigiose degli States_**: **_tra i suoi collezionisti_ Agnes Gund, presidente emerita del prestigioso Museum of Modern Art (MOMA) di New York**, nominata dal Presidente Barack Obama membro del Board of Trustees of the National Council on the Arts, e **Joe Carol Lauder, vicepresidente del MOMA**; nonché **Leon Black, grande banchiere di origine polacca, responsabile del prestigioso fondo d'investimento _Apollo_ nonchè collezionista di altissimo livello e proprietario di una selezionatissima raccolta, la cui gemma è l'Urlo di Munch** (il dipinto venduto con la più alta quotazione mai raggiunta in un'asta). Per rendere più completa la comprensione dell'arte di Manià e dare adeguato risalto alla sua poetica e alla sua creatività, la rassegna sarà suddivisa in due fasi, ognuna delle quali con opere diverse: la prima si concluderà **il 12 luglio** (orario 17-20/ sab 15 giugno 10-13 e 17-20/ dom e merc chiuso/ info 3347231216).
 
     _Sensibilissimo e attraente per la morbida leggerezza dell'essere, riflessivo e vitale_ - scrive Marianna Accerboni - _in lui fremono emozioni e sentimenti intensi, che, con grande, istintiva abilità, sa rivestire e tradurre in colore, segno, messaggio. In bilico fra surrealismo e figurazione neoromantica, vis onirica e introspettiva e linfa lievemente naive, il pittore Franco Manià sa consegnarci un universo ricchissimo, emozionale ed emozionante, che non finisce mai di stupire per quella raffinata e nel contempo “semplice” capacità del comporre fantastico, riflettendo sui confini che separano vita e morte, reale e irreale, che è stata propria dei grandi artisti dal lessico anticonvenzionale e visionario, da Dalì all'Arcimboldo, da Antonio Ligabue a Nathan._
+
+    <iframe src="https://www.youtube.com/embed/Itjg7DNuh3U" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     ![DSC05225 1600x1200](/media/events/franco-mania-da-new-york-a-trieste-2013/DSC05225_1600x1200.jpg "DSC05225 1600x1200")
 

@@ -18,11 +18,11 @@ subEvents:
   - - "Fabio Colussi da Trieste a Venezia: prorogata fino al 28 febbraio la mostra personale del pittore triestino al Salone d'Arte di Trieste. Venerdì 6 febbraio visita guidata"
 press:
   pressRelease: |-
-    ![Il ponte dell'Accademia (Venezia) - 2013 - olio su tela - cm. 40x50](/media/events/fabio-colussi-da-trieste-a-venezia-2014/Il_ponte_dellAccademia_Venezia_-_2013_-_olio_su_tela_-_cm._40x50.jpg "Il ponte dell'Accademia (Venezia) - 2013 - olio su tela - cm. 40x50")
-
     **_FABIO COLUSSI DA TRIESTE A VENEZIA_: DAL 22 NOVEMBRE LA MOSTRA PERSONALE DEL PITTORE TRIESTINO AL SALONE D'ARTE CONTEMPORANEA DI TRIESTE**
 
     Dopo il grande successo della mostra di Venezia, da poco conclusasi, si apre il **22 novembre alle 18 al Salone d'Arte Contemporanea di Trieste (via della Zonta 2) la personale del pittore triestino Fabio Colussi,** intitolata **_Da Trieste a Venezia_ e introdotta sul piano critico dalla curatrice Marianna Accerboni**: in mostra **più di una ventina di oli su tela inediti, realizzati con grande maestria dall'artista soprattutto nel 2014.**
+
+    ![Il ponte dell'Accademia (Venezia) - 2013 - olio su tela - cm. 40x50](/media/events/fabio-colussi-da-trieste-a-venezia-2014/Il_ponte_dellAccademia_Venezia_-_2013_-_olio_su_tela_-_cm._40x50.jpg "Il ponte dell'Accademia (Venezia) - 2013 - olio su tela - cm. 40x50")
 
     _In questa rassegna_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare di Venezia e della laguna, accostandolo a quello della sua città, Trieste. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica, caratterizzano le marine veneziane e quelle triestine: con grande abilità tecnica e avvalendosi di infinite velature, Colussi cattura l'ineffabile luce del golfo di Trieste e quella magica della città lagunare, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._ Fino al 31 dicembre (orario: lun - sab 10 · 12 / 17 · 19/ dom su appuntamento/ info 335 6750946 - 348 8965899).
 

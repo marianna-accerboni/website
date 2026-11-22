@@ -12,14 +12,11 @@ bodySection:
 
     Artisti ospiti: Bruno Dalfiume, Giuseppe Miraglia e Graziano Romio.
 
-    Dove: Sala Fittke · Piazza Piccola, 3 · Trieste
-
-    Quando: 5 ottobre 2011
-
-    Orario: ore 18.30
-
-    A cura di: organizzata dall'Associazione Culturale Artesette in collaborazione con l'Assessorato alla Cultura del Comune di Trieste – presentazione critica Marianna Accerboni
-
-    Info e contatti: Artesette (via D. Rossetti 7/1, Trieste) / [artesette_2007@libero.it](mailto:artesette_2007@libero.it) / +39 040 631355 / +39 349 4833129 / +39 349 6803724
+    **Informazioni**
+    - Dove: Sala Fittke · Piazza Piccola, 3 · Trieste
+    - Quando: 5 ottobre 2011
+    - Orario: ore 18.30
+    - A cura di: organizzata dall'Associazione Culturale Artesette in collaborazione con l'Assessorato alla Cultura del Comune di Trieste – presentazione critica Marianna Accerboni
+    - Info e contatti: Artesette (via D. Rossetti 7/1, Trieste) / [artesette_2007@libero.it](mailto:artesette_2007@libero.it) / +39 040 631355 / +39 349 4833129 / +39 349 6803724
 draft: false
 ---

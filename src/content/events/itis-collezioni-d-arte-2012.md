@@ -15,13 +15,13 @@ info:
     - /media/events/itis-collezioni-d-arte-2012/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/Md00Gv3vdHo" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **Giovedì 19 luglio alle ore 18 negli spazi al pianoterra dell'A.S.P. Itis di Trieste (via Pascoli 31) avrà luogo la presentazione del volume e l'inaugurazione della mostra dedicati a “Le collezioni d'arte dell'ITIS”**. Aprirà **il Presidente dell'A.S.P. Itis, avv. Raffaella del Punta**, cui seguiranno l'intervento dei curatori **Daniele D'Anza** e **Matteo Gardonio** e un dibattito moderato dall'arch. **Marianna Accerboni** sotto forma di **conversazione/ intervista.**
 
     **L'evento è realizzato con il contributo della Regione Friuli Venezia Giulia e il sostegno di Veneto Banca e Fondazione Ananian** (mostra visitabile fino al 30 settembre).
+
+    <iframe src="https://www.youtube.com/embed/Md00Gv3vdHo" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _In occasione delle celebrazioni per i 150 anni dell'inaugurazione della sede di via Pascoli, l'Azienda Pubblica di Servizi alla Persona Itis, storica Istituzione fondata a Trieste all'inizio dell'800 per sostenere i meno abbienti, riscopre le sue_ **_collezioni d'arte_**, _donate nel corso del tempo da artisti e benefattori, e le presenta al pubblico,_ **_per la prima volta accuratamente schedate a cura_** _di_ **_Daniele D'Anza_** _e_ **_Matteo Gardonio in un elegante volume_**: _attraverso_ **_173 dipinti, realizzati dal '500 a oggi_**, _e una_ **_cinquantina di sculture_**, _quest'ultime perlopiù esposte in permanenza al pianoterra nel 'pantheon' dei benefattori, il libro ricostruisce implicitamente il respiro della cultura e della storia triestina al XIX secolo a oggi._
 

@@ -18,11 +18,11 @@ subEvents:
   - - "Fabio Colussi. Il pittore del mare: prorogata fino al 10 febbraio 2021 al Salone d'Arte di Trieste la personale dell'artista triestino"
 press:
   pressRelease: |-
-    ![Fabio Colussi davanti al suo mare](/media/events/colussi-il-pittore-del-mare-2020/Fabio_Colussi_davanti_al_suo_mare.jpg "Fabio Colussi davanti al suo mare")
-
     **Sabato 5 dicembre alle 18 si apre al Salone d'Arte di Trieste (via della Zonta 2) la rassegna “Fabio Colussi. Il pittore del mare”, dedicata dal pittore triestino al tema prediletto della veduta marina: introdotta da Gabriella Pastor, sarà interpretata sul piano critico dall'architetto Marianna Accerboni**: in mostra **21 oli su tela e su tavola inediti, realizzati con grande maestria tra il 2018 e il 2020. In contemporanea all'apertura della mostra il video della presentazione sarà fruibile su Facebook (**[**www.facebook.com/marianna.accerboni**](http://www.facebook.com/marianna.accerboni)**), Youtube (**[**https://www.youtube.com/user/MariannaAccerboni**](https://www.youtube.com/user/MariannaAccerboni)**) e sul sito dell'artista (www.fabiocolussi.com). L'afflusso del pubblico sarà regolamentato secondo le disposizioni anti Covid.**
 
     _In questa esposizione_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare della sua città, Trieste, accostandolo anche a quello di Venezia. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l'artista sa catturare l'ineffabile luce del nostro golfo, quella magica della Serenissima e la pace della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._ Fino al 31 dicembre (orario: tutti i giorni 10 · 12.30 e 16.00 · 19.00/ info 335 6750946 - 348 8965899).
+
+    ![Fabio Colussi davanti al suo mare](/media/events/colussi-il-pittore-del-mare-2020/Fabio_Colussi_davanti_al_suo_mare.jpg "Fabio Colussi davanti al suo mare")
 
     ![Riflessi a Duino, 2018 - olio su tela - cm 60x80](/media/events/colussi-il-pittore-del-mare-2020/Riflessi_a_Duino_2018_-_olio_su_tela_-_cm_60x80.jpg "Riflessi a Duino, 2018 - olio su tela - cm 60x80")
 

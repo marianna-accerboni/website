@@ -18,7 +18,10 @@ subEvents:
   - - "XV edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita: dal 25 ottobre la rassegna al Castello di Duino"
 press:
   pressRelease: |-
-    **2° inaugurazione: sabato 25 ottobre 2014, ore 11.30**, al Castello di Duino (Trieste). **Quando:** 25 ottobre - 9 novembre 2014. **Orario:** di apertura del Castello.
+    **Seconda sede: Castello di Duino (Trieste)**
+    - Inaugurazione: sabato 25 ottobre 2014, ore 11.30
+    - Periodo: 25 ottobre – 9 novembre 2014
+    - Orario: di apertura del Castello
 
     <iframe src="https://www.youtube.com/embed/ApQSvXnqhMU" width="350" height="288"></iframe>
 

@@ -18,13 +18,13 @@ subEvents:
   - - "Sogni di luce e musica: giovedì 18 settembre 2014 alla Galleria Rettori Tribbio di Trieste visita guidata alla mostra della pittrice Serena Zors Breuer"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/ctObhIn_ax4" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'evento multimediale
-
     **Dopo il grande successo della personale allestita alla Sala del Giubileo di Trieste, ritorna a esporre nella sua città la pittrice, designer e scultrice Serena Zors Breuer, attiva da decenni a Monaco di Baviera. La rassegna, che s'inaugura il 6 settembre alle 19.30 alla Galleria Rettori Tribbio (piazza Vecchia 6) con una particolare performance multimediale di luce, parole e musica, curata dall'arch. Marianna Accerboni, che ha ideato l'evento, propone in gran parte l'ultima produzione realizzata dall'artista nel 2014: in mostra dipinti su carta, sculture, arte del vetro e design, di squisita fattura e fantastica ispirazione, cui ben s'ispirano i prestigiosi interventi che sottolineeranno la vernice: gli attori Gualtiero Giorgini e Roberta Colacino leggeranno la favola “Il mistero della bambina e dell'albero”, composta per le opere della Zors dallo scrittore e saggista Khaled Fouad Allam, già editorialista di _Repubblica_ e ora de _Il Sole 24 Ore_ e autore, tra gli altri, de “La solitudine dell'occidente” (Rizzoli). Silvio Donati, compositore di livello europeo, eseguirà quindi al pianoforte dei brani da lui creati per l'occasione e ispirati alle opere dell'artista** (**fino al 19 settembre**/ orario feriali 10 - 12.30 e 17 - 19.30 · festivi 10 - 12 · venerdì pomeriggio e lunedì chiuso/ info 389 9153341 · 0049 179 2983633 · www.serenazors.de).
 
     _Serena Zors Breuer_ - scrive Accerboni - _è un'artista semplice e complessa al tempo stesso: semplice per i temi trattati, giocosi, simbolici, colorati, allegri, ma complessa per l'universo molteplice e simbolico che sottende le sue articolate e vivaci composizioni, le quali nella scultura sembrano invece trovare un momento di pace e di riflessione: da un canto compare un entusiasmo istintivo e vitale, a volte quasi infantile, verso il mondo e i suoi segreti, dall'altro l'intuizione quasi fatale di una donna che dell'esistenza sa cogliere, interpretare e descrivere l'elemento irrazionale e magico, rifugiandosi nel sogno e in un mondo irreale e fatato per fuggire il male e per esprimere il proprio bisogno di libertà; ma anche per donare al fruitore un attimo di magica bellezza, di_ divertissement _e di onirica speranza, distraendolo da un universo tecnologico e spesso intriso di solitudine._
+
+    <iframe src="https://www.youtube.com/embed/ctObhIn_ax4" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'evento multimediale
 
     ![Invadenza sleale - acrilico su cartoncino - cm 39x28](/media/events/serena-zors-breuer-sogni-di-luce-e-musica-2014/Invadenza_sleale_-_acrilico_su_cartoncino_-_cm_39x28.jpg "Invadenza sleale - acrilico su cartoncino - cm 39x28")
 

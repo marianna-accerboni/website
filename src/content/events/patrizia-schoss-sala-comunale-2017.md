@@ -16,13 +16,13 @@ info:
     - /media/events/patrizia-schoss-sala-comunale-2017/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/ABJtmnSOlYs?controls=1&showinfo=0" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Mercoledì 29 marzo 2017 alle ore 19 alla Sala Comunale d'Arte di Trieste** (piazza Unità d'Italia 4) **avrà luogo l'inaugurazione della personale della pittrice Patrizia Schoss, che sarà presentata sul piano critico dall'arch. Marianna Accerboni. In mostra una trentina di opere su carta e tridimensionali che ripercorrono in una sorta di antologica la creatività della Schoss dal '77 a oggi** (orario tutti i giorni 10 · 13 e 17 · 20/ info +39 335 6750946).
 
     _Immaginifica eppure analitica_ - scrive Accerboni - _Patrizia Schoss è autrice di una pittura raffinata e molto personale. Inquietante e criptica, sospesa tra tenerezza e inquietudine, quest'artista di cultura e dna mitteleuropei (padre austriaco e madre triestina), ma lombarda di nascita, ora attiva a Trieste, traccia con tecnica eccellente una sorta di elegante bestiario dell'anima, disegnato o inciso senza esitazioni._
+
+    <iframe src="https://www.youtube.com/embed/ABJtmnSOlYs?controls=1&showinfo=0" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Nel grande panorama di possibilità espressive che la cultura del '900 ha offerto, l'artista ha attinto istintivamente, ritenendola consona con il proprio sentire, all'intonazione surrealista, che l'accompagna nel travalicare il reale verso una liberazione dell'inconscio dagli incubi e dai dubbi, un percorso condiviso da note sensuali e delicate al tempo stesso. Che ci rimanda agli antichi bestiari di ascendenza medievale, ma anche alle creature fantastiche dipinte fra il '400 e il '500 dal fiammingo Hieronymus Bosch, rivisitate con algida chiarezza. E alle immagini cinquecentesche, affastellate di dettagli, dell'aristocratico, ma più solare Arcimboldo. Un mix, l'universo della Schoss, fra nitore, sofisticata freschezza e armonia tonale e cromatica, mistero, attaccamento e timore della maternità, fine segno grafico; paura della solitudine e intreccio, cioè abbraccio._
 

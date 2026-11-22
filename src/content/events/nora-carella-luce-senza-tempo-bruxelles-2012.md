@@ -15,13 +15,13 @@ info:
     - /media/events/nora-carella-luce-senza-tempo-bruxelles-2012/depliant.pdf
 press:
   pressRelease: |-
-    ![Nora carella Monte Paschi di Siena](/media/events/nora-carella-luce-senza-tempo-bruxelles-2012/depliant.jpg "Nora carella Monte Paschi di Siena")
-
     **S'inaugura giovedì 5 aprile alla Banca Monte Paschi Belgio di Bruxelles (Rue Joseph II, 24 · 1000 Bruxelles) la seconda e ultima tappa espositiva che vede protagonista nella capitale belga la nota pittrice triestina Nora Carella: dopo l'attesa e raffinata rassegna di paesaggi e nature morte - allestita all'Ufficio di collegamento della Regione Autonoma Friuli Venezia Giulia a Bruxelles,** coordinato da **Luisa Poclen**, dall'Ufficio stesso e **dall'Associazione Giuliani nel Mondo di Trieste, presieduta da Dario Locchi e diretta da Fabio Ziberna, e di Bruxelles, presieduta da Flavio Tossi**, e **curata dall'architetto Marianna Accerboni** - **i dipinti sono infatti esposti fino al 30 aprile alla Banca Monte Paschi Belgio.**
 
     ![Vetri opalini - 2007 - olio su tela - cm. 100x70](/media/events/nora-carella-luce-senza-tempo-bruxelles-2012/Vetri_opalini_-_2007_-_olio_su_tela_-_cm._100x70.jpg "Vetri opalini - 2007 - olio su tela - cm. 100x70")
 
     La rassegna, intitolata “Nora Carella. Luce senza tempo”, propone una ricca sequenza di oli su tela dipinti dall'artista dal 2003 a oggi, tra cui numerosi inediti. Nora Carella è nata a Parenzo (Istria) nel 1918, è stata anche una famosa ritrattista di celebri personaggi, ha vissuto a lungo a Roma ed è tutt'ora in piena attività. Le sue opere sono conservate in prestigiose collezioni pubbliche e private in Italia e all'estero.
+
+    ![Nora carella Monte Paschi di Siena](/media/events/nora-carella-luce-senza-tempo-bruxelles-2012/depliant.jpg "Nora carella Monte Paschi di Siena")
 
     _In queste mostre, che testimoniano la sua produzione dal 2003 a oggi -_ scrive Accerboni _- Nora Carella presenta paesaggi d'acqua, ispirati in prevalenza alle vedute lagunari e di Venezia, e nature morte di vetri e di fiori, che dipinge spesso a memoria, senza disegno preparatorio, usando, a volte, soltanto le dita. E cogliendone con tratto magistrale le trasparenze e, come nei suoi notissimi ritratti, la luce._
 

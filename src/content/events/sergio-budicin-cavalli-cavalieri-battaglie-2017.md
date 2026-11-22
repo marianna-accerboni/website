@@ -16,13 +16,13 @@ info:
     - /media/events/sergio-budicin-cavalli-cavalieri-battaglie-2017/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/RVBTQeCz1Ug?controls=1&showinfo=0" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Venerdì 3 marzo 2017 alle ore 18 alla Sala Comunale d'Arte di Trieste (piazza Unità d'Italia 4) avrà luogo l'inaugurazione della personale del pittore Sergio Budicin intitolata _Cavalli, cavalieri e battaglie_, che sarà presentata sul piano critico dall'arch. Marianna Accerboni. In mostra una ricca e avvincente sequenza di oli per lo più inediti, realizzati negli ultimi 5 anni** (orario tutti i giorni 10 · 13 e 17 · 20/ info +39 335 6750946).
 
     _Arte e storia_ - scrive Accerboni - _s'intrecciano felicemente in questa mostra inedita, che potremmo definire “coraggiosa” per il tema trattato, certamente non approcciato sovente nell'arte contemporanea. Sergio Budicin, pittore animalista e grande appassionato di cavalli (che dipinge solitamente a memoria), si perita in una sorta di prova di grande virtuosismo, sfoderando il talento e la competenza germinati nel corsi di una vita interamente dedicata all'esercizio della pittura, anche, assieme al figlio Roberto, come valente insegnante._
+
+    <iframe src="https://www.youtube.com/embed/RVBTQeCz1Ug?controls=1&showinfo=0" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Con padronanza tecnica e compositiva, l'artista - tuttora molto apprezzato particolarmente all'estero e in Germania, per le sue doti narrative che prendono l'avvio da una carriera iniziata quale illustratore a Milano - ci conduce, come fossimo immersi in una sorta di film dai frame dipinti a mano, attraverso la grande storia, popolata di miti immortali. Tra questi, Alessandro il Grande, cui dedica un ciclo di cinque dipinti, Riccardo Cuor di Leone, Lancillotto, Carlo di Valois, ma anche Gengis Khan, il generale Custer sconfitto dalle tribù indiane e il visionario don Chisciotte. Per non dimenticare Giovanna d'Arco e i charros, cavalieri messicani che catturano i giaguari con i lazos, o i_ mountain men, _gli ultimi pionieri americani._
 

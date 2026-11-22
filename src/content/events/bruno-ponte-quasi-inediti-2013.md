@@ -16,11 +16,11 @@ info:
     - /media/events/bruno-ponte-quasi-inediti-2013/invito.pdf
 press:
   pressRelease: |-
-    ![Marianna Accerboni ricorda Bruno Ponte (ph Olga Micol)](/media/events/bruno-ponte-quasi-inediti-2013/Panorama_5.jpg "Marianna Accerboni ricorda Bruno Ponte (ph Olga Micol)")
-
     Sabato 22 giugno alle 18.30 alla Galleria Cartesius (via Carducci 10) s'inaugura la mostra “I miei 'quasi' inediti per l'amico Bruno Ponte”, dedicata dalla pittrice Annamaria Ducaton, attraverso quasi una ventina di eleganti e intense tecniche miste realizzate dal 1985 al 2000, all'indimenticabile Bruno Ponte, raffinato artista e promotore delle arti, scomparso un mese fa all'età di 91 anni.
 
     Nell'occasione l'arch. Marianna Accerboni ricorderà la figura di Ponte, che definisce “voce eccelsa, solare e riservata del nostro secondo '900, presente in esposizioni di grande prestigio in Italia e all'estero. La mostra vuole simbolizzare la considerazione e l'affetto di Trieste per questo grande e riservato artista, cui il Comune dedicò nel 2011 una grande antologica a Palazzo Costanzi (fino al 9 luglio/ orario: mart - sab 16.30 - 19.30/ info 040 761582 - 3472662310).
+
+    ![Marianna Accerboni ricorda Bruno Ponte (ph Olga Micol)](/media/events/bruno-ponte-quasi-inediti-2013/Panorama_5.jpg "Marianna Accerboni ricorda Bruno Ponte (ph Olga Micol)")
 
     _Il ricco e poliedrico mondo degli artisti triestini_ - scrive Accerboni - _ha perso quest'anno un'altra punta di diamante: si è spento all'età di 91 anni con dolcezza, così com'era vissuto, il pittore Bruno Ponte. Nato a Talmassons (Udine) nel 1921 da genitori di origini friulane, l'artista visse fin dai primi mesi di vita a Trieste, dove nel '36 iniziò a dipingere sotto la guida di Carlo Pacifico. Poi andò in guerra, quella tremenda di trincea, come marconista in Africa. Preso prigioniero, fece ritorno con gli ultimi scaglioni solo nel '46: un'esperienza rievocata di quando in quando nelle sue opere attraverso sensazioni cromatiche di grande levità, ma vivaci nella sobria evanescenza del ricordo._
 

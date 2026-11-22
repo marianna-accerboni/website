@@ -13,11 +13,11 @@ info:
   infoContacts: +39 334 7231216 · +39 335 6750946
 press:
   pressRelease: |-
-    ![Venice memory - tecnica mista su tela - cm 10X15](/media/events/francoise-calcagno-venice-memory-2015/Venice_memory_-_tecnica_mista_su_tela_-_cm_10X15_3.JPG "Venice memory - tecnica mista su tela - cm 10X15")
-
     **S'inaugura lunedì 2 marzo alle 18.30 alla Lux Art Gallery di Trieste** (via Rittmeyer 7/a) **la personale della pittrice Françoise Calcagno, che sarà presentata da Francesca Brandes e Marianna Accerboni**. **In mostra una trentina di opere recenti**. Fino al 17 marzo (orario: 17 - 20/ chiuso mercoledì e domenica/ info 334 7231216).
 
     Scriveva Nicolas De Staël che _la vera pittura tende sempre a tutti gli aspetti, cioè all'impossibile somma del presente, del passato e dell'avvenire …_ Più che mai ciò avviene nel caso di Françoise Calcagno - afferma Brandes - nel suo scavare al fondo dei tempi, nella materia di pigmento, fino ad estrarne un dono prezioso, inesauribile. Forse è il dono di un'immagine che sottende l'emozione (e non viceversa), la sua sostanza, la sua scorza non solo simbolica. È una sostanza-colore che implode luce.
+
+    ![Venice memory - tecnica mista su tela - cm 10X15](/media/events/francoise-calcagno-venice-memory-2015/Venice_memory_-_tecnica_mista_su_tela_-_cm_10X15_3.JPG "Venice memory - tecnica mista su tela - cm 10X15")
 
     Un lessico raffinato, luminoso e calibrato - sottolinea Accerboni - che, attraverso l'intreccio tra pittura e fotografia, interpreta ed evoca in questo ciclo, con taglio squisitamente contemporaneo, il fascino e la memoria dei luoghi.
 

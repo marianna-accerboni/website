@@ -30,17 +30,13 @@ bodySection:
 
     La rassegna si svolge **con il patrocinio del Comune di Trieste, in collaborazione con la Biblioteca Statale _S. Crise_ di Trieste, con la Media partnership del quotidiano Il Piccolo** / GEDI Gruppo Editoriale e partecipa all'iniziativa **LET'S Read - Trieste Città della Letteratura** - Candidata 2019 Città Creativa UNESCO e _con il sostegno di_ **Fondazione CRTrieste • Fondazione Kathleen Foreman Casali** - Trieste **• Samer&Co.shipping** - Trieste **• Ciaccio Arte Big Broker Insurance Group** - Milano **• Rotary Club Trieste Alto Adriatico • Spaziocavana Zinelli&Perizzi • Associazione APS Nova Accademia Alpe Adria.**
 
-    **DOVE**: Biblioteca statale Stelio Crise · Largo Papa Giovanni XXIII, 6 · Trieste
-
-    **QUANDO**: 15 novembre 2019 · 4 marzo 2020
-
-    **ORARIO**: da lunedì a giovedì 9.00 - 18.30 / venerdì e sabato 9.00 - 13.30 / domenica chiuso
-
-    **A CURA DI**: Marianna Accerboni
-
-    **CATALOGO**: sì
-
-    **INFO**: Biblioteca statale Stelio Crise +39 040 307463
+    **Informazioni**
+    - Dove: Biblioteca statale Stelio Crise · Largo Papa Giovanni XXIII, 6 · Trieste
+    - Quando: 15 novembre 2019 · 4 marzo 2020
+    - Orario: da lunedì a giovedì 9.00 - 18.30 / venerdì e sabato 9.00 - 13.30 / domenica chiuso
+    - A cura di: Marianna Accerboni
+    - Catalogo: sì
+    - Info e contatti: Biblioteca statale Stelio Crise +39 040 307463
 
     Ufficio stampa +39 335 6750946 • [mostrailsegnorivelatoredigillo@gmail.com](mailto:mostrailsegnorivelatoredigillo@gmail.com)
 draft: false

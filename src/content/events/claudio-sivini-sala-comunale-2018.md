@@ -16,13 +16,13 @@ info:
     - /media/events/claudio-sivini-sala-comunale-2018/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/SyL1i-wjjac" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura venerdì 30 marzo 2018 alle 18.30 alla Sala Comunale d'Arte di Trieste (piazza Unità d'Italia 4), la mostra personale dell'artista triestino Claudio Sivini intitolata “La luce, l'ombra, il riflesso”, che sarà introdotta dall'arch. Marianna Accerboni. In mostra quasi una trentina di opere tra lavori tridimensionali e strutture ad assetto variabile, realizzate tra il 2010 e il 2018, usando materiali quali specchio, vari tipi di vetro, acciaio, parzialmente schermati e movimentati da sabbiature e pellicole plastiche e inseriti in supporti di marmo o lignei creati dall'artista stesso** (fino al 20 aprile/ orario 10 - 13 e 17 - 20).
 
     _Con grande coerenza ed eleganza_ - scrive Accerboni - _Claudio Sivini approfondisce da più di mezzo secolo una sperimentazione incentrata sul tema della percezione, uno dei filoni della ricerca artistica che ha condeterminato, coinvolgendo ovviamente anche il fattore psicologico, l'arte moderna e contemporanea. Specchio, vetro trasparente, lattimo o "cattedrale", incolore o colorato, cristallo fumé, acciaio sagomato e rifinito a specchio, disposti su più piani paralleli e talvolta anche su piani a essi ortogonali, sono inseriti in supporti di marmo o in cornici lignee prodotte dall'artista stesso. Parzialmente schermati o sobriamente movimentati attraverso sabbiature e l'applicazione di pellicole plastiche colorate e colori acrilici, tali materiali caratterizzano il suo lavoro, che prende spunto inizialmente da soggetti e dettagli urbani._
+
+    <iframe src="https://www.youtube.com/embed/SyL1i-wjjac" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Sivini ha saputo infatti declinare in modo sottilmente personale - attraverso una progettualità molto accurata e un'opera di grande precisione che dona un risultato piacevolmente nitido e unico - il gioco e il senso dell'optical art e dell'arte cinetica e programmata. Riuscendo a stabilire con il fruitore un'equilibrata interazione, che rimane fondamentale e che varia, naturalmente, dal punto di vista assunto da quest'ultimo. E ha saputo evolvere il proprio linguaggio, pervenendo negli ultimi tempi in modo come sempre più razionale che istintivo, a soluzioni che si differenziano dal passato: puntando per esempio sulla tecnologia del taglio laser, utilizzata per tagliare l'alluminio, successivamente trattato con smalti rifiniti a caldo, e approdando di recente ad altre soluzioni quasi monocromatiche, basate sul rapporto tra il nero, il grigio e l'assenza di altri cromatismi, che testimoniano un desiderio ancora più accentuato di tridimensionalità. Punto d'arrivo_ - conclude Accerboni - _di questa mostra, che racconta la sua attività dal 2010 al 2018._
 

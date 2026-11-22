@@ -19,11 +19,11 @@ subEvents:
   - - 'Fabio Colussi. Il pittore del mare: prorogata fino al 6 febbraio la mostra personale del pittore triestino al salone d’arte di Trieste'
 press:
   pressRelease: |-
-    ![Momento magico, 2020 - olio su tela - cm 40x60](/media/Momento_magico_2020_-_olio_su_tela_-_cm_40x60.jpg "Momento magico, 2020 - olio su tela - cm 40x60") 
-
     **Sabato** **18 dicembre alle 18.30 si apre al Salone d’arte di Trieste (via della Zonta 2) la rassegna “Fabio Colussi. Il pittore del mare”, dedicata dal pittore triestino al tema prediletto della veduta marina: introdotta dalla curatrice Marianna Accerboni,** propone **una ventina di oli su tela e su tavola inediti, realizzati negli ultimi tre anni. In contemporanea all’apertura della mostra la presentazione sarà fruibile in diretta streaming su Facebook (www.facebook.com/marianna.accerboni), Youtube (https://www.youtube.com/user/MariannaAccerboni) e sul sito dell’artista (www.fabiocolussi.com). L’afflusso del pubblico sarà regolamentato secondo le disposizioni anti Covid.**
 
     _In questa esposizione_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare della sua città, Trieste. Una sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l’artista sa catturare l’ineffabile luce del nostro golfo, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._ Fino al 16 gennaio 2022 (orario: tutti i giorni 10 · 12.30 e 16.00 · 19.00/ info 335 6750946 - 348 8965899).
+
+    ![Momento magico, 2020 - olio su tela - cm 40x60](/media/Momento_magico_2020_-_olio_su_tela_-_cm_40x60.jpg "Momento magico, 2020 - olio su tela - cm 40x60") 
 
     _Memore di una vena neoclassica, che appartiene culturalmente a Trieste, l’artista prosegue in modo del tutto personale l’antica tradizione di pittori e vedutisti attivi a Venezia nel ‘700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l’interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri artisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell’altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo Ottocento e nel primo Novecento, accanto all’Accademia di Monaco, per i pittori triestini._
 

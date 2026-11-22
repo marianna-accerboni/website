@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![](/media/fuoco-06.jpg)
-
     **Domenica 10 luglio 2022** **s’inaugura alle ore 12 alla Galleria d’arte contemporanea Ghetto Et Cetera di Venezia (Campo del Ghetto novo 2919) la rassegna** **"Fuoco": una collettiva di pittura, scultura e fotografia, curata dall’arch. Marianna Accerboni, che introdurrà l’esposizione.**
 
     **In mostra le opere recenti** **create ad hoc da 16 artisti italiani e stranieri: Alice Aliyeva Biba - Donatella Bedello - Silvia Ciaccio - Fabio Colussi - Valentina De Lello - Arianna Favaretto - Giambattista Longhi - Cristina Meotto - Federico Montagner - Francesco Possega - Paolo Pustetto - Franco Riccò - Gabriele Sanna - Valentina Sarto - Andrew Taylor - Isotta Tomasi.**
+
+    ![](/media/fuoco-06.jpg)
 
     **Fino al** **31 luglio** **(orario: da** **domenica a venerdì 10 - 13 e 14 - 18, sabato 10 - 13, lunedì chiuso).**
 

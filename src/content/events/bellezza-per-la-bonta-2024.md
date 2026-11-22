@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Carolina FRANZA / Madre di Dio della Tenerezza, 2022 / icona a tecnica tradizionale / cm 40x30](/media/bellezza-bonta-Carolina_FRANZA__Madre_di_Dio_della_Tenerezza_2022__icona_a_tecnica_tradizionale__cm_40x30.jpg "Carolina FRANZA / Madre di Dio della Tenerezza, 2022 / icona a tecnica tradizionale / cm 40x30")
-
     Sabato 7 settembre 2024 alle ore 18 si apre alla Sala Xenia della Comunità Greco-Orientale di Trieste (ex Sala Giubileo, Riva 3 Novembre 9) la 25° edizione della mostra La bellezza per la bontà, l’arte aiuta la vita, organizzata a favore della Fondazione Pianciamore-Premio alla Bontà Hazel M. Cole-ETS, istituito da Aldo e Donatella Pianciamore, che sarà introdotta dal presidente Aldo Pianciamore, dalla presidente onoraria Etta Carignani, dalla vicepresidente Donatella Pianciamore e dalla curatrice Marianna Accerboni. Alla rassegna, visitabile fino al 19 settembre e accompagnata da un esaustivo catalogo, prendono parte 33 artisti tra pittori triestini, di altre città italiane e stranieri. Fino al 19 settembre (ingresso libero, orario 10-13 e 16-19/ info 335 6750946/ www.premiobonta.it).
 
     Quest’anno il Collegio del Mondo Unito di Duino ha proposto di allietare la manifestazione facendo partecipare 5 studenti che suoneranno singolarmente chitarra, violino, flauto, sassofono e Oud, uno strumento tipico dell’Iraq. Per gli altri strumenti i ragazzi provengono da Slovacchia, Norvegia, Spagna, Stati Uniti.
+
+    ![Carolina FRANZA / Madre di Dio della Tenerezza, 2022 / icona a tecnica tradizionale / cm 40x30](/media/bellezza-bonta-Carolina_FRANZA__Madre_di_Dio_della_Tenerezza_2022__icona_a_tecnica_tradizionale__cm_40x30.jpg "Carolina FRANZA / Madre di Dio della Tenerezza, 2022 / icona a tecnica tradizionale / cm 40x30")
 
     Anche in questa edizione la Fondazione elargirà un contributo pocket money agli studenti bisognosi del Collegio del Mondo Unito e un premio di studio a uno studente di Oncologia e a uno di Cardiologia dell’Università di Trieste, per la brillante carriera svolta finora e in procinto di perfezionamento.
 

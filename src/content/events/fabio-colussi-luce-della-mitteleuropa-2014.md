@@ -16,11 +16,11 @@ info:
     - /media/events/fabio-colussi-luce-della-mitteleuropa-2014/invito.pdf
 press:
   pressRelease: |-
-    ![Canal Grande, 2013 - olio su tela - cm. 60x50](/media/events/fabio-colussi-luce-della-mitteleuropa-2014/Canal_Grande_2013_-_olio_su_tela_-_cm._60x50.jpg "Canal Grande, 2013 - olio su tela - cm. 60x50")
-
     S'inaugura domenica **7 settembre 2014 alle ore 19 alla Galleria Melori & Rosenberg di Venezia,** situata nella fascinosa e storica cornice del **Campo del Ghetto Novo (Cannaregio 2919), la mostra personale del pittore triestino Fabio Colussi,** intitolata **_Light in Venice. La luce della Mitteleuropa a Venezia_, che sarà introdotta sul piano critico dalla curatrice, architetto Marianna Accerboni**. La rassegna propone **25 oli su tavola e su tela, tutti inediti, realizzati dall'artista tra il 2012 e il 2014. Fino al 17 settembre** (orario: da martedì a domenica ore 10 **·** 17/ info 335 6750946 **·** [info@melori-rosenberg.com](mailto:info@melori-rosenberg.com)).
 
     _In queste pagine pittoriche_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena poetica il fascino di Venezia e della laguna, raffinando con equilibrio e perizia il suo luminoso e vivido linguaggio attraverso un colorismo avvincente e reale, che lascia tuttavia spazio anche al sogno._
+
+    ![Canal Grande, 2013 - olio su tela - cm. 60x50](/media/events/fabio-colussi-luce-della-mitteleuropa-2014/Canal_Grande_2013_-_olio_su_tela_-_cm._60x50.jpg "Canal Grande, 2013 - olio su tela - cm. 60x50")
 
     _Memore di una vena neoclassica, che appartiene culturalmente a Trieste, sua città d'origine, l'artista prosegue in modo del tutto personale l'antica tradizione di pittori e vedutisti attivi a Venezia nel '700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l'interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri pittori e vedutisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell'altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo ottocento e nel primo novecento, accanto all'Accademia di Monaco, per gli artisti triestini._
 

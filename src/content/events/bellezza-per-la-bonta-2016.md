@@ -18,7 +18,11 @@ subEvents:
   - - "La 17° edizione del Premio alla Bontà Hazel Marie Cole prosegue fino al 13 novembre al Castello di Duino e dal 16 novembre alla Sala del Giubileo di Trieste"
 press:
   pressRelease: |-
-    **2° inaugurazione: mercoledì 16 novembre 2016, ore 18**, nella Sala del Giubileo di Trieste (Riva 3 Novembre, 9). **Quando:** 16 - 27 novembre 2016. **Orario:** tutti i giorni ore 10 - 12 · 16 - 19.30.
+    **Seconda sede: Sala del Giubileo, Trieste**
+    - Inaugurazione: mercoledì 16 novembre 2016, ore 18
+    - Indirizzo: Riva 3 Novembre, 9 · Trieste
+    - Periodo: 16 – 27 novembre 2016
+    - Orario: tutti i giorni ore 10 – 12 · 16 – 19.30
 
     <iframe src="https://www.youtube.com/embed/ZnPRX72yTWk" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
 

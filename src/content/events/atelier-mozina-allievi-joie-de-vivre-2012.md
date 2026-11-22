@@ -16,11 +16,11 @@ info:
     - /media/events/atelier-mozina-allievi-joie-de-vivre-2012/invito.pdf
 press:
   pressRelease: |-
-    ![Claudio Maiola - Fiori di campo, 2012 - olio su legno](/media/events/atelier-mozina-allievi-joie-de-vivre-2012/Claudio_Maiola_-_Fiori_di_campo_2012_-_olio_su_legno.jpg "Claudio Maiola - Fiori di campo, 2012 - olio su legno")
-
     S'inaugura **sabato 25 agosto 2012 alle ore 18.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la mostra intitolata La joie de vivre nell'Atelier Možina, che propone le opere realizzate nell'anno accademico 2011/ 2012 dai 58 allievi del corso che il pittore iperrealista Livio Možina tiene in Galleria. La rassegna, che sarà introdotta dall'architetto Marianna Accerboni,** propone **una sessantina di opere di gusto figurativo realizzate quasi tutte a olio.** Visitabile **fino al 7 settembre** (orario: feriali 10.00 - 12.30 e 17.00 - 19.30/ festivi 10.00 - 12.00/ venerdì e lunedì chiuso).
 
     _La passione per l'arte come antidoto ai tempi difficili in cui viviamo rappresenta -_ scrive Accerboni _- assieme al talento e al paziente amore per l'insegnamento, la chiave del successo dell'Atelier didattico che il pittore iperrealista Livio Možina tiene ormai da anni alla Galleria Rettori. Il numero degli allievi aumenta con carattere esponenziale: nel 2012 infatti la collettiva finale propone, su 64 partecipanti al corso, le opere di 58 pittori, contro i 46 del 2011 e i 34 del 2010: una scuola in ascesa per il numero di allievi e l'interesse che suscita in una città come Trieste, protesa da sempre, per antica tradizione, verso le arti, ma priva di un'Accademia istituzionale._
+
+    ![Claudio Maiola - Fiori di campo, 2012 - olio su legno](/media/events/atelier-mozina-allievi-joie-de-vivre-2012/Claudio_Maiola_-_Fiori_di_campo_2012_-_olio_su_legno.jpg "Claudio Maiola - Fiori di campo, 2012 - olio su legno")
 
     _Un'altra delle doti del maestro è per altro quella di lasciare gli allievi, pur nell'ambito di una didattica attenta, completamente liberi d'agire per quanto riguarda il tema trattato, che in mostra oscilla anche quest'anno dalla figura umana con nudi e ritratti, al paesaggio, soprattutto marine, alla natura morta, alle scene di maniera e alla rappresentazione di diverse etnie: soggetti interpretati per la maggior parte attraverso un lessico figurativo con spunti tratti dallo stile narrativo tradizionale, dal linguaggio iperrealista, da vivaci e libere interpretazioni espressioniste, a volte con qualche apertura al gusto dell'illustrazione o al racconto naïf._
 

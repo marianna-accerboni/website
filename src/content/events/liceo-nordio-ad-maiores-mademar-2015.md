@@ -12,11 +12,11 @@ info:
   infoContacts: +39 335 6750946
 press:
   pressRelease: |-
-    ![Tiziana Kert e Claudio Sivini con gli allievi del Nordio e le ospiti di Ad Maiores](/media/events/liceo-nordio-ad-maiores-mademar-2015/Tiziana_Kert_e_Claudio_Sivini_con_gli_allievi_del_Nordio_e_le_ospiti_di_Ad_Maiores.jpg "Tiziana Kert e Claudio Sivini con gli allievi del Nordio e le ospiti di Ad Maiores")
-
     L'arte entra nella Residenza per Anziani Ad Maiores e nella RSA Mademar grazie a un progetto innovativo ideato dal pittore Claudio Sivini e accolto con grande entusiasmo e partecipazione dalla direttrice delle strutture Tiziana Kert. L'iniziativa, realizzata **in base agli accordi con il dirigente del Liceo Artistico Statale “E. e U. Nordio” Teodoro Giudice e con i docenti referenti del “Progetto Volontariato” e con la partecipazione degli artisti triestini del Gruppo “Amici del Venerdì”, è stata presentata davanti a un folto pubblico nell'aula magna della scuola dall'arch. Marianna Accerboni, dal collaboratore del preside Giulio Stagni, dalla direttrice delle Residenze Tiziana Kert, da Sivini, da Roberto Cirelli, referente assieme ad altri colleghi del Progetto Volontariato, dalla coordinatrice Alice Bronzi e da Maria Orrano, rappresentante degli studenti partecipanti, tra cui Giulia Cabrelli, Maria Dodich, Micaela Licata, Asia Delcore e Joelle Grudina.**
 
     Accerboni ha ricordato che alcuni allievi del “Nordio” saranno presenti settimanalmente all'”Ad Maiores” e alla “Mademar” per realizzare con gli ospiti e altri noti artisti triestini del Gruppo “Amici del Venerdì”, animato e coordinato da Sivini, degli elaborati a tecnica mista, che verranno poi raccolti nel calendario 2016 e saranno esposti in una mostra natalizia.
+
+    ![Tiziana Kert e Claudio Sivini con gli allievi del Nordio e le ospiti di Ad Maiores](/media/events/liceo-nordio-ad-maiores-mademar-2015/Tiziana_Kert_e_Claudio_Sivini_con_gli_allievi_del_Nordio_e_le_ospiti_di_Ad_Maiores.jpg "Tiziana Kert e Claudio Sivini con gli allievi del Nordio e le ospiti di Ad Maiores")
 
     Il Progetto rappresenta il consolidamento di una pluriennale collaborazione tra la Residenza e l'Associazione “Ad Maiores”, finalizzata a stimolare la curiosità e la creatività delle persone con i capelli d'argento grazie al coinvolgimento in attività artistiche e culturali. Prima fra tutte - ha affermato Accerboni - l'allestimento di una mostra negli ambienti dell'”Ad Maiores”, opportunamente attrezzati e gentilmente messi a disposizione dalla direttrice Tiziana Kert con opere dei pittori Paolo Barducci, Ferruccio Bernini, Livia Bussi, Bruna Daus, Elsa Delise, Franco Degrassi, Carolina Franza, Enzo Mari, Marino Marinelli, Bruna Naldi, Giulia Noliani, Loredana Riavini, Claudio Sivini e Livio Zoppolato.
 

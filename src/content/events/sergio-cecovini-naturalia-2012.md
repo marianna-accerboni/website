@@ -16,13 +16,13 @@ info:
     - /media/events/sergio-cecovini-naturalia-2012/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/nmlpmL0MdYo" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura lunedì 10 settembre 2012 alle 17.30 al Circolo Aziendale delle Assicurazioni Generali di Trieste** (piazza Duca degli Abruzzi 1) **_Naturalia_**, **mostra personale del pittore triestino Sergio Cecovini, che sarà introdotta sul piano critico dalla curatrice Marianna Accerboni**: in mostra più di **una ventina di opere**, **prevalentemente inedite, realizzate dal 2007 a oggi, prima ad acrilico e poi a olio**. **Fino al 21 settembre** (orario lun 17.30 · 19.00/ da mart a giov 9.30 · 12.30 e 15.30 · 18 / ven 9.30 · 12.30 / info 3356941016).
 
     _Cecovini affronta il tema prediletto del paesaggio -_ scrive Marianna Accerboni _- con passione, originalità e con sincera partecipazione al tema, traendo dal linguaggio espressionista la vis cromatica e grafica, che caratterizzò questo movimento._
+
+    <iframe src="https://www.youtube.com/embed/nmlpmL0MdYo" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Un filo di onirico mistero e di magica speranza pervade però i suoi lavori, nei quali l'artista fa suoi i parametri e i valori di quell''ottimismo mediterraneo' e di quell'armonico sentire che diversificarono la corrente francese dell'espressionismo da quella austro-tedesca, connotata da componenti più drammatiche. E che - per inciso - ebbe ben pochi proseliti in Italia._
 

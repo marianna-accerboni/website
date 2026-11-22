@@ -18,11 +18,11 @@ subEvents:
   - - "Luce 2015: mercoledì 18 marzo alla Sala Comunale d'Arte di Trieste finissage della mostra personale della pittrice Alpina Della Martina"
 press:
   pressRelease: |-
-    ![Bianco su bianco, 2014 - acquarello su carta - cm 35x50 2](/media/events/alpina-della-martina-luce-2015/3._Bianco_su_bianco_2014_-_acquarello_su_carta_-_cm_35x50_2.jpg "Bianco su bianco, 2014 - acquarello su carta - cm 35x50 2")
-
     **S'inaugura venerdì 27 febbraio 2015 alle ore 18.30 alla Sala Comunale d'Arte di Trieste la mostra personale della pittrice Alpina Della Martina, intitolata _Luce 2015_, che sarà introdotta sul piano critico da Marianna Accerboni.** In esposizione **una serie di raffinati ed essenziali acquerelli realizzati di recente dall'artista prevalentemente sul tema del paesaggio e della natura morta**. Fino al 18 marzo (orario: feriale e festivo 10 · 13 / 17 · 20/ info 335 6754946).
 
     _Ritorna con questa mostra_ - scrive Accerboni - _la magia del silenzio e del colore, che l'artista carnica Alpina Della Martina persegue da sempre attraverso la difficile arte dell'acquarello, la tecnica pittorica che, nella sua apparente semplicità, è in realtà la più complessa perché non ammette ritocchi o ripensamenti._
+
+    ![Bianco su bianco, 2014 - acquarello su carta - cm 35x50 2](/media/events/alpina-della-martina-luce-2015/3._Bianco_su_bianco_2014_-_acquarello_su_carta_-_cm_35x50_2.jpg "Bianco su bianco, 2014 - acquarello su carta - cm 35x50 2")
 
     _Sempre vicina alla natura, vegetale o animale che essa sia, e attraverso questa al principio creatore, l'artista ci offre del soggetto, un'interpretazione lieve e impalpabile ancorchè sottolineata da interventi cromatici intensi e molto convincenti: una pittura che si potrebbe definire di tocco, che promana direttamente dal suo animo di artista sensibilissima e in linea con la ricerca contemporanea, che dal figurativo è riuscita, per gradi, a raggiungere con eleganza, attraverso l'essenzialità, la soglia dell'informale, su cui sembra attestarsi ora il suo linguaggio._
 

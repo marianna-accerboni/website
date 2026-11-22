@@ -21,11 +21,11 @@ subEvents:
   - - "Domenica 21 gennaio visita guidata alla mostra Nora Carella. Luce Senza Tempo e un laboratorio di pittura ispirato all'arte di Nora."
 press:
   pressRelease: |-
-    ![Sharm-El-Sheik 1 (Egitto), 2001 - olio su tela - cm 35x45 (ph Marino Sterle)](/media/events/nora-carella-luce-senza-tempo-2018/Sharm-El-Sheik_1_Egitto_2001_-_olio_su_tela_-_cm_35x45_ph_Marino_Sterle.jpg "Sharm-El-Sheik 1 (Egitto), 2001 - olio su tela - cm 35x45 (ph Marino Sterle)")
-
     **Nel centenario della nascita della pittrice Nora Carella s'inaugura, sabato 13 gennaio alle 19 a Trieste nella Sala _Umberto Veruda_ di Palazzo Costanzi (piazza Piccola 2), un'importante retrospettiva dedicata all'artista istriana (Parenzo 1918 - Trieste 2015), dal titolo “Nora Carella. Luce senza tempo”.**
 
     **La mostra è realizzata con il contributo del Comune di Trieste ed è ideata e curata dall'architetto Marianna Accerboni: si propone di testimoniare in modo esaustivo, attraverso oltre una cinquantina di opere a olio dedicate soprattutto alla sua maniera più recente ispirata al paesaggio e alla natura morta, e con l'ausilio di documenti e video, la vita e la creatività di una pittrice di talento, coraggiosa e intraprendente. La Carella infatti, rimasta vedova del gen. Ubaldo, conte del ramo cadetto dei principi Carella di Palermo, con tre bambini (Roberto,** oggi giornalista, **Renato** alto funzionario all'aeroporto romano di Fiumicino, e **Raffaele** biologo) **seppe mantenere con la sua attività artistica la propria famiglia, operando con grande successo a Roma, Trieste, in Europa e negli Stati Uniti, come ritrattista di successo dei personaggi famosi e, più tardi, autrice di apprezzati paesaggi e nature morte. Non a caso nel 2007 il Comune di Trieste, con la Commissione Pari Opportunità, le conferì la prima edizione del Premio di Vetro, istituito per valorizzare in particolare** le donne triestine distintesi nel mondo del lavoro e per aver portato alto il nome della città nel mondo.
+
+    ![Sharm-El-Sheik 1 (Egitto), 2001 - olio su tela - cm 35x45 (ph Marino Sterle)](/media/events/nora-carella-luce-senza-tempo-2018/Sharm-El-Sheik_1_Egitto_2001_-_olio_su_tela_-_cm_35x45_ph_Marino_Sterle.jpg "Sharm-El-Sheik 1 (Egitto), 2001 - olio su tela - cm 35x45 (ph Marino Sterle)")
 
     **Nel corso della vernice sarà presentata un'esaustiva monografia a colori dedicata alla vita e alle opere della Carella, a cura di Accerboni con contributi del Sindaco di Trieste Roberto Dipiazza, del Presidente del Teatro Rossetti Sergio Pacor, del giornalista Ruggero Orlando, dei critici Rossana Bossaglia e Giulio Montenero, del figlio Raffaele e della curatrice e con le foto di Marino Sterle, Fabio Rinaldi e Franco Viezzoli.**
 

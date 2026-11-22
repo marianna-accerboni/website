@@ -16,11 +16,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Lucia Sarto - Mezzogiorno al porto, 2018 - acrilico su tela - cm 60x60](/media/lucia_sarto_-_mezzogiorno_al_porto_2018_-_acrilico_su_tela_-_cm_60x60.jpg "Lucia Sarto - Mezzogiorno al porto, 2018 - acrilico su tela - cm 60x60")
-
     **Da domenica 13 febbraio 2022** **sarà visitabile alla Galleria d’arte contemporanea Ghetto Et Cetera di Venezia (Campo del Ghetto novo 2919) la rassegna** **"Acqua", una collettiva di pittura, scultura e fotografia, curata dall’arch. Marianna Accerboni, che vede la partecipazione di 16 artisti italiani e stranieri.** **La mostra sarà inaugurata** **online il 13 febbraio alle ore 12 con introduzione dell’arch.** **Marianna** **Accerboni** **in diretta streaming, che rimarrà accessibile sul sito della Galleria** **www-ghetto-etcetera.com.**
 
     **In mostra le opere recenti di: Fabio Colussi - Danilo Maggi - Filippo Salvalaggio - Giambattista Longhi - Francesco Possega - Manuela Ulrich - Cristina Meotto - Maria Neola - Roberto Rossi - Giorgio Rocca - Lucia Sarto - Gabriele Sanna - Silvia Ciaccio - H. Caglar Kirti - Fernanda Faggian - Federico Montagner.**
+
+    ![Lucia Sarto - Mezzogiorno al porto, 2018 - acrilico su tela - cm 60x60](/media/lucia_sarto_-_mezzogiorno_al_porto_2018_-_acrilico_su_tela_-_cm_60x60.jpg "Lucia Sarto - Mezzogiorno al porto, 2018 - acrilico su tela - cm 60x60")
 
     **Fino al** **4 marzo** **(orario: da** **domenica a venerdì 10 - 17, sabato 10 - 13, lunedì chiuso).**
 

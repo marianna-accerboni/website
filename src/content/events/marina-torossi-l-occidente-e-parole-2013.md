@@ -14,11 +14,11 @@ info:
     - /media/events/marina-torossi-l-occidente-e-parole-2013/invito.pdf
 press:
   pressRelease: |-
-    ![Marina Torossi](/media/events/marina-torossi-l-occidente-e-parole-2013/Marina_Torossi.JPG "Marina Torossi")
-
     **Lunedì 18 marzo 2013 alle ore 18.00 avrà luogo negli Uffici di rappresentanza del Credito Cooperativo di Staranzano e Villesse** (via Roma 20, 1° piano) **la presentazione dell'ultimo libro della scrittrice triestina Marina Torossi Tevini intitolato _L'OCCIDENTE E PAROLE_** (Campanotto Editore, pgg. 123, € 16,00). All'incontro, introdotto, organizzato e coordinato dall'architetto **Marianna Accerboni** per i **Pomeriggi culturali della FIDAPA**, interverranno lo scrittore e poeta **Roberto Dedenaro** e la prof. **Irene Visintini**. Letture di **Romana Olivo ed Enzo Succhielli**.
 
     **I tredici racconti de _L'Occidente e parole_ sono incentrati sul tema della comunicazione e della trasmissione della conoscenza tra generazioni diverse**. Se “creare è resistere”, due elementi sono imprescindibili: la creazione di nuove generazioni che si rapportino con il passato, non con un atteggiamento iconoclasta, ma con una dialettica sanamente costruttiva e la resistenza di insegnanti e genitori, che non devolvano ad altri i propri compiti, ma si pongano in un atteggiamento autorevole, parimenti rivolto a futuro e passato, capace di dare _input_ fondanti e di creare autonomia.
+
+    ![Marina Torossi](/media/events/marina-torossi-l-occidente-e-parole-2013/Marina_Torossi.JPG "Marina Torossi")
 
     **Ambientato in buona parte a Trieste, il volume delinea un'immagine della città vista come un'allegoria dello scivolare dell'Occidente verso il declino**. **“Trieste, non più città di confine” afferma Torossi Tevini “rimane pur sempre in qualche modo una città confinata, una città precaria, una città sull'orlo dell'abisso. Lo si avverte ad ogni passo, a ogni svoltare d'angolo. È un'angoscia ma anche una pace, un mix strano di malessere e di allegria che nessun'altra città produce. Trieste è un paradigma. Un'allegoria dello scivolare dell'Occidente, una metafora del nostro declino. Per questo mi piace”.** Trieste assurge a simbolo del nostro declinante Occidente ed è anima del racconto “Un inverno a Trieste” che, assieme a “Il tempo delle piogge” e a “Una donna senza qualità”, coniugano la riflessione sui mali della scuola e sulla difficoltà dei rapporti tra generazioni diverse, a un'analisi sulla crisi della società contemporanea.
 

@@ -18,11 +18,11 @@ subEvents:
   - - "Sabato 8 luglio 2017 nella sede della Comunità Evangelica Luterana di Trieste visita guidata alla mostra antologica dedicata al pittore triestino Guido Percacci"
 press:
   pressRelease: |-
-    ![Fabrizia, 1984 - olio su tela - cm 48x42](/media/events/guido-percacci-antologica-2017/Fabrizia_-_olio-1.JPG "Fabrizia, 1984 - olio su tela - cm 48x42")
-
     **Si inaugura mercoledì 7 giugno 2017 alle ore 18.00 nella sede della Comunità Evangelica Luterana di Trieste (via San Lazzaro, 19) la mostra dei quadri del pittore triestino Guido Percacci, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni. In mostra quasi una sessantina di dipinti a olio realizzati dal 1952 al 1995 e dedicati al ritratto, al paesaggio e alla natura morta. Riccardo Percacci, nipote dell'artista, eseguirà alla chitarra alcune composizioni del nonno, che è stato anche valente musicista e compositore** (fino al 19 luglio / da martedì a venerdì 10 / 12.30 • mercoledì e sabato 17 / 19).
 
     _Danzano le note nella vita di Guido Percacci_ - scrive Marianna Accerboni - _accompagnate da tocchi di colore e di luce. La grande passione per la musica, ereditata dalla madre violinista, trova un contrappunto nella pittura, che si dilata nel momento in cui, a soli 43 anni, lascia la sua amata band di musica leggera, il “Carillon”, di cui era il leader e con cui aveva girato per vent'anni l'Europa, per far ritorno a Trieste._
+
+    ![Fabrizia, 1984 - olio su tela - cm 48x42](/media/events/guido-percacci-antologica-2017/Fabrizia_-_olio-1.JPG "Fabrizia, 1984 - olio su tela - cm 48x42")
 
     _La stessa finezza d'intenti e d'espressione che il musicista inserisce nelle sue composizioni e negli arrangiamenti della grande musica leggera italiana, spesso ispirati al jazz, compare anche nella sua pittura, tesa a raccontare e interpretare, vuoi il paesaggio o il ritratto così come la natura morta, con eleganza, proprietà e professionalità, senza mai salire di un tono sopra le righe._
 

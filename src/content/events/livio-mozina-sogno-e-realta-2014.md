@@ -18,13 +18,13 @@ subEvents:
   - - "Giovedì 16 ottobre 2014 alla Galleria Rettori Tribbio di Trieste visita guidata alla mostra del pittore Livio Možina"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/rGwz8QZoxN8?list=UULOxGOgwZ9UMDyWOFxAwKEA" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura sabato 4 ottobre alle 18 alla Galleria Rettori Tribbio di Trieste** (piazza Vecchia 6) **la mostra intitolata _Tra sogno e realtà_, _il sentimento in 3D_ del pittore Livio Možina, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni. La rassegna propone una trentina di oli su tavola inediti, realizzati dal 2011 a oggi**.
 
     **Fino al 17 ottobre** (orario: feriali 10-12.30 e 17- 19.30/ festivi 10-12/ venerdì pom e lun chiuso. Domenica 12 in occasione della Barcolana 10-13 e 16-18/ info 349 5427579).
+
+    <iframe src="https://www.youtube.com/embed/rGwz8QZoxN8?list=UULOxGOgwZ9UMDyWOFxAwKEA" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Sospesa tra sogno e realtà_ - scrive Accerboni - _la fine pittura di Livio Možina, si rivela ancora una volta intrisa di un pathos unico: quello del Maestro triestino è infatti il frutto di un lavoro certosino, consistente in un attento e composito studio volto alla strutturazione dell'immagine, cui fa seguito una giustapposizione di elementi anche tridimensionali, che talvolta sfiorano la suggestione_ trompe l'oeil. _E fascinosa e al tempo stesso divertente, risulta l'accuratissima e ingegnosa finestra di gusto rurale, che rappresenta quest'anno l'autentica novità della mostra._
 

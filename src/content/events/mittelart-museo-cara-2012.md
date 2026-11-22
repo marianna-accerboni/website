@@ -16,11 +16,11 @@ info:
     - /media/events/mittelart-museo-cara-2012/invito.pdf
 press:
   pressRelease: |-
-    ![Claudio Mario Feruglio](/media/events/mittelart-museo-cara-2012/Claudio_Mario_Feruglio.jpg "Claudio Mario Feruglio")
-
     MUGGIA - **Venerdì 19 ottobre** alle ore 18, presso il **Museo d'Arte Moderna Ugo Carà** di Muggia, inaugura, con la presentazione critica di **Marianna Accerboni**, la mostra **Mittelart**, una collettiva internazionale che mette insieme il lavoro di alcuni artisti tutti afferenti all'area della Mitteleuropa come **Antonio Crivellari**, **Claudio Mario Feruglio**, **Carlo Fontanella**, **Roberto Tigelli**, **Gernot Schmerlaib** e **Toni Zanussi**.
 
     L'assunto del progetto espositivo si può così esplicitare: _“L'arte e la cultura della Mitteleuropa è un lungo cammino, percorso sempre da un filo rosso che nei secoli ha avvicinato i popoli di quest'area geografica unendo pensieri, racconti, riflessioni, spunti e creazioni artistiche con l'intento di migliorare la comprensione tra le genti e accrescere la conoscenza delle radici comuni di un territorio.”_
+
+    ![Claudio Mario Feruglio](/media/events/mittelart-museo-cara-2012/Claudio_Mario_Feruglio.jpg "Claudio Mario Feruglio")
 
     La rassegna è organizzata dall'associazione **Juliet** e dall'**Assessorato alla Cultura e Sport** del **Comune di Muggia**, e va ad inserirsi nel fitto calendario 2012 delle esposizioni del **progetto PRACC** (Progetto Arte Contemporanea Museo Carà) che l'Amministrazione Comunale di Muggia ha varato già nel 2007 assieme alle associazioni culturali Photo-Imago, Gruppo78 e Juliet con l'intento di promuovere e valorizzare le nuove forme artistiche contemporanee, in una prospettiva nazionale e internazionale.
 

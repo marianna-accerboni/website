@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![La sera, 2022 - olio su tavola - cm. 30x40](/media/venetian_soul-la-sera-2022-olio-su-tavola-cm-30x40.jpg "La sera, 2022 - olio su tavola - cm. 30x40")
-
     **Domenica 11 giugno 2023 alla Galleria d’arte contemporanea Ghetto Et Cetera di Venezia inaugurazione della mostra “Venetian soul” del pittore triestino Fabio Colussi**
 
     **Domenica 11 giugno 2023 alle ore 11** **s’inaugura alla Galleria d’arte contemporanea Ghetto Et Cetera di Venezia (Campo del Ghetto novo 2919) la mostra personale del pittore triestino Fabio Colussi, intitolata Venetian soul e curata** **dell’arch.** **Marianna** **Accerboni, che introdurrà, alla presenza dell’artista, l’esposizione con Gabriella Pastor. In mostra una ventina di oli su tela e cartone telato, quasi tutti inediti e realizzati nel 2022/2023** (fino al 30 giugno/ orario: da martedì a domenica 10-13 e 15-18 / sabato pomeriggio e lunedì chiuso/ info +39 335 6750946 - info@ghetto-etcetera.com - Fb e Ig @GhettoEtCetera).
+
+    ![La sera, 2022 - olio su tavola - cm. 30x40](/media/venetian_soul-la-sera-2022-olio-su-tavola-cm-30x40.jpg "La sera, 2022 - olio su tavola - cm. 30x40")
 
     **Maestro del contrappunto luministico - scrive Accerboni -, Fabio Colussi sa ricostruire con delicata e calibrata vena lirica il fascino di Venezia e del suo mare. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l’artista sa catturare l’ineffabile e magica luce della Serenissima e la pace della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio.**
 

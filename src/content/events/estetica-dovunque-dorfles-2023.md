@@ -17,13 +17,13 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Dorfles davanti a un suo quadro negli anni 2000](/media/estetica-dorfles-davanti-a-un-suo-quadro-negli-anni-2000.jpg "Dorfles davanti a un suo quadro negli anni 2000")
-
     **Mercoledì 1 marzo** alle 17.30 alla **Biblioteca statale Stelio Crise di Trieste** (Largo Papa Giovanni XXIII, 6) avrà luogo la presentazione del volume _Estetica dovunque_ (Bompiani editore, pgg. 780, € 24,00) con quattro saggi di **Gillo Dorfles**, raffinato intellettuale artista di origine triestina. **Giorgetta Dorfles** introdurrà i relatori: il critico d’arte **Marianna Accerboni**, il filosofo **Aldo Colonetti**, già direttore scientifico dello IED (Istituto Europeo Design) e direttore di Ottagono, e **Gianni Contessi**, professore ordinario di Storia dell'Arte contemporanea all'Università di Torino. **Il libro**, con **introduzione di** **Massimo Cacciari**, **una nota di Umberto Eco e un dialogo di Dorfles con Colonetti**, **riunisce per la prima volta in un unico volume quattro saggi di Dorfles che segnano altrettante tappe della sua riflessione estetica: Artificio e natura** (1968), **Intervallo perduto** (1980), **Elogio della disarmonia** (1986) e **Horror pleni** (2008). L’incontro, promosso dall'**Associazione Culturale Gillo Dorfles di Milano**, si aprirà con un breve **video di Giorgetta Dorfles**, che testimonia la presentazione di _Horror pleni_ a Gorizia nel 2008 nell’ambito di un progetto europeo di **Marianna** **Accerboni** dedicato al grande estetologo.
 
     Seguirà un vin d'honneur.
 
     **Artificio e natura**, **Intervallo perduto**, **Elogio della disarmonia** e **Horror Pleni** sono quattro saggi che segnano altrettante tappe di una riflessione estetica ricca e dinamica, in evoluzione come materia viva, per la prima volta raccolti in unico volume. Gillo Dorfles posa il suo sguardo critico su una molteplicità di campi di indagine: dalla distinzione tra oggetti naturali e artificiali, ai linguaggi della pubblicità, televisione, teatro ai territori di moda, architettura, urbanistica e disegno industriale. Sia che si occupi di piccoli manufatti che dei temi del post-umano, non manca mai di sorprendere e fornire elementi utili per l’analisi e la riflessione in questo maestoso omaggio all’estetica del quotidiano.
+
+    ![Dorfles davanti a un suo quadro negli anni 2000](/media/estetica-dorfles-davanti-a-un-suo-quadro-negli-anni-2000.jpg "Dorfles davanti a un suo quadro negli anni 2000")
 
     _“Il discorso di Dorfles è molto importante proprio al fine di costituire una sorta di educazione alla lettura della molteplicità delle forme o immagini in cui ci sembra oggi di restare soffocati”._ **Massimo Cacciari**
 

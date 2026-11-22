@@ -10,11 +10,11 @@ info:
   hasCatalog: false
 press:
   pressRelease: |-
-    ![Comune di Trieste](/media/events/essere-gillo-dorfles-museo-revoltella-2018/trieste.png "Comune di Trieste")
-
     Per ricordare il 108° compleanno di Gillo Dorfles, a poco più di un mese dalla sua scomparsa, avrà luogo **giovedì 12 aprile, dalle 17 alle 19, al Museo Revoltella** di via Diaz 27, a Trieste, città, dove era nato il 12 aprile del 1910, un ricordo a più voci intitolato “Essere Gillo Dorfles”.“Un'iniziativa promossa dal Comune di Trieste - Servizio Musei e Biblioteche” - precisa la direttrice Laura Carlini Fanfogna-. “Intendiamo celebrare la figura di Dorfles in quanto uno dei più significativi intellettuali triestini, ma di livello internazionale, a maggior ragione visto che il Museo nel 2007 gli aveva dedicato un'esposizione monografica per dar conto della sua attività di pittore e intellettuale. Lo spirito è quello di una celebrazione di carattere informale, non accademica e sarà accompagnata da un intermezzo musicale”.
 
     L'incontro si aprirà con un video curato da Marianna Accerboni che riporta uno stralcio dell'ampia e articolata intervista rilasciatale da Dorfles nell'ottobre dello scorso nella sua casa-studio di Milano, con molte immagini dell'intellettuale e quelle inedite della sua abitazione. Il critico approfondirà quindi il tema “Dorfles artista a 360 gradi”. Seguirà l'intervento di Lorenzo Michelli, che commenterà alcune frasi icastiche del grande intellettuale-artista racchiuse nel libro “99+1 risposte”, realizzato dallo stesso Michelli. Elvio Guagnini, professore emerito di Letteratura italiana dell'Università di Trieste, che fu allievo del Professore, ne approfondirà l'esegesi estetica e Giuliana Carbi ricorderà la presenza del grande intellettuale a Trieste, con particolare riferimento al concorso internazionale di design Trieste Contemporanea, di cui lui fu per molti anni presidente di giuria.
+
+    ![Comune di Trieste](/media/events/essere-gillo-dorfles-museo-revoltella-2018/trieste.png "Comune di Trieste")
 
     Concluderà l'incontro la nipote Giorgetta Dorfles, che porgerà dello zio un “ritratto in famiglia” anche attraverso la proiezione di tre video da lei realizzati: quello sulla presentazione del libro di Dorfles “Horror pleni”, curata da Accerboni nel 2008 a Gorizia e poi a Trieste e Bruxelles, quello dei disegni di animali fantastici realizzati dallo zio per lei e il fratello Piero, quand'erano bambini, e un altro video da lei creato in occasione della mostra su Dorfles al Museo Revoltella.
 

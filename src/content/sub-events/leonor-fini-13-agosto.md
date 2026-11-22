@@ -7,7 +7,6 @@ info: null
 bodySection:
   body: |-
     Venerdì 13 agosto al Magazzino 26 del Porto vecchio di Trieste incontro su “Leonor Fini, Gillo Dorfles e Arturo Nathan. Grafie a confronto”. Interviene il grafologo mauro galli. In programma anche visite guidate e laboratori
-     
 
     Nell’ambito della mostra “Leonor Fini. Memorie triestine”,Porto vecchio **di Trieste, avrà luogo un incontro su “Leonor Fini, Gillo Dorfles e Arturo Nathan. Grafie a confronto”. Interverrà, con la conduzione della curatrice Marianna Accerboni, Mauro Galli, già presidente dell’Associazione Grafologica Italiana - Sezione di Trieste. Autore di analisi della scrittura di personaggi quali Trump, il principe Harry e Meghan Markle e Berlusconi, e grande viaggiatore, Galli** parlerà della personalità della Fini, esaminata attraverso la sua grafia in rapporto alle grafie e al temperamento degli amici artisti Nathan e Dorfles, la cui analisi è esposta in mostra. 
 
@@ -27,23 +26,14 @@ bodySection:
 
     Per raggiungere il Magazzino 26 sono disponibili i bus linea 6, fermata Polo museale, e linea 80 (alle signore un cadeau con il profumo inedito “Lolò” creato per la mostra/ info 335 6750946).
 
-     
-
-    **DOVE**: Polo museale del Magazzino 26 · Porto vecchio · Trieste
-
-    **DATA e ORARIO APPUNTAMENTO COLLATERALE**: 13 agosto alle 18.30
-
-    **DATE MOSTRA**: 26 giugno_22 agosto 2021
-
-    **ORARIO MOSTRA**: mercoledì e giovedì 10_13 e 17_20 / venerdì e domenica 10_13 e 17_21 / sabato 10_13 e 15_21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80) 
-
-    **A CURA DI**: Marianna Accerboni
-
-    **CATALOGO**: sì
-
-    **INFO**: **leonorfinimemorietriestine@gmail.com**
-
-    **CELL. +39 335 6750946**
+    **Informazioni**
+    - Dove: Polo museale del Magazzino 26 · Porto vecchio · Trieste
+    - Appuntamento: 13 agosto alle 18.30
+    - Periodo: 26 giugno – 22 agosto 2021
+    - Orario: mercoledì e giovedì 10 – 13 e 17 – 20 / venerdì e domenica 10 – 13 e 17 – 21 / sabato 10 – 13 e 15 – 21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80)
+    - A cura di: Marianna Accerboni
+    - Catalogo: sì
+    - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
     ![Andro Merkù](/media/events/leonor-fini-memorie-triestine/Andro_Merku.jpg) Andro Merkù
 ---

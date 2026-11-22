@@ -15,8 +15,6 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Covid 19, 2020 - tecnica mista su MDF - cm 45x45](/media/anima_terra_colore_2022-covid-19-2020-tecnica-mista-su-mdf-cm-45x45.jpg "Covid 19, 2020 - tecnica mista su MDF - cm 45x45")
-
     **“L'anima, la terra, il colore. Arte d’azione e di inclusione” di Toni Zanussi**
 
     **(Bürgerhaus di Unterföring, Monaco di Baviera)**
@@ -28,6 +26,8 @@ press:
     **Inaugurazione venerdì 20 maggio ore 19**
 
     Dopo il grande successo ottenuto di recente al Magazzino 26 del Porto Vecchio di Trieste, la mostra “L'anima, la terra, il colore” dell’artista friulano Toni Zanussi (Qualso, Udine, 1952), si trasferisce al Bürgerhaus di Unterföring (Monaco di Baviera), dove s’inaugura venerdì 20 maggio alle 19. La città tedesca è gemellata da 14 anni con Tarcento, luogo d’origine dell’artista, che ha già ospitato una tappa più sintetica della rassegna.
+
+    ![Covid 19, 2020 - tecnica mista su MDF - cm 45x45](/media/anima_terra_colore_2022-covid-19-2020-tecnica-mista-su-mdf-cm-45x45.jpg "Covid 19, 2020 - tecnica mista su MDF - cm 45x45")
 
     La mostra è suddivisa, come a Trieste, in cinque sezioni tematiche scelte da Marianna Accerboni e supportate dai suoi testi. Testimoniano cinquant’anni di attività dell’artista, espressa attraverso una novantina di opere di magnetica suggestione - molte delle quali di dimensioni notevoli, oltre due metri di lunghezza per un metro di altezza - tra acrilici e tecniche miste realizzati su MDF e originali installazioni di ampio respiro.
 

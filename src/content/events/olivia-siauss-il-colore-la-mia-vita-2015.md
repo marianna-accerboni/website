@@ -18,13 +18,13 @@ subEvents:
   - - "Giovedì 25 giugno 2015 alla Galleria Rettori Tribbio di Trieste finissage della mostra della pittrice Olivia Siauss"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/1wSslI3pwEc" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Sabato 13 giugno alle 18.30 alla Galleria Rettori Tribbio di Trieste (piazza Vecchia 6) s'inaugura un'interessante personale della pittrice triestina Olivia Siauss, intitolata “Il colore, la mia vita”, curata e presentata dall'arch. Marianna Accerboni: nella mostra, che si configura come una sorta di antologica, è esposta una quarantina di opere, tra dipinti realizzati ad acrilico su tela, pastelli acquerellati e computergrafica, realizzati negli ultimi 15 anni.**
 
     _Artista contemporanea di grande sensibilità, entusiasmo e modernità, Olivia Siauss -_ scrive Accerboni _- ripercorre in questa rassegna, attraverso una quarantina di opere, il proprio itinerario creativo degli ultimi 15 anni, componendo in tal modo una sorta di essenziale antologica. Olivia ci stupisce piacevolmente, giungendo, dopo gli acrilici su tela e i pastelli acquerellati e a volte lievemente sottolineati con un cenno d'inchiostro, a un approdo inatteso: la computergrafica, lessico contemporaneo, che ha suscitato l'entusiasmo di molti artisti. Attraverso questo nuovo mezzo, la pittrice ripropone con la consueta padronanza linguistica una personalissima interpretazione del paesaggio: rilegge infatti il dato naturale secondo una scomposizione la quale ricorda, con molta dolcezza, l'intuizione cubista che, dalla frantumazione delle forme, faceva scaturire il colore e la luce._
+
+    <iframe src="https://www.youtube.com/embed/1wSslI3pwEc" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Un Leitmotiv questo, che ha accompagnato per molto tempo, fino a oggi, la fervida creatività della Siauss, facendo seguito a un decennio d'inizio completamente dedicato alla grafica incisoria, approfondita nell'atelier di Federico Righi a Saciletto, da Marjan Kravos a Trieste e sotto la guida dei famosi stampatori urbinati Corrado Albicocco e Federico Santini. Un periodo completamente in bianco e nero conclusosi negli anni '70, dopo il quale l'artista è decollata verso il colore e verso la scomposizione e la ricomposizione per sintesi dei volumi. Con molta attenzione al concetto di matericità, declinato con misura ma con efficacia attraverso la preparazione del supporto, tela o carta grossa di Fabriano che sia, con uno strato di gesso, talvolta ulteriormente sottolineato e rafforzato dall'applicazione di carte veline sottili e non._
 

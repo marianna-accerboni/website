@@ -16,11 +16,11 @@ info:
     - /media/events/nello-pacchietto-mare-nordest-2017/invito.pdf
 press:
   pressRelease: |-
-    ![Barche a Bossedraga 1988 - acquarello su tavola - cm 50x60](/media/events/nello-pacchietto-mare-nordest-2017/Barche_a_Bossedraga_1988_-_acquarello_su_tavola_-_cm_50x60.jpg "Barche a Bossedraga 1988 - acquarello su tavola - cm 50x60")
-
     **Quest'anno la sesta edizione di _Mare Nordest_ apre all'arte: venerdì 19 maggio alle 19.30 al Molo IV di Trieste (ingresso da Piazza Duca degli Abruzzi) inaugurazione della mostra dedicata al pittore adriatico Nello Pacchietto, curata da Giorgio Parovel (Lux Art Gallery, Trieste) e dall'arch. Marianna Accerboni. In mostra un centinaio di opere ispirate al mare dell'Alto Adriatico, da Pola a Venezia, e il video della vernice multimediale ideata da Accerboni per l'inaugurazione della Lux Art Gallery dedicata a Pacchietto (orario: sabato 20 ore 9 - 21 e domenica 21 ore 9 - 18/ info 334 7231216).**
 
     _Il pittore Nello Pacchietto (1922 - 2003) interpreta nel modo più completo il concetto di rappresentazione del mare del Nord Est Adriatico. Nato a Capodistria, ha dipinto tutte le “perle” della costa istriana, da Pola fino a Muggia, Trieste e Venezia, luoghi dove ha abitato e operato. In particolare a Venezia si trasferì nel '50 e vi rimase fino alla morte._
+
+    ![Barche a Bossedraga 1988 - acquarello su tavola - cm 50x60](/media/events/nello-pacchietto-mare-nordest-2017/Barche_a_Bossedraga_1988_-_acquarello_su_tavola_-_cm_50x60.jpg "Barche a Bossedraga 1988 - acquarello su tavola - cm 50x60")
 
     _Attraverso 100 disegni e alcuni acquerelli, realizzati soprattutto tra gli anni '70 e '90, la mostra_ - scrive Marianna Accerboni _- testimonia il fascino delle coste, dei borghi e delle città che coronano l'alto Adriatico, rappresentando attraverso l'arte e la visione delle architetture dei centri costieri un'identità culturale che fa capo soprattutto a Venezia; ma racconta pure l'evoluzione del linguaggio dell'artista, dall'analisi verso la sintesi._
 

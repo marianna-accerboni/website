@@ -18,11 +18,11 @@ press:
   pressRelease: |-
     _introduzione critica di Marianna Accerboni_
 
-    ![Allegoria del mare 1 - 2011 - olio su tela - cm 70x90](/media/events/otilia-saldana-allegorie-del-mare-2011/Allegoria_del_mare_1_-_2011_-_olio_su_tela_-_cm_70x90.jpg "Allegoria del mare 1 - 2011 - olio su tela - cm 70x90")
-
     **Sabato 1 ottobre 2011 alle ore 18.00 nello spazio espositivo dell'Hotel Duchi d'Aosta Vis à Vis di Trieste (piazza dello Squero Vecchio 1)** avrà luogo la **mostra personale della pittrice Otilia Saldana** intitolata , che sarà presentata dall'architetto **Marianna Accerboni**. La rassegna propone una sequenza di oli su tela dipinti dall'artista nel 2011, dedicati alla Barcolana e del tutto inediti. **Fino al 22 ottobre** (orario: da lunedì a venerdì 9.00 - 17.00 / sabato 9.00 - 15.30 / domenica chiuso / orario speciale in occasione della Barcolana: venerdì 7 e sabato 8 ottobre dalle 9.00 alle 23.00 / domenica 9 ottobre dalle 8.00 alle 15.00).
 
     _Otilia Saldana interpreta la Barcolana attraverso i colori e i motivi della sua cultura e della sua terra, Panama, e porta -_ scrive Accerboni _- nella “nordica” Trieste una versione nuova della famosa regata, in cui i moduli compositivi escono dal consueto trinomio di blu, bianchi e azzurri, per librarsi verso vivaci e per noi inconsuete allusioni alla natura e agli animali, come per esempio tartarughine e piccoli granchi. Incorniciati in un tripudio cromatico vivissimo, che fa della regata più affollata del mondo, una sorta di festa senza limiti nell'approccio poetico e libero al tema._
+
+    ![Allegoria del mare 1 - 2011 - olio su tela - cm 70x90](/media/events/otilia-saldana-allegorie-del-mare-2011/Allegoria_del_mare_1_-_2011_-_olio_su_tela_-_cm_70x90.jpg "Allegoria del mare 1 - 2011 - olio su tela - cm 70x90")
 
     _Incontriamo così in mostra quasi una decina di grandi opere realizzate su tela con pigmenti oleosi preziosissimi, il cui uso la Saldana ha appreso nel corso della recente frequentazione dell'Atelier che il pittore Livio Možina tiene alla Galleria Rettori Tribbio 2 di Trieste, dopo essersi affinata presso quello di Paolo Cervi Kervischer._
 

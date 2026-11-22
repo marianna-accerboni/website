@@ -16,63 +16,38 @@ subEvents:
   - - "Dopo il grande successo alla Biblioteca Statale di Trieste, sabato 11 luglio inaugurazione allo Spaziocavana Zinelli&Perizzi: in mostra i disegni architettonici (“La ragione e il sogno”)"
 press:
   pressRelease: |-
-    **Ideazione artistica, curatela critica e allestimento: arch. Marianna Accerboni**
+    **La mostra**
+    - Ideazione artistica, curatela critica e allestimento: arch. Marianna Accerboni
+    - Approfondimento storico: amm. Sq. Ferdinando Sanfelice di Monteforte, docente di Strategia alla Cattolica di Milano e alle Università di Firenze e Trieste Polo di Gorizia, già Rappresentante Militare per l'Italia presso i Comitati Militari NATO ed EU
+    - Musiche inedite composte site specific: M° Silvio Donati
 
-    **Approfondimento storico: amm. Sq. Ferdinando Sanfelice di Monteforte, docente di Strategia alla Cattolica di Milano e alle Università di Firenze e Trieste Polo di Gorizia, già Rappresentante Militare per l'Italia presso i Comitati Militari NATO ed EU**
+    La mostra rientra nel Programma ufficiale delle commemorazioni del Centenario della prima Guerra mondiale a cura della Presidenza del Consiglio dei Ministri. [Scarica l'invito](/media/events/dominioni-trieste-biblioteca-crise-2015/invito2.pdf)
 
-    **Musiche inedite composte site specific: M° Silvio Donati**
+    **Inaugurazione alla Biblioteca Statale Stelio Crise**
+    - Quando: giovedì 9 luglio 2015, ore 19
+    - Info e contatti: +39 040 300725 · [bs-scts.info@beniculturali.it](mailto:bs-scts.info@beniculturali.it) · +39 335 6750946
 
-    Downloads: [Scarica l'invito](/media/events/dominioni-trieste-biblioteca-crise-2015/invito2.pdf)
+    **Inaugurazione allo Spaziocavana Zinelli&Perizzi**
+    - Quando: sabato 11 luglio 2015, ore 19
+    - Info e contatti: [marianna.accerboni@gmail.com](mailto:marianna.accerboni@gmail.com) · +39 335 6750946
 
-    La mostra rientra nel Programma ufficiale delle commemorazioni del Centenario della prima Guerra mondiale a cura della Presidenza del Consiglio dei Ministri - Struttura di Missione per gli anniversari di interesse nazionale e si svolge con il patrocinio del Commissario Generale belga alla Commemorazione della Prima Guerra Mondiale.
-
-    **INAUGURAZIONE BIBLIOTECA STATALE STELIO CRISE:**
-
-    Giovedì 9 luglio 2015 · ore 19
-
-    Info e contatti: +39 040 300725 · [bs-scts.info@beniculturali.it](mailto:bs-scts.info@beniculturali.it) · +39 335 6750946
-
-    **INAUGURAZIONE SPAZIOCAVANA ZINELLI&PERIZZI:**
-
-    Sabato 11 luglio 2015 · ore 19
-
-    Info e contatti: [marianna.accerboni@gmail.com](mailto:marianna.accerboni@gmail.com) · +39 335 6750946
-
-    **SEDI ESPOSITIVE:**
+    **Sedi espositive**
 
     **Biblioteca Statale S. Crise di Trieste**
-
-    Largo Papa Giovanni XXIII, 6 · Trieste
-
-    9 luglio · 26 agosto 2015
-
-    orario:
-
-    da lun a giov 9.30 · 18.30
-
-    ven e sab 9.30 · 13.30 / domenica e 15 agosto chiuso
-
-    dal 18 luglio al 1 agosto:
-
-    da lun a sab 9.30 · 12.30/ domenica chiuso
+    - Indirizzo: Largo Papa Giovanni XXIII, 6 · Trieste
+    - Periodo: 9 luglio – 26 agosto 2015
+    - Orario: da lun a giov 9.30 · 18.30, ven e sab 9.30 · 13.30, domenica e 15 agosto chiuso
+    - Dal 18 luglio al 1 agosto: da lun a sab 9.30 · 12.30, domenica chiuso
 
     **Spaziocavana Zinelli&Perizzi di Trieste**
-
-    via San Sebastiano 7 · Trieste
-
-    11 luglio · 26 agosto 2015
-
-    orario:
-
-    da mar a sab 10 · 13 / 15 · 19.30 domenica e lunedì chiuso
+    - Indirizzo: via San Sebastiano 7 · Trieste
+    - Periodo: 11 luglio – 26 agosto 2015
+    - Orario: da mar a sab 10 · 13 / 15 · 19.30, domenica e lunedì chiuso
 
     **Caserma Guastatori Berghinz di Udine**
-
-    Via San Rocco 180
-
-    9 luglio · 26 agosto 2015
-
-    (visite su appuntamento +39 0432 231584)
+    - Indirizzo: via San Rocco 180 · Udine
+    - Periodo: 9 luglio – 26 agosto 2015
+    - Visite: su appuntamento, +39 0432 231584
 
     ![Paolo Caccia Dominioni e Renato Chiodini in Egitto](/media/events/dominioni-trieste-biblioteca-crise-2015/PCD_Renato_Chiodini_Egitto.jpg "Paolo Caccia Dominioni e Renato Chiodini in Egitto")
 
@@ -177,10 +152,8 @@ press:
     l'architetto apparteneva infatti proprio a tale arma e ne promosse durante la 2° guerra mondiale la ricostituzione (per appuntamento +39 0432 231584).
 
     **Info e visite guidate**
-
-    Marianna Accerboni +39 335 6750946
-
-    I.A.T. Redipuglia +39 0481 489139
+    - Marianna Accerboni: +39 335 6750946
+    - I.A.T. Redipuglia: +39 0481 489139
 
     **VIDEO GALLERY**
 

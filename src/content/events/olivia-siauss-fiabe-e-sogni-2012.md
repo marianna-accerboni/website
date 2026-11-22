@@ -18,11 +18,11 @@ subEvents:
   - - "Prorogata fino al 26 ottobre al Circolo Aziendale delle Assicurazioni Generali di Trieste la mostra Fiabe e sogni della pittrice Olivia Siauss"
 press:
   pressRelease: |-
-    ![Autunno, 2009 - acrilico su tela - cm. 80x80](/media/events/olivia-siauss-fiabe-e-sogni-2012/Autunno_2009_-_acrilico_su_tela_-_cm._80x80.jpg "Autunno, 2009 - acrilico su tela - cm. 80x80")
-
     **S'inaugura lunedì 8 ottobre 2012 alle 17.30 al Circolo Aziendale delle Assicurazioni Generali di Trieste** (piazza Duca degli Abruzzi 1) **_Fiabe e sogni_**, **mostra personale della pittrice triestina Olivia Siauss, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni**: in mostra **una ventina di opere**, **in buona parte inedite, realizzate dal 2002 al 2012 con pastelli acquerellabili su carta preparata e ad acrilico su tela**. **Fino al 19 ottobre** (orario lunedì 17.30 • 19.00 • da martedì a giovedì 9.30 • 12.30 / 15.30 • 18.00 • venerdì 9.30 • 12.30).
 
     _In questa rassegna_ - scrive Accerboni - _Olivia Siauss intreccia i due temi prediletti della narrazione fantastica, realizzata con pastelli su carta, e dell'interpretazione essenziale e morbida del paesaggio, dipinta ad acrilico su tela, risolvendoli con raffinata originalità e attraverso la capacità non comune di conferire un ordine all'ininterrotto fantasticare. Una ventina di lavori, tra cui molti inediti realizzati ad hoc per l'esposizione, testimoniano la sua istintiva e profonda sensibilità e passione per il colore, di cui sa consegnarci interpretazioni dalle calde tonalità e dai morbidi passaggi tonali, intrise di luce, scandite secondo i modi di un personale timbro espressionista e sottolineate da una tecnica ineccepibile e personale, spesso impreziosita dall'uso di carte speciali._
+
+    ![Autunno, 2009 - acrilico su tela - cm. 80x80](/media/events/olivia-siauss-fiabe-e-sogni-2012/Autunno_2009_-_acrilico_su_tela_-_cm._80x80.jpg "Autunno, 2009 - acrilico su tela - cm. 80x80")
 
     ![intrecci (part.), 2011 - acrilico su tela - cm. 50x40](/media/events/olivia-siauss-fiabe-e-sogni-2012/intrecci_part._2011_-_acrilico_su_tela_-_cm._50x40.jpg "intrecci (part.), 2011 - acrilico su tela - cm. 50x40")
 

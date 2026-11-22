@@ -20,13 +20,13 @@ press:
   pressRelease: |-
     _introduzione critica di Marianna Accerboni_
 
-    <iframe src="https://www.youtube.com/embed/4ts1aSdzMH8" width="350" height="288"></iframe>
-
-    Video dell' inaugurazione alla Galleria Rettori Tribbio
-
     S'inaugura **sabato 10 settembre 2011 alle ore 18.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la personale del pittore friulano Gianni Borta, che sarà introdotta dall'architetto Marianna Accerboni: in mostra più di una ventina di opere recenti tra oli, acqueforti, serigrafie materiche e un mosaico. Nel corso della vernice verrà proiettato il video intitolato Gesto, Natura, Azione, che testimonia un arco di vent'anni di attività dell'artista e le varie tecniche sperimentate da Borta, tra cui la ceramica e la pittura di grande formato, come per esempio la vela di 15 metri x 7 realizzata a Trieste per la Barcolana.** Visitabile **fino al 23 settembre** (orario: feriali 10.00 - 12.30 / 17.00 - 19.30 · festivi 11.00 -12.30 · domenica 18 settembre 10.00 - 13.00 / 16.00 - 18.00 · lunedì chiuso).
 
     _Un'esplosione di colori e un grande dinamismo -_ scrive Accerboni _- caratterizzano la pittura vigorosa, strettamente legata alla natura, di Borta, che, per rapire a quest'ultima le emozioni, dipinge en plein air come gli Impressionisti: il dato naturale viene brillantemente interpretato dall'artista in una chiave_ fauve, _nella quale ritroviamo tutta la verve cromatica e vitale, che aveva caratterizzato in Francia, nella prima metà del '900, il Fauvisme. Un movimento d'avanguardia, nel cui ambito artisti come Matisse, Vlaminck, Derain, Dufy, Braque e altri, avevano dato libero sfogo alla passione selvaggia (“_fauve_” appunto) per il colore, accostando, anche con sottile valenza simbolica, colori puri, dai quali scaturiva la luce. All'impeto dei_ Fauves Borta, _partito dalla narrazione dei temi agresti del Neorealismo friulano, tratti da una campagna intensamente amata, unisce un trasporto gioioso e poetico che sfiora l'Informale, tendenza cui si era accostato nel corso di un viaggio negli Stati Uniti durante gli anni Settanta, senza tuttavia staccarsi completamente dalla realtà: “Dipingo” afferma l'artista, autore oggi di un nuovo Naturalismo “il sogno di chi vede i girasoli”._
+
+    <iframe src="https://www.youtube.com/embed/4ts1aSdzMH8" width="350" height="288"></iframe>
+
+    Video dell' inaugurazione alla Galleria Rettori Tribbio
 
     ![Gianni Borta in Birmania, 2010](/media/events/gianni-borta-rettori-tribbio-2011/Gianni_Borta_in_Birmania_2010_02.jpg "Gianni Borta in Birmania, 2010")
 

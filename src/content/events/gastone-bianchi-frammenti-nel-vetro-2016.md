@@ -18,13 +18,13 @@ subEvents:
   - - "Frammenti nel vetro…Riflessi su poliestere: domenica 28 agosto 2016 alla Sala Comunale d'Arte di Trieste finissage della mostra personale dell'artista Gastone Bianchi"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/qktJ1NYoVD4" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Martedì 9 agosto 2016 alle ore 19 alla Sala Comunale d'Arte di Trieste** (piazza Unità d'Italia 4) avrà luogo **l'inaugurazione della personale del pittore Gastone BIANCHI intitolata _Frammenti nel vetro…riflessi su poliestere_, che sarà presentata sul piano critico dall'arch. Marianna ACCERBONI.** In mostra otto vasi di murrine realizzati dall'artista a Lugano nell'atelier di Diego Feurer tra il 2003 e il 2005 e accompagnati da otto bozzetti progettuali e da altrettante interpretazioni pittoriche dei vasi stessi, dipinte su poliestere. Al vernissage i fascinosi vetri di murrine saranno accompagnati da un brindisi speciale con la Vitovska spumantizzata dal giovane vignaiolo Daniele Odoni, squisitamente autoctona come l'artista, che sarà presentata da Alberto De Luca nell'ambito del progetto _VIN@RTE_ di Benedetta Moro. **Fino al 28 agosto** (orario tutti i giorni 10 · 13 e 17 · 20).
 
     A partire dai Fenici per arrivare, passando per le antiche fornaci di Murano, fino a Carlo Scarpa e all'arte contemporanea, _- scrive Accerboni -_ molti grandi artisti si sono dedicati alla fascinosa quanto complessa arte del vetro.
+
+    <iframe src="https://www.youtube.com/embed/qktJ1NYoVD4" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     Si mette alla prova in questo campo, raggiungendo esiti molto raffinati, anche il giovane pittore Gastone Bianchi, con la creazione di otto vasi realizzati mediante la tecnica delle murrine. Figlio d'arte, trae da un progetto di restauro per una magione triestina, firmato dal padre Edoardo, l'ispirazione per la scelta della gamma cromatica di queste opere, che in mostra trovano un coerente e interessante _pendant_ nell'esposizione degli otto bozzetti del progetto, affiancati dalle murrine che li compongono; ma non solo, Gastone, che nasce pittore, espone anche otto interpretazioni pittoriche dei vasi stessi, realizzate su poliestere, per associazione di trasparenze. Puntando dunque a riproporre nella bidimensione una delle qualità principali del vetro, che è proprio la magica trasparenza e che l'artista raggiunge fornendo un'elegante rievocazione bidimensionale del vaso.
 

@@ -18,11 +18,11 @@ subEvents:
   - - "Mostra di Roberto Budicin: venerdì 4 marzo finissage alla Galleria Rettori Tribbio di Trieste"
 press:
   pressRelease: |-
-    ![Ghiaccio sul Carso, 2015 - olio su tavola - cm 30x23](/media/events/roberto-budicin-opere-scelte-2016/Ghiaccio_sul_Carso_2015_-_olio_su_tavola_-_cm_30x23.jpg "Ghiaccio sul Carso, 2015 - olio su tavola - cm 30x23")
-
     **Sabato 20 febbraio alle 18 s'inaugura alla Galleria Rettori Tribbio di Trieste (piazza Vecchia 6) la mostra personale di Roberto Budicin intitolata _Opere scelte 2015 - 2016_, che sarà introdotta dall'architetto Marianna Accerboni. La rassegna propone le opere realizzate dal giovane pittore triestino a olio su tela o su tavola nel 2015/ 2016. Fino al 4 settembre** (orario: feriali 10 · 12.30 e 17 · 19.30 / festivi 10 · 12 / venerdì 10 · 12.30 / lunedì chiuso).
 
     _La neve diventa sempre più soffice -_ scrive Accerboni _- nei paesaggi quasi incantati che il giovane artista triestino Roberto Budicin ha dipinto tra il 2015 e il 2016 per questa mostra, che ne rivela ancora una volta la sensibilità e il tenace lavoro alla scoperta di nuove mete._
+
+    ![Ghiaccio sul Carso, 2015 - olio su tavola - cm 30x23](/media/events/roberto-budicin-opere-scelte-2016/Ghiaccio_sul_Carso_2015_-_olio_su_tavola_-_cm_30x23.jpg "Ghiaccio sul Carso, 2015 - olio su tavola - cm 30x23")
 
     _Come sempre la sua pittura prende avvio da un bagaglio tecnico-culturale non comune: essendo figlio d'arte, ha ricevuto dal padre Sergio, valente autore di quadri di tema animalista, preziose nozioni, poi ulteriormente affinate nell'assidua frequentazione dell'atelier di Walter Falzari, maestro friulano, alla cui scuola si sono formati molti dei migliori talenti artistici di Trieste e non solo._
 

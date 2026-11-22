@@ -18,11 +18,11 @@ subEvents:
   - - "Fabio Colussi. Light landscapes: prorogata fino al 15 ottobre la mostra alla Melori&Rosenberg Art Gallery di Venezia"
 press:
   pressRelease: |-
-    ![Veduta di Venezia, 2015 - olio su tela - cm 40x60](/media/events/fabio-colussi-light-landscapes-venezia-2016/Veduta_di_Venezia_2015_-_olio_su_tela_-_cm_40x60.jpg "Veduta di Venezia, 2015 - olio su tela - cm 40x60")
-
     Si apre il **2 ottobre alle 12 alla Galleria Melori & Rosenberg di Venezia, situata nella fascinosa storica cornice del Campo del Ghetto Novo (Cannaregio 2919), la personale del piittore triestino Fabio Colussi,** intitolata **_Light landscape_, introdotta sul piano critico dalla curatrice Marianna Accerboni**: in mostra **una ventina di oli inediti, realizzati nel 2014-2016** (**fino al 12 ottobre /** orario tutti i giorni 10 **·** 14 e su appuntamento / info "">+39 (0)41 2750039 • +39 335 6750946""> / [info@melori-rosenberg.com](mailto:info@melori-rosenberg.com))."">
 
     _In queste pagine pittoriche_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena poetica il fascino di Venezia e della laguna, raffinando con equilibrio e perizia il suo luminoso e vivido linguaggio attraverso un colorismo avvincente e reale, che lascia tuttavia spazio anche al sogno. Memore di una vena neoclassica, che appartiene culturalmente a Trieste, sua città d'origine, l'artista prosegue in modo del tutto personale l'antica tradizione di pittori e vedutisti attivi a Venezia nel '700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l'interpretazione più razionale dei luoghi._
+
+    ![Veduta di Venezia, 2015 - olio su tela - cm 40x60](/media/events/fabio-colussi-light-landscapes-venezia-2016/Veduta_di_Venezia_2015_-_olio_su_tela_-_cm_40x60.jpg "Veduta di Venezia, 2015 - olio su tela - cm 40x60")
 
     _Agli esordi tuttavia Colussi_ _ha guardato anche ad altri pittori e vedutisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell'altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo ottocento e nel primo novecento, accanto all'Accademia di Monaco, per gli artisti triestini._
 

@@ -18,13 +18,13 @@ subEvents:
   - - "Lunedì 25 giugno al Caffè Storico Tommaseo proiezione del video sul viaggio in Serbia di Olga Micol, nell'ambito della mostra “Serbia: Trmbas campo profughi, speranza in un futuro migliore”"
 press:
   pressRelease: |-
-    ![Ragazza al campo profughi di Trmbas (Serbia)](/media/events/olga-micol-la-serbia-al-caffe-tommaseo-2012/3.jpg "Ragazza al campo profughi di Trmbas (Serbia)")
-
     **Lunedì 18 giugno alle ore 18.30 al Caffè Storico Tommaseo avrà luogo la presentazione della mostra _“Serbia: Trmbas campo profughi, speranza in un futuro migliore”_, che, introdotta da Marianna Accerboni, propone un intenso reportage fotografico di Olga Micol dedicato alla drammatica realtà in cui vivono i bambini di Kragujevac**, la città della fabbrica della Zastava, ora Fiat, dove molti operai sono stati licenziati e le risorse economiche sono nulle. Le immagini della fotografa triestina, insignita con l'onorificenza A.F.I.A.P. Artiste de la Federation Internationale de l'Art Photographique, sono crude nella loro bellezza, ma la vita continua e il sorriso di alcuni bambine in uno scenario di squallore lo documentano. Il 25 giugno alle 18.30 nella stessa sede verrà proiettato il video completo sul viaggio compiuto in Serbia dall'autrice con l'associazione Onlus _non bombe ma solo caramelle_ (fino al 1 luglio/ tutti i giorni dalle 8 alle 23/ [www.caffetommaseo.com](http://www.caffetommaseo.com) 3294186677/ tel. 040 362 666).
 
     ![Bambina al campo profughi di Trmbas (Serbia)](/media/events/olga-micol-la-serbia-al-caffe-tommaseo-2012/5.jpg "Bambina al campo profughi di Trmbas (Serbia)")
 
     **Olga Micol** nasce a Trieste da una famiglia di fotografi, nonno e nonna, zia e zio materni lo erano e fin da piccola ha scoperto tutti i loro segreti professionali. Per sei mesi ha soggiornato a Melbourne (Australia) operando nello studio fotografico degli zii materni.
+
+    ![Ragazza al campo profughi di Trmbas (Serbia)](/media/events/olga-micol-la-serbia-al-caffe-tommaseo-2012/3.jpg "Ragazza al campo profughi di Trmbas (Serbia)")
 
     Dipendente delle Assicurazioni Generali nell'ambito pubbliche relazioni e stampa, ha iniziato a fotografare in digitale ben 14 anni fa, documentando per la sua azienda le varie manifestazioni organizzate anche con la sua collaborazione e inserendo le sue foto nei cataloghi delle mostre e nei bollettini aziendali.
 

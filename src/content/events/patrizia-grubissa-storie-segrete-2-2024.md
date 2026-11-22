@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Tra la mente e il corpo, 2023 - acrilico su tela - cm. 79x53](/media/grubissa-basta-uno-sguardo-2022-acrilico-su-tela-cm-70x67.jpg "Tra la mente e il corpo, 2023 - acrilico su tela - cm. 79x53")
-
     **Venerdì 3 maggio 2024 alle ore 19 s'inaugura alla Sala Comunale d'arte di Trieste (piazza dell'Unità d'Italia 4) la personale STORIE SEGRETE 2 dell'artista PATRIZIA GRUBISSA, curata dall'architetto Marianna Accerboni con un intervento di Andrea Comisso. In mostra più di una ventina di opere realizzate dall'artista molto di recente ad acrilico su tela.**
 
     _Attraverso i ritratti interiori di personalità femminili diverse, - scrive Accerboni - Patrizia Grubissa ci trasporta, mediante molteplici punti di vista, in una realtà altra che coinvolge più aspetti del nostro quotidiano. Istintivamente, l'artista trasferisce nei volti e negli atteggiamenti dei personaggi incontrati sulla carta stampata e nella vita di ogni giorno - da cui trae spunto e ispirazione - stati d'animo, sentimenti e riflessioni che in parte le appartengono e trovano nel dato cromatico e nel guizzo di un gesto pittorico rapido ed efficace d'inclinazione espressionista, una testimonianza singolare e di grande appeal._
+
+    ![Tra la mente e il corpo, 2023 - acrilico su tela - cm. 79x53](/media/grubissa-basta-uno-sguardo-2022-acrilico-su-tela-cm-70x67.jpg "Tra la mente e il corpo, 2023 - acrilico su tela - cm. 79x53")
 
     _L'uso virtuoso di colori vivaci e di chiaroscuri intensi accanto alla scelta di focus originali, a volte supportati da un sottile intuito scenico, e di scorci appropriati, dà modo all'artista di affrontare il tema del multiforme teatro della vita, conferendo ai propri dipinti un appeal notevole per originalità e intensità. E, in questa galleria fantastica di stati d'animo, ognuna di noi può ritrovare se stessa assieme all'autrice: con notevole verve Grubissa testimonia infatti l'esistenza di donne moderne, che appartengono al nostro contemporaneo. C'è chi fuma una sigaretta, chi si cela nella penombra del palco di un teatro, chi riflette, si abbandona e chi sospira. Dal suo universo femminile esce in ogni caso una figura muliebre forte e silente, sottilmente padrona della situazione, ieri e oggi, nel bene e nel male. Una sorta di ritratto poliedrico – conclude Accerboni - di chi la realtà la conosce bene, la affronta e la domina sullo sfondo di una cortina cromatica a volte illuminata da bagliori, a volte criptica, a simbolizzare una realtà in continuo divenire qual è il mondo che ci circonda._
 

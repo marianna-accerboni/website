@@ -16,7 +16,11 @@ info:
     - /media/events/bellezza-per-la-bonta-2013/invito.pdf
 press:
   pressRelease: |-
-    **2° inaugurazione: lunedì 2 dicembre 2013, ore 18**, alla Sala del Giubileo di Trieste (Riva 3 Novembre, 9). **Quando:** 2 - 16 dicembre 2013. **Orario:** tutti i giorni ore 10 - 12 / 16 - 19.30.
+    **Seconda sede: Sala del Giubileo, Trieste**
+    - Inaugurazione: lunedì 2 dicembre 2013, ore 18
+    - Indirizzo: Riva 3 Novembre, 9 · Trieste
+    - Periodo: 2 – 16 dicembre 2013
+    - Orario: tutti i giorni ore 10 – 12 / 16 – 19.30
 
     <iframe src="https://www.youtube.com/embed/4D5ToocAyko" width="350" height="288"></iframe>
 

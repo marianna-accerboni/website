@@ -16,8 +16,6 @@ info:
     - /media/events/lucia-sarto-arte-e-moda-2014/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/d-0LHYtnH5w" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
     **Video dell'inaugurazione**
 
     **S'inaugura sabato 19 aprile alle 18.30 alla Galleria Rettori Tribbio di Trieste** (piazza Vecchia 6) **“Arte Moda Colore” un'originale rassegna dedicata alla pittrice Lucia Sarto, che sa interpretare il reale con intensità e nel contempo con intuito poetico. Curata e presentata dall'arch. Marianna Accerboni, la mostra propone un interessante e riuscito connubio tra pittura e moda:** un'ampia selezione dei dipinti figurativi, raffinati e puntuali dell'artista, realizzati a olio e ad acrilico dal 2005 a oggi, vengono abbinati a borse, gioielli, foulard e a un abito da lei stessa disegnato, su cui sono riprodotti i suoi motivi di fiori e frutta e i suoi personaggi. Molto interessanti appaiono anche gli eleganti e accurati gioielli in oro e argento, che riportano gli stessi soggetti o altri elementi più astratti, spesso impreziositi da pietre dure, e gli oggetti d'arte e d'arredamento. **Fino al 2 maggio** (orario: feriali 10-12.30 e 17-19.30/ festivi 10-12/ ven pomeriggio, Pasqua e lun chiuso/ info 366 3112200).
@@ -25,6 +23,8 @@ press:
     ![Pendente con collana in pasta polimerica dipinta ad acrilico e arricchita con pietra dura. Montatura in argento - 2013](/media/events/lucia-sarto-arte-e-moda-2014/Pendente_con_collana_in_pasta_polimerica_dipinta_ad_acrilico_e_arricchita_con_pietra_dura._Montatura_in_argento_-_2013.jpg "Pendente con collana in pasta polimerica dipinta ad acrilico e arricchita con pietra dura. Montatura in argento - 2013")
 
     _In un'epoca in cui si nota in pittura un notevole ritorno al linguaggio figurativo, espresso sovente mediante i modi del gusto neoromantico_ - scrive Accerboni - _appare molto contemporanea la delicata e vivace creatività dell'artista friulana Lucia Sarto, che affronta con il pennello molteplici aspetti del reale, trasfondendoli spesso - quando si tratta di paesaggi e fiori - in una soffusa e luminosissima atmosfera di sogno. Una pittura condotta con tenacia e passione, che si traduce in una sorta di divertissement contemporaneo, quando l'artista affronta i temi legati agli anni sessanta, come accade per esempio nei dipinti ispirati a Easy rider, film cult della New generation e della New Hollywood, che testimoniava il desiderio di libertà e di evasione tipico di quegli anni._
+
+    <iframe src="https://www.youtube.com/embed/d-0LHYtnH5w" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
 
     _Interessante è anche la partecipazione emotiva della Sarto, il suo slancio e l'abilità nel tradurre in pittura i temi della danza, particolarmente del tango, attraverso degli sketch di grande efficacia poetica._
 

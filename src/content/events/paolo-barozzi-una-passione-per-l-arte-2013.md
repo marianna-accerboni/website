@@ -13,12 +13,6 @@ info:
     - /media/events/paolo-barozzi-una-passione-per-l-arte-2013/invito.pdf
 press:
   pressRelease: |-
-    ![cs ufficiale](/media/events/paolo-barozzi-una-passione-per-l-arte-2013/cs_ufficiale.jpg "cs ufficiale")
-
-    <iframe src="https://www.youtube.com/embed/cEWwH2zYddg" width="350" height="288"></iframe>
-
-    Presentazione del libro "Paolo Barozzi, una passione per l'arte"
-
     Presentazione del volume
 
     di **Ottavio Pinarello** (Roma, Artecom/D'Agostino Edizioni 2011)
@@ -36,6 +30,12 @@ press:
     Il volume, grazie al gran numero di immagini fotografiche inedite tratte dall'esteso archivio personale di Paolo Barozzi, illustra i passaggi salienti della sua lunga attività di promotore d'arte. Già amico e assistente personale di Peggy Guggenheim negli anni Sessanta, Paolo Barozzi è diventato poi un accreditato gallerista tra Venezia e Milano.
 
     Oltre ad aver esposto i più grandi nomi del panorama nazionale (da Rotella a Vedova, da Parmeggiani a Dorazio), Barozzi è stato uno dei primi a proporre ed esporre in Italia artisti come Jasper Johns, Dennis Hoppenheim, Lichtenstein, Rauschenberg, Allan Kaprow, Joseph Kossuth e soprattutto Andy Warhol, grazie anche alla sua conoscenza di Leo Castelli, il noto gallerista di New York.
+
+    ![cs ufficiale](/media/events/paolo-barozzi-una-passione-per-l-arte-2013/cs_ufficiale.jpg "cs ufficiale")
+
+    <iframe src="https://www.youtube.com/embed/cEWwH2zYddg" width="350" height="288"></iframe>
+
+    Presentazione del libro "Paolo Barozzi, una passione per l'arte"
 
     Questo libro fotografico realizzato da Ottavio Pinarello (con una prefazione di Gillo Dorfles) è una sorta di viaggio attraverso l'originale esistenza di Paolo Barozzi - testimone e protagonista allo stesso tempo dell'arte contemporanea - raccontato con le immagini e le testimonianze degli artisti che lo hanno frequentato e delle personalità del mondo della cultura che hanno partecipato agli eventi e alle mostre da lui organizzati.
 

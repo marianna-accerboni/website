@@ -18,11 +18,11 @@ subEvents:
   - - Prorogata fino al 31 gennaio al Salone d’Arte di Trieste la mostra l’Adriatico di Fabio Colussi
 press:
   pressRelease: |-
-    ![L'ora della pesca, 2019 - olio su tela - cm 40x60](/media/colussi_natale_2022-lora-della-pesca-2019-olio-su-tela-cm-40x60.jpg "L'ora della pesca, 2019 - olio su tela - cm 40x60")
-
     **Sabato** **3 dicembre alle 18.30 si apre al Salone d’arte di Trieste (via della Zonta 2) la rassegna “L’Adriatico di Fabio Colussi”, dedicata dal pittore triestino al tema prediletto della veduta marina: introdotta dalla curatrice Marianna Accerboni,** propone **una ventina di oli su tela e su tavola inediti, ispirati a Trieste, alle coste istro-dalmate e a Venezia, realizzati negli ultimi tre anni.**
 
     _In questa esposizione_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare della sua città, Trieste. Una sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l’artista sa catturare l’ineffabile luce del nostro golfo, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._ Fino al 15 gennaio 2023 (orario: tutti i giorni 10 · 12.30 e 16.00 · 19.00/ info 335 6750946 - 348 8965899).
+
+    ![L'ora della pesca, 2019 - olio su tela - cm 40x60](/media/colussi_natale_2022-lora-della-pesca-2019-olio-su-tela-cm-40x60.jpg "L'ora della pesca, 2019 - olio su tela - cm 40x60")
 
     _Memore di una vena neoclassica, che appartiene culturalmente a Trieste, l’artista prosegue in modo del tutto personale l’antica tradizione di pittori e vedutisti attivi a Venezia nel ‘700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l’interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri artisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell’altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo Ottocento e nel primo Novecento, accanto all’Accademia di Monaco, per i pittori triestini._
 

@@ -11,8 +11,6 @@ subEvents:
   - - "Lunedì 5 ottobre alla Biblioteca Statale S. Crise di Trieste incontro con Alessandro Gualtieri, esperto della Grande Guerra, che presenta “La Grande Guerra delle donne”"
 press:
   pressRelease: |-
-    ![Paolo Caccia Dominioni un artista sul fronte di guerra l'uomo. Le architetture, il segno, la scrittura](/media/events/dominioni-trieste-nuovo-calendario-2015/calendario-pcd2.jpg "Paolo Caccia Dominioni un artista sul fronte di guerra l'uomo. Le architetture, il segno, la scrittura")
-
     **Ideazione artistica, curatela critica e allestimento: arch. Marianna Accerboni**
 
     **Approfondimento storico: amm. Sq. Ferdinando Sanfelice di Monteforte, docente di Strategia alla Cattolica di Milano e alle Università di Firenze e Trieste Polo di Gorizia, già Rappresentante Militare per l'Italia presso i Comitati Militari NATO ed EU**
@@ -23,11 +21,11 @@ press:
 
     La mostra rientra nel Programma ufficiale delle commemorazioni del Centenario della prima Guerra mondiale a cura della Presidenza del Consiglio dei Ministri - Struttura di Missione per gli anniversari di interesse nazionale e si svolge con il patrocinio del Commissario Generale belga alla Commemorazione della Prima Guerra Mondiale.
 
+    ![Paolo Caccia Dominioni un artista sul fronte di guerra l'uomo. Le architetture, il segno, la scrittura](/media/events/dominioni-trieste-nuovo-calendario-2015/calendario-pcd2.jpg "Paolo Caccia Dominioni un artista sul fronte di guerra l'uomo. Le architetture, il segno, la scrittura")
+
     **Info e visite guidate**
-
-    Marianna Accerboni +39 335 6750946
-
-    I.A.T. Redipuglia +39 0481 489139
+    - Marianna Accerboni: +39 335 6750946
+    - I.A.T. Redipuglia: +39 0481 489139
 gallerySection: null
 draft: false
 ---

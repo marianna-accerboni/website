@@ -18,11 +18,11 @@ subEvents:
   - - "Acquerelli del pittore Danilo Ceccone alla Galleria Rettori Tribbio: giovedì 20 febbraio il pittore e la curatrice Marianna Accerboni incontrano il pubblico per il finissage"
 press:
   pressRelease: |-
-    ![Doberdò del lago, 1998 - acquarello su carta - cm 31,5x44](/media/events/danilo-ceccone-acquerelli-2014/02.jpg "Doberdò del lago, 1998 - acquarello su carta - cm 31,5x44")
-
     **S'inaugura sabato 8 febbraio alle ore 18 alla Galleria _Rettori Tribbio_ di Trieste** (piazza Vecchia 6) **la mostra di acquerelli del pittore Danilo Ceccone**, che sarà **presentata sul piano critico dall'arch. Marianna Accerboni**. La rassegna, **visitabile fino al 21 febbraio**, **propone una quarantina di lavori realizzati soprattutto dalla fine degli anni '80 a oggi** (orario: feriali 10-12.30 e 17-19.30/ festivi 10-12/ ven pomeriggio e lun chiuso/ domenica 16 per Mercatino Antiquariato 10-13 e 16-18).
 
     _L'acquarello - si sa - è la tecnica pittorica più difficile_ - scrive Accerboni - _perché non consente ripensamenti. Intuizione, rapidità, un tocco agile, è quanto si richiede a un artista che si cimenti in questa via dell'arte complessa, anche se apparentemente semplice._
+
+    ![Doberdò del lago, 1998 - acquarello su carta - cm 31,5x44](/media/events/danilo-ceccone-acquerelli-2014/02.jpg "Doberdò del lago, 1998 - acquarello su carta - cm 31,5x44")
 
     _Danilo Ceccone è tutto ciò: capta con immediatezza l'atmosfera e l'anima dei luoghi e la declina, senza esitazioni, sulla carta. Dipinge una realtà solare, luminosa, una natura che sembra quasi sempre magicamente solcata dal vento. E con il pennello racconta dei suoi viaggi a Venezia, di cui coglie la liquida bellezza, della ventosa costa toscana in Maremma, delle pietre silenziose, degli angoli e delle luci del nostro Carso, della bellezza immanente del paesaggio innevato. E riesce così - ancora una volta istintivamente - a evolvere il proprio linguaggio dalla naturalezza di un gusto più propriamente narrativo, declinato attraverso i modi di un espressionismo dai tratti armoniosi e dai rimandi impressionisti, alla modernità di una sintesi essenziale e particolarmente interessante._
 

@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Notturno, 2015 - olio su tela - cm 20x50](/media/events/colussi-la-serenissima-venezia-2021/Notturno_2015_-_olio_su_tela_-_cm_20x50.jpg "Notturno, 2015 - olio su tela - cm 20x50")
-
     Domenica 24 ottobre 2021 alle ore 12 s'inaugura alla Galleria d'arte contemporanea Ghetto Et Cetera di Venezia (Campo del Ghetto novo 2919) la mostra personale del pittore triestino Fabio Colussi, intitolata _La Serenissima_ e curata dell'arch. Marianna Accerboni, che introdurrà, alla presenza dell'artista, l'esposizione. In mostra venti oli su tela e cartone telato realizzati tra il 2013 e il 2021. Alla vernice si potrà partecipare in galleria o attraverso la diretta streaming, che rimarrà accessibile sul sito [www.ghetto-etcetera.com](http://www.ghetto-etcetera.com/) (orario: lun, mart, merc e sab 10-13, giov, ven e dom 10-13 e 16-19.30).
 
     _In questa esposizione_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino di Venezia e del suo mare. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l'artista sa catturare l'ineffabile e magica luce della Serenissima e la pace della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._
+
+    ![Notturno, 2015 - olio su tela - cm 20x50](/media/events/colussi-la-serenissima-venezia-2021/Notturno_2015_-_olio_su_tela_-_cm_20x50.jpg "Notturno, 2015 - olio su tela - cm 20x50")
 
     ![Pescatori, 2017 - olio su tela - cm 60x40](/media/events/colussi-la-serenissima-venezia-2021/Pescatori_2017_-_olio_su_tela_-_cm_60x40.jpg "Pescatori, 2017 - olio su tela - cm 60x40")
 

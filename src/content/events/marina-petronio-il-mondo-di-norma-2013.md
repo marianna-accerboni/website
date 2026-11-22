@@ -14,11 +14,11 @@ info:
     - /media/events/marina-petronio-il-mondo-di-norma-2013/invito.pdf
 press:
   pressRelease: |-
-    ![IMG 0840](/media/events/marina-petronio-il-mondo-di-norma-2013/IMG_0840.jpg "IMG 0840")
-
     **Venerdì 1 marzo alle 17 viene presentato all'Harry's Caffè e Restaurant (piazza Unità 2) il libro intitolato di Marina Petronio, dedicato alla moglie del pittore Dyalma Stultus (pgg. 117, € 13,00, Luglio Editore). Interverranno l'autrice, la prof. Ilaria Rocchi (La Voce del Popolo, Fiume) e l'arch. Marianna Accerboni, che ha firmato la prefazione. All'interno del volume viene pubblicata una poesia inedita di Anita Pittoni.**
 
     _Il libro, sottotitolato_ Vita di donna e di artista fra Trieste e Firenze, - scrive Accerboni - _rievoca l'esistenza di Norma Aquilani Stultus, bellissima moglie di Dyalma Stultus, che il pittore triestino incontrò e sposò quando lei era giovanissima e aveva 14 anni meno di lui. Musa, oltre che moglie, del pittore, creò assieme alle figlie, dopo la morte improvvisa del marito, avvenuta nel 1977, un archivio a lui intitolato, che fu per lei sollievo al dolore e motivo di vita._
+
+    ![IMG 0840](/media/events/marina-petronio-il-mondo-di-norma-2013/IMG_0840.jpg "IMG 0840")
 
     _Attraverso la pubblicazione di una ricca sequenza di bozzetti per abiti, di grande eleganza e antesignani, progettati da Norma, di costumi d'epoca e d'illustrazioni per novelle per bambini, il volume ripercorre puntualmente anche la felice creatività di Norma, che quest'ultima tuttavia tralasciò per prendersi cura del marito e delle tre figlie, Selma, Marina e Nada: una carriera che sicuramente l'avrebbe vista protagonista poiché nel disegnare, Norma era dotata di un bel segno, essenziale e convincente, e di una perfetta capacità nell'accostare i colori, creando intrecci cromatici mai scontati._
 

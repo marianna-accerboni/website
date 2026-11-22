@@ -18,11 +18,11 @@ subEvents:
   - - "Sabato 30 dicembre 2017 alla Galleria Rettori Tribbio di Trieste visita guidata alla mostra “Angeli” della pittrice Otilia Saldana"
 press:
   pressRelease: |-
-    ![Angelo d'oro, 2017 - tecnica mista - cm 80x60](/media/events/otilia-saldana-angeli-2017/Angelo_d_oro_2017_-_tecnica_mista_-_cm_80x60.jpg "Angelo d'oro, 2017 - tecnica mista - cm 80x60")
-
     **S'inaugura sabato 16 dicembre 2017 alle 18 alla Galleria Rettori Tribbio di Trieste** (piazza Vecchia 6) **la mostra personale della pittrice Otilia Saldana, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni. La rassegna propone 21 opere a olio e 3 a tecnica mista, inedite e realizzate nel 2017**.
 
     **Fino al 5 gennaio 2018** (orario: feriali 10-12.30 e 17- 19.30/ festivi 10-12/ venerdì pom e lun chiuso/ info 335 6750946/ 331 6673524).
+
+    ![Angelo d'oro, 2017 - tecnica mista - cm 80x60](/media/events/otilia-saldana-angeli-2017/Angelo_d_oro_2017_-_tecnica_mista_-_cm_80x60.jpg "Angelo d'oro, 2017 - tecnica mista - cm 80x60")
 
     _Nella città del Neoclassico, stile razionale e rigoroso_ - scrive Accerboni - _è comparsa un po' di anni fa Otilia Saldana, mente eclettica e introspettiva, che inizialmente ci ha coinvolti, come pittrice con i suoi colori sgargianti, i suoi decori fantasiosi e la rappresentazione delle tradizioni e dei vivaci pappagalli, che a Panama, il suo paese di origine, non mancano quasi mai in ogni casa._
 

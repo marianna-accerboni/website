@@ -20,10 +20,6 @@ subEvents:
   - - "Gran finale per la mostra di Aldo Famà al Palazzo Costanzi di Trieste: sabato 9 laboratorio, domenica 10 e lunedì 11 visite guidate"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/DFLLB_KGI1o" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Gabinetto del Sindaco**
 
     **Ufficio Stampa**
@@ -33,6 +29,10 @@ press:
     **Apertura al pubblico: dal 16 febbraio all'11 marzo 2019 (tutti i giorni, 10-13/17-20)**
 
     E' stata presentata stamane, la mostra antologica _“ALDO. FAMA'. LO STATO DELL'ARTE”,_ dell'importante artista triestino Aldo Famà, allestita nella Sala comunale Umberto Veruda, a Palazzo Costanzi, in piazza Piccola 2, e realizzata con il contributo del Comune di Trieste, a cura dall'architetto Marianna Accerboni.
+
+    <iframe src="https://www.youtube.com/embed/DFLLB_KGI1o" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     A illustrare la suggestiva e originale esposizione, che sarà inaugurata domani, venerdì 15 febbraio, alle 19, sono intervenuti l'assessore alla Comunicazione e Innovazione Serena Tonel, il consigliere comunale Vincenzo Rescigno, la curatrice Marianna Accerboni e l'artista Aldo Famà.
 

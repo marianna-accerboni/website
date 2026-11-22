@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Amanti di periferia, 1976 - olio su tela - cm 130x100 (coll. privata Trieste)](/media/dipingere_vento-amanti-di-periferia-1976-olio-su-tela-cm-130x100-coll-privata-trieste.jpg "Amanti di periferia, 1976 - olio su tela - cm 130x100 (coll. privata Trieste)")
-
     **S’inaugura sabato 11 giugno** alle ore 19 al **Magazzino 26 in Porto Vecchio di Trieste la mostra Livio Rosignano. Dipingere il vento, la prima antologica** realizzata **dopo la scomparsa dell’artista**, ritenuto uno dei pittori più rappresentativi del secondo Novecento a Trieste e nel Friuli Venezia Giulia, assai apprezzato anche in sedi prestigiose a livello nazionale e internazionale, dove aveva riscosso importanti riconoscimenti.
 
     **Ideata, curata sul piano critico e allestita da Marianna Accerboni**, la rassegna è promossa dall’**Associazione delle Comunità Istriane di Trieste** ed è realizzata in coorganizzazione con il **Comune di Trieste**, con il sostegno finanziario del **Ministero della Cultura** (secondo la Legge statale 16 marzo 2001 n. 72), in collaborazione con la **Biblioteca Statale Isontina di Gorizia** e con l’**Associazione Foemina APS** e con il contributo di **Bevagna S.r.l. Spedizioni internazionali Trieste**, **Ciaccio Arte Big Broker Insurance** **Group Milano**, **Tenuta Baroni del Mestri** (Cormons, Gorizia).
+
+    ![Amanti di periferia, 1976 - olio su tela - cm 130x100 (coll. privata Trieste)](/media/dipingere_vento-amanti-di-periferia-1976-olio-su-tela-cm-130x100-coll-privata-trieste.jpg "Amanti di periferia, 1976 - olio su tela - cm 130x100 (coll. privata Trieste)")
 
     _Livio Rosignano_ - scrive Marianna Accerboni - _fu sempre molto sensibile, oltre che agli altri temi, alla rappresentazione del dato naturale, uno dei Leitmotiv della sua pittura, espresso soprattutto attraverso il paesaggio: vedute di mare e di terra, urbane, industriali o di campagna, presenti in magnifica forma a raccontare con intensità la sua terra natale, Trieste e il Carso. Paesaggi spesso mossi dal vento, i quali mi hanno suggerito il titolo dell’esposizione, che evoca anche il concetto di libertà molto vivo nell’arte e nel temperamento del pittore._
 

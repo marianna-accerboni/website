@@ -16,15 +16,15 @@ info:
     - /media/events/lin-delija-in-viaggio-verso-casa-2019/invito.pdf
 press:
   pressRelease: |-
+    GORIZIA – S'inaugura sabato 23 marzo alle 17.30, alla Biblioteca Statale Isontina di Gorizia, la mostra “Lin Delija. In viaggio verso casa. Gorizia - Zagabria - Scutari”, promossa dalla Biblioteca stessa e curata da Marianna Accerboni. In mostra una sessantina di dipinti a olio, tempera, tecnica mista e disegni realizzati dall'artista (Scutari 1926 - Roma 1994) a matita, pennarello, penna e pastello tra gli anni Cinquanta e il 1990: una sorta di antologica che testimonia le diverse tematiche affrontate da Delija nel corso della sua intensa attività, nell'ambito della quale effigiò la donna mediterranea, colta nella sua generosa bellezza ma anche nella vita quotidiana, il ritratto femminile e maschile, il paesaggio e la natura morta. Nonché il suo vezzo di ritrarre sui biglietti del treno la varia umanità che scorreva davanti ai suoi occhi.
+
+    L'esposizione è accompagnata da un accurato catalogo che propone diverse prestigiose testimonianze e contributi critici dedicati a un artista puro, che seppe vivere francescanamente in povertà, trovando, dopo la formazione a Scutari e all'Accademia di Belle Arti di Zagabria, la propria nuova patria a Firenze, a Osimo e a Roma. Qui frequentò l'Accademia, divenendo l'allievo prediletto di Mario Mafai, caposcuola con Scipione e Antonietta Raphaël della Scuola Romana, volta, dopo il Razionalismo, a una nuova libertà di espressione, cui Delija aderì pur memore della cultura orientale e bizantina.
+
     <iframe src="https://www.youtube.com/embed/so9mvAKVbUQ" width="350" height="288"></iframe>
 
     Video dell'inaugurazione
 
     ![bsi - ministero per i beni e le attività culturali](/media/events/lin-delija-in-viaggio-verso-casa-2019/loghi.png "bsi - ministero per i beni e le attività culturali")
-
-    GORIZIA – S'inaugura sabato 23 marzo alle 17.30, alla Biblioteca Statale Isontina di Gorizia, la mostra “Lin Delija. In viaggio verso casa. Gorizia - Zagabria - Scutari”, promossa dalla Biblioteca stessa e curata da Marianna Accerboni. In mostra una sessantina di dipinti a olio, tempera, tecnica mista e disegni realizzati dall'artista (Scutari 1926 - Roma 1994) a matita, pennarello, penna e pastello tra gli anni Cinquanta e il 1990: una sorta di antologica che testimonia le diverse tematiche affrontate da Delija nel corso della sua intensa attività, nell'ambito della quale effigiò la donna mediterranea, colta nella sua generosa bellezza ma anche nella vita quotidiana, il ritratto femminile e maschile, il paesaggio e la natura morta. Nonché il suo vezzo di ritrarre sui biglietti del treno la varia umanità che scorreva davanti ai suoi occhi.
-
-    L'esposizione è accompagnata da un accurato catalogo che propone diverse prestigiose testimonianze e contributi critici dedicati a un artista puro, che seppe vivere francescanamente in povertà, trovando, dopo la formazione a Scutari e all'Accademia di Belle Arti di Zagabria, la propria nuova patria a Firenze, a Osimo e a Roma. Qui frequentò l'Accademia, divenendo l'allievo prediletto di Mario Mafai, caposcuola con Scipione e Antonietta Raphaël della Scuola Romana, volta, dopo il Razionalismo, a una nuova libertà di espressione, cui Delija aderì pur memore della cultura orientale e bizantina.
 
     Dal 1960 il pittore si trasferì però ad Antrodoco, interessante centro cittadino dell'alta Sabina, dove visse quasi fino alla fine e dove oggi è ricordato al “Museo della città Lin Delija - Carlo Cesi”, che racchiude un'importante ed esaustiva testimonianza del suo operare. Va ricordata al proposito l'Associazione Culturale Lin Delija, nata nel 2005 ad Antrodoco per la valorizzazione e la diffusione del lavoro artistico del pittore e che detiene nella sua sede di Antrodoco molte opere. Deus ex machina sono, tra gli altri, il past president Armando Nicoletti e l'attuale presidente Pasquale Chiuppi.
 

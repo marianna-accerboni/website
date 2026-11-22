@@ -17,23 +17,14 @@ bodySection:
 
      
 
-    **LEONOR FINI. MEMORIE TRIESTINE**
-
-    **DOVE**: Polo museale del Magazzino 26 · Porto vecchio · Trieste
-
-    **QUANDO**: 26 giugno · 22 agosto 2021
-
-    **ORARIO**: mercoledì e giovedì 10 · 13 e 17 · 20 / venerdì e domenica 10 · 13 e 17 · 21 / sabato 10 · 13 e 15 · 21 · lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 81) 
-
-    **A CURA DI**: Marianna Accerboni
-
-    **CATALOGO**: sì
-
-    **COSTO BIGLIETTO**: € 5,00 (alle signore un *cadeau* con il profumo inedito *Lolò*)
-
-    **INFO**: **leonorfinimemorietriestine@gmail.com**
-
-    **CELL. +39 335 6750946**
+    **Leonor Fini. Memorie triestine**
+    - Dove: Polo museale del Magazzino 26 · Porto vecchio · Trieste
+    - Periodo: 26 giugno – 22 agosto 2021
+    - Orario: mercoledì e giovedì 10 · 13 e 17 · 20 / venerdì e domenica 10 · 13 e 17 · 21 / sabato 10 · 13 e 15 · 21 / lunedì e martedì chiuso
+    - A cura di: Marianna Accerboni
+    - Catalogo: sì
+    - Biglietto: € 5,00 (alle signore un cadeau con il profumo inedito Lolò)
+    - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
      
 

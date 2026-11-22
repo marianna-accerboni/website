@@ -16,13 +16,13 @@ subEvents:
   - - "Una scuola di luce: sabato 30 agosto alla Galleria Rettori Tribbio di Trieste visita guidata alla mostra degli allievi dell'atelier del pittore Livio Možina"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/eE2qHTh7kQY" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura sabato 23 agosto alle 18 alla Galleria Rettori Tribbio di Trieste** (piazza Vecchia 6) **la mostra intitolata _Una scuola di luce_, che propone le opere realizzate nell'anno accademico 2013/ 2014 da una sessantina di allievi del corso che il pittore Livio Možina tiene in Galleria. La rassegna, che sarà introdotta dall'architetto Marianna Accerboni**, **propone più di una sessantina di opere di gusto figurativo, realizzate quasi tutte a olio, ognuna delle quali rappresenta il quadro simbolo tra le molte realizzate nell'anno accademico da ciascun artista**. Visitabile **fino al 5 settembre** (orario: feriali 10.00 - 12.30 e 17.00 - 19.30/ festivi 10.00 - 12.00/ venerdì pomeriggio e lunedì chiuso).
 
     _Ritorna anche quest'anno - scrive Accerboni - un interessante appuntamento per l'arte triestina: una sessantina di allievi del notissimo Atelier di Livio Možina, di varia età e provenienza, espongono le opere realizzate - per lo più a olio - nell'anno accademico 2013/ 2014. Il taglio è tendenzialmente figurativo e la tecnica, ancorchè approcciata da poco, molto spesso ineccepibile, sicchè questa agorà d'arte diventa un'interessante vetrina della pittura locale intesa nell'ambito della modernità._
+
+    <iframe src="https://www.youtube.com/embed/eE2qHTh7kQY" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     ![Claudia BENEDETTI - Vibrazioni cromatiche, 2014 - olio](/media/events/atelier-mozina-una-scuola-di-luce-2014/Claudia_BENEDETTI_-_Vibrazioni_cromatiche_2014_-_olio.jpg "Claudia BENEDETTI - Vibrazioni cromatiche, 2014 - olio")
 

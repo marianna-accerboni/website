@@ -19,29 +19,18 @@ bodySection:
 
     **Nell’ambito della rassegna -** realizzata in coorganizzazione con l’Assessorato alla Cultura del Comune di Trieste, il sostegno, tra gli altri, delle Fondazioni CRTrieste e Kathleen Foreman Casali e il media partenariato del nostro giornale - **è stato inoltre ideato il concorso ”Il più bel gatto del mondo”, aperto ai bambini dai 6 ai 12 anni e ispirato alla grande passione di Leonor Fini per questo felino, principale motivo ispiratore della sua arte e protagonista della sua vita privata. I piccoli artisti potranno ispirarsi in mostra, dove la figura del gatto è molto presente, e creare le loro opere nello spazio espositivo, seguiti dalla curatrice, oppure a casa (info 335 6750946).**
 
-     
-
     La mostra è realizzata in coorganizzazione con **l’Assessorato alla Cultura del Comune di Trieste**, in collaborazione con **Biblioteca Statale Isontina** di Gorizia, **Assessorato alla Cultura del Comune di Laveno-Mombello** (Varese), **MIDeC**-Museo Internazionale del Design Ceramico di Laveno-Mombello, con la media partnership del quotidiano **Il Piccolo** e con il sostegno delle **Fondazioni CRTrieste e Kathleen Foreman Casali**, **Associazione Giuliani nel Mondo**, **Studio Luce Sime Vignuda Gruppo Comet**, **Ciaccio Arte Big Broker Insurance Group**, Milano, **Rotary Club Trieste Alto Adriatico**, Azienda Agricola **Zidarich**  (Prepotto, Duino Aurisina, Trieste), Sponza Tappezzeria Trieste,  **Andromeda**, **Ottica Dambrosi** Trieste, **Flowers Gorizia**, **Laboratorio cornici Asso di Quadri**, **Plexi & Star.**
-
-     
 
     Per raggiungere il Magazzino 26 sono disponibili i bus linea 6, fermata Polo museale, e linea 80 (alle signore un cadeau con il profumo inedito “Lolò” creato per la mostra/ info 335 6750946).
 
-     
-
-    **DOVE**: Polo museale del Magazzino 26 · Porto vecchio · Trieste
-
-    **DATA e ORARIO APPUNTAMENTO COLLATERALE**: 21 agosto ore 10 e 16.30
-
-    **DATE MOSTRA**: 26 giugno_22 agosto 2021
-
-    **ORARIO MOSTRA**: mercoledì e giovedì 10_13 e 17_20 / venerdì e domenica 10_13 e 17_21 / sabato 10_13 e 15_21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80) 
-
-    **A CURA DI**: Marianna Accerboni
-
-    **CATALOGO**: sì
-
-    **INFO**: **leonorfinimemorietriestine@gmail.com**
+    **Informazioni**
+    - Dove: Polo museale del Magazzino 26 · Porto vecchio · Trieste
+    - Appuntamento: 21 agosto ore 10 e 16.30
+    - Periodo: 26 giugno – 22 agosto 2021
+    - Orario: mercoledì e giovedì 10 – 13 e 17 – 20 / venerdì e domenica 10 – 13 e 17 – 21 / sabato 10 – 13 e 15 – 21/lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80)
+    - A cura di: Marianna Accerboni
+    - Catalogo: sì
+    - Info e contatti: leonorfinimemorietriestine@gmail.com
 
     **CELL. +39 335 6750946**
     ![Gatto - incisione fuori commercio - cm 64x50](/media/events/leonor-fini-memorie-triestine/Gatto_-_incisione_fuori_commercio_-_cm_64x50.jpg)Gatto - incisione fuori commercio - cm 64x50

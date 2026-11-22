@@ -14,11 +14,11 @@ info:
     - /media/events/mirella-schott-sbisa-libro-2016/invito.pdf
 press:
   pressRelease: |-
-    ![Mirella e Carlo Sbisà nel 1944](/media/events/mirella-schott-sbisa-libro-2016/Mirella_e_Carlo_Sbisa_nel_1944.jpg "Mirella e Carlo Sbisà nel 1944")
-
     **Martedì 13 settembre 2016 alle 18 nella Sede espositiva dell'Università Popolare di Trieste (Via Torrebianca 22) avrà luogo la presentazione del libro _Mirella Schott Sbisà, una vita di donna nell'arte e nella cultura di Trieste del Novecento_, curato da Paola Sbisà ed edito da Vita Activa. Il volume, ricco di molte notizie e immagini inedite d'epoca, ripercorre, a un anno dalla scomparsa, la vita privata e artistica della pittrice, che fu anche valente incisore, giovane allieva e moglie del pittore, scultore, ceramista e incisore Carlo Sbisà. Introdurranno la pubblicazione Renzo Grigolon, Franco Vecchiet, Gabriella Musetti e Marianna Accerboni, autrice del testo critico presente nel libro.**
 
     La pubblicazione contiene la trascrizione delle memorie inedite della Schott Sbisà, raccolte dalla figlia Paola attraverso un lavoro certosino di grande impegno e accuratezza: un amarcord interessantissimo che prende il via, illustrato da numerose foto d'epoca inedite e da diverse opere dell'artista, che testimonia la sua attività pittorica, incisoria e di ceramista, lungo un itinerario di quasi un secolo, che inizia con la nascita di Mirella a Trieste nel 1921 e si conclude con la sua morte avvenuta nella città d'origine lo scorso anno.
+
+    ![Mirella e Carlo Sbisà nel 1944](/media/events/mirella-schott-sbisa-libro-2016/Mirella_e_Carlo_Sbisa_nel_1944.jpg "Mirella e Carlo Sbisà nel 1944")
 
     Il volume rappresenta anche un'interessante e dettagliata testimonianza e uno storico, inedito squarcio sulla vita e la cultura artistica cittadina e sui costumi e i rapporti sociali esistenti a Trieste dalla fine dell'Ottocento lungo tutto il secolo breve.
 

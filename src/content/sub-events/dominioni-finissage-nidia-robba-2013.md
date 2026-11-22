@@ -14,15 +14,12 @@ bodySection:
 
     **Rimangono aperti fino al 6 gennaio a Gorizia i musei provinciali, la prefettura e Palazzo Lantieri, la Stazione di Redipuglia e la Caserma Berghinz di Udine**
 
-    **DOVE**: Galleria Dora Bassi - Via Roma 5 - Gorizia
-
-    **QUANDO**: 29 dicembre 2013 ore 18.00
-
-    **A CURA DI**: Marianna Accerboni
-
-    **INFO**: 335 6750946
-
-    **INVITO:** [SCARICA](/media/events/dominioni-gorizia-mostra-diffusa-2013/finissage.pdf)
+    **Informazioni**
+    - Dove: Galleria Dora Bassi - Via Roma 5 - Gorizia
+    - Quando: 29 dicembre 2013 ore 18.00
+    - A cura di: Marianna Accerboni
+    - Info e contatti: 335 6750946
+    - Invito: [Scarica l'invito](/media/events/dominioni-gorizia-mostra-diffusa-2013/finissage.pdf)
 
     Si chiude in leggero anticipo ma con uno speciale **finissage** la mostra dedicata a Paolo Caccia Dominioni in **Galleria Dora Bassi a Gorizia** (via Roma 5). Il Comune del capoluogo isontino si è infatti trovato a dover fare improvvisamente fronte a una nuova normativa antincendio, che appunto porterà a uno stop anche per l'esposizione che doveva rimanere aperta fino al 6 gennaio 2014. Quindi la curatrice Marianna Accerboni ha organizzato questo appuntamento, in programma per **domenica 29 dicembre alle ore 18**, il quale, oltre a configurarsi come un'occasione per fare un bilancio del ciclo espositivo e per incontrarsi per un brindisi augurale (offerto **dall'Azienda Agricola Zidarich di Duino-Aurisina/ Trieste**), permetterà di scoprire una scrittrice che, per la sua sensibilità ai temi storici delle nostre terre e non solo, ben si lega alla riscoperta delle opere del poeta-soldato protagonista della mostra.
 

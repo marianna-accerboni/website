@@ -18,15 +18,15 @@ subEvents:
   - - "Silvio Balestra: sabato 17 febbraio 2018 inaugurazione dell'atelier in via Pozzo di Crosada a Trieste"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/Mk9D-ar7EUU" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura mercoledì 7 febbraio 2018 alle 19 alla Sala Comunale d'Arte di Trieste (piazza Unità d'Italia 4), la mostra personale dell'artista triestino Silvio Balestra intitolata _Oltre il reale. Flussi di pensiero_, che sarà introdotta dall'arch. Marianna Accerboni. In mostra una cinquantina di opere realizzate in edizione unica tra il 2012 e il 2016: fotografie digitali appartenenti alle serie _Optical_ e _Scritture_ del ciclo _Confronti_, eseguite senza interventi in fase di postproduzione, ma progettate e realizzate fin dall'inizio esclusivamente mediante la tecnica fotografica personalizzata, con effetti di modulazione che l'artista ottiene esclusivamente esplicando la fisicità della luce stessa, che rappresenta l'oggetto principe della sua ricerca, come appare evidente anche nelle immagini degli esordi intitolate _Antitesi_ (2008). Esposti anche incisioni su carta fotografica appartenenti al ciclo _Monocromi Charta_ e i _Concept_, inchiostri fotografici plasmati soprattutto a mano su carta fotografica, ambedue rappresentanti la sua sperimentazione più recente, che porta agli estremi e supera il concetto stesso di fotografia. Presente pure un'unica opera di una serie rarissima eseguita a computergrafica, utilizzando esclusivamente gli strumenti di base del software Microsoft Excel.**
 
     Raffinatezza, rigore, calibrato estro fantastico caratterizzano - _scrive Marianna Accerboni -_
 
     l'opera concettuale di Silvio Balestra, artista triestino che da una decina d'anni sperimenta con - si potrebbe dire - _controllato furore_ il mezzo fotografico, l'intuito o l'inclinazione o, ancora, la sensibilità pittorica, la computergrafica e la libertà.
+
+    <iframe src="https://www.youtube.com/embed/Mk9D-ar7EUU" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     Quale libertà? Quella del gesto e del pensiero, che hanno guidato la grande svolta avanguardistica del Novecento, dalle ricerche sulla percezione di Vasarely, Albers, Riley, Escher, Alviani al _dripping_ di Pollock, alle azioni performative di Christo.
 

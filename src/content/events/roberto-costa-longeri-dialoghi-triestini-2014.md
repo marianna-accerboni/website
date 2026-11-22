@@ -13,11 +13,11 @@ info:
     - /media/events/roberto-costa-longeri-dialoghi-triestini-2014/invito.pdf
 press:
   pressRelease: |-
-    ![Franco Nuti - Teatro_romano](/media/events/roberto-costa-longeri-dialoghi-triestini-2014/Franco_Nuti_-_Teatro_romano.jpg "Franco Nuti - Teatro_romano")
-
     **Mercoledì 14 maggio 2014** alle **ore 17.30 alla Libreria Minerva di Trieste (via S. Nicolò 20) sarà presentato il libro “Dialoghi triestini” (Ibiskos editore Risolo, pgg: 118, € 12,00) di Roberto Costa Longeri, ingegnere triestino e professore emerito della Facoltà di Architettura dell'Università di Trieste, e di Franco Nuti, ingegnere fiorentino e professore ordinario di Architettura Tecnica nelle Università di Bologna, Trieste e Firenze. Introdurrà Luigi Milazzi.**
 
     _Un incontro fra due menti illuminate, che si svolge in una sorta di percorso peripatetico, d'ideale memoria classica ma in realtà molto contemporaneo, dedicato all'architettura, all'urbanistica, all'impegno sociale e alla storia: così si configura “Dialoghi triestini”, elegante volume scritto a quattro mani da_ **_Roberto Costa Longeri_** _e da_ **_Franco Nuti_**.
+
+    ![Franco Nuti - Teatro_romano](/media/events/roberto-costa-longeri-dialoghi-triestini-2014/Franco_Nuti_-_Teatro_romano.jpg "Franco Nuti - Teatro_romano")
 
     _Un uomo di mare (anche se di lontana origine montanara), si potrebbe dire di Costa, triestino ma cittadino del mondo per i suoi molti viaggi e le diverse frequentazioni, osservatore acuto e razionale degli eventi; e un uomo di terra, di Nuti, mente dalla notevolissima sensibilità letteraria e poetica. Tant'è che, nel volume “Trieste, note e immagini per l'interpretazione della forma urbana”, dedicato nel '93 da quest'ultimo alla nostra città, ogni capitolo è introdotto da una poesia di Umberto Saba, Giotti o Anita Pittoni, spesso citati dall'autore, assieme ad altri poeti italiani, quali per esempio Cardarelli e Caproni, a corredo delle proprie osservazioni e intuizioni dei luoghi._
 

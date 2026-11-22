@@ -18,11 +18,11 @@ subEvents:
   - - "Sabato 24 agosto alla Sala Comunale d'Arte di Trieste visita guidata alla mostra della pittrice Anna Zennaro"
 press:
   pressRelease: |-
-    ![Buen retiro, 2018 - tecnica mista su legno - cm 30x30](/media/events/anna-zennaro-vita-vista-mare-2019/Buen_retiro_2018_-_tecnica_mista_su_legno_-_cm_30x30.jpg "Buen retiro, 2018 - tecnica mista su legno - cm 30x30")
-
     **S'inaugura mercoledì 14 agosto 2019 alle ore 19 alla Sala Comunale d'Arte** (piazza Unità d'Italia 4) **di Trieste, la mostra personale della pittrice triestina Anna Zennaro, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni. Nella mostra, intitolata “Vita Vista Mare”, sarà esposta una trentina di opere realizzate a tecnica mista con materiali innovativi, resine e foglia d'oro tra il 2015 e il 2018. Fino al 31 agosto** (orario ogni giorno 10 - 13 e 17 - 20 / visita guidata sabato 24 agosto ore 19 e sabato 25 maggio ore).
 
     Interpreta e visualizza i versi haiku (brevi poemi di origine giapponese e seicentesca, composti da 17 sillabe), che affascinarono anche Ungaretti e che lei stessa compone, attraverso una sorta di pittura raffinata e personale. Spesso è foglia d'oro su legno, ma anche un rosso incantato o smalti e resine, a seconda dell'ispirazione.
+
+    ![Buen retiro, 2018 - tecnica mista su legno - cm 30x30](/media/events/anna-zennaro-vita-vista-mare-2019/Buen_retiro_2018_-_tecnica_mista_su_legno_-_cm_30x30.jpg "Buen retiro, 2018 - tecnica mista su legno - cm 30x30")
 
     Anna Zennaro, triestina, giornalista, scrittrice e artista, ama librarsi senza vincoli attraverso quelle che potremmo definire le solitudini e le bellezze fatte di essenzialità e di depurazione dal superfluo. Guidata in questo suo percorso dalla filosofia Zen, sperimenta anche la realizzazione degli haiga, sintesi tra verso e immagine, pure di derivazione orientale. Incide su legno brevi, criptici, eleganti poemi, che appaiono quasi come raffinati, insoliti e inediti bassorilievi, di una purezza quasi arcaica, rifinendoli con foglia d'oro, secondo una fascinazione che la porta a sperimentare anche il kinstugi, l'arte appunto di riparare l'arte con l'oro. E partecipa pure al renga, sorta di catena poetica che vibra e si accresce di autore in autore.
 

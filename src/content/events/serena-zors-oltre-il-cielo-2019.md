@@ -19,11 +19,11 @@ subEvents:
   - - "Martedì 23 aprile a Palazzo Costanzi visita guidata alla mostra Serena Zors. Oltre il cielo, l'infinito"
 press:
   pressRelease: |-
-    ![Aurea, 2017 - olio su tela - cm 50x70](/media/events/serena-zors-oltre-il-cielo-2019/Aurea_2017_-_olio_su_tela_-_cm_50x70.jpg "Aurea, 2017 - olio su tela - cm 50x70")
-
     **S'inaugura sabato 13 aprile alle ore 20 a Trieste nella Sala _Umberto Veruda_ di Palazzo Costanzi (piazza Piccola 2), un'esaustiva rassegna dedicata all'artista Serena Zors, dal titolo “Serena Zors. Oltre il cielo, l'infinito”.**
 
     **La mostra, realizzata con il contributo del Comune di Trieste e ideata e curata dall'architetto Marianna Accerboni, si propone di testimoniare in modo esaustivo - attraverso una ottantina tra dipinti a olio e ad acrilico, fascinosi oggetti realizzati in modo del tutto originale con la tecnica Tiffany e piccole sculture in steatite - il mondo fantastico di quest'artista speciale che dipinge da sempre, e la sua ricerca condotta dagli anni Ottanta a oggi tra Trieste, dove ha lasciato il cuore, e Monaco di Baviera dove vive e opera da decenni. Qui ha assorbito il significativo clima artistico-culturale di una città che, fin dalla seconda metà dell'Ottocento, è stata una viva e antesignana capitale dell'arte europea, che ha influenzato il linguaggio e la creatività di molti artisti triestini.**
+
+    ![Aurea, 2017 - olio su tela - cm 50x70](/media/events/serena-zors-oltre-il-cielo-2019/Aurea_2017_-_olio_su_tela_-_cm_50x70.jpg "Aurea, 2017 - olio su tela - cm 50x70")
 
     **In perfetta sintonia con il mondo fantastico di Serena, Accerboni ha ideato un'inaugurazione multimediale intrisa di magiche sorprese: una performance di arte visiva, luce, musica, poesia e recitazione che movimenterà lo spazio espositivo ma anche la piazza antistante Palazzo Costanzi, con i colori e le immagini prediletti dall'artista, accompagnati dalle note composte per l'occasione dal M° Silvio Donati, musicista d'avanguardia di valenza europea; e dalle poesie scritte da Serena e interpretate dall'attore Gualtiero Giorgini, alcune delle quali saranno esposte in mostra accanto ai dipinti. Seguirà un vin d'honneur.**
 

@@ -23,13 +23,13 @@ subEvents:
   - - "Il Premio Mulitsch e la mostra al Castello di Gorizia a Sconfinamenti (RAI, 27 giugno 2019)"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/aLhCf04S0MU" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **E' visitabile fino a domenica 30 giugno nella storica sede del Castello di Gorizia la mostra delle opere selezionate alla VI edizione del prestigioso Concorso internazionale di pittura Dario Mulitsch: curata dall'architetto Marianna Accerboni, l'iniziativa è promossa, in collaborazione con il Comune del capoluogo isontino, Regione FVG e altre prestigiose istituzioni, dall'Associazione che porta il nome dell'illuminato imprenditore goriziano di antica nobiltà sassone, fondatore del Centro Culturale Tullio Crali di Gorizia.** Il Concorso e la mostra sono stati voluti dalla moglie Caterina Trevisan Mulitsch per ricordare la sua figura di appassionato promotore della cultura e delle arti, autore tra l'altro della raccolta delle _Poesie dell'infinito_ (Premio Franz Kafka Italia 2012) e del volume _Chi siamo, da dove veniamo_, sull'origine dell'uomo, editi da La laguna, così come l'elegante catalogo che accompagna la rassegna.
 
     **Visitata finora da più di 2000 persone**, **la mostra**, che si è inaugurata davanti a un foltissimo pubblico italiano e straniero, **propone le opere di una sessantina di artisti professionisti, provenienti da varie regioni italiane e da Slovenia, Austria, Germania e Belgio, e di 30 studenti del Liceo artistico _Max Fabiani_ di Gorizia e del _Gimnazija_ di Nova Gorica.**
+
+    <iframe src="https://www.youtube.com/embed/aLhCf04S0MU" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     **I lavori sono stati selezionati, tra più di 200, da una prima Giuria tecnica**, composta dai critici **Cristina Feresin** e **Sasa Quinzi** di Gorizia, che hanno operato a un'iniziale scrematura. Successivamente una seconda giuria qualificata, composta dai critici **Licio Damiani** (Udine), **Toni Toniato** (Venezia), **Susanna Zattarin** (Padova) e **Marianna Accerboni** (Trieste), ha selezionato i 22 premiati, suddivisi in una sezione riservata agli **Artisti professionisti** e in una riservata agli **Studenti**, ognuna delle quali ripartita in **Tema libero** e nel **Tema _Leonardo da Vinci e i riflessi contemporanei dell'opera leonardesca_**.
 

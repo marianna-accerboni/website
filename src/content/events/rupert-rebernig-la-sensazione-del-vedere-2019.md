@@ -19,11 +19,11 @@ subEvents:
   - - "Venerdì 17 maggio alla Sala Comunale d'Arte di Trieste visita guidata alla mostra dell'artista austriaco Rupert Rebernig"
 press:
   pressRelease: |-
-    ![Senza titolo 3, 2018 - acrilico su tela, cm 65x80](/media/events/rupert-rebernig-la-sensazione-del-vedere-2019/Senza_titolo_3_2018_-_acrilico_su_tela_cm_65x80.jpg "Senza titolo 3, 2018 - acrilico su tela, cm 65x80")
-
     **S'inaugura giovedì 9 maggio 2019 alle ore 19 alla Sala Comunale d'Arte** (piazza Unità d'Italia 4) **di Trieste, la mostra personale del pittore austriaco Rupert Rebernig, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni. Nella mostra, intitolata “La sensazione del vedere”, sarà esposta una ventina di opere realizzate ad acrilico tra il 2014 e il 2018.** Fino al 30 maggio (orario ogni giorno 10 - 13 e 17 - 20 / visite guidate gratuite venerdì 17 e sabato 25 maggio ore 19).
 
     _Libero come un ruscello fresco e trasparente che scende dalle montagne più alte_, - scrive Marianna Accerboni - _il gesto pittorico di Rupert Rebernig si libra cristallino a interpretare e a riferire le emozioni, le intuizioni e gli stati d'animo dell'artista attraverso un lessico espressionista astratto, che ha avuto rappresentanti molto significativi nel mondo austro-tedesco e nell'Europa del Novecento._
+
+    ![Senza titolo 3, 2018 - acrilico su tela, cm 65x80](/media/events/rupert-rebernig-la-sensazione-del-vedere-2019/Senza_titolo_3_2018_-_acrilico_su_tela_cm_65x80.jpg "Senza titolo 3, 2018 - acrilico su tela, cm 65x80")
 
     _Dall'astrazione di Rupert scaturisce una pittura luminosa e poetica, in cui, silenziosamente, i paesaggi visibili vengono tradotti e sintetizzati in visioni interiori. Libere estrinsecazioni della sua sottile energia vitale e creativa, che procede al ritmo dei suoi diversi stati d'animo lungo un sentiero intimo, molto coerente e all'unisono con l'introspezione con cui l'uomo moderno ha dovuto confrontarsi dopo la_ débaĉle _e gli sconvolgimenti dovuti al primo conflitto mondiale. Libera semplificazione e sintesi contro i decorativismi anche razionali dei periodi precedenti ci catapultano, con la pittura di Rebernig, in un nuovo emisfero estetico ed emozionale in cui i ritmi e i suoni atti ad accompagnare la sua silente poesia potrebbero essere le note dodecafoniche composte dal musicista austriaco Joseff Matthias Hauer._
 

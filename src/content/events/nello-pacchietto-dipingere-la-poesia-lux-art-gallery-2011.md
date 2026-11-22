@@ -21,8 +21,6 @@ press:
   pressRelease: |-
     _introduzione critica di Marianna Accerboni_
 
-    <iframe src="https://www.youtube.com/embed/CDyh4_oSr-w" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
     LUX ART GALLERY: Nello Pacchietto. Dipingere la poesia
 
     **Conferenza stampa: giovedì 22 settembre ore 11.30 in Galleria (via Rittmeyer 7/D).**
@@ -30,6 +28,8 @@ press:
     **Venerdì 23 settembre 2011 alle ore 19.30 s'inaugura a Trieste in via Rittmeyer 7/D il nuovo spazio espositivo _LUX ART GALLERY_. La Galleria apre con una rassegna di circa 130 opere tra disegni a penna, oli, acqueforti, puntesecche, acquerelli, pastelli e tecniche miste, intitolata _NELLO PACCHIETTO. DIPINGERE LA POESIA_: in mostra lavori in gran parte inediti e dedicati all'Istria, a Venezia e al mare, creati dal pittore, capodistriano di nascita, ma veneziano d'adozione, tra il 1945 e il 1990, che offrono uno spaccato della creatività artistica e della cultura del Nord Adriatico del '900. La mostra si svolge con il patrocinio del Comune di Trieste.**
 
     **La vernice sarà sottolineata da un evento multimediale di arte visiva, poesia, musica e luce, ideato e organizzato dall'architetto _Marianna Accerboni_, cui si deve anche la cura critica della rassegna.**
+
+    <iframe src="https://www.youtube.com/embed/CDyh4_oSr-w" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
 
     **Nel corso dell'inaugurazione, di Pacchietto (Capodistria 1922 · Venezia 2003), finissimo disegnatore, pittore e incisore, sarà evidenziato in particolare il significato di _Storie di mare_, cartella di acqueforti-acquetinte esposte in mostra, che l'artista creò nel 1975 per illustrare una silloge di poesie dell'amico Diego Valeri (Piove di Sacco, Padova 1887 · Roma 1976), le quali furono redatte insieme, quasi a quattro mani. Per questi versi e per l'occasione il maestro _Marco Podda_, compositore di valenza internazionale, ha creato una serie di brani di musica contemporanea che, nel corso dell'inaugurazione, verranno eseguiti per canto e violoncello da _Laura Bisceglia_, mentre alcune rime saranno interpretate dall'attrice _Lara Komar_. La vernice sarà accompagnata da una degustazione curata dall'adiacente Ristorante _Pepenero Pepebianco_, gia promotore di manifestazioni artistico-culturali. La mostra rimarrà visitabile fino al 31 ottobre** (orario: da martedì a sabato 10.30 • 12.30/ 15.30 • 19.30).
 

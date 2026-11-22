@@ -18,13 +18,13 @@ subEvents:
   - - "Il Cenacolo di Livio Možina: domani 4 settembre 2015 finissage della VI edizione della mostra degli allievi del maestro"
 press:
   pressRelease: |-
-    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/kAib_zf4rSU" width="350" height="288"></iframe>
-
-    Video dell'inaugurazioe
-
     **Sabato 22 agosto alle 18 alla Galleria Rettori Tribbio di Trieste (piazza Vecchia 6) s'inaugura la mostra intitolata _Il cenacolo di Livio Možina_, che propone le opere realizzate nell'anno accademico 2014/ 2015 da 63 allievi del corso che il maestro tiene in Galleria. La rassegna, che sarà introdotta dall'architetto Marianna Accerboni**, **propone dipinti di gusto figurativo, realizzati tutti a olio su tela o su tavola, ognuno dei quali rappresenta il quadro simbolo tra i molti realizzati nel corso dell'anno da ciascun artista**. Visitabile **fino al 4 settembre** (orario: feriali 10 · 12.30 e 17 · 19.30 / festivi 10 · 12 / venerdì 10 · 12.30 / lunedì chiuso).
 
     _Armonia e costanza sono i parametri che sostengono da anni la felice attività dell'Atelier che il pittore Livio Možina tiene negli spazi della Galleria Rettori Tribbio, nel cuore antico della città_ - scrive Accerboni - _insegnando l'arte pittorica ad artisti di tutte le età e provenienti da diversi livelli di apprendimento. Qui il Maestro, grazie alla sua lunga esperienza e al temperamento amabile e umano, riesce a ricreare una sorta di “isola felice”, lontana dal fragore e dallo stress contemporanei, in cui s'intrecciano passione e qualità, tenacia e_ divertissement: _un'osmosi, che trova nell'interesse per l'arte e nella collaborazione reciproca il suo_ fil rouge, _ricreando in un certo senso quell'armonia che fu viva e costante nelle antiche scuole socratiche e platoniche della Grecia classica._
+
+    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/kAib_zf4rSU" width="350" height="288"></iframe>
+
+    Video dell'inaugurazioe
 
     ![Chiara Verza - Ninfa, 2015 - olio](/media/events/cenacolo-livio-mozina-allievi-2015/Chiara_Verza_-_Ninfa_2015_-_olio.jpg "Chiara Verza - Ninfa, 2015 - olio")
 

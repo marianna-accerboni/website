@@ -19,13 +19,13 @@ subEvents:
   - - "Dal 4 novembre 2016 alla Biblioteca statale S. Crise di Trieste la mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra. I giovani artisti d'Europa cent'anni dopo: nell'ultima tappa del ciclo espositivo dedicato al grande architetto-artista opere di giovani pittori e illustratori belgi e francesi sul tema della Grande Guerra"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/Uk4ktES9Cjc" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **Venerdì 4 novembre 2016 alle 17.30 alla Biblioteca Statale _S. Crise_ di Trieste (Largo Papa Giovanni XXIII 6, 2° piano) s'inaugura, sotto il titolo _Paolo Caccia Dominioni. Un artista sul fronte di guerra. I giovani artisti d'Europa cent'anni dopo_, la mostra di opere di giovani artisti belgi e francesi, che rappresenta la tappa conclusiva del ciclo espositivo ideato e curato dall'arch. Marianna Accerboni e dedicato al grande architetto-artista-scrittore internazionale (Nerviano, Milano 1896 - Roma 1992)**, attivo negli ultimi trent'anni di vita nella nostra regione. **Il ciclo espositivo ha avuto luogo,** con molto successo e divulgazione sulla stampa italiana ed estera, **tra il 2013 e il 2016 in tredici sedi istituzionali a Trieste, Gorizia e Bruxelles. Ora il ciclo si conclude con l'esposizione di una cinquantina di opere - fumetti, disegni, dipinti e computergrafiche - realizzate da una ventina di giovanissimi artisti dell' Atelier di fumetto e dell'Atelier di arti plastiche del Comune di Woluwe-St-Lambert (Bruxelles) e della città di Meudon (Parigi), proprio in funzione di questa esposizione, tutte ispirate al tema della Grande Guerra o più generalmente a quello della guerra**.
 
     **L'inaugurazione sarà sottolineata da un omaggio musicale a Belgio, Francia e italia dell'Ensemble Nova Academia di Trieste con il soprano Marianna Prizzon, Stefano Casaccia al flauto dolce, Ennio Guerrato al liuto e Claudio Gasparoni alla viola da gamba. Seguirà una degustazione di vini della Tenuta Baroni del Mestri di Cormons (Gorizia).**
+
+    <iframe src="https://www.youtube.com/embed/Uk4ktES9Cjc" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     ![Salomé Danze (Meudon, Parigi - Francia) - Storia di famiglia (part.), 2016 - fumetto a tecnica mista](/media/events/dominioni-trieste-inaugurazione-2016/Vaiva_Mikenaite_Woluwe-St-Lambert_Bruxelles_-_Belgio_-_Senza_titolo_2016_-_acrilico.jpg "Salomé Danze (Meudon, Parigi - Francia) - Storia di famiglia (part.), 2016 - fumetto a tecnica mista")
 

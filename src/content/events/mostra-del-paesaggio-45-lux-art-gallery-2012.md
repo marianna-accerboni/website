@@ -21,13 +21,13 @@ subEvents:
   - - "Incontro alla Lux Art Gallery di Trieste con il grande architetto e artista napoletano Riccardo Dalisi"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/jsuAeOF4wGw?list=UULOxGOgwZ9UMDyWOFxAwKEA" width="350" height="288"></iframe>
-
     **Video dell'inaugurazione**
 
     **Si rinnova quest'anno lo storico appuntamento della _Mostra del Paesaggio,_ giunta alla 45° edizione e promossa dalla Società Artistico Letteraria di Trieste. La rassegna delle opere selezionate s'inaugurerà sabato 17 novembre alle ore 19 alla Lux Art Gallery di Trieste (Via Rittmeyer 7/a), diretta da Giorgio Parovel, e rimarrà aperta sino al 31 dicembre 2012.**
 
     Gli artisti possono partecipare con una sola opera a tema, decorosamente incorniciata, le cui misure di base non dovranno superare all'incirca i 90 centimetri. Sono ammesse tutte le tecniche artistiche comprese quelle fotografiche, sculture e installazioni di dimensioni contenute. In considerazione della dimensione degli spazi espositivi e di una dignitosa collocazione dei lavori, saranno accolte solamente le opere scelte con giudizio insindacabile dalla commissione di accettazione,
+
+    <iframe src="https://www.youtube.com/embed/jsuAeOF4wGw?list=UULOxGOgwZ9UMDyWOFxAwKEA" width="350" height="288"></iframe>
 
     composta da Marianna Accerboni, Sergio Brossi, Antonio Denich ed Enrico Fraulini. I lavori degli artisti dovranno pervenire alla Lux Art Gallery di Trieste per la selezione lunedì 5, martedì 6 e venerdì 9 novembre 2012 dalle ore 17 alle ore 20.
 

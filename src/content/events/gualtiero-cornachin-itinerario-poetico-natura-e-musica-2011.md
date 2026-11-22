@@ -22,13 +22,13 @@ press:
   pressRelease: |-
     _introduzione critica di Marianna Accerboni_
 
-    <iframe src="https://www.youtube.com/embed/EsWINHAu9kw" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura venerdì 7 ottobre 2011 alle ore 17.30 a Trieste nella Sala Umberto Veruda di Palazzo Costanzi (piazza Piccola 2) la rassegna intitolata _Gualtiero Cornachin. L'itinerario poetico tra natura e musica._ Promossa dal Comune di Trieste - Assessorato alla Cultura e curata dall'architetto Marianna Accerboni**, la mostra **rappresenta la prima antologica dedicata al pittore dopo la retrospettiva organizzata dal Comune di Trieste nel 1989, a tre anni dalla sua morte, alla Sala Comunale d'Arte.**
 
     La mostra propone **una cinquantina di opere tra oli su tela e incisioni, realizzati da Cornachin dagli anni sessanta agli anni ottanta e dedicati al tema prediletto, l'interpretazione della natura.** Nato a Orsera d'Istria nel 1923, il pittore si era trasferito a Trieste nel '38, dove si era inserito rapidamente nell'ambiente artistico-culturale della città. Appartenne, con alcuni dei più significativi pittori triestini, al Gruppo 12. La rassegna rimarrà visitabile **fino al 7 novembre** (orario feriale e festivo 10.00 - 13.00 / 17.00 - 20.00).
+
+    <iframe src="https://www.youtube.com/embed/EsWINHAu9kw" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     **EVENTO COLLATERALE**
 

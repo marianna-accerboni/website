@@ -16,13 +16,13 @@ info:
     - /media/events/rosella-gallicchio-suggestioni-antropomorfe-2013/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/_C1EzfXqdmE" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura giovedì 17 ottobre alle ore 18.30 alla Sala Comunale d'Arte di Trieste (piazza Unità d'Italia 4) la mostra personale della pittrice **Rosella Gallicchio**, intitolata **_Suggestioni antropomorfe_**, che sarà presentata sul piano critico dall'arch. Marianna Accerboni. La rassegna propone **una quindicina di tecniche miste, tutte inedite, realizzate negli ultimi anni. Fino al 3 novembre** (orario: tutti i giorni 10.00 **·** 13.00/ 17.00 **·** 20.00).
 
     _S'intrecciano nell'intensa pittura di Rosella Gallicchio_ - scrive Accerboni - _echi di universi lontani assieme ai palpiti che rispecchiano il mondo interiore all'artista, strettamente legato alle sue emozioni, che la sua pittura riflette all'esterno come uno specchio ricco di verità, nel bene e nel male._
+
+    <iframe src="https://www.youtube.com/embed/_C1EzfXqdmE" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Così gli “eccessi” del sentire, la sensibilità di chi sa vedere istintivamente oltre il reale, si tramutano, o meglio sono registrati, come in un diapason dell'arte visiva, in segni ed exploit cromatici più o meno incisivi a seconda del messaggio che la Gallicchio vuol trasmettere._
 

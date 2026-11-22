@@ -14,11 +14,11 @@ info:
     - /media/events/gillo-107-erpac-gorizia-2017/invito2.pdf
 press:
   pressRelease: |-
-    ![Gillo Dorfles e Marianna Accerboni nella casa milanese dell'intellettuale-artista](/media/events/gillo-107-erpac-gorizia-2017/Gillo_Dorfles_e_Marianna_Accerboni_nella_casa_milanese_dellintellettuale-artista.jpg "Gillo Dorfles e Marianna Accerboni nella casa milanese dell'intellettuale-artista")
-
     **Venerdì 30 giugno 2017 all'ERPAC - Musei Provinciali di Gorizia di Borgo Castello in occasione del 107° compleanno di Gillo Dorfles avra' luogo la seconda tappa del progetto “Gillo 107”: Raffaella Sgubin direttore servizio musei e archivi storici dell'ERPAC e Marianna Accerboni ideatrice e curatrice dell'iniziativa ricorderanno il grande intellettuale-artista con la presentazione del libro "Gillo Dorfles. paesaggi e personaggi" di Bompiani e la proiezione del video dedicatogli dal regista Francesco Leprino. prossima tappa del progetto Bruxelles.**
 
     **Dopo il grande successo di Trieste, venerdì 30 giugno alle 18 all'ERPAC - Musei Provinciali di Gorizia (Borgo Castello 13), in occasione del 107° compleanno di Gillo Dorfles, avrà luogo la seconda tappa del progetto “Gillo 107”: Raffaella Sgubin, direttore Servizio Musei e Archivi Storici dell'ERPAC-Ente regionale per il patrimonio culturale della Regione autonoma Friuli Venezia Giulia, e Marianna Accerboni, ideatrice e curatrice dell'iniziativa, ricorderanno il grande critico d'arte, filosofo dell'estetica e pittore con la presentazione del libro "Gillo Dorfles. Paesaggi e personaggi" (Bompiani) e con la proiezione del video dedicatogli dal regista Francesco Leprino. Il progetto di Accerboni prevede infatti, dopo Trieste, dove Dorfles nacque nel 1910, una tappa a Gorizia, in quanto città d'origine della famiglia paterna del grande intellettuale-artista, presente sul territorio fin dal '700 con esponenti di grande prestigio. Tant'è che il nonno di Dorfles era presidente del Teatro Verdi e si chiamava Carlo come Michelstaedter, il giovane filosofo suicida, per la grande amicizia fra le due prestigiose famiglie.**
+
+    ![Gillo Dorfles e Marianna Accerboni nella casa milanese dell'intellettuale-artista](/media/events/gillo-107-erpac-gorizia-2017/Gillo_Dorfles_e_Marianna_Accerboni_nella_casa_milanese_dellintellettuale-artista.jpg "Gillo Dorfles e Marianna Accerboni nella casa milanese dell'intellettuale-artista")
 
     **L'incontro sarà preceduto da un saluto di Dorfles e da un suo ricordo della città di Gorizia, che considera la sua seconda patria, raccolti in questi giorni nella sua casa di Milano. Il progetto si concluderà a Bruxelles, dove il video e il libro verranno presentati in considerazione dell'internazionalità del protagonista.**
 

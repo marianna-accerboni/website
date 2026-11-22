@@ -18,9 +18,13 @@ subEvents:
   - - "Prorogata fino al 31 agosto nell'atelier di via Punta del Forno la mostra del pittore Roberto del Frate dedicata al paesaggio urbano di Trieste"
 press:
   pressRelease: |-
-    **Galleria La Loggia · piazza Libertà · Udine**
-
-    **Inaugurazione:** sabato 14 maggio 2011, ore 18.30. **Quando:** 14 maggio - 1 giugno 2011. **Orari:** feriali 17.30 - 19.30 / sabato 11 - 13 e 16.30 - 19.30 / festivi 10 - 13. **A cura di:** Marianna Accerboni. **Info e contatti:** +39 335 6750946 · +39 335 6610390 · www.atelierdelfrate.com
+    **Prima sede: Galleria La Loggia, Udine**
+    - Inaugurazione: sabato 14 maggio 2011, ore 18.30
+    - Indirizzo: piazza Libertà · Udine
+    - Periodo: 14 maggio – 1 giugno 2011
+    - Orario: feriali 17.30 – 19.30 / sabato 11 – 13 e 16.30 – 19.30 / festivi 10 – 13
+    - A cura di: Marianna Accerboni
+    - Info e contatti: +39 335 6750946 · +39 335 6610390 · www.atelierdelfrate.com
 
     _introduzione critica di Marianna Accerboni_
 

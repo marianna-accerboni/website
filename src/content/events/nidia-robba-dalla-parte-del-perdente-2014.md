@@ -14,8 +14,6 @@ info:
     - /media/events/nidia-robba-dalla-parte-del-perdente-2014/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/7UUpKIoeIx0" width="350" height="288"></iframe>
-
     Intervista a cura dell'arch. Marianna Accerboni
 
     NIDIA ROBBA, scrittrice e poetessa di Trieste
@@ -23,6 +21,8 @@ press:
     **Lunedì 27 gennaio 2014 alle ore 18.00 alla _Libreria Lovat_ di Trieste** (Viale XX Settembre 20, edificio Oviesse, 3° piano) **verrà presentato il 10° romanzo della scrittrice e poetessa triestina Niddia Robba, intitolato _Dalla parte del perdente._** _Eine Geshchichte in Fluss der Erinnerungen_ (ed. La Mongolfiera, pgg. 310, € 13,00). Il volume, scritto in chiave semi-autobiografica con l'acuta e interessante prefazione del noto critico siciliano **Ninni Radicini**, sarà introdotto dall'architetto **Marianna Accerboni** con testimonianze e letture della pittrice **Helga Lumbar**, cui si devono le efficaci illustrazioni delle copertine dei libri dell'autrice: tra queste, “Tramonto di fuoco”, che interpreta il dramma della guerra, narrato in questo romanzo.
 
     _Con tale ultima fatica_ - scrive Accerboni - _Nidia Robba, sensibile e brillante scrittrice che il prossimo marzo compirà 90 anni, premiata, tra gli altri, dal Comune di Trieste con una targa alla carriera, giunge al decimo romanzo e al diciannovesimo libro, considerando anche i volumi di liriche. Nel fascinoso e colto racconto, agilmente ma profondamente circonstanziato sotto il profilo storico, l'autrice, nelle cui vene scorre sangue triestino, istriano e friulano, descrive la fine del secondo conflitto mondiale lungo un itinerario che passa tragicamente da Firenze a Trieste, dal lago di Garda all'Umbria e alla Germania. In tale contesto vengono rivelate circostanze belliche e sociali, intrecci psicologici e relazioni umane sullo sfondo di una vicenda sentimentale e di una trama, costellate di particolari storici e riferimenti alla quotidianità illuminanti e a volte inediti: una scrittura essenziale, colta e avvincente, sostenuta da una sottile intuizione esoterica, che lascia il lettore con il fiato sospeso fino all'ultima pagina._
+
+    <iframe src="https://www.youtube.com/embed/7UUpKIoeIx0" width="350" height="288"></iframe>
 
     _Intelletto senza tempo, già in alcuni libri precedenti la Robba aveva acutamente approfondito molteplici aspetti del mondo austro-tedesco, come per esempio in “Il sortilegio della città rosa” (2006), ambientato prevalentemente ad Heidelberg, “Castel Rovino” (2010), che si svolge in Alto Adige, e “Lo schiaffo” (2011), che ricorda il 1° conflitto mondiale a Trieste e Graz._
 

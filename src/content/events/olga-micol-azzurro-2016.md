@@ -18,11 +18,11 @@ subEvents:
   - - "Azzurro: sabato 8 ottobre 2016 alla Sala Comunale d'Arte di Trieste, nell'ambito della personale di Olga Micol, presentazione del video dedicato dalla fotografa-artista alla Barcolana e visita guidata"
 press:
   pressRelease: |-
-    ![Barcolana 2015 - rielaborazione fotografica - cm 30x78,4](/media/events/olga-micol-azzurro-2016/Barcolana_2015_-_rielaborazione_fotografica_-_cm_30x784.jpg "Barcolana 2015 - rielaborazione fotografica - cm 30x78,4")
-
     **Giovedì 29 settembre 2016 alle ore 19 alla Sala Comunale d'Arte di Trieste** (piazza Unità d'Italia 4) avrà luogo **l'inaugurazione della personale della fotografa-artista Olga Micol intitolata _Azzurro_, che sarà presentata sul piano critico dall'arch. Marianna ACCERBONI.** In mostra un'affascinante serie di foto recenti, rielaborate in fase di post-produzione e dedicate al tema del mare e della Barcolana. **Fino al 23 ottobre** (orario tutti i giorni 10 · 13 e 17 · 20).
 
     Azzurre, come un algido sogno, che t'invita a entrare in un territorio di mare e di Bora, di vento nordico e d'intuizioni fantastiche, che la fotografa-artista Olga Micol ti porge sempre con un sorriso. Così sono le sue foto, naturali e sofisticate al tempo stesso - _scrive Marianna Accerboni_ - forse perché colgono con amore alcuni attimi di un territorio di grande bellezza e suggestione, come quello di Trieste.
+
+    ![Barcolana 2015 - rielaborazione fotografica - cm 30x78,4](/media/events/olga-micol-azzurro-2016/Barcolana_2015_-_rielaborazione_fotografica_-_cm_30x784.jpg "Barcolana 2015 - rielaborazione fotografica - cm 30x78,4")
 
     L'esperienza e l'abilità tecnica supportano da anni quella sua capacità innata di cogliere l'attimo e l'anima dei luoghi. Inanimati perché vi è assente la presenza umana, ma animati invece da quel soffio di vita che intuisci in un'immagine quando chi la realizza vuole avvolgerti nelle proprie intuizioni di luce e di azzurro. Scenografie naturali, in cui la sensibilità del fotografo può aggiungere molto, un racconto nel racconto. Ed ecco il cerchio di barche che si raccolgono come petali di una margherita intorno a un mare circolare, lasciando intravedere il tappeto di verde che scendendo dal Carso tocca quasi i flutti. Oppure le montagne innevate, che in certe giornate limpide sembrano sprofondare nel mare, come enormi, inqueti o inquietanti iceberg, mentre la bora raggela le onde e sullo sfondo si protende sull'acqua, con la sua adamantina bellezza, la silhouette del Castello di Miramare.
 

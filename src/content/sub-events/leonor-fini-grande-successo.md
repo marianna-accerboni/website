@@ -23,21 +23,13 @@ bodySection:
 
     Per raggiungere il Magazzino 26 sono disponibili i **bus linea** 6, fermata Polo museale, e **linea 80** (info 335 6750946).
 
-     
-
-    **DOVE**: Polo museale del Magazzino 26 · Porto vecchio · Trieste
-
-    **DATE MOSTRA**: 26 giugno_19 settembre 2021
-
-    **ORARIO MOSTRA**: da mercoledì e domenica 17_20 / sabato e domenica anche 10_13 / lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80) 
-
-    **A CURA DI**: Marianna Accerboni
-
-    **CATALOGO**: sì
-
-    **INFO**:**leonorfinimemorietriestine@gmail.com**
-
-    **CELL. +39 335 6750946**
+    **Informazioni**
+    - Dove: Polo museale del Magazzino 26 · Porto vecchio · Trieste
+    - Periodo: 26 giugno – 19 settembre 2021
+    - Orario: da mercoledì e domenica 17 – 20 / sabato e domenica anche 10 – 13 / lunedì e martedì chiuso (autobus linea 6, fermata Polo museale, e linea 80)
+    - A cura di: Marianna Accerboni
+    - Catalogo: sì
+    - Info e contatti: leonorfinimemorietriestine@gmail.com · cell. +39 335 6750946
 
     ![Paola Ramella](/media/events/leonor-fini-memorie-triestine/Paola_Ramella.jpg) Paola Ramella
 ---

@@ -18,19 +18,19 @@ subEvents:
   - - "Invito alla mostra"
 press:
   pressRelease: |-
-    ![Giacomo Zorba, Liceo artistico Max Fabiani, Gorizia (Italia) - Fault, 2015 - vernice spray su tela - cm. 100x80](/media/events/dominioni-gorizia-inaugurazione-2016/Giacomo_Zorba_Liceo_artistico_Max_Fabiani_Gorizia_Italia_-_Fault_2015_-_vernice_spray_su_tela_-_cm._100x80.JPG "Giacomo Zorba, Liceo artistico Max Fabiani, Gorizia (Italia) - Fault, 2015 - vernice spray su tela - cm. 100x80")
-
     **DAL 5 DICEMBRE 2016 ALLA BIBLIOTECA STATALE ISONTINA DI GORIZIA LA MOSTRA _PAOLO CACCIA DOMINIONI. UN ARTISTA SUL FRONTE DI GUERRA. I GIOVANI ARTISTI D'EUROPA CENT'ANNI DOPO_: NELL'ULTIMA TAPPA DEL CICLO ESPOSITIVO DEDICATO AL GRANDE ARCHITETTO-ARTISTA OPERE DI GIOVANI PITTORI E ILLUSTRATORI BELGI, FRANCESI, DI GORIZIA, NOVA GORICA, TRIESTE E KLAGENFURT SUL TEMA DELLA GRANDE GUERRA. IN MOSTRA ANCHE UN'INSTALLAZIONE DI LUCE, PAROLE E MUSICA DEDICATA A REDIPUGLIA**
 
-    **Conferenza stampa: sabato 3 novembre ore 11**
+    **Conferenza stampa**
+    - Quando: sabato 3 novembre, ore 11
+    - Dove: Biblioteca Statale Isontina di Gorizia · via Mameli 12
 
-    **Biblioteca Statale Isontina di Gorizia - (Via Mameli 12)**
-
-    **Inaugurazione: lunedì 5 dicembre ore 18**
-
-    **Biblioteca Statale Isontina**
+    **Inaugurazione**
+    - Quando: lunedì 5 dicembre, ore 18
+    - Dove: Biblioteca Statale Isontina
 
     **Dopo il grande consenso di pubblico e di critica riscontrato alla Biblioteca Statale di Trieste, lunedì 5 dicembre 2016 alle 18 riapre alla Biblioteca Statale Isontina di Gorizia (via Mameli 12) la rassegna _Paolo Caccia Dominioni. Un artista sul fronte di guerra. I giovani artisti d'Europa cent'anni dopo_ con opere di giovani artisti belgi e francesi, goriziani, di Nova Gorica, triestini e austriaci ispirati alla Grande Guerra, alla guerra in generale e a Caccia Dominioni, del quale vengono esposti, a titolo esemplare, alcuni lavori e libri realizzati in diretta dal fronte**.
+
+    ![Giacomo Zorba, Liceo artistico Max Fabiani, Gorizia (Italia) - Fault, 2015 - vernice spray su tela - cm. 100x80](/media/events/dominioni-gorizia-inaugurazione-2016/Giacomo_Zorba_Liceo_artistico_Max_Fabiani_Gorizia_Italia_-_Fault_2015_-_vernice_spray_su_tela_-_cm._100x80.JPG "Giacomo Zorba, Liceo artistico Max Fabiani, Gorizia (Italia) - Fault, 2015 - vernice spray su tela - cm. 100x80")
 
     **La mostra rappresenta la tappa conclusiva del ciclo espositivo ideato e curato dall'arch. Marianna Accerboni - con l'approfondimento storico dell'amm. Ferdinando Sanfelice di Monteforte**, docente di Strategia all'Università di Trieste Polo di Gorizia, già rappresentante dell'Italia presso i Comitati Militari NATO e EU **- e dedicato al grande architetto-artista-scrittore internazionale (Nerviano, Milano 1896 - Roma 1992)**, attivo negli ultimi trent'anni di vita nel Goriziano.
 

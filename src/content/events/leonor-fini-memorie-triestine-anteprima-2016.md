@@ -14,11 +14,11 @@ info:
     - /media/events/leonor-fini-memorie-triestine-anteprima-2016/invito.pdf
 press:
   pressRelease: |-
-    ![Leonor Fini, Parigi anni ‘50 (coll. privata)](/media/events/leonor-fini-memorie-triestine-anteprima-2016/Leonor_Fini_Parigi_anni_50_coll._privata.jpg "Leonor Fini, Parigi anni ‘50 (coll. privata)")
-
     **Sabato 24 settembre 2016 alle 18.30, in occasione delle Giornate Europee del Patrimonio indette dal Ministero dei beni e delle attività culturali, alla Biblioteca Statale _S. Crise_ di Trieste (Largo Papa Giovanni XXIII, 6, sala conferenze al 2° piano) l'arch. Marianna Accerboni terrà una conversazione su Leonor Fini e presenterà, in occasione del ventennale della scomparsa della pittrice, un'anteprima del libro corredato da un video, ambedue di prossima pubblicazione, da lei ideati e curati sulla celebre artista di origini triestina.**
 
     **Interverrà Giorgio Cociani, grande amico e collezionista di Leonor, che dalla fine degli anni settanta intrattenne con la pittrice (Buenos Aires 1907 - Parigi 1996), fino alla morte di quest'ultima, uno stretto rapporto quotidiano, telefonico ed epistolare, consolidato dalla loro grande passione per i gatti. Tale amicizia sarà documentata nel libro e nel video che lo accompagna, dalla pubblicazione di una selezione di una trentina di lettere della Fini a Cociani, scelte tra le più significative di un corpus più ampio e mai pubblicate, e da alcune opere, in gran parte inedite, donategli da Leonor. Nel volume, compendiato da un testo di Accerboni, da uno scritto in cui Cociani ricostruisce il suo rapporto con la Fini e da altri documenti, saranno inoltre presenti una serie di lettere mai pubblicate del pittore Arturo Nathan a Gillo Dorfles, di proprietà di quest'ultimo, recentemente ritrovate, in cui Arturo parla di Leonor, di cui era molto amico; altre lettere inedite della Fini ad altri amici triestini e altre opere inedite dell'artista donate a questi ultimi.**
+
+    ![Leonor Fini, Parigi anni ‘50 (coll. privata)](/media/events/leonor-fini-memorie-triestine-anteprima-2016/Leonor_Fini_Parigi_anni_50_coll._privata.jpg "Leonor Fini, Parigi anni ‘50 (coll. privata)")
 
     ![Visage HC (fuori commercio) - incisione - cm 25x32 (coll. privata)](/media/events/leonor-fini-memorie-triestine-anteprima-2016/Visage_HC_fuori_commercio_-_incisione_-_cm_25x32_coll._privata.jpg "Visage HC (fuori commercio) - incisione - cm 25x32 (coll. privata)")
 

@@ -14,13 +14,13 @@ info:
     - /media/events/solisti-di-zagabria-barcolana-2018/invito.pdf
 press:
   pressRelease: |-
-    ![I Solisti di Zagabria](/media/events/solisti-di-zagabria-barcolana-2018/I_Solisti_di_Zagabria_2.jpg "I Solisti di Zagabria")
-
     **La Comunità Croata di Trieste partecipa alla festa dei cinquant'anni della Barcolana offrendo alla città, martedì 9 ottobre alle 21 al Teatro _G. Verdi_, un grande concerto dell'ensemble internazionale dei Solisti di Zagabria, il migliore complesso da camera croato, presente con questa iniziativa per la prima volta nel capoluogo giuliano: in programma un repertorio classico e romantico di brani e arie di noti compositori di musica da camera e operistica, da W.A. Mozart a L. Sorkočević, da G. Verdi a G. Puccini e G. Rossini. Il concerto, realizzato con il sostegno del Comune di Trieste, Regione FVG e Fondazione CRTrieste, sarà diretto dal Maestro Sreten Krstić, alla guida dei Solisti di Zagabria, e verrà impreziosito dalla partecipazione straordinaria di due giovani stelle del firmamento lirico, il soprano Evelin Novak e il baritono Ljubomir Puškarić. Ingresso gratuito con prenotazione obbligatoria alla biglietteria del Teatro Verdi (orario biglietteria: lunedì chiuso/ da mart a ven: 8.30-12.30 e 15.30-19 e nei giorni di spettacolo 8.30-12.30 e 17-20.30 / sab 9-16 / nei giorni di spettacolo apre inoltre un'ora prima dello stesso/ domenica chiuso, se c'è spettacolo apre un'ora prima/ info biglietti 800898868).**
 
     ![Evelin Novak, soprano](/media/events/solisti-di-zagabria-barcolana-2018/Evelin_Novak_soprano_2.jpg "Evelin Novak, soprano")
 
     La presenza dei Solisti di Zagabria a Trieste è particolarmente significativa dal momento che il prestigioso ensemble fu fondato nel 1953 da un violoncellista e direttore d'orchestra italiano di grande fama, il milanese Antonio Janigro, di cui quest'anno si festeggia il centenario della nascita. Egli riuscì a portare il complesso ai massimi livelli, trasformandolo, nella seconda metà del ventesimo secolo, in un ambasciatore molto apprezzato della cultura musicale croata a livello internazionale. Ed è per questo che al Museo della città di Zagabria è in preparazione un'importante mostra antologica a lui dedicata. Inoltre, recentemente, è stato ristampato il CD con le esecuzioni dei Solisti diretti da Janigro, che ha meritato all'orchestra, l'International Classical Music Award, il prestigioso premio internazionale per il migliore video di carattere storico-musicale.
+
+    ![I Solisti di Zagabria](/media/events/solisti-di-zagabria-barcolana-2018/I_Solisti_di_Zagabria_2.jpg "I Solisti di Zagabria")
 
     “E' stato in occasione della Festa della Repubblica Italiana, nel giugno 2016, mentre eravamo a Roma ospiti dell'Accademia Nazionale di Santa Cecilia, - racconta Krstić - che è nata l'idea di un progetto italo-croato che rendesse omaggio a Janigro. Ci stiamo lavorando, ecco perché è così importante per noi incontrare il pubblico triestino”.
 

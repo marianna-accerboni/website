@@ -15,13 +15,13 @@ info:
   invitations: []
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/e-bCH89CpjM" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura **sabato 8 ottobre 2016 alle ore 18.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la mostra intitolata _Natura e luce_ di Livio Možina, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni: in mostra quasi una cinquantina di oli su tavola, realizzati negli ultimi due anni e dedicati a un'interpretazione ideale della natura.** Visitabile **fino al 21 ottobre** (orario: feriali 10.00 - 12.30 / 17.00 - 19.30 · domenica 10.00 -12.00 · venerdì pomeriggio e lunedì chiuso).
 
     _Sensibilità, tenacia, una tecnica finissima supportata dalla scelta dei materiali migliori -_ scrive Accerboni _- un talento indiscusso e la capacità rara di fantasticare con misura, superando la realtà di quel tanto che basta per entrare in un mondo più affascinante del reale, ma a esso perfettamente aderente: sono queste, assieme alla chiarezza e all'intuizione, alcune delle doti principali, di Livio Možina, artista autodidatta, che espone dalla fine degli anni sessanta, apprezzatissimo non solo in regione, ma anche a livello nazionale. Amato da collezionisti e appassionati d'arte e dai giovani, per la freschezza sempre rinnovata della sua pittura._
+
+    <iframe src="https://www.youtube.com/embed/e-bCH89CpjM" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Ogni sua mostra è infatti una piacevole sorpresa, perché ogni volta c'è qualcosa di nuovo e di coerente da apprezzare nel linguaggio e nell'evoluzione dello stile del maestro. In quest'occasione, accanto alla consueta, magica consapevolezza della luce e alla delicata accentuazione del dato luministico in rapporto alla realtà, Možina riesce a sottolineare ancor di più l'effetto lievemente onirico e favolistico dei suoi dipinti attraverso la profondità sfumata dello sfondo, che caratterizza certe magnifiche nature morte, come per esempio le more o i candidi bucaneve, che nascono nei suoi boschi sottilmente fatati per la bellezza della luce che ne esalta i cromatismi._
 

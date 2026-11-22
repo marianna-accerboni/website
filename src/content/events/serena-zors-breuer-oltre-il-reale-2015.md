@@ -16,13 +16,13 @@ info:
     - /media/events/serena-zors-breuer-oltre-il-reale-2015/invito.pdf
 press:
   pressRelease: |-
-    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/4kXM7jGeY_I" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura mercoledì 6 maggio alle 19 alla Galleria Melori & Rosenberg di Venezia, situata nella fascinosa e storica cornice del Campo del Ghetto Novo (Cannaregio 2919), la mostra “Oltre il reale”, personale della pittrice, designer e scultrice italiana Serena Zors Breuer, attiva da decenni a Monaco di Baviera, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni: in mostra più di una trentina tra acrilici, oli, vetri Tiffany e sculture in _speckstein_, recenti e di squisita fattura e fantastica ispirazione. La vernice sarà sottolineata da una particolare performance multimediale di luce, parole e musica, ideata da Accerboni: gli attori Gualtiero Giorgini e Roberta Colacino, immersi in una sequenza di effetti cromatici in dissolvenza, leggeranno la favola “Il mistero della bambina e dell'albero”, composta per le opere della Zors dallo scrittore e saggista Khaled Fouad Allam, già editorialista di _Repubblica_ e ora de _Il Sole 24 Ore_ e autore de “Il jihadista della porta accanto” (Piemme). Silvio Donati, compositore di livello europeo, eseguirà al pianoforte dei brani da lui creati per l'occasione e ispirati alle opere dell'artista (fino al 16 maggio/ orario: da martedì a domenica 10 · 17/ info 335 6750946).**
 
     _Un'artista al tempo stesso semplice per i temi trattati, giocosi, simbolici, colorati, allegri - scrive Marianna Accerboni - ma complessa per l'universo molteplice e simbolico che sottende le sue articolate e vivaci composizioni, che nella scultura sembrano trovare un momento di pace e di riflessione. Da un canto compare un entusiasmo istintivo e vitale, quasi infantile, verso il mondo e i suoi segreti, dall'altro l'intuizione quasi fatale di una donna che dell'esistenza sa cogliere l'elemento irrazionale e magico, rifugiandosi nel sogno e in un mondo irreale e fatato per fuggire il male e per esprimere il bisogno di libertà; ma anche per donare al fruitore un attimo di magica bellezza, di divertissement e di onirica speranza, distraendolo da un universo tecnologico e spesso intriso di solitudine._
+
+    <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/4kXM7jGeY_I" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     **Serena Zors**, _nata a Trieste, si dedica fin da giovanissima al disegno e alla pittura. Poco più che ventenne si trasferisce a Monaco di Baviera, dove apprende la tecnica Tiffany, secondo cui realizza su proprio design, oggetti, lampade e vetrate che riscuotono grande consenso e la portano a operare pure nell'arredamento d'interni. Dal '91 espone a Trieste, Venezia e Monaco, dove, allo Spazio Arte Vinissimo riceve la Medaglia al Merito per gli Italiani all'estero.Verso la fine degli anni '80 al Metropolitan Museum di New York scatta l'interesse per la scultura ed ecco le eleganti e morbide opere in_ speckstein _(steatite). Nel 2014 ha esposto con grande successo alla Sala del Giubileo e alla Galleria Rettori Tribbio di Trieste._
 

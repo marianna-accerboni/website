@@ -18,23 +18,19 @@ info:
     - /media/events/carnevale-muggesano-60-due-mostre-2013/invito.pdf
 press:
   pressRelease: |-
+    **Seconda mostra: La Città del Carnevale**
+    - Dove: spazi d'affissione a Trieste (piazza Foraggi, piazzale Baiamonti, via Caboto, via D'Alviano, via dell'Istria, via Giulia, via Severo, via Tor San Pietro, viale Campi Elisi, viale D'Annunzio)
+    - Periodo: 28 gennaio – 10 febbraio 2013
+    - Organizzazione e info: Comune di Muggia, Assessorato alla Cultura e Sport · 040 3360340 · ufficio.cultura@comunedimuggia.ts.it · www.benvenutiamuggia.eu
+    - Info e contatti: Ass. Compagnie Carnevale · info@carnevaldemuja.com · www.carnevaldemuja.com
+
     ![Carnevale 60°](/media/events/carnevale-muggesano-60-due-mostre-2013/comunicato_stampa_muggia.jpg "Carnevale 60°")
-
-    **Mostra: La Città del Carnevale**
-
-    **Dove:** Spazi d'affissione a Trieste: piazza Foraggi, piazzale Baiamonti, via Caboto, via D'Alviano, via dell'Istria, via Giulia, via Severo, via Tor San Pietro, viale Campi Elisi, viale D'Annunzio
-
-    **Quando:** dal 28 gennaio al 10 febbraio 2013
-
-    **Organizzazione e info:** Comune di Muggia · Assessorato alla Cultura e Sport 040 3360340 · ufficio.cultura@comunedimuggia.ts.it · www.benvenutiamuggia.eu
-
-    Ass. Compagnie Carnevale · info@carnevaldemuja.com · www.carnevaldemuja.com
-
-    ![F. Macor - La fantasia, 2013 - mt 6x3](/media/events/carnevale-muggesano-60-due-mostre-2013/F._Macor_-_La_fantasia_2013_-_mt_6x3.jpg "F. Macor - La fantasia, 2013 - mt 6x3")
 
     Nel panorama dei Carnevali italiani quello di Muggia si contraddistingue per l'assoluta originalità legata alla presenza delle maschere. Le **maschere**, circa **2000** sono i figuranti presenti in sfilata, costituiscono la caratteristica unica di Muggia non solo per l'altissimo numero di presenze ma per essere esse stesse intimamente legate ai **carri allegorici** della sfilata, vere e proprie scenografie dello spettacolo a tema proposto dalle singole Compagnie partecipanti al concorso della domenica di Carnevale.
 
     L'interpretazione del **tema di sfilata**, presentato dalle singole Compagnie ogni anno diverso - più di 500 i temi trattati da non meno di **8 Compagnie** in concorso in questi 60 anni di Carnevale - è basato per la gran parte sul costume indossato dai partecipanti nonché sull'azione scenica, ovvero _“brio e macchiettistica”_, oggetto entrambi di apposita valutazione al fine dell'aggiudicazione dell'ambito Trofeo.
+
+    ![F. Macor - La fantasia, 2013 - mt 6x3](/media/events/carnevale-muggesano-60-due-mostre-2013/F._Macor_-_La_fantasia_2013_-_mt_6x3.jpg "F. Macor - La fantasia, 2013 - mt 6x3")
 
     Alle maschere ed ai costumi vengono dedicate in occasione di questo importante anniversario gli eventi espositivi proposti a Muggia ed a Trieste.
 

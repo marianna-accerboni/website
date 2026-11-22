@@ -16,11 +16,11 @@ info:
     - /media/events/laura-poretti-rizman-frozen-shots-2015/invito.pdf
 press:
   pressRelease: |-
-    ![Il Viaggio foto©Laura Poretti Rizman 2013-foto colore reflex digitale](/media/events/laura-poretti-rizman-frozen-shots-2015/Il_Viaggio_fotoLaura_Poretti_Rizman_2013-foto_colore_reflex_digitale.jpg "Il Viaggio foto©Laura Poretti Rizman 2013-foto colore reflex digitale")
-
     S'inaugura sabato 24 gennaio 2015 alle ore 19 allo _Shaky Bar_ di Trieste (via Macchiavelli 13) la mostra personale della fotografa-artista Laura Poretti Rizman intitolata _Frozen shots / Scatti congelati_, curata dall'arch. Marianna Accerboni e dedicata all'inverno ungherese: in mostra una ventina d'immagini a colori realizzate nell'inverno 2013 dall'autrice con una Reflex digitale. Nel corso della vernice il poliedrico artista sperimentale Piero Lancini, pittore e musicista, eseguirà alcune improvvisazioni musicali create _site specific_ e ispirate alle opere esposte (fino al 28 febbraio 2015/ orario: tutti i giorni 7 - 21, domenica chiuso/ info: +39 328 4614240 · [sambetta_lp@libero.it](mailto:sambetta_lp@libero.it)).
 
     _“I lavori della rassegna sono il frutto di un viaggio onirico, oltre che reale, compiuto dalla Poretti Rizman, che si traduce in un reportage molto calibrato ma nel contempo fantastico”_ scrive Accerboni “_il quale ci trasporta in un paese di grandi suggestioni. Attraverso visioni cromatiche rese algide da un sottile e persistente velo di ghiaccio, la fotografa-artista ci consegna un'immagine dell'Ungheria molto mitteleuropea, la quale tralascia volutamente la matrice levantina che caratterizza parte della cultura anche linguistica di quel paese, grazie all'antico contatto con i turchi._
+
+    ![Il Viaggio foto©Laura Poretti Rizman 2013-foto colore reflex digitale](/media/events/laura-poretti-rizman-frozen-shots-2015/Il_Viaggio_fotoLaura_Poretti_Rizman_2013-foto_colore_reflex_digitale.jpg "Il Viaggio foto©Laura Poretti Rizman 2013-foto colore reflex digitale")
 
     _Lo sguardo non è però focalizzato su palazzi e monumenti, ma su una natura da fiaba che ci accompagna lungo un percorso che, pur nella sua magica delicatezza, concede solo alcune note a un sottaciuto neoromanticismo”._
 

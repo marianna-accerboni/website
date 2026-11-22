@@ -16,11 +16,11 @@ info:
     - /media/events/olivia-siauss-colori-e-luci-del-mio-bosco-2019/invito.pdf
 press:
   pressRelease: |-
-    ![Alberi e luna, 2015 - acrilico su tela - cm 80x80](/media/events/olivia-siauss-colori-e-luci-del-mio-bosco-2019/Alberi_e_luna_2015_-_acrilico_su_tela_-_cm_80x80.jpg "Alberi e luna, 2015 - acrilico su tela - cm 80x80")
-
     **Sabato 7 settembre alle 18 s'inaugura alla Galleria _Rettori Tribbio_ di Trieste (piazza Vecchia 6) la personale della pittrice Olivia Siauss. La rassegna, che sarà introdotta dall'architetto Marianna Accerboni**, è intitolata _Colori e luci del mio bosco_ ed è organizzata **in occasione dei cinquant'anni di attività artistica** dell'autrice. In mezzo secolo Siauss ha svolto un attento lavoro di sperimentazione espresso in tutte le tecniche, dalla pittura al disegno, all'acquerello, dal pastello all'incisione, che la rassegna testimonia attraverso quasi una trentina di opere.
 
     **Fino al 20 settembre** (orario: feriali 10 · 12.30 e 17 · 19.30 / domenica 10 · 12 / venerdì pomeriggio e lunedì chiuso/ info 335 6750946).
+
+    ![Alberi e luna, 2015 - acrilico su tela - cm 80x80](/media/events/olivia-siauss-colori-e-luci-del-mio-bosco-2019/Alberi_e_luna_2015_-_acrilico_su_tela_-_cm_80x80.jpg "Alberi e luna, 2015 - acrilico su tela - cm 80x80")
 
     _Perfettamente inserita nel clima di rinnovamento delle arti del secondo dopoguerra,_ - scrive Accerboni - _con grande sensibilità e in modo poetico e timbrico, Olivia Siauss ha saputo percepire la libertà compositiva che, memore delle vicende promosse da molti movimenti d'avanguardia dal primo Novecento in poi, si stava facendo strada in quegli anni nell'ambito della pittura contemporanea._
 

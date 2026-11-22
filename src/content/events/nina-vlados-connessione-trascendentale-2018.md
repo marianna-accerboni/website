@@ -16,11 +16,11 @@ info:
     - /media/events/nina-vlados-connessione-trascendentale-2018/invito.pdf
 press:
   pressRelease: |-
-    ![Amplituda srca, 2004 - tecnica mista - cm 30x40](/media/events/nina-vlados-connessione-trascendentale-2018/Amplituda_srca_2004_-_tecnica_mista_-_cm_30x40.jpg.jpg "Amplituda srca, 2004 - tecnica mista - cm 30x40")
-
     **S'inaugura mercoledì 18 luglio 2018 alle 19 alla Sala Comunale d'Arte di Trieste (piazza Unità d'Italia 4), la mostra “Connessione trascendentale” dell'artista di origine russa Nina Vlados, che sarà introdotta dall'arch. Marianna Accerboni. In mostra oltre una ventina di opere realizzate dal 2001 a oggi, tra cui disegni, dipinti, acquerelli e le preziose porcellane realizzate di recente.**
 
     _Un cromatismo morbido ma intenso e un segno incisivo e nel contempo delicato, tendenzialmente curvilineo_ - scrive Accerboni - _contraddistinguono il messaggio artistico-esoterico di Nina Vlados, pittrice, scultrice e pranoterapeuta di origine russa, attiva da tre anni in Italia._
+
+    ![Amplituda srca, 2004 - tecnica mista - cm 30x40](/media/events/nina-vlados-connessione-trascendentale-2018/Amplituda_srca_2004_-_tecnica_mista_-_cm_30x40.jpg.jpg "Amplituda srca, 2004 - tecnica mista - cm 30x40")
 
     _E' questa una rassegna dal linguaggio soave e sottilmente onirico, che sgorga direttamente dall'energia creativa dell'autrice, rasserenante come un flusso benefico. Un'arte popolata di sguardi, allusioni, voci interiori, che Nina crea naturalmente, così come le sue poesie e le sue composizioni musicali, senza aver mai fatto studi specifici. In mostra compaiono i lavori realizzati dal 2001 a oggi: disegni a matita su carta, acrilici su tela e su carta, acquarelli, pastelli su carta Cashmere e le porcellane realizzate nell'ultimo anno e mezzo, pazientemente composte con pigmenti colorati, inseriti, elemento per elemento, nel materiale fine China bons, noto per i suoi elevati livelli di resistenza, di colore bianco e traslucenza. Oggetti quest'ultimi, dal soffio poetico, realizzati mediante la tecnica di origine giapponese nerikomi (da neri, che significa mescolare miscele di colori diversi, e komi, che allude all'atto di schiacciare la materia dentro una forma o uno stampo), in cui s'intravvede la memoria di certa iconografia russa legata all'antica tradizione teatrale di quel paese, a partire dal popolare balagan del XVIII e XIX secolo._
 

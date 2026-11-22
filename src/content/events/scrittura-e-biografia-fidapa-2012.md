@@ -14,11 +14,11 @@ info:
     - /media/events/scrittura-e-biografia-fidapa-2012/invito.pdf
 press:
   pressRelease: |-
-    ![Anne Boyd Rioux](/media/events/scrittura-e-biografia-fidapa-2012/Anne_Boyd_Rioux_1.jpg "Anne Boyd Rioux")
-
     **Nell'ambito dei _Pomeriggi culturali della F.I.D.A.P.A. · Sezione Storica di Trieste_, curati da Marianna Accerboni, giovedì 25 ottobre 2012 dalle ore 17 alle 19 avrà luogo alla Casa della Musica di Trieste (via dei Capitelli)** un incontro letterario internazionale dedicato alla scrittrice americana Constance Fenimore Woolson (1840 - 1894), una tra le più importanti autrici statunitensi del XIX secolo.
 
     All'appuntamento, intitolato _Scrittura e biografia tra vecchio e nuovo mondo_, interverranno **Marianna Accerboni** e **Gabriella Vaglieri**, presidente e vicepresidente F.I.D.A.P.A. - Sezione Storica di Trieste, **Edoarda Grego Pozza**, membro Commissione internazionale Art&Culture BPW Italy F.I.D.A.P.A, **Anne Boyd Riuox**, professore di Inglese e di Women's and Gender Studies alla New Orleans University (USA), relatori **Cristina Benussi**, professore ordinario di Letteratura italiana contemporanea e preside Facoltà di Lettere e Filosofia all'Università di Trieste, e **Leonardo Buonomo**, professore associato di Letteratura Angloamericana all'Università di Trieste
+
+    ![Anne Boyd Rioux](/media/events/scrittura-e-biografia-fidapa-2012/Anne_Boyd_Rioux_1.jpg "Anne Boyd Rioux")
 
     L'evento è organizzato da Edoarda Grego Pozza con Gabriella Vaglieri, responsabile Task Force Salute per il Distretto Nord Est della F.I.D.A.P.A., in collaborazione con Marianna Accerboni.
 

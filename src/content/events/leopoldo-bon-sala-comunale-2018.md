@@ -18,11 +18,11 @@ subEvents:
   - - "Leopoldo Bon: sabato 3 febbraio 2018 alla Sala Comunale d'Arte di Trieste Finissage e visita guidata alla personale del fotografo-artista triestino"
 press:
   pressRelease: |-
-    ![Immaginare 66, 2010_ 2013 - perspex stampa Fuji - cm 50x70 (stampatore Eidos Modena)](/media/events/leopoldo-bon-sala-comunale-2018/Immaginare_66_2010__2013_-_perspex_stampa_Fuji_-_cm_50x70_stampatore_Eidos_Modena.jpg "Immaginare 66, 2010_ 2013 - perspex stampa Fuji - cm 50x70 (stampatore Eidos Modena)")
-
     **Si inaugura giovedì 11 gennaio 2018 alle ore 19 alla Sala Comunale d'Arte (piazza Unità d'Italia 4) di Trieste, la mostra personale del fotografo-artista Leopoldo Bon, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni. In mostra**
 
     _Cogliendo istintivamente le istanze più avanzate del linguaggio visivo contemporaneo_, - scrive Marianna Accerboni _- Leopoldo Bon compone delle raffinate icone vibranti di luce che interpretano in modo molto personale il concetto di paesaggio fino a tradurlo in un'espressione informale di sapore lievemente lirico. Partendo dalle rifrazioni luminose sulla superficie dell'acqua - indipendentemente dal luogo prescelto, sia esso il mare di Croazia o il Canal grande di Trieste - il fotografo/artista approda poi a delle variazioni sul tema, che abbandonano la lettura narrativa del soggetto._
+
+    ![Immaginare 66, 2010_ 2013 - perspex stampa Fuji - cm 50x70 (stampatore Eidos Modena)](/media/events/leopoldo-bon-sala-comunale-2018/Immaginare_66_2010__2013_-_perspex_stampa_Fuji_-_cm_50x70_stampatore_Eidos_Modena.jpg "Immaginare 66, 2010_ 2013 - perspex stampa Fuji - cm 50x70 (stampatore Eidos Modena)")
 
     _Sollecitata da tempi di esposizione molto lunghi, l'immagine si dilata, si rifrange, palpita, entra in un altrove lontano dalla sua origine. Affascinato dal dinamico destrutturarsi dei riflessi d'acqua, Bon osa poi un passaggio ulteriore che lo conduce alla percezione verso la luce pura._
 

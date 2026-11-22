@@ -18,13 +18,13 @@ subEvents:
   - - "Punti di vista: giovedì 26 gennaio l'architetto-artista Giorgio Schumann incontra il pubblico alla Galleria Rettori Tribbio"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/W-3OxzGN5UU" width="350" height="288"></iframe>
-
     **Video dell'inaugurazione**
 
     **Sabato 14 gennaio 2012 alle ore 18.30 a Trieste alla Galleria Rettori Tribbio** (Piazza Vecchia 6) **avrà luogo l'inaugurazione della mostra personale dell'artista Giorgio Schumann, intitolata _Punti di vista_.** La rassegna, che propone una quarantina di acrilici su tavola realizzati di recente dall'artista, **sarà introdotta sul piano critico dall'architetto Marianna Accerboni.** Visitabile **fino al 28 gennaio** (orario: feriali 10.00 - 12.30 e 17.00 - 19.30 / festivi 10.00 - 12.00 / lunedì chiuso / domenica 18 dicembre in occasione del mercatino dell'antiquariato: 10.00 - 13.00 e 16.00 - 18.00).
 
     _Inesauribile creativo, infaticabile lavoratore e sperimentatore curioso e appassionato -_ scrive Accerboni _- Schumann è architetto, pittore, scultore, fotografo, designer, fumettista, ma soprattutto inventore, dotato per altro anche di una manualità eccellente, che gli consente di realizzare da solo, ingegnosamente, molti dei suoi progetti. Triestino di madre croata, che era un'artista del gobelin a piccolo punto, e di padre di origine tedesca, con il nonno paterno pittore, questo architetto-artista dal temperamento riservato e appartato, ha operato per molti anni in silenzio, riempendo la sua luminosa casa-studio-laboratorio di ingegnose creazioni ed esponendo raramente. Di recente si è avvicinato con la consueta modestia e il suo naturale, quasi fanciullesco entusiasmo, alla pittura, attraverso la quale esprime in questa mostra la sua grande passione per il mare._
+
+    <iframe src="https://www.youtube.com/embed/W-3OxzGN5UU" width="350" height="288"></iframe>
 
     ![Trabacolo 2 - 2011 - acrilico su tavola - cm. 20x30](/media/events/giorgio-schumann-punti-di-vista-2012/Trabacolo_2_-_2011_-_acrilico_su_tavola_-_cm._20x30.jpg "Trabacolo 2 - 2011 - acrilico su tavola - cm. 20x30")
 

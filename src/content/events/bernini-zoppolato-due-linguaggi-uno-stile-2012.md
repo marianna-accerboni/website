@@ -18,11 +18,11 @@ subEvents:
   - - "Nell'ambito della mostra Bernini - Zoppolato, due linguaggi, uno stile, mercoledì 27 giugno i due artisti incontrano il pubblico alla Galleria Rettori Tribbio di Trieste"
 press:
   pressRelease: |-
-    ![Livio Zoppolato - Segni e simboli - tecnica mista](/media/events/bernini-zoppolato-due-linguaggi-uno-stile-2012/Livio_Zoppolato_-_Segni_e_simboli_-_tecnica_mista.jpg "Livio Zoppolato - Segni e simboli - tecnica mista")
-
     **Sabato 16 giugno 2012 alle ore 18.00 a Trieste alla Galleria Rettori Tribbio** (Piazza Vecchia 6) **avrà luogo l'inaugurazione della mostra “Ferruccio Bernini - Livio Zoppolato: due linguaggi, uno stile”, che vedrà protagonisti i due artisti triestini con una decina di dipinti ciascuno e sarà presentata dall'architetto Marianna Accerboni**. La rassegna, che propone l'incontro tra il linguaggio magico e surreale di Bernini e la nuova maniera materico-informale di Zoppolato, rimarrà visitabile **fino al 29 giugno** (orario: mar - mer - gio - sab 10 - 12.30 e 17 - 19.30 / ven: 10 - 12.30 / festivi: 10 - 12.00 / lunedì chiuso / domenica 17 per il mercatino dell'antiquariato: 10.00 - 13.00 e 16.00 - 18.00 / info 3356750946).
 
     _Due pittori dal linguaggio diverso_ - scrive Marianna Accerboni _- ma complementare e sintonico per capacità fantastica e inclinazione alla sperimentazione, testimoniano alla Galleria Rettori, da sempre attenta all'evoluzione delle espressioni artistiche non solo locali e regionali, la maturità del loro percorso._
+
+    ![Livio Zoppolato - Segni e simboli - tecnica mista](/media/events/bernini-zoppolato-due-linguaggi-uno-stile-2012/Livio_Zoppolato_-_Segni_e_simboli_-_tecnica_mista.jpg "Livio Zoppolato - Segni e simboli - tecnica mista")
 
     ![Ferruccio Bernini - Pulcinella - tecnica mista](/media/events/bernini-zoppolato-due-linguaggi-uno-stile-2012/Ferruccio_Bernini_-_Pulcinella_-_tecnica_mista.jpg "Ferruccio Bernini - Pulcinella - tecnica mista")
 

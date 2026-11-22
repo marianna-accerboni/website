@@ -18,7 +18,9 @@ subEvents:
   - - "XII edizione della mostra di pittura La bellezza per la bontà · L'arte aiuta la vita: il 31 ottobre il secondo appuntamento al Castello di Duino"
 press:
   pressRelease: |-
-    **2ª sede: Castello di Duino (Trieste)**. **Quando:** 31 ottobre - 13 novembre 2011. **Orario:** di apertura del Castello.
+    **Seconda sede: Castello di Duino (Trieste)**
+    - Periodo: 31 ottobre – 13 novembre 2011
+    - Orario: di apertura del Castello
 
     _introduzione critica di Marianna Accerboni_
 

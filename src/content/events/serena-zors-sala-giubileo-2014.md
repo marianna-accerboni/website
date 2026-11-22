@@ -17,13 +17,13 @@ subEvents:
   - - "Da Monaco di Baviera a Trieste: l'arte fantastica di Serena Zors alla Sala Giubileo di Trieste. Giovedì 17 aprile il finissage con la partecipazione straordinaria del tenore Andrea Binetti"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/2QmMBVVFxCo" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura venerdì 28 marzo 2014 alle ore 19 alla Sala del Giubileo** (Riva 3 Novembre, 9) **di Trieste un'importante mostra personale della pittrice triestina Serena Zors Breuer, attiva da decenni a Monaco di Baviera. La rassegna, curata dall'architetto Marianna Accerboni, che introdurrà l'esposizione, e realizzata con il patrocinio dell'Associazione Culturale _L'Officina_, ricostruisce attraverso una sessantina di affascinanti lavori, il percorso creativo dell'artista dagli anni '80 a oggi: arte del vetro, design, scultura, disegno e pittura, concentrati intorno a una modularità espressiva molteplice, giocosa e coinvolgente nella sua metafisica e surreale gioia di vivere. Fino al 17 aprile** (orario: tutti i giorni ore 11 · 20/ info 335 6750946 **·** 0049 179 2983633).
 
     _Una libertà compositiva che sovverte le regole dinamiche e statiche e gli equilibri di gravità dell'universo, coerentemente con un costante anelito verso un libero divenire della vita: il fantastico supera e sovverte il reale nel mondo magico di Serena Zors Breuer, poliedrico intelletto creativo, capace di dominare la linea sulla carta e di trasporla efficacemente nella terza dimensione. Arte_ - scrive Accerboni _- che l'autrice realizza con grazia ed equilibrio armonico - reso talvolta dissonante per aumentarne l'efficacia - di cui fa uso sia sul piano cromatico che nella composizione di pieni e vuoti, luci e ombre, bianco e nero, fragore di note di colore e silenzio. Gioia di vivere e pioggia, vento e calma atarassica, fiaba e gioco connotano i suoi disegni divenuti dipinti, che lei crea da anni e di cui viene ora esposta la produzione più recente del periodo 2013 - 2014, che Serena è stata sollecitata a realizzare dall'entusiasmo di chi scrive._
+
+    <iframe src="https://www.youtube.com/embed/2QmMBVVFxCo" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     ![La torre impossibile, 2013 - acrilico - cm. 56x44](/media/events/serena-zors-sala-giubileo-2014/La_torre_impossibile_2013_-_acrilico_-_cm._56x44.jpg "La torre impossibile, 2013 - acrilico - cm. 56x44")
 

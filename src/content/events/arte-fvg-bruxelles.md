@@ -19,13 +19,13 @@ subEvents:
   - - 'Ampio risalto da parte della stampa belga alla mostra "L''arte triestina al femminile nel ''900 d''avanguardia italiano ed europeo" aperta fino al 2 agosto all''Istituto Italiano di Cultura di Bruxelles: un seguito agli antichi legami tra Trieste e la capitale belga.'
 press:
   pressRelease: |-
-    ![L'arte della Regione Friuli Venezia Giulia a Bruxelles](/media/arte-fvg-screen-shot-2024-05-11-at-5.42.31-pm.png "L'arte della Regione Friuli Venezia Giulia a Bruxelles")
-
     Per cartella stampa e immagini in HD: https://bit.ly/Bruxelles2024 
 
     L’arte della Regione Friuli Venezia Giulia sarà protagonista a Bruxelles dal 14 maggio al 21 febbraio 2025 attraverso 6 mostre, allestite all’Istituto Italiano di Cultura e all’Ufficio di collegamento delle Regione FVG, che vedranno rispettivamente la partecipazione di 5 artiste triestine, tra cui Leonor Fini, e 5 artisti friulani e triestini, presenti con un totale di circa 250 opere tra dipinti, disegni, bozzetti teatrali e non, sculture e ceramiche. In mostra anche fotografie, lettere, documenti, libri, abiti, profumi, accessori, gioielli e oggetti. I pezzi in esposizione non sono mai stati presentati in Belgio: tra questi, vari materiali inediti, rari e poco noti.
 
     Dal 14 maggio al 31 luglio 2024 la mostra L’ARTE TRIESTINA AL FEMMINILE NEL '900 D’AVANGUARDIA ITALIANO ED EUROPEO ospiterà infatti all’Istituto Italiano di Cultura le opere delle triestine Leonor Fini, Maria Lupieri, Maria Melan, Anita Pittoni e Miela Reina.
+
+    ![L'arte della Regione Friuli Venezia Giulia a Bruxelles](/media/arte-fvg-screen-shot-2024-05-11-at-5.42.31-pm.png "L'arte della Regione Friuli Venezia Giulia a Bruxelles")
 
     Dal 5 settembre 2024 al 21 febbraio 2025 all’UFFICIO DI COLLEGAMENTO DELLA REGIONE FRIULI VENEZIA GIULIA A BRUXELLES avranno invece luogo, sotto il titolo LA REGIONE FRIULI VENEZIA GIULIA A BRUXELLES ATTRAVERSO I SUOI ARTISTI, le personali dei pittori friulani Giorgio Celiberti, Claudio Mario  Feruglio e Toni Zanussi e dei triestini Edoardo Devetta e Livio Rosignano.
 
@@ -111,41 +111,19 @@ press:
     Oltre al ritratto, suoi temi prediletti sono stati il paesaggio marino, spesso mosso dalla Bora (forte vento di Nord-Est che soffia verso l’Alto e Medio Adriatico), quello urbano, industriale e di campagna, in cui interpretava con intensità l’Istria, Trieste e il Carso; i meno fortunati (che chiamava “i poveri cristi”); l’intimo sentire dell’uomo colto nel rapporto di coppia o nel silenzio dei caffè storici triestini o in attimi di struggente solitudine e malinconia e la poetica del quotidiano: aspetti della vita interpretati attraverso un espressionismo di grande forza e sottile poesia. Fu premiato in varie mostre nazionali, segnalato al Premio Bolaffi e insignito dal Comune di Trieste del Sigillo Trecentesco.
 
     ---
-    L’arte della Regione Friuli Venezia Giulia a Bruxelles
-    La Regione Friuli Venezia Giulia a Bruxelles attraverso i suoi artisti 
 
-    DOVE: Ufficio di collegamento della Regione Friuli Venezia Giulia a Bruxelles
-    Rue du Commerce 49 – 1000 Bruxelles, Belgio
+    **La Regione Friuli Venezia Giulia a Bruxelles attraverso i suoi artisti**
+    - Dove: Ufficio di collegamento della Regione Friuli Venezia Giulia a Bruxelles · Rue du Commerce 49 – 1000 Bruxelles, Belgio
+    - Periodo: 12 settembre 2024 – 21 febbraio 2025
+    - Orario: dal lunedì al venerdì ore 10 – 12, dal lunedì al giovedì anche 15 – 17 (chiuso sabato, domenica e festività)
+    - A cura di: Marianna Accerboni
+    - Biglietto: ingresso gratuito, prenotazione obbligatoria
+    - Prenotazioni: https://lc.cx/_5BAZQ
+    - Info: uff.bruxelles@regione.fvg.it · FVG-Bruxelles
 
-    QUANDO: 12 settembre 2024 - 21 febbraio 2025
-
-    ORARIO: mattino dal lunedì al venerdì ore 10 – 12  
-
-                        pomeriggio dal lunedì al giovedì ore 15 – 17 
-
-                         (chiuso sabato, domenica e festività)  
-
-    A CURA DI: Marianna Accerboni
-
-    COSTO BIGLIETTO: ingresso gratuito / prenotazione obbligatoria 
-
-    INFO: uff.bruxelles@regione.fvg.it / website: FVG-Bruxelles 
-
-    PRENOTAZIONI: https://lc.cx/_5BAZQ o tramite QR Code qui a destra
-
-    ---
-    INFO 
-
-    Marianna Accerboni
-    Viale della III Armata, 1
-    34123 · Trieste
-
-    tel. +39 040 307321
-    cell. +39 335 6750946
-    contatto skype: marianna.accerboni
-
-    marianna.accerboni@gmail.com
-    lartedellaregionefvgabruxelles@gmail.com
+    **Info**
+    - Indirizzo: Marianna Accerboni · Viale della III Armata, 1 · 34123 Trieste
+    - Contatti: tel. +39 040 307321 · cell. +39 335 6750946 · skype: marianna.accerboni · marianna.accerboni@gmail.com · lartedellaregionefvgabruxelles@gmail.com
 gallerySection:
   gallery:
     - image: /media/arte-fvg-screen-shot-2024-05-11-at-5.38.28-pm.png

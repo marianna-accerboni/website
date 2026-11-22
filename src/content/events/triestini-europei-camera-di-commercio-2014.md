@@ -14,13 +14,13 @@ info:
     - /media/events/triestini-europei-camera-di-commercio-2014/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/wEvcLS8h9BA" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'evento
-
     **Venerdì 17 ottobre alle ore 17 nella Sala Maggiore della Camera di Commercio di Trieste,** uno dei siti storicamente simbolici della fortuna economica e dell'imprenditorialità della città, **avrà luogo la tavola rotonda “Triestini europei. Esperienze a confronto”, che vedrà riuniti in un dialogo aperto al pubblico una rappresentanza di giovani studenti universitari, che incontrerà alcuni manager triestini che hanno saputo farsi strada all'estero e portare alto il nome della loro terra d'origine nel mondo.**
 
     **L'incontro, organizzato dall'Associazione Giuliani nel Mondo in collaborazione con la Camera di Commercio di Trieste e moderato e coordinato da Micol Brusaferro e Benedetta Moro, sarà aperto dal Presidente CCIAA Antonio Paoletti e dal Presidente dei Giuliani nel Mondo Dario Locchi.** Dopo l'introduzione di **Ruggero Melan**, past administrator della Commissione Europea e fondatore del Circolo di Bruxelles dei Giuliani nel Mondo, porteranno la loro testimonianza **Giorgio Perini**, attualmente distaccato al Ministero degli Affari Esteri a Bruxelles quale esperto regionale in materia di concorrenza - aiuti di Stato e contenzioso comunitario, **Orio Giarini**, amministratore dell'Accademia Mondiale delle arti e delle Scienze, **Alfredo Zingale**, fondatore della Xnova Consulting Sàrl in Svizzera e **Ruggero Ferraiolo**, consulente nel campo della Proprietà Industriale e Intellettuale e proprietario della Ferraiolo Srl.
+
+    <iframe src="https://www.youtube.com/embed/wEvcLS8h9BA" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'evento
 
     Si parlerà anche di esperienze di successo all'estero, con la giornalista **Micol Brusaferro**, che su Il Piccolo cura da oltre quattro anni una rubrica e un blog dedicati alle storie di concittadini che hanno lasciato l'Italia.
 

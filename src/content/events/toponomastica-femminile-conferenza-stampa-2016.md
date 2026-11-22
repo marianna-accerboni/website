@@ -10,11 +10,11 @@ info:
   infoContacts: 335 6587294 · 335 6750946
 press:
   pressRelease: |-
-    ![Via Marianna Di Domenico - foto di Marisa Ulcigrai](/media/events/toponomastica-femminile-conferenza-stampa-2016/Via_Marianna_Di_Domenico_-_foto_di_Marisa_Ulcigrai.jpg "Via Marianna Di Domenico - foto di Marisa Ulcigrai")
-
     **Mercoledì 11 maggio 2016 alle ore 11 avrà luogo al Circolo della Stampa di Trieste** (corso Italia 13, 1° p.) **la conferenza stampa di presentazione della mostra e del volume dedicati alla Toponomastica femminile a Trieste e Provincia**. **Il progetto intitolato “Fuori dove la parità non esiste”, è ideato e curato dalla presidente dell'Associazione Fotografaredonna, Marisa Ulcigrai, con la collaborazione di Sandra Grego per il coordinamento dei testi della pubblicazione, firmati da specialiste del settore.**
 
     **Alla conferenza stampa interverranno la presidente della Provincia Maria Teresa Bassa Poropat, Marisa Ulcigrai, Sandra Grego e il critico d'arte Marianna Accerboni.**
+
+    ![Via Marianna Di Domenico - foto di Marisa Ulcigrai](/media/events/toponomastica-femminile-conferenza-stampa-2016/Via_Marianna_Di_Domenico_-_foto_di_Marisa_Ulcigrai.jpg "Via Marianna Di Domenico - foto di Marisa Ulcigrai")
 
     **La mostra, intitolata “Spazi ritrovati”, compone, attraverso le immagini fotografiche realizzate da 16 socie di Fotografaredonna e da Paola Di Bello, fotografa e docente all'Accademia di Brera, un interessante e inedito itinerario nei luoghi intitolati alle donne: s'inaugurerà “en plein air” venerdì 13 maggio alle 19 in via Cassa di Risparmio nello spazio urbano compreso fra via Genova e via Bellini alla presenza delle autrici, di una rappresentante della Regione FVG e dell'assessore all'Urbanistica del Comune di Trieste Elena Marchigiani.**
 

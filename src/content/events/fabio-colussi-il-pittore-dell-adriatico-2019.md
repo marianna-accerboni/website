@@ -19,11 +19,11 @@ subEvents:
   - - "Fabio Colussi. Il pittore dell'Adriatico: domenica 29 dicembre 2019 al Salone d'Arte di Trieste visita guidata alla mostra personale del pittore triestino"
 press:
   pressRelease: |-
-    ![Vele al tramonto, 2019 - olio su tela - cm 35x45](/media/events/fabio-colussi-il-pittore-dell-adriatico-2019/Vele_al_tramonto_2019_-_olio_su_tela_-_cm_35x45.jpg "Vele al tramonto, 2019 - olio su tela - cm 35x45")
-
     **Sabato 7 dicembre alle 18 s'inaugura al Salone d'arte di Trieste (via della Zonta 2) la rassegna “Fabio Colussi. Il pittore dell'Adriatico”, dedicata dal pittore triestino al tema prediletto della veduta marina: introdotta da Gabriella Pastor, sarà interpretata sul piano critico dall'architetto Marianna Accerboni**: in mostra **24 oli su tela e su tavola inediti, realizzati con grande maestria principalmente tra il 2018 e il 2019.**
 
     _In questa esposizione_ - scrive Accerboni - _Colussi ricostruisce con delicata e calibrata vena lirica il fascino del mare della sua città, Trieste, accostandolo anche a quello di Venezia. La medesima, sottile inclinazione neoromantica, intrecciata a una personale e sensibilissima vena cromatica e a una grande abilità tecnica, caratterizza le sue vedute. Così l'artista sa catturare l'ineffabile luce del nostro golfo, quella magica della Serenissima e la pace della laguna, consegnandoci un angolo di mondo, in cui poter sognare ancora, grazie al prezioso virtuosismo di questo poeta del paesaggio._ Fino al 31 dicembre (orario: tutti i giorni 10 · 12.30 e 16.00 · 19.00/ info 335 6750946 - 348 8965899).
+
+    ![Vele al tramonto, 2019 - olio su tela - cm 35x45](/media/events/fabio-colussi-il-pittore-dell-adriatico-2019/Vele_al_tramonto_2019_-_olio_su_tela_-_cm_35x45.jpg "Vele al tramonto, 2019 - olio su tela - cm 35x45")
 
     _Memore di una vena neoclassica, che appartiene culturalmente a Trieste, l'artista prosegue in modo del tutto personale l'antica tradizione di pittori e vedutisti attivi a Venezia nel '700 quali Francesco Guardi e Canaletto, vicino al primo per ispirazione poetica e al secondo per l'interpretazione più razionale dei luoghi. Ma, agli esordi, Colussi ha guardato anche ad altri artisti, in questo caso giuliani, come Giuseppe Barison, Giovanni Zangrando, Ugo Flumiani e Guido Grimani, tutti in un modo o nell'altro legati alla grande tradizione pittorica e coloristica veneziana, che rappresentava un importante punto di riferimento, nel secondo ottocento e nel primo novecento, accanto all'Accademia di Monaco, per i pittori triestini._
 

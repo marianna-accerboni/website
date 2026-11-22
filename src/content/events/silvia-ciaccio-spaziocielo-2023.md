@@ -17,11 +17,11 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    ![Senza titolo 1, 2020/ 2022 - colore acrilico su carta velina - cm 150x100](/media/spaziocielo-senza-titolo-1-2020-2022-colore-acrilico-su-carta-velina-cm-150x100.jpg "Senza titolo 1, 2020/ 2022 - colore acrilico su carta velina - cm 150x100") 
-
     **Giovedì 1 giugno alle ore 18 s’inaugura alla Sala Comunale d’arte di Trieste (piazza dell’Unità d’Italia 4) la personale SPAZIOCIELO ESSENZA OLTREMARE dell’artista SILVIA CIACCIO,** **curata dall’architetto Marianna Accerboni. In mostra una ventina di raffinate ed essenziali interpretazioni dell’immensità, intesa come ampiezza degli spazi del mare e del cielo, ma anche come vastità di pensiero. Un messaggio criptico e raffinatamente concettuale che l’artista milanese - figlia d’arte (il padre Roberto era pittore di chiara fama, dalle frequentazioni internazionali), laureata in estetica e da sempre profondamente legata a Trieste - propone di fronte alla linea d’orizzonte infinito su cui si apre la sala che ospita l’esposizione.**
 
     Fino al 25 giugno / orario: tutti i giorni 10 – 13 e 17 – 20 / info  HYPERLINK "mailto:silviaciaccio@hotmail.it" silviaciaccio@hotmail.it / +39 333 6781784).
+
+    ![Senza titolo 1, 2020/ 2022 - colore acrilico su carta velina - cm 150x100](/media/spaziocielo-senza-titolo-1-2020-2022-colore-acrilico-su-carta-velina-cm-150x100.jpg "Senza titolo 1, 2020/ 2022 - colore acrilico su carta velina - cm 150x100") 
 
     Il progetto espositivo _Spaziocielo_ allude alla dimensione fisica e concettuale dell’_immensità_, intesa come ampiezza degli spazi del mare e del cielo, ma anche come vastità di pensiero. _Spaziocielo_ è un luogo monocromatico d’incontro tra cielo e mare, in cui terra e aria si sfiorano; è una dimensione liminare che schiude varchi di pensiero verso l’immensità, una soglia orizzontale tra il mondo celeste e quello terrestre, un limite indefinito in cui la molteplicità cromatica, dal blu al viola, dall’azzurro al rosa, dall’indaco al grigio argenteo, spalanca la via verso l’ignoto. Le opere colgono quello spazio indefinito, di confine, caratterizzato da una potente forza generatrice di sogni, immagini e voli onirici. La vista dell’ampiezza spinge, infatti, continuamente a sognare e ad immaginare _altro_, oltre l’orizzonte.
 

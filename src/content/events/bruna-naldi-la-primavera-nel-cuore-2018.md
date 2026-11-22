@@ -18,11 +18,11 @@ subEvents:
   - - "Giovedì 17 maggio 2018 alla Galleria Rettori Tribbio di Trieste visita guidata alla mostra “La primavera nel cuore” della pittrice Bruna Naldi"
 press:
   pressRelease: |-
-    ![Azzurri (fiori del radicchio), 2017 - olio su tavola - cm 30x30](/media/events/bruna-naldi-la-primavera-nel-cuore-2018/Azzurri_fiori_del_radicchio_2017_-_olio_su_tavola_-_cm_30x30.jpg "Azzurri (fiori del radicchio), 2017 - olio su tavola - cm 30x30")
-
     **S'inaugura sabato 5 maggio 2018 alle 18 alla Galleria Rettori Tribbio di Trieste** (piazza Vecchia 6) **la mostra personale della pittrice Bruna Naldi, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni. La rassegna propone una trentina di opere a olio su tavola, realizzate dal 2016** a oggi **e in gran parte inedite.**
 
     **Fino al 18 maggio 2018** (orario: feriali 10-12.30 e 17- 19.30/ festivi 10-12/ venerdì pom e lun chiuso/ info 335 6750946).
+
+    ![Azzurri (fiori del radicchio), 2017 - olio su tavola - cm 30x30](/media/events/bruna-naldi-la-primavera-nel-cuore-2018/Azzurri_fiori_del_radicchio_2017_-_olio_su_tavola_-_cm_30x30.jpg "Azzurri (fiori del radicchio), 2017 - olio su tavola - cm 30x30")
 
     _Il profumo dei fiori e della primavera_ - scrive Accerboni _- pervade questa mostra, sottolineata da un cromatismo vivace e nel contempo delicato e in certo modo discreto. Con la sua innata sensibilità Bruna Naldi sa tradurre la natura in un attimo di gioia per il fruitore, immergendo la nostra mente e i nostri sensi in un'interpretazione sentita e compartecipe della bellezza e del piacere estetico e psicologico che questa ci può donare._
 

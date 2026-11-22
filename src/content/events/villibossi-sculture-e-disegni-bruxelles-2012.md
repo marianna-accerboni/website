@@ -16,13 +16,13 @@ info:
     - /media/events/villibossi-sculture-e-disegni-bruxelles-2012/invito.pdf
 press:
   pressRelease: |-
-    ![Fiore, 2010 - Pietra d'Istria di S. Stefano - cm 53x23xh35](/media/events/villibossi-sculture-e-disegni-bruxelles-2012/_Fiore_2010_-_Pietra_dIstria_di_S._Stefano_53x23xh35.jpg "Fiore, 2010 - Pietra d'Istria di S. Stefano - cm 53x23xh35")
-
     **inaugurazione: giovedì 20 settembre 2012 ore 18.30**
 
     **conferenza stampa: venerdì 14 settembre 2012 ore 11.00 - Sede dell'Associazione Giuliani nel Mondo di Trieste** (via S. Caterina da Siena 7). Interverranno il Presidente dell'Associazione Giuliani nel Mondo **Dario Locchi**, il Direttore **Fabio Ziberna** e la curatrice **Marianna Accerboni**. Sarà presente lo scultore **Villibossi**.
 
     **S'inaugura venerdì 20 settembre 2012 alle ore 18.30 nella Sede dell'Ufficio di collegamento della Regione Autonoma Friuli Venezia Giulia a Bruxelles una rassegna dedicata allo scultore Villibossi, intitolata “Villibossi. Sculture e disegni”. Organizzata dall'Ufficio di collegamento della Regione nella capitale belga e dall'Associazione Giuliani nel Mondo di Trieste, presieduta da Dario Locchi e diretta da Fabio Ziberna, e di Bruxelles, presieduta da Flavio Tossi, l'esposizione è curata dall'architetto Marianna Accerboni: in mostra più di una ventina di sculture realizzate dall'artista dal 2001 a oggi in diverse qualità di marmo e di legno, suoi materiali prediletti, tra cui diversi inediti. Vengono esposti anche 20 disegni colorati ad acquerello e china, che rappresentano degli studi preparatori alle opere tridimensionali**. **La mostra è accompagnata da un elegante catalogo realizzato grazie alla generosità di Jean-Paul Macharis, console onorario per l'Austria in Belgio e presidente del consiglio di amministrazione della VPK Packaging. Rimarrà visitabile nella capitale belga fino al 6 novembre 2012**.
+
+    ![Fiore, 2010 - Pietra d'Istria di S. Stefano - cm 53x23xh35](/media/events/villibossi-sculture-e-disegni-bruxelles-2012/_Fiore_2010_-_Pietra_dIstria_di_S._Stefano_53x23xh35.jpg "Fiore, 2010 - Pietra d'Istria di S. Stefano - cm 53x23xh35")
 
     _La mostra di Bruxelles_ _si colloca nell'ambito dei prestigiosi itinerari europei, che rappresentano un Leitmotiv fondamentale nella carriera di Villibossi, essendo egli stato presente fin dagli esordi a simposi e importanti esposizioni e con sculture monumentali in paesi come la Grecia, la Germania, l'Austria e in tutti gli stati dell'ex Yugoslavia._
 

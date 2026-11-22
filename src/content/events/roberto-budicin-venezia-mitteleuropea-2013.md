@@ -16,13 +16,13 @@ info:
     - /media/events/roberto-budicin-venezia-mitteleuropea-2013/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/Y93S8IPwQTU" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura domenica **7 aprile 2013 alle ore 16.00 alla Galleria Melori & Rosenberg di Venezia,** situata nella fascinosa e storica cornice del **Campo del Ghetto Novo (Cannaregio 2919), la mostra personale del giovane pittore triestino Roberto Budicin,** intitolata **_La Venezia mitteleuropea di Budicin_, che sarà introdotta sul piano critico dall'architetto Marianna Accerboni**. La rassegna propone **26 oli su tavola e su tela, quasi tutti inediti, realizzati dall'artista tra il 2012 e il 2013. Fino al 17 aprile** (orario: da domenica a venerdì 10.00 **·** 13.00/ 15.00 **·** 18.00).
 
     _Talento precoce e figlio d'arte_ - scrive Accerboni - _Roberto Budicin affronta il tema della natura e del paesaggio con una dolcezza che si potrebbe definire quasi insolita per un giovane degli anni Duemila. Con molta professionalità e naturale istinto compositivo il pennello scivola con forza sulla tela, “costruendo” con abilità momenti di luminosa, equilibrata bellezza, che sanno cogliere in modo aderente la realtà, intridendola tuttavia di un lieve senso lirico, che solo la sensibilità di un pittore-poeta sa cogliere e trasfondere con semplicità al fruitore._
+
+    <iframe src="https://www.youtube.com/embed/Y93S8IPwQTU" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Dipingere il silenzio, la luce, le atmosfere, la neve e - a volte - trasporre la cultura mitteleuropea nel milieu veneziano, non è da tutti e Budicin ci riesce con un'elegante naturalezza sostenuta da un approfondito studio delle tecniche e molta dedizione all'esercizio pittorico. In tale ambito sperimentale, il giovane artista ripropone per esempio, tra i vari “segreti” tecnici, un raffinato virtuosismo usato da Tiziano, che consiste nello stendere delle pennellate a secco su un fondo a trama forte, cosicché da lontano l'effetto raggiunto è quello di una morbida vibrazione cromatica._
 

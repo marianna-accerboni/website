@@ -14,11 +14,11 @@ info:
     - /media/events/giorgetta-dorfles-la-linea-del-tempo-2013/invito.pdf
 press:
   pressRelease: |-
-    ![Giorgetta Dorfles](/media/events/giorgetta-dorfles-la-linea-del-tempo-2013/Giorgetta_Dorfles.JPG "Giorgetta Dorfles")
-
     **Martedì 19 marzo 2013 alle ore 18.00 nella Sala _Paolo Alessi_ del Circolo della Stampa di Trieste (corso Italia, 13) avrà luogo la presentazione del video libro di Giorgetta Dorfles intitolato _La linea del tempo_ (Il ramo d'Oro editore, pgg. 91,00, € 10,00), che propone una raccolta di intense e raffinate poesie recenti dell'autrice, “visualizzate” dalla stessa in un interessante e delicato video allegato in forma di DVD al volume, di cui la scrittrice ha realizzato le riprese, il montaggio e il testo. All'incontro, organizzato e condotto dall'architetto Marianna Accerboni, interverrà il poeta e critico letterario Roberto Dedenaro. Letture di liriche scelte dell'attrice Giovanna Artico. L'autrice sarà presente.**
 
     _Un groviglio di temi radicati nella vita quotidiana vengono dipanati, uno ad uno, in quadri brevi che scandagliano l'interiorità. Qui siamo di fronte alla vita come si dispiega, con i suoi conflitti, le sue incongruenze, le lacune, i desideri mancati. Le parole sono puntuali riflessioni in forma di immagini, espressioni che tendono alla chiarezza intellettuale ed evidenziano una consapevolezza del senso dell'esistere in questo mondo._
+
+    ![Giorgetta Dorfles](/media/events/giorgetta-dorfles-la-linea-del-tempo-2013/Giorgetta_Dorfles.JPG "Giorgetta Dorfles")
 
     ![Giorgetta Dorfles - copertina video libro](/media/events/giorgetta-dorfles-la-linea-del-tempo-2013/Giorgetta_Dorfles_-_copertina_video_libro.jpg "Giorgetta Dorfles - copertina video libro")
 

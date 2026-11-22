@@ -14,11 +14,11 @@ subEvents:
   - - "Sedi espositive"
 press:
   pressRelease: |-
-    ![Disegno umoristico d'ispirazione militare, 1982 - tecnica mista](/media/events/dominioni-gorizia-mostra-diffusa-2013/_Disegno_umoristico_dispirazione_militare_1982__tecnica_mista.jpg "Disegno umoristico d'ispirazione militare, 1982 - tecnica mista")
-
     **Verrà inaugurata, da lunedì 4 novembre 2013 alle 18.30 alla Galleria Dora Bassi di Gorizia e** successivamente in altre 6 sedi storiche di Gorizia e della Regione, un'importante e articolata mostra diffusa di progetti, disegni, dipinti, scritti, documenti e testimonianze su **Paolo Caccia Dominioni** (Nerviano, prov. di Milano 1896 - Roma 1992), **architetto, artista, scrittore e soldato** noto a livello internazionale.
 
     La rassegna – ideata e curata dall'architetto e critico d'arte **Marianna Accerboni** con l'approfondimento storico dell'**Ammiraglio Sq. Ferdinando Sanfelice di Monteforte,** docente di Strategia alla Cattolica di Milano e alle Università di Firenze e Trieste Polo di Gorizia, già Rappresentante Militare per l'Italia presso i Comitati Militari NATO e EU - vuole ripercorrere attraverso più di 600 pezzi provenienti dai Musei Provinciali - Museo della Grande Guerra di Gorizia, dal Museo del Genio di Roma, dalle famiglie Formentini, Cosolo, Lantieri, Cantoni Burr e da collezionisti privati, i momenti salienti della poliedrica attività di architetto, ingegnere, pittore, formidabile disegnatore, illustratore e scrittore di Paolo Caccia Dominioni.
+
+    ![Disegno umoristico d'ispirazione militare, 1982 - tecnica mista](/media/events/dominioni-gorizia-mostra-diffusa-2013/_Disegno_umoristico_dispirazione_militare_1982__tecnica_mista.jpg "Disegno umoristico d'ispirazione militare, 1982 - tecnica mista")
 
     Riportandolo idealmente a Gorizia e nei luoghi nei quali combattè durante il primo Conflitto Mondiale e successivamente visse, la mostra si inserisce nei grandi eventi in ricordo di Caccia Dominioni. Tra questi ricordiamo l'intitolazione di una via di Milano – prevista a breve – e l'importante rassegna organizzata dall'Istituto Italiano di Cultura di Ankara in Turchia nel 2012, dove Caccia Dominioni progettò nel 1939 la sede dell'ambasciata italiana.
 
@@ -48,35 +48,24 @@ press:
 
     ![La rosa e l'elmetto bucato - reminescenza di 60 anni fa, 1915-1975 - tecnica mista su carta](/media/events/dominioni-gorizia-mostra-diffusa-2013/La_rosa_e_lelmetto_bucato_-_reminescenza_di_60_anni_fa_1915-1975_-_tecnica_mista_su_carta.jpg "La rosa e l'elmetto bucato - reminescenza di 60 anni fa, 1915-1975 - tecnica mista su carta")
 
-    La mostra sarà sottolineata dai seguenti appuntamenti:
+    **Appuntamenti**
 
-    **GIOVEDÌ 21 NOVEMBRE DALLE ORE 17**
+    **Giovedì 21 novembre, dalle ore 17**
+    - Evento: visita guidata
+    - Dove: Biblioteca Statale Isontina
 
-    visita guidata
+    **Venerdì 22 novembre, ore 18**
+    - Evento: presentazione del video dedicato a Caccia Dominioni con le testimonianze inedite di chi lo conobbe
+    - Dove: Sala del Consiglio del Comune di Gorizia · Piazza Municipio 1
 
-    Biblioteca Statale Isontina
+    **Sabato 14 dicembre, ore 10.00**
+    - Evento: visita guidata nei luoghi del Carso che videro presente Caccia Dominioni nel I° conflitto mondiale
 
-    **VENERDÌ 22 NOVEMBRE ORE 18**
+    **Ogni domenica, ore 16.30**
+    - Evento: visita guidata alla mostra con partenza da Palazzo Lantieri
 
-    Presentazione del video dedicato a Caccia Dominioni con le testimonianze inedite di chi lo conobbe
-
-    Sala del Consiglio del Comune di Gorizia
-
-    Piazza Municipio 1
-
-    **SABATO 14 DICEMBRE ORE 10.00**
-
-    visita guidata nei luoghi del Carso
-
-    che videro presente Caccia Dominioni nel I° conflitto mondiale
-
-    **OGNI DOMENICA ORE 16.30**
-
-    visita guidata alla mostra con partenza da Palazzo Lantieri
-
-    **OGNI DOMENICA ORE 18**
-
-    visita guidata alla mostra con partenza dalla Galleria _Dora Bassi_
+    **Ogni domenica, ore 18**
+    - Evento: visita guidata alla mostra con partenza dalla Galleria Dora Bassi
 
     L'evento espositivo si svolge in collaborazione e con il supporto di importanti realtà istituzionali, come la il **Comune di Gorizia, Prefettura di Gorizia**, la **Provincia di Gorizia, Musei Provinciali di Gorizia - Museo della Grande Guerra,** la **Biblioteca Statale Isontina di Gorizia,** la **Biblioteca Statale _Stelio Crise_ di Trieste,** l'**Archivio di Stato di Gorizia,** il **Ministero per i Beni e le Attività Culturali**, la **Fondazione Cassa di Risparmio di Gorizia,** il **Comune di Fogliano Redipuglia**, la **Pro Loco Redipuglia - Sentieri di pace,** le **Ferrovie dello Stato, l'Ufficio Storico del V Reparto dello Stato Maggiore della Difesa - col. Matteo Paesano**, l'**Ufficio Storico del V Reparto dello Stato Maggiore dell'Esercito - col. Antonino Zarcone,** gli **Alpini di Fogliano Redipuglia,** gli **Alpini di Fogliano Redipuglia,** il **Rotary Club di Gorizia** (di cui Dominioni fu socio onorario e per cui disegnò il logo tuttora in uso), il **Rotary Club di Muggia (Trieste),** la **FIDAPA** (Federazione Italiana Donne Arti Professioni Affari), e con il contributo di **Banca di Credito Cooperativo di Turriaco, Gruppo culturale AJSER 2000** e il **Gruppo Hermada Flavio Vidonis, Associazione Culturale Isonzo - Gruppo di ricerca storica, l'Azienda Agricola Zidarich** di Prepotto (Duino Aurisina, Trieste), l'**Azienda Vitivignicola Filippon di Lorenzo Comelli** (Ramandolo, Udine), l'**Hotel Entourage, Grafica Goriziana, Studio Faganel.**
 

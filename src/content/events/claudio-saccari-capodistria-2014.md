@@ -16,13 +16,13 @@ info:
     - /media/events/claudio-saccari-capodistria-2014/invito.pdf
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/0kuLjeG__FQ" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura martedì 8 aprile alle 18 al Museo Regionale di Capodistria, situato nel prestigioso Palazzo Belgramoni Tacco e diretto da Luka Juri, una fascinosa rassegna dedicata all'artista-fotografo triestino Claudio Saccari e curata da Marianna Accerboni, che introdurrà l'esposizione: in mostra più di una quarantina di immagini realizzate per la maggior parte tra il 2013 e il 2014 sull'amato tema del paesaggio**. L'itinerario, ideato da Saccari ad hoc per la mostra, parte da Trieste, scende a Capodistria e lungo la costa fino a Pirano, da dove risale attraverso la parte interna collinare della Slovenia sino a Lubiana. Da qui entra nella Venezia Giulia attraverso Tarvisio per ritornare a Trieste, passando per il Carso triestino e sloveno e concludersi a Capodistria. **Si ripete ancora una volta in questa mostra l'incanto estetico e concettuale, che ha affascinato di recente il pubblico di Bruxelles, dove Saccari ha esposto con grande successo.**
 
     Fino al 4 maggio (orario: da mart a ven 9 - 17/ sab, dom e festivi 11 - 17/ lun e 1° maggio chiuso/ sab 2 maggio 11 - 20/ info 348 4503368).
+
+    <iframe src="https://www.youtube.com/embed/0kuLjeG__FQ" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Artista calibrato e immaginifico_ - scrive Marianna Accerboni - _Saccari ha dimostrato già ripetutamente un personalissimo talento nel raccontare le anime dei luoghi e delle persone, riuscendo a inserire nelle proprie immagini un melange di mistero e sensibilità, estro fantastico e poetico, temperati da un senso della misura che non limita, ma anzi - magicamente - rende ancora più incisivo e convincente il suo messaggio artistico._
 

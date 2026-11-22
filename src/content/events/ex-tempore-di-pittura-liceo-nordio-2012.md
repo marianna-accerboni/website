@@ -16,9 +16,11 @@ subEvents:
   - - "Assegnati il premio e le menzioni per l'ex tempore di pittura al liceo artistico “Nordio”: venerdì 11 maggio la premiazione ufficiale e la vernice della mostra"
 press:
   pressRelease: |-
-    **Ex tempore: sabato 21 aprile 2012 dalle ore 12.00 alle 18.00**
-
-    **Dove:** Istituto Statale d'Arte Enrico e Umberto Nordio · via di Calvola 2 · Trieste. **Quando:** 21 aprile 2012. **Orari:** dalle ore 12:00 alle ore 18:00. **A cura di:** Marianna Accerboni. **Info e contatti:** +39 335 6750946
+    **Ex tempore di pittura**
+    - Quando: sabato 21 aprile 2012, dalle 12.00 alle 18.00
+    - Dove: Istituto Statale d'Arte Enrico e Umberto Nordio · via di Calvola 2 · Trieste
+    - A cura di: Marianna Accerboni
+    - Info e contatti: +39 335 6750946
 
     ![Chersicla Nettuno](/media/events/ex-tempore-di-pittura-liceo-nordio-2012/Chersicla_Nettuno.jpg "Chersicla Nettuno")
 

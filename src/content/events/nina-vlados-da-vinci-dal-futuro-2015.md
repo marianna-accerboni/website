@@ -16,11 +16,11 @@ info:
     - /media/events/nina-vlados-da-vinci-dal-futuro-2015/invito.pdf
 press:
   pressRelease: |-
-    ![Lira Apolona, 2005 - tecnica mista - cm 44x62](/media/events/nina-vlados-da-vinci-dal-futuro-2015/Lira_Apolona_2005_-_tecnica_mista_-_cm_44x62.jpg.jpg "Lira Apolona, 2005 - tecnica mista - cm 44x62")
-
     **S'inaugura il 18 giugno alle 18 alla Sala _Arturo Fittke_ di Trieste (piazza Piccola 3) la personale della pittrice russa Nina Vlados, intitolata _Da Vinci dal futuro_, che sarà presentata dall'arch. Marianna Accerboni.** In esposizione **una serie di raffinate e poetiche tecniche miste e disegni a matita in bianco e nero, realizzati dall'artista negli ultimi 15 anni** (fino al 30 giugno/ orario: feriale e festivo 10 · 13 e 17 · 20/ info +386 31287898).
 
     _Un'energia cromaticamente armonica pervade il tessuto vitale_ - scrive Accerboni - _si posa sulla pittura e s'intreccia all'arte di Nina Vlados, artista esoterica_ _russa nata a Soči sul Mar Nero, attiva da un anno a Trieste._
+
+    ![Lira Apolona, 2005 - tecnica mista - cm 44x62](/media/events/nina-vlados-da-vinci-dal-futuro-2015/Lira_Apolona_2005_-_tecnica_mista_-_cm_44x62.jpg.jpg "Lira Apolona, 2005 - tecnica mista - cm 44x62")
 
     _Soave, lieve ma intenso, il segno della pittrice, che è autodidatta e dipinge da una quindicina d'anni, c'induce a una sorta di serena meditazione, come se la musica per cui lei scrive i versi, raccolti di recente in due libri (editi in russo e sloveno), facesse vibrare dolcemente e ritmicamente la carta che fa da supporto alle opere._
 

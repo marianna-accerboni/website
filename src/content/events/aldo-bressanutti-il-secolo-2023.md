@@ -22,11 +22,11 @@ subEvents:
   - - Nell’ambito della mostra diffusa “Il secolo di Aldo Bressanutti”, dedicata ai cent’anni del pittore triestino, mercoledì 25 e martedì 31 ottobre 2023 alla biblioteca statale Stelio Crise di Trieste avrà luogo una visita guidata condotta dalla curatrice Marianna Accerboni
 press:
   pressRelease: |-
-    ![Il lago azzurro, 1947 - olio su tavola - cm. 54x43](/media/secolo_aldo_bressanutti-il-lago-azzurro-1947-olio-su-tavola-cm-54x43.jpg "Il lago azzurro, 1947 - olio su tavola - cm. 54x43")
-
     **S’inaugura venerdì 13 ottobre alle 18.30 alla Biblioteca statale Stelio Crise di Trieste la prima tappa della mostra diffusa “Il secolo di Aldo Bressanutti”, che trae origine da un’idea di suo figlio Furio, per festeggiare i cent’anni di età del pittore Aldo Bressanutti e i suoi ottant’anni di attività artistica, che tutt’ora prosegue.** **Realizzata in collaborazione con la Biblioteca statale Stelio Crise e curata dall’arch. Marianna Accerboni, l’esposizione alla Biblioteca propone un’ottantina di opere tra importanti oli di tema surreale e vedute di Cittavecchia**, testimoni di una Trieste che non esiste più, **e** **acqueforti** sullo stesso tema. Un’ampia sezione della mostra esporrà documenti, foto, cataloghi, calendari e libri illustrati da Bressanutti e varie testimonianze sulla vita e l’opera dell’artista, accanto a piatti in ceramica realizzati in tiratura limitata e numerati. Visitabile **fino al 6 dicembre**, la rassegna sarà sottolineata da diversi appuntamenti collaterali.
 
     **Il 20 ottobre il Comune di Monfalcone renderà omaggio fino al 1 dicembre all’artista**, di famiglia triestina, nato per caso a Latisana nel 1923, ma vissuto per molti anni a Monfalcone. Verranno esposti **nel Palazzo Municipale fino al 1 dicembre 12 grandi oli** raffiguranti le sue caratteristiche vedute d’interni, da quelle degli esordi e della maturità, affastellate di oggetti e di ricordi, a quelle più essenziali realizzate dagli inizi degli anni 2000 in poi.
+
+    ![Il lago azzurro, 1947 - olio su tavola - cm. 54x43](/media/secolo_aldo_bressanutti-il-lago-azzurro-1947-olio-su-tavola-cm-54x43.jpg "Il lago azzurro, 1947 - olio su tavola - cm. 54x43")
 
     Seguiranno due mostre allestite alla **Galleria Rettori Tribbio**, spazio espositivo di riferimento dell’artista a Trieste: **la prima** **dal 28 ottobre al 10 novembre e la seconda dal 25 novembre all’8 dicembre, in cui verranno esposte, complessivamente, una sessantina di vedute di interni.**
 

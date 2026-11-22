@@ -19,25 +19,22 @@ subEvents:
   - - "I Krampus di Masa: sabato 27 dicembre 2014 si apre ufficialmente al Museo Antiquarium di Camporosso (Tarvisio) la mostra dedicata dal giovane pittore veneto alle inquietanti e selvagge figure silvestri della tradizione austro-tedesca"
 press:
   pressRelease: |-
-    **DOVE E ORARIO:**
+    **Sedi e orari**
 
-    **Torre medioevale · piazza Unità d'Italia · Tarvisio (UD)**
+    **Torre medioevale**
+    - Indirizzo: piazza Unità d'Italia · Tarvisio (UD)
+    - Inaugurazione: venerdì 5 dicembre, ore 11
+    - Orario: da lun a ven 10 – 12 e 16 – 18 / sab 10 – 12 e 16 – 19 / dom 10 – 13
 
-    inaugurazione: venerdì 5 dicembre ore 11
+    **Museo Antiquarium**
+    - Indirizzo: Vicolo Florianca · Camporosso · Tarvisio (UD)
+    - Visita guidata: sabato 27 dicembre, ore 18.30
+    - Orario: ven, sab e dom 10 – 12 e 15 – 18
 
-    da lun a ven 10 - 12 e 16 - 18 / sab 10 - 12 e 16 - 19 / dom 10 - 13
-
-    **Museo Antiquarium · Vicolo Florianca · Camporosso · Tarvisio (UD)**
-
-    visita guidata sabato 27 dicembre ore 18.30
-
-    ven sab e dom 10 - 12 e 15 - 18
-
-    **Reporter's · via Roma 15 · Tarvisio (UD)**
-
-    opening sabato 6 dicembre ore 17
-
-    tutti i giorni 9 - 12.30 e 15 - 19
+    **Reporter's**
+    - Indirizzo: via Roma 15 · Tarvisio (UD)
+    - Opening: sabato 6 dicembre, ore 17
+    - Orario: tutti i giorni 9 – 12.30 e 15 – 19
 
     <iframe src="https://www.youtube.com/embed/f3PCef1qWm4" width="300" height="288" allowfullscreen="allowfullscreen"></iframe>
 
@@ -49,21 +46,7 @@ press:
 
     **Interverranno l'Assessore alla Cultura del Comune di Tarvisio Nadia Campana, il collezionista Maurizio Zanei e la curatrice Marianna Accerboni**
 
-    **Inaugurazione:**
-
-    **· Torre medioevale · venerdì 5 dicembre ore 11 · piazza Unità d'Italia · Tarvisio (UD)**
-
-    **Altre sedi della mostra**
-
-    **· Museo Antiquarium · Vicolo Florianca · Camporosso · Tarvisio (UD)**
-
-    **_visita guidata_ sabato 27 dicembre ore 18.30**
-
-    **· Reporter's · via Roma 15 · Tarvisio (UD)**
-
-    **_opening_ sabato 6 dicembre ore 17**
-
-    **_In tutte le 3 sedi la rassegna sarà visitabile dal 5 dicembre 2014 all'11 gennaio 2015._**
+    **In tutte le 3 sedi la rassegna sarà visitabile dal 5 dicembre 2014 all'11 gennaio 2015.**
 
     **S'inaugura venerdì 5 dicembre 2014 alle ore 11 alla TORRE MEDIOEVALE di Tarvisio (Udine) in piazza Unità d'Italia, un'originale rassegna** intitolata **“I Krampus di Masa”,** che propone **una settantina di opere pittoriche del giovane artista veneto Davide Maset in arte Masa,** dedicate in gran parte alle mitiche, selvagge e inquietanti figure silvestri della tradizione austro-tedesca.
 

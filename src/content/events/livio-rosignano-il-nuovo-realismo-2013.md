@@ -20,13 +20,13 @@ subEvents:
   - - "Prorogata fino al 12 maggio 2013 per il grande successo di pubblico la mostra Il nuovo realismo di Livio Rosignano alla Lux Art Gallery di Trieste"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/6YbdH-QD_wA" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura venerdì 5 aprile alle 19 **negli ampi spazi della Lux Art Gallery (via Rittmeyer 7/A), diretta da Giorgio Parovel, un'importante rassegna intitolata “Il nuovo Realismo” del pittore Livio Rosignano, dedicata al decano degli artisti triestini a cura dell'arch. Marianna Accerboni:** in mostra più di una sessantina di oli recenti, per la maggior parte inediti e di grande dimensione, accanto a qualche dipinto del passato esposto a testimonianza dell'evoluzione del linguaggio dell'artista verso il suo lessico attuale.
 
     _Il pittore palesa il suo Nuovo Realismo_ - scrive Accerboni - _connotando la propria pittura di un intreccio di linee più essenziali, che definiscono e compendiano i pieni e i vuoti, ammantandola di un cromatismo più limpido e di una luce nuova, più chiara e serena, dinamica e ispirata, che intride di nuova vita le sue opere._
+
+    <iframe src="https://www.youtube.com/embed/6YbdH-QD_wA" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Nella polvere del tempo e nella luce del sole del suo atelier che guarda i tetti di Trieste, Livio Rosignano - l'espressione degli occhi oscillante tra malinconico sentire e sguardo sbarazzino di ragazzo dalla vitalità incontenibile - ci propone il suo “nuovo realismo” attraverso una ricchissima raccolta di dipinti realizzati negli ultimi tempi: tra tutti si fa notare, delicatissima, luminosa ed essenziale, una grande tela di 2 metri per 1 e mezzo, quasi un arazzo contemporaneo, che ci racconta, mediante un cromatismo limpido e impalpabile, sostenuto da una prospettiva perfetta, il fascino azzurro del nostro mare._
 

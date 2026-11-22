@@ -16,11 +16,11 @@ info:
     - /media/events/atelier-mozina-allievi-2018/invito.pdf
 press:
   pressRelease: |-
-    ![Alice Bellettini , 2017/ 2018 - Genzianelle triestine - cm 40x40](/media/events/atelier-mozina-allievi-2018/Alice_Bellettini__2017_2018_-_Genzianelle_triestine_-_cm_40x40.jpg "Alice Bellettini , 2017/ 2018 - Genzianelle triestine - cm 40x40")
-
     **Sabato 25 agosto alle 18 s'inaugura alla Galleria _Rettori Tribbio_ di Trieste (piazza Vecchia 6) la mostra, quest'anno intitolata _Atelier Možina. La tradizione verso il futuro_ e giunta alla IX edizione, che propone le opere realizzate nel 2017/ 2018 dai numerosi allievi del corso che il maestro tiene in Galleria. La rassegna, che sarà introdotta dall'architetto Marianna Accerboni**, **propone dipinti di gusto figurativo, realizzati tutti a olio su tela o su tavola, ognuno dei quali rappresenta il quadro simbolo tra i molti realizzati nel corso dell'anno da ciascun artista**.
 
     **Fino al 7 settembre** (orario: feriali 10 · 12.30 e 17 · 19.30 / domenica 10 · 12 / venerdì pomeriggio e lunedì chiuso/ info 335 6750946).
+
+    ![Alice Bellettini , 2017/ 2018 - Genzianelle triestine - cm 40x40](/media/events/atelier-mozina-allievi-2018/Alice_Bellettini__2017_2018_-_Genzianelle_triestine_-_cm_40x40.jpg "Alice Bellettini , 2017/ 2018 - Genzianelle triestine - cm 40x40")
 
     _E' ricca d'intimità e di vivaci appunti cromatici,_ - scrive Accerboni - _questa nuova mostra che propone i lavori realizzati dagli allievi dell'atelier del Maestro Livio Možina durante l'anno accademico 2017/ 2018: la paziente opera di affinamento delle doti artistiche degli affezionati partecipanti ai laboratori, che il pittore triestino conduce dal 2009 alla Galleria Rettori Tribbio di Trieste, produce come sempre i suoi frutti. L'approfondimento delle tecniche pittoriche, che si sviluppa a partire da un accurato esercizio del disegno, si manifesta attraverso la luce - dote essenziale in ogni buon dipinto - e la credibilità della composizione pittorica, equilibrata e spesso ricca di afflato poetico e di grinta. Perché, oltre alla professionalità dell'insegnare, Možina fa sì che ogni artista presente sia libero di esprimersi secondo il linguaggio che più gli è affine, cosa non molto diffusa anche nelle Accademie istituzionali, che nella Regione Friuli Venezia Giulia purtroppo latitano e a cui realtà didattiche come l'Atelier Možina sopperiscono. Cosicchè l'atmosfera generale della mostra offre al fruitore quel senso di genuino entusiasmo, che rappresenta un quoziente molto importante nelle rassegne d'arte._
 

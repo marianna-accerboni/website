@@ -18,13 +18,13 @@ subEvents:
   - - "Ieri oggi domani: sabato 6 agosto 2016 alla Sala Comunale d'Arte di Trieste finissage della mostra personale del pittore Sergio Bastiani"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/rASNJxeE0ag" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'Inaugurazione
-
     **Martedì 19 luglio 2016 alle ore 19 alla Sala Comunale d'arte di Trieste** (piazza Unità d'Italia 4) avrà luogo **l'inaugurazione della personale del pittore Sergio Bastiani intitolata “Ieri, oggi, domani”, che sarà presentata sul piano critico dall'arch. Marianna Accerboni**. In mostra una trentina di opere che riassumono la poliedrica sperimentazione svolta dall'artista dagli anni ottanta a oggi. Fino al 6 agosto (orario: feriale e festivo 10 · 13 / 17 · 20).
 
     Scrive Marianna Accerboni _-_ Appartato interprete di alcune delle istanze artistiche del secondo Novecento e solerte sperimentatore, Sergio Bastiani presenta in questa mostra una sintesi della propria creatività dalla fine degli anni Settanta a oggi. L'itinerario prende il via da un'interpretazione figurativa della realtà, che il pittore approccia e persegue inizialmente a olio, dedicandosi in particolare al tema di Città Vecchia e ampliando poi la sua visione attraverso calibrati momenti lirici quali per esempio _Alba invernale_ e _Alberi di cristallo_. La ricerca prosegue quindi mediante lo sviluppo del concetto di matericità e di adesione al contingente e al quotidiano, simbolizzati per esempio dalla cerniera applicata sulla tela, che si apre verso i disabili nel 2003, proprio nell'anno a loro dedicato.
+
+    <iframe src="https://www.youtube.com/embed/rASNJxeE0ag" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'Inaugurazione
 
     In altri lavori, come per esempio _Ecstasy_ ed _Energia_ del 2003, Bastiani affronta invece in modo agile e originale e con naturalezza il versante concettuale. Ma nel frattempo, quasi fosse una scelta virtuosistica, si cimenta nel tema - difficile per ogni artista - del ritratto, in cui se la cava benissimo, donando l'anima al soggetto.
 

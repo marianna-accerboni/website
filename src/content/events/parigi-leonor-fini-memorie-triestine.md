@@ -16,25 +16,18 @@ subEvents:
   - - "Il catalogo della mostra “Leonor Fini. Memorie triestine” (edito dall'Istituto Italiano di Cultura di Parigi) a Radio Rai, trasmissione Sconfinamenti, 17 gennaio 2022"
 press:
   pressRelease: |-
-    ![Ballerina al banco, anni '60 - acquerello - cm. 60x40 - coll. privata, Trieste](/media/events/leonor-fini-memorie-triestine-parigi/Ballerina_al_banco_anni_60_-_acquerello_-_cm._60x40_-_coll._privata_Trieste.jpg "Ballerina al banco, anni '60 - acquerello - cm. 60x40 - coll. privata, Trieste")
-
     **Una mostra multimediale di pittura, musica e percezione olfattiva**, che indaga per la prima volta in Francia la personalità e l'arte della grande pittrice triestina e inaugura il ciclo **Insaisissable Trieste** dedicato alla città giuliana e alla sua cultura, che si concluderà il **4 novembre**.
 
-    **Istituto Italiano di Cultura di Parigi**
-
-    7 ottobre – 4 novembre 2021  
-    Vernissage 6 ottobre 2021 dalle 18:00
-
-    ideazione, allestimento e curatela
-
-    **Marianna Accerboni**
-
-    mostra promossa da
-
-    **Istituto Italiano di Cultura di Parigi**  
-    In collaborazione con **PromoTurismoFVG**
+    **Leonor Fini. Memorie triestine · Istituto Italiano di Cultura di Parigi**
+    - Periodo: 7 ottobre – 4 novembre 2021
+    - Vernissage: 6 ottobre 2021, dalle 18.00
+    - Ideazione, allestimento e curatela: Marianna Accerboni
+    - Mostra promossa da: Istituto Italiano di Cultura di Parigi
+    - In collaborazione con: PromoTurismoFVG
 
     A 25 anni dalla morte di **Leonor Fini**, pittrice surrealista, ma anche costumista, scenografa, illustratrice e scrittrice di fama e frequentazioni internazionali, **la mostra organizzata dall'Istituto Italiano di Cultura di Parigi e intitolata _Leonor Fini. Memorie triestine_, propone dal 7 ottobre al 4 novembre 2021 una rilettura del tutto inedita della personalità e della creatività dell'artista** (Buenos Aires 1907 - Parigi 1996), analizzando il suo intenso e fondamentale rapporto con la città d'origine della madre. Trieste appunto, dove Malvina Braun condusse la figlia all'età di un anno e dove Leonor si formò sul piano artistico culturale e su quello umano e personale fino all'età di circa vent'anni, rimanendovi sempre molto legata.
+
+    ![Ballerina al banco, anni '60 - acquerello - cm. 60x40 - coll. privata, Trieste](/media/events/leonor-fini-memorie-triestine-parigi/Ballerina_al_banco_anni_60_-_acquerello_-_cm._60x40_-_coll._privata_Trieste.jpg "Ballerina al banco, anni '60 - acquerello - cm. 60x40 - coll. privata, Trieste")
 
     <iframe src="https://www.youtube.com/embed/SD6iyunsJH0?si=lu-UhB8FVIDmzQLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

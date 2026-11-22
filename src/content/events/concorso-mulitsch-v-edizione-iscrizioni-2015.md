@@ -6,10 +6,6 @@ coverImage: /media/events/concorso-mulitsch-v-edizione-iscrizioni-2015/Dario_Mul
 info: null
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/v2IoEjQ_6ZY" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video della conferenza stampa
-
     [**>> SCARICA LA BROCHURE <<**](/media/events/concorso-mulitsch-v-edizione-iscrizioni-2015/invito.pdf)
 
     **CONFERENZA STAMPA**
@@ -21,6 +17,10 @@ press:
     L'Associazione culturale Concorso di Pittura “Dario Mulitsch” di Gorizia Vi invita alla **conferenza stampa di presentazione** del **prestigioso Concorso internazionale di Pittura _Dario Mulitsch_ 2015**, che, con cadenza biennale, è **giunto quest'anno alla V edizione ed è insignito della medaglia del Presidente della Repubblica.** L'evento è intitolato dalla moglie Caterina alla figura di **Dario Mulitsch, illuminato imprenditore goriziano di antica nobiltà sassone, fondatore del Centro Culturale _Tullio Crali_ e appassionato promotore della cultura e delle arti**.
 
     Interverranno **un rappresentante del Comune di Gorizia, l'Assessore alla Cultura della Provincia Federico Portelli, la presidente dell'Associazione culturale _Dario Mulitsch_ Caterina Trevisan Mulitsch e l'arch. Marianna Accerboni, membro di Giuria nelle edizioni 2010, 2012 e di quella attuale.**
+
+    <iframe src="https://www.youtube.com/embed/v2IoEjQ_6ZY" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video della conferenza stampa
 
     ![2.Premio pittura Mulitsch 2010-inaugurazione](/media/events/concorso-mulitsch-v-edizione-iscrizioni-2015/2.Premio_pittura_Mulitsch_2010-inaugurazione.jpg "2.Premio pittura Mulitsch 2010-inaugurazione")
 

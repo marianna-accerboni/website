@@ -16,11 +16,11 @@ info:
     - /media/events/giorgetta-dorfles-controcanto-2012/invito.pdf
 press:
   pressRelease: |-
-    ![Corale, 2008 - pellicola bianco e nero - cm 30x40](/media/events/giorgetta-dorfles-controcanto-2012/Corale_2008_-_pellicola_bianco_e_nero_-_cm_30x40.jpg "Corale, 2008 - pellicola bianco e nero - cm 30x40")
-
     **S'inaugura venerdì 28 settembre 2012 alle ore 19 alla Sala Comunale d'Arte di Trieste la mostra fotografica di Giorgetta Dorfles, intitolata “Controcanto”, che sarà introdotta sul piano critico dall'arch. Marianna Accerboni.** In esposizione **una trentina di foto realizzate dal 2001 al 2011 in bianco e nero e a colori con tecnica sia analogica che digitale**. La rassegna si articola in due sezioni: la prima, intitolata **_Il mondo nuovo_**, e la seconda **_Astrazioni_**. Fino al 17 ottobre (orario: feriale e festivo 10 · 13 / 17 · 20).
 
     _Controcanto: il titolo_ - scrive Accerboni - _allude alla posizione dell'artista che si colloca in contrasto e in dissonanza con la consueta visione della realtà e con la conformistica adesione ai canoni imperanti nella società dei consumi. Le sue foto, infatti, o sono apertamente critiche verso gli aspetti più deteriori della modernità - spreco, inquinamento, offese alla natura e al paesaggio - oppure mettono in risalto un sottofondo inquietante catturato tra le pieghe della normalità. Per ottenere questo effetto la Dorfles non ricorre ad alcuna tecnica legata ai programmi di photo-shop o di postproduzione, ma si affida al suo occhio che sa cogliere particolari che, stravolgendo il dato percettivo immediato, assumono un significato allusivo o simbolico._
+
+    ![Corale, 2008 - pellicola bianco e nero - cm 30x40](/media/events/giorgetta-dorfles-controcanto-2012/Corale_2008_-_pellicola_bianco_e_nero_-_cm_30x40.jpg "Corale, 2008 - pellicola bianco e nero - cm 30x40")
 
     _Nella sezione “Il mondo nuovo” viene descritta una natura artificiale, dove le spighe del granoturco sono quasi concresciute nella plastica e gli alberi mostrano infiorescenze di sacchi lacerati simili a fantasmi. La feroce esecuzione delle bambole, oltre ad alludere alla rottamazione dei semplici giochi di un tempo che stimolavano l'immaginazione dei bambini, oggi costretti alla fruizione passiva di fronte a un monitor, ricorda anche la violazione e il sacrificio dell'infanzia nelle ultime guerre funestate da vittime civili._
 

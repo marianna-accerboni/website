@@ -16,11 +16,11 @@ info:
     - /media/events/claudio-barberi-disegni-1972-73-2016/invito.pdf
 press:
   pressRelease: |-
-    ![Img 1639](/media/events/claudio-barberi-disegni-1972-73-2016/Img_1639.jpg "Img 1639")
-
     **Sabato 14 maggio alle 18 al Museo Mini - Mu di Trieste** (Parco di S. Giovanni - via Weiss 15) **Marianna Accerboni e Maurizio Fanni presenteranno la mostra e il volume _Claudio Barberi disegni 1972 - 73_ (pgg. 104, edizione speciale di Juliet Editrice). Parteciperà l'artista.**
 
     **Il libro, con testi di Roberto Vitale, Accerboni, Massimiliano Spanu e Barberi, propone più di un centinaio di disegni e fumetti inediti, realizzati dall'autore intorno ai vent'anni. Freschezza e talento caratterizzano le chine, le tecniche miste, i pastelli, i disegni a penna, le cere, interpretando brillantemente, da promettente allievo dell'Istituto d'arte _Nordio_ gli anni Settanta, vissuti sul filo dell'ironia e dell'acuta osservazione del reale e della verità. Fino al 20 maggio** (orario: 16 · 20 e al mattino su prenotazione/ info 333 2611573 · www. mini - mu.it · info@mini - mu.it · [www.juliet](http://www.juliet) artmagazine.com).
+
+    ![Img 1639](/media/events/claudio-barberi-disegni-1972-73-2016/Img_1639.jpg "Img 1639")
 
     _A diciannove anni Claudio Barberi, autodidatta ma certamente più maturo rispetto alla sua età, sperimenta la propria capacità di espressione grafica attraverso vari media. Ognuno di questi rappresenta una scoperta preziosa e, spesso, la sintesi di più mezzi consente un chiaroscuro quasi pittorico, che spesso addolcisce sensibilmente il segno grafico._
 

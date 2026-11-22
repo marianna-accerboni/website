@@ -18,7 +18,10 @@ subEvents:
   - - "XVIII edizione della mostra di pittura La bellezza per la bontà – L'arte aiuta la vita: la seconda tappa al Castello di Duino (Trieste)"
 press:
   pressRelease: |-
-    **2° inaugurazione: 18 novembre 2017, ore 11.30**, al Castello di Duino (Trieste). **Quando:** 18 - 27 novembre 2017. **Orario:** nelle ore di apertura del Castello.
+    **Seconda sede: Castello di Duino (Trieste)**
+    - Inaugurazione: 18 novembre 2017, ore 11.30
+    - Periodo: 18 – 27 novembre 2017
+    - Orario: nelle ore di apertura del Castello
 
     <iframe src="https://www.youtube.com/embed/-VP6WBbhkPg" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
 

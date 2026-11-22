@@ -14,13 +14,13 @@ info:
   infoContacts: +39 335 6750946
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/Anmj6FAH0sg?list=PL8ECA9A67B301C51E" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura **sabato 12 marzo 2011 alle ore 18.00 alla Galleria Rettori Tribbio 2 (Piazza Vecchia, 6) di Trieste la mostra delle pittrici Frida e Gabriella Giurovich, che sarà introdotta dall'architetto Marianna Accerboni**. La rassegna, intitolata ”Rose dal cuore/ parole e colori./ Le emozioni”, propone **una trentina di opere, realizzate dalle artiste, che sono sorelle, secondo stili espressivi completamente diversi: figurativo e narrativo quello di Frida, che predilige i fiori e il paesaggio e li dipinge a olio oppure li rappresenta attraverso la tecnica incisoria, perfezionata alla Scuola dell'Acquaforte _Carlo Sbisà_ sotto la guida di Franco Vecchiet; espressionista quello di Gabriella, che interpreta e racconta le proprie emozioni soprattutto attraverso la figura umana, espresse mediante tecniche miste create prevalentemente nel 2010.**
 
     In modo molto originale e significativo **tutti i dipinti saranno accompagnati in mostra dai versi _Haiku_ della sociologa, scrittrice e poetessa Cristina Scoppetta**, che con una sua poesia Haiku ha interpretato nel titolo l'esposizione: versi sintetici e intriganti, ideati appositamente per ogni quadro, armoniosi nella composizione e nell'ascolto, i quali esprimono con inclinazione minimalista le emozioni ispirate all'autrice dai lavori in mostra o da un loro particolare, come per esempio il dato cromatico, secondo una formula poetica che risale al XVII secolo e rappresenta una parte molto importante dell'essenza più profonda della cultura nipponica.
+
+    <iframe src="https://www.youtube.com/embed/Anmj6FAH0sg?list=PL8ECA9A67B301C51E" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     Visitabile **fino all'25 marzo** (orario feriali 10.00 · 12.30 - 17.00 · 19.30 / festivi 11.00 · 12.30 / lunedì chiuso. Domenica 20 marzo, in occasione del Mercatino dell'antiquariato, orario 10.00 · 13.00 - 16.00 · 18.00).
 

@@ -18,13 +18,13 @@ subEvents:
   - - "Prorogata fino al 10 gennaio a Bruxelles nella sede di collegamento della Regione Autonoma Friuli Venezia Giulia, la mostra del fotografo-artista triestino Claudio Saccari intitolata L'anima di Trieste"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/4gZSQl-ODzo" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **conferenza stampa: giovedì 21 novembre 2013 ore 11.30 - Sede dell'Associazione Giuliani nel Mondo di Trieste** (via S. Caterina da Siena 7). Interverranno il Presidente Onorario dell'Associazione Giuliani nel Mondo **Dario Rinaldi**, il Direttore **Fabio Ziberna** e la curatrice **Marianna Accerboni**. Sarà presente l'Artista **Claudio Saccari**.
 
     **S'inaugura martedì 26 novembre 2013 alle ore 18.30 nella Sede dell'Ufficio di collegamento della Regione Autonoma Friuli Venezia Giulia a Bruxelles una rassegna dedicata alle Fotografia e alla Fine art del fotografo-artista Claudio Saccari, intitolata “L'Anima di Trieste”. Organizzata dall'Ufficio di collegamento della Regione nella capitale belga e dall'Associazione Giuliani nel Mondo di Trieste, presieduta da Dario Locchi e diretta da Fabio Ziberna, e di Bruxelles, presieduta da Flavio Tossi, l'esposizione è curata dall'architetto Marianna Accerboni: in mostra una settantina di immagini in bianco e nero stampate a pigmenti di carbone su carta 100% cotone, e a colori, stampate a pigmenti di colore su carta 100% cotone. Le opere sono realizzate prevalentemente negli ultimi anni e tra esse si contano numerosi inediti. Visitabile nella capitale belga fino al 20 dicembre 2013**.
+
+    <iframe src="https://www.youtube.com/embed/4gZSQl-ODzo" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     _Artista calibrato e immaginifico_ - scrive Accerboni - _Saccari ha dimostrato già ripetutamente un personalissimo talento nel raccontare le anime dei luoghi e delle persone, riuscendo a inserire nelle proprie immagini un_ melange _di mistero e sensibilità, estro fantastico e poetico, temperati da un senso della misura che non limita, ma anzi - magicamente - rende ancora più incisivo e convincente il suo messaggio artistico._
 

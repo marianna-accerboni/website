@@ -18,13 +18,13 @@ subEvents:
   - - "Prorogata fino al 5 gennaio all'Atelier WorkingART di Trieste la mostra MitoLogicaMente dell'artista fotografo Armando Casalino"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/yf3gvKcsiDY?rel=0" width="350" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     S'inaugura **sabato 8 dicembre 2012 alle ore 18.30 all'Atelier WorkingART (Via del Trionfo 1) di Trieste, la mostra _MitoLogicaMente_ dell'artista fotografo Armando Casalino, che sarà introdotta dall'architetto Marianna Accerboni. La rassegna** propone **21 foto di grande dimensione realizzate nel 2012 con tecnica digitale su supporto rigido**. Visitabile **fino al 22 dicembre** (orario: da lun a sab 10 · 12 e 16 · 19/ dom 10 · 12).
 
     _In un'epoca come quella contemporanea_ - scrive Accerboni - _in cui il mito, nell'accezione culturale del termine viene trascurato o addirittura negletto, come appare chiaramente anche nell'acuto saggio “Nuovi riti nuovi miti” di Gillo Dorfles, il fotografo-artista Armando Casalino compie un'operazione originale, raffinata e giocosa, nel riproporre i protagonisti di questo nostro passato remotissimo e ancestrale, secondo una mise en scène sottesa da una forte vis passionale e da un cromatismo icastico ed essenziale: un lavoro, in cui, sullo sfondo nero della scena, risulta protagonista la luce, ottenuta attraverso led, che sottolinea e attualizza il pathos antico e spesso estremo, nella sua violenza e nelle sue passioni, del mondo mitologico, espresso attraverso colori essenziali e decisi, simbolici._
+
+    <iframe src="https://www.youtube.com/embed/yf3gvKcsiDY?rel=0" width="350" height="288"></iframe>
+
+    Video dell'inaugurazione
 
     _Un lavoro di arte visiva che s'intreccia al concetto di regia, poiché i protagonisti di questa pièce silenziosa e accattivante sono coordinati in tal modo da Casalino, fino a comporre, con la collaborazione di truccatori, parrucchieri e costumisti, venti affreschi di grande impatto emotivo, in cui risuonano i grandi temi tragici ed eterni della violenza, dell'invidia, della guerra, dell'amore, della morte, del mistero e dell'inganno…_
 

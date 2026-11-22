@@ -18,13 +18,13 @@ press:
   pressRelease: |-
     _introduzione critica e allestimento di Marianna Accerboni_
 
-    ![Cracovia - Piazza Mercato, il Fondaco](/media/events/olga-micol-emozioni-e-sensazioni-vecchia-europa-2011/Cracovia_-_piazza_Mercato_-_Il_Fondaco__.jpg "Cracovia - Piazza Mercato, il Fondaco")
-
     **Lunedì 1 agosto alle ore 18.30 avrà luogo a Trieste allo storico Caffè Tommaseo (piazza Tommaseo 4/C) l'inaugurazione della mostra della fotografa triestina Olga Micol dedicata alla Polonia, che sarà presentata dall'architetto Marianna Accerboni.** L'esposizione, intitolata _Emozioni e sensazioni della Vecchia Europa_, proporrà una **quindicina d'immagini fotografiche a colori** realizzate dall'autrice in digitale nel corso di un viaggio organizzato dal Circolo Fotografico Fincantieri Wärtsilä e stampate da lei stessa. Una sintesi della mostra è già stata esposta in molte regioni italiane nell'ambito del circuito CIRMOF della F.I.A.F, che seleziona le immagini e gli autori migliori.  **Lunedì 22 agosto alle 18.30 al Caffè Tommaseo, in sostituzione di quelle esposte, verranno presentate al pubblico altre foto di Olga Micol inerenti lo stesso tema e saranno proiettati due video intitolati _Emozioni e sensazioni dalla vecchia Europa_ della stessa autrice:** un esaustivo reportage con testimonianze dei luoghi e degli aspetti più significativi delle città di Cracovia, Breslavia e Varsavia. **Fino al 4 settembre** (orario: tutti i giorni dalle 8 alle 23).
 
     ![Cracovia - Piazza del Mercato](/media/events/olga-micol-emozioni-e-sensazioni-vecchia-europa-2011/Cracovia_-_Piazza_del_Mercato_.jpg "Cracovia - Piazza del Mercato")
 
     **Olga Micol**, _attualmente presente con una sua opera anche alla Biennale FVG 2011 al Magazzino 26 del Porto Vecchio di Trieste, progetto a cura di Vittorio Sgarbi nell'ambito della 54° Biennale di Venezia –_ scrive Accerboni _– ha al suo attivo 25 mostre personali di successo, la partecipazione a numerose collettive e 12 volumi a tema fotografico, in cui immortala e trasmette le emozioni suscitate dai suoi frequenti viaggi in paesi lontani, quali lo Sri Lanka e l'India con particolare riferimento alle regioni del Ladakh e del Kashmir; l'Australia, la Nuova Zelanda e la Cina._
+
+    ![Cracovia - Piazza Mercato, il Fondaco](/media/events/olga-micol-emozioni-e-sensazioni-vecchia-europa-2011/Cracovia_-_piazza_Mercato_-_Il_Fondaco__.jpg "Cracovia - Piazza Mercato, il Fondaco")
 
     _Dal 2010 ha partecipato a 17 Concorsi Internazionali FIAP con 35 foto ammesse e molti riconoscimenti internazionali, tra cui 2medaglie d'oro e una menzione d'Onore in California._
 

@@ -18,13 +18,13 @@ subEvents:
   - - "Sculture nel roseto: prorogata fino al 19 giugno a Grignano (Trieste) la mostra personale di Annamaria Mitri. Giovedì 19 il finissage"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/tJGHvnwbkmg" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
-
-    Video dell'inaugurazione
-
     **S'inaugura a Trieste il 3 giugno alle 20 nello splendido giardino di via Grignano 1 della scultrice Annamaria Mitri, un'interessante e suggestiva rassegna delle opere realizzate in terracotta dall'artista nell'ultimo decennio. Curata dall'arch. Marianna Accerboni con scenografici effetti luce, la mostra s'intitola “Sculture nel roseto”**, poiché i racconti figurati della Mitri, connotati dal candore della Bellezza, sono inseriti nel suo grande e affascinante _giardino naturale_ a due passi dal mare, caratterizzato da cespugli di rose anche antiche e di piante rare, che l'artista cura con grande passione e amore, grazie pure ai suggerimenti dell'Associazione _Amici in giardino_.
 
     Mitri disegna, dipinge e scolpisce da sempre. Si è formata al Corso di Scenografia di Marianna Accerboni, a quelli di Modellazione di Laura Modolo e con lo scultore Giancarlo Buratti di Pietrasanta. **Ha esposto ripetutamente alla Sala Comunale d'Arte di Trieste**.
+
+    <iframe src="https://www.youtube.com/embed/tJGHvnwbkmg" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>
+
+    Video dell'inaugurazione
 
     ![Fuga dalla catastrofe (part. di un gruppo di statue ispirato al'11 settembre 2001), 2006 - terracotta e acrilico -01](/media/events/annamaria-mitri-sculture-nel-roseto-2014/Fuga_dalla_catastrofe_part._di_un_gruppo_di_statue_ispirato_al11_settembre_2001_2006_-_terracotta_e_acrilico_-01.jpg "Fuga dalla catastrofe (part. di un gruppo di statue ispirato al'11 settembre 2001), 2006 - terracotta e acrilico -01")
 

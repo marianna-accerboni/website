@@ -15,13 +15,13 @@ info:
 subEvents: []
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/YZOavv9W0JA?si=8dQNyksV2pWxfl9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    Video promo della mostra
-
     **Da domenica 4 settembre 2022** **sarà visitabile alla Galleria d’arte contemporanea Ghetto Et Cetera di Venezia (Campo del Ghetto novo 2919) la mostra personale “Infinito” dell’artista francese Ari Erom, pittore, scultore e grafico,** **curata dall’arch. Marianna Accerboni.**
 
     **La mostra sarà inaugurata** **in galleria domenica 4 settembre alle 12 alla presenza dell’artista con introduzione dell’arch.** **Marianna** **Accerboni. L’inaugurazione sarà visibile anche sul sito** **www.ghetto-etcetera.com**.
+
+    <iframe src="https://www.youtube.com/embed/YZOavv9W0JA?si=8dQNyksV2pWxfl9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    Video promo della mostra
 
     **Fino al** **28 ottobre** **(orario: da** **domenica a venerdì 10 - 13 e 15-18, sabato 10 - 13, lunedì chiuso).**
 

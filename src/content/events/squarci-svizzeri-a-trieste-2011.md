@@ -14,11 +14,11 @@ info:
     - /media/events/squarci-svizzeri-a-trieste-2011/invito.pdf
 press:
   pressRelease: |-
-    ![Trieste con la bora (Rivista delle Assicurazioni Generali, ottobre 1995)](/media/events/squarci-svizzeri-a-trieste-2011/Trieste_con_la_bora_Rivista_delle_Assicurazioni_Generali_ottobre_1995.png "Trieste con la bora (Rivista delle Assicurazioni Generali, ottobre 1995)")
-
     **Martedì 25 ottobre 2011** alle **ore 18.00 nell'Aula F della Scuola Superiore di Lingue Moderne di Trieste (via Filzi 14), Roberto Costa Longeri, professore emerito della Facoltà di Architettura dell'Università dell'Università di Trieste, presenterà il suo ultimo libro intitolato _Squarci svizzeri a Trieste. Pietro Nobile e Matteo Pertsch protagonisti del neoclassico triestino_ (pgg. 62, € 13,00). L'incontro sarà presieduto dal prof. Paolo Alessi, presidente Centro Unesco di Trieste, relatore il Prof. Edino Valcovich, del Dipartimento di Ingegneria civile e Architettura dell'Ateneo triestino. Sarà presente Andreas Barella della casa editrice svizzera _Ericlea_, che pubblica il libro in un'elegante veste grafica nell'ambito di _IMAGO_, collana di immagini e testi che esplorano le bellezze del mondo e dell'ingegno umano.** _Incontro a cura di Marianna Accerboni_
 
     _Da più di 50 anni Roberto Costa Longeri pubblica opere sulla sua città, Trieste: una continuità di studi e di ricerche assai significativa, che dà testimonianza certa di un rapporto umano privilegiato tra l'autore e la sua città._
+
+    ![Trieste con la bora (Rivista delle Assicurazioni Generali, ottobre 1995)](/media/events/squarci-svizzeri-a-trieste-2011/Trieste_con_la_bora_Rivista_delle_Assicurazioni_Generali_ottobre_1995.png "Trieste con la bora (Rivista delle Assicurazioni Generali, ottobre 1995)")
 
     _In questo nuovo volume Costa Longeri ci narra della Trieste del Neoclassico, città cosmopolita, di confine, incrocio di culture diverse, “città senza territorio”. Di quello che fu il grande porto dell'Impero asburgico e dell'area danubiana e balcanica, l'Autore approfondisce lo sviluppo urbanistico, con particolare riferimento alle trasformazioni dell'assetto economico, sociale, della configurazione funzionale e formale, a partire dagli anni trenta del '700 fino alla fine dell'800._
 

@@ -17,14 +17,14 @@ info:
 subEvents: []
 press:
   pressRelease: |-
+    S’inaugura **sabato 30 settembre 2023 alle 19** nella Sala Leonor Fini **del Magazzino 26 del Porto Vecchio di Trieste la mostra antologica “LUÌS. Since 1953 – 70° d’arte” dedicata ai settant’anni di attività della pittrice Luisia Comelli (in arte Luìs) e curata da Marianna Accerboni e Lucia Lalovich Toscano. In mostra un centinaio di opere realizzate dall’artista (classe 1935) dal 1953 a oggi, soprattutto dipinti a olio dedicati a una personale interpretazione delle vedute di mare e del paesaggio naturale, al ritratto e alle nature morte con rimandi storico-archeologici, accanto a intense xilografie dal segno molto efficace.**
+
+    **La rassegna**, che sarà corredata da un **catalogo**, **è** promossa dal **Circolo Duinate** in coorganizzazione con il **Comune di Trieste**, con il patrocinio del **Comune di Duino Aurisina** e con il sostegno di **BCC VENEZIA GIULIA** e rientra nell’ambito delle manifestazioni organizzate per la 55° edizione della **Barcolana**. **L’artista** che, a ottantotto anni, è tutt’ora in attività, **sarà presente nella sede espositiva negli orari di apertura durante tutta la durata della mostra, anche per la realizzazione di performance pittoriche** (fino al 5 novembre/ orario: giovedì e venerdì 16–19, sabato, domenica e festivi 10-13 e 16-19, domenica 8 ottobre 10-19, ingresso libero/ info e ufficio stampa: circoloduinate@gmail.com, 0039 3405665103).
+
     ![Anno 2005 - IL SECOLARE ULIVO - olio su compensato marino 90 x 78](/media/luis-anno-2005-il-secolare-ulivo-olio-su-compensato-marino-90-x-78.jpg "Anno 2005 - IL SECOLARE ULIVO - olio su compensato marino 90 x 78")
 
     Anno 2005 - IL SECOLARE ULIVO
     olio su compensato marino 90 x 78
-
-    S’inaugura **sabato 30 settembre 2023 alle 19** nella Sala Leonor Fini **del Magazzino 26 del Porto Vecchio di Trieste la mostra antologica “LUÌS. Since 1953 – 70° d’arte” dedicata ai settant’anni di attività della pittrice Luisia Comelli (in arte Luìs) e curata da Marianna Accerboni e Lucia Lalovich Toscano. In mostra un centinaio di opere realizzate dall’artista (classe 1935) dal 1953 a oggi, soprattutto dipinti a olio dedicati a una personale interpretazione delle vedute di mare e del paesaggio naturale, al ritratto e alle nature morte con rimandi storico-archeologici, accanto a intense xilografie dal segno molto efficace.**
-
-    **La rassegna**, che sarà corredata da un **catalogo**, **è** promossa dal **Circolo Duinate** in coorganizzazione con il **Comune di Trieste**, con il patrocinio del **Comune di Duino Aurisina** e con il sostegno di **BCC VENEZIA GIULIA** e rientra nell’ambito delle manifestazioni organizzate per la 55° edizione della **Barcolana**. **L’artista** che, a ottantotto anni, è tutt’ora in attività, **sarà presente nella sede espositiva negli orari di apertura durante tutta la durata della mostra, anche per la realizzazione di performance pittoriche** (fino al 5 novembre/ orario: giovedì e venerdì 16–19, sabato, domenica e festivi 10-13 e 16-19, domenica 8 ottobre 10-19, ingresso libero/ info e ufficio stampa: circoloduinate@gmail.com, 0039 3405665103).
 
     _Un’esistenza trascorsa tra gli amati colori, i pennelli, una natura di mare, di cielo e di roccia e il sorriso dei suoi tre bimbi. Così Luisia Comelli_ – scrive Marianna Accerboni _- ha trascorso la sua vita, dedicata alla pittura e alla famiglia. Sono passati settant'anni dal primo olio creato nel '53 a oggi, epoca in cui l'artista - che lo scorso 1 agosto ha compiuto 88 anni - dipinge ancora._
 

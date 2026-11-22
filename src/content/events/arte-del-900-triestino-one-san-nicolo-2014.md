@@ -18,13 +18,13 @@ subEvents:
   - - "Prorogata fino al 31 maggio alla Galleria One San Nicolò del capoluogo giuliano la mostra “Arte del '900 a Trieste”"
 press:
   pressRelease: |-
-    <iframe src="https://www.youtube.com/embed/T-DurF2nx1I" width="450" height="288"></iframe>
-
-    Video dell'inaugurazione
-
     Dopo il grande consenso suscitato dalle mostre dedicate a Spacal e Music, s'inaugura venerdì 4 aprile alle ore 19 alla Galleria One San Nicolò (Via S. Nicolò 1) di Trieste la rassegna “Arte del '900 a Trieste”. Lo spazio espositivo, fondato nel 2011 e diretto da Fiorenzo Parmiani, gallerista di origine milanese e fine intenditore d'arte, rappresenta un'autentica icona del buon gusto. Curata dall'arch. Marianna Accerboni, che introdurrà la rassegna, la mostra propone, lungo un itinerario di qualità, importanti dipinti, disegni e grafiche di alcuni dei più significativi protagonisti del linguaggio artistico triestino del secolo scorso, presenti ciascuno con più opere.
 
     Dall'eclettismo in chiave verista e impressionista di **Carlo Wostry** all'impressionismo ricco di colore, luce e chiaroscuro di **Giovanni Zangrando** a quello fresco e genuino di **Ugo Flumiani**; dall'eccellente virtuosismo di **Marcello Dudovich** alla raffinatezza di **Leonor Fini** e di **Gino Parin**; dall'acceso cromatismo poetico di **Vittorio Bergagna** al lirismo di **Gianni Brumatti** e al novecentismo di **Dyalma Stultus**; dall'interessante sperimentazione di **Augusto Cernigoj** a quella di **Bogdan Grom**, **Edoardo Devetta**, **Federico Righi** e **Luigi Spacal**; dall'arcaismo epico e dalle forme incisive ed evocative di **Oreste Dequel** al segno essenziale di **Marcello Mascherini**; dal magistrale espressionismo di **Livio Rosignano** al segno poetico e intenso di **Marino Sormani**, la rassegna riassume i molteplici linguaggi artistici presenti nel recente passato di Trieste e la sua poliedrica anima dalle diverse e complesse matrici culturali. Fino al 17 maggio (orario da mart a sab 16 - 20/ info 3405991050).
+
+    <iframe src="https://www.youtube.com/embed/T-DurF2nx1I" width="450" height="288"></iframe>
+
+    Video dell'inaugurazione
 gallerySection: null
 draft: false
 ---

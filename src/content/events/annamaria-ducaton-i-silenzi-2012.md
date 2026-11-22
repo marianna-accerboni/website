@@ -16,11 +16,11 @@ info:
     - /media/events/annamaria-ducaton-i-silenzi-2012/invito.pdf
 press:
   pressRelease: |-
-    ![Luce](/media/events/annamaria-ducaton-i-silenzi-2012/Luce_Web.jpg "Luce")
-
     S'inaugura **sabato 1 dicembre 2012 alle ore 18.00 alla Galleria Rettori Tribbio (Piazza Vecchia, 6) di Trieste la mostra personale della pittrice Annamaria Ducaton intitolata** , **che sarà introdotta dall'architetto Marianna Accerboni e dal professor Paolo Quazzolo. La rassegna** propone **una sequenza di raffinate opere recentissime, realizzate a tecnica mista in occasione della mostra**. Visitabile **fino al 14 dicembre** (orario: feriali 10 - 12.30 e 17 - 19.30/ festivi 10 - 12/ venerdì pomeriggio e lunedì chiuso).
 
     Martedì 4 dicembre alle ore 17.30 alla sala Baroncini delle Assicurazioni Generali (via Trento 8) verrà promosso, su iniziativa dell'artista, un intervento dal titolo “Elogio del silenzio”, che sarà condotto dal prof Pier Aldo Rovatti, docente di Filosofia Teoretica e Contemporanea alla Facoltà di Lettere dell'Università di Trieste e direttore dal 1974 della rivista di folosofia “au aut” edita da Il Saggiatore.
+
+    ![Luce](/media/events/annamaria-ducaton-i-silenzi-2012/Luce_Web.jpg "Luce")
 
     **Annamaria Ducaton** vive e lavora a Trieste. Ha al suo attivo oltre 80 mostre personali e ha esposto giovanissima alla XI Triennale di Milano e in numerosissime mostre collettive.
 
