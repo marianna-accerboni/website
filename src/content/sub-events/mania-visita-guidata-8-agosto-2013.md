@@ -3,7 +3,6 @@ title: "Giovedì 8 agosto alle 19 Marianna Accerboni, curatrice della mostra “
 slug: mania-visita-guidata-8-agosto-2013
 createdAt: 2026-11-21T14:19:00
 parent: franco-mania-da-new-york-a-trieste-2013
-info: null
 bodySection:
   body: ""
 draft: false

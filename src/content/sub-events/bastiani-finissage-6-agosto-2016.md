@@ -3,7 +3,6 @@ title: "Ieri oggi domani: sabato 6 agosto 2016 alla Sala Comunale d'Arte di Trie
 slug: bastiani-finissage-6-agosto-2016
 createdAt: 2026-11-11T21:36:00
 parent: sergio-bastiani-ieri-oggi-domani-2016
-info: null
 bodySection:
   body: |-
     Sabato 6 agosto 2016 alle 19 alla Sala Comunale d'Arte di Trieste avrà luogo il finissage della personale del pittore Sergio Bastiani, intitolata _Ieri Oggi Domani_ e presentata dall'arch. Marianna Accerboni. In mostra una trentina di opere che riassumono la poliedrica sperimentazione svolta dall'artista dagli anni ottanta a oggi.

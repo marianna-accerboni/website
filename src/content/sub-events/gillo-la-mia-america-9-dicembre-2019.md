@@ -3,7 +3,6 @@ title: "Presentazione del libro \"La mia America\""
 slug: gillo-la-mia-america-9-dicembre-2019
 createdAt: 2026-11-11T11:21:00
 parent: il-segno-rivelatore-di-gillo-2019
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/tSeiqhD54eM" width="450" height="300" allowfullscreen="allowfullscreen"></iframe>

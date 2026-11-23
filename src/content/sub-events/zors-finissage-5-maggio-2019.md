@@ -3,7 +3,6 @@ title: "Domenica 5 maggio a Palazzo Costanzi ultimo appuntamento creativo alla m
 slug: zors-finissage-5-maggio-2019
 createdAt: 2026-11-11T11:29:00
 parent: serena-zors-oltre-il-cielo-2019
-info: null
 bodySection:
   body: |-
     **Domenica 5 maggio dalle 11 in poi, ultimo appuntamento creativo alla Sala Veruda di Palazzo Costanzi** (piazza Piccola 2) **per la mostra di Serena Zors, realizzata con il contributo del Comune di Trieste - Assessorato alla Cultura**: **finissage con l'artista e con l'architetto Marianna Accerboni, ideatrice e curatrice dell'esposizione, che condurrà una visita guidata e un laboratorio di disegno e pittura aperto a grandi e piccini e ispirato alle opere della poliedrica pittrice. Triestina,** attiva da decenni a Monaco di Baviera, la Zors ha lasciato però il cuore a Trieste, dove torna spesso per dipingere e presentare i propri lavori più recenti. **Seguirà una degustazione di vini dell'Azienda Agricola Sancin.**

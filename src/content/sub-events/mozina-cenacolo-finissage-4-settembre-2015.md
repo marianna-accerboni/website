@@ -3,7 +3,6 @@ title: "Il Cenacolo di Livio Možina: domani 4 settembre 2015 finissage della VI
 slug: mozina-cenacolo-finissage-4-settembre-2015
 createdAt: 2026-11-17T07:57:00
 parent: cenacolo-livio-mozina-allievi-2015
-info: null
 bodySection:
   body: |-
     **Venerdì 4 settembre alle 11.30 avrà luogo alla Galleria Rettori Tribbio di Trieste (piazza Vecchia 6) il finissage della VI edizione della mostra, quest'anno intitolata _Il cenacolo di Livio Možina,_ delle opere realizzate nel 2014/ 2015 da 63 allievi del corso che il maestro tiene in Galleria. La rassegna, presentata dall'architetto Marianna Accerboni**, **propone dipinti di gusto figurativo, realizzati tutti a olio su tela o su tavola, ognuno dei quali corrisponde al quadro simbolo, tra i molti dipinti nel corso dell'anno da ciascun artista**.

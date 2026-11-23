@@ -2,8 +2,7 @@
 title: "Sabato 21 giugno al Magazzino 26 del Porto Vecchio di Trieste terzo evento collaterale: visita guidata con il noto conduttore e giornalista Andro Merkù, speaker di Radio Monte Carlo e poliedrico artista. A seguire musica d'ambiente con Daniele Mastronuzzi (live electronics) e PCK (sax soprano)"
 parent: confini-di-luce-magazzino-26-2025
 coverImage: /media/andro-merku.jpg
-info:
-  date: 2025-06-21
+date: 2025-06-21
 bodySection:
   body: |-
     **Sabato 21 giugno al Magazzino 26 del Porto Vecchio di Trieste terzo evento collaterale: visita guidata con il noto conduttore e giornalista Andro Merkù, speaker di radio monte Carlo e poliedrico artista. a seguire musica d’ambiente con Daniele Mastronuzzi (live electronics) e pck (sax soprano)**

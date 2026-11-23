@@ -3,7 +3,6 @@ title: "Prorogata fino al 26 ottobre al Circolo Aziendale delle Assicurazioni Ge
 slug: siauss-proroga-26-ottobre-2012
 createdAt: 2026-11-21T14:58:00
 parent: olivia-siauss-fiabe-e-sogni-2012
-info: null
 bodySection:
   body: |-
     **Prorogata fino al 26 ottobre al Circolo Aziendale delle Assicurazioni Generali la rassegna _Fiabe e sogni_** della **pittrice Olivia Siauss**: in mostra **una ventina di opere**, **in buona parte inedite, realizzate dal 2002 al 2012 con pastelli acquerellabili su carta preparata acrilico su tela** (orario lunedì 17.30 • 19.00 • da martedì a giovedì 9.30 • 12.30 / 15.30 • 18.00 • venerdì 9.30 • 12.30).

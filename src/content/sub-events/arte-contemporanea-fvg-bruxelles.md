@@ -2,7 +2,6 @@
 title: "L'arte contemporanea della Regione Friuli Venezia Giulia a Bruxelles: cinque personali di altrettanti valenti artisti del territorio all'Ufficio di Collegamento della Regione FVG della capitale belga."
 parent: arte-fvg-bruxelles
 coverImage: /media/de-filippo-aceee7f0-fd38-2569-f399-610e8e800766.jpg
-info: null
 bodySection:
   body: |-
     L’arte contemporanea della Regione Friuli Venezia Giulia a Bruxelles: cinque personali di altrettanti valenti artisti del territorio all'Ufficio di Collegamento della Regione FVG della capitale belga. 

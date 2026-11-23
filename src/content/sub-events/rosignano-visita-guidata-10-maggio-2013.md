@@ -3,7 +3,6 @@ title: "Grande successo di pubblico alla Lux Art Gallery di Trieste per la mostr
 slug: rosignano-visita-guidata-10-maggio-2013
 createdAt: 2026-11-21T14:27:00
 parent: livio-rosignano-il-nuovo-realismo-2013
-info: null
 bodySection:
   body: |-
     **_Sabato 11 maggio ultimo giorno per visitare la mostra (orario 17 - 20)_**

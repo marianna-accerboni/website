@@ -3,7 +3,6 @@ title: "Al via il 5 settembre al Magazzino delle Idee di Trieste l'ultimo appunt
 slug: vetro-concerto-breve-5-settembre-2018
 createdAt: 2026-11-11T11:44:00
 parent: vetro-la-mia-seconda-pelle-2018
-info: null
 bodySection:
   body: |-
     ![Stefano Casaccia, flauto dolce, e Claudio Gasparoni, viola da gamba](/media/events/vetro-la-mia-seconda-pelle-2018/Stefano_Casaccia_flauto_dolce_e_Claudio_Gasparoni_viola_da_gamba.jpg "Stefano Casaccia, flauto dolce, e Claudio Gasparoni, viola da gamba")

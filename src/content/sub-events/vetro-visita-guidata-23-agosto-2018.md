@@ -3,7 +3,6 @@ title: "Al via il 23 agosto al Magazzino delle Idee di Trieste il terzo appuntam
 slug: vetro-visita-guidata-23-agosto-2018
 createdAt: 2026-11-11T11:44:00
 parent: vetro-la-mia-seconda-pelle-2018
-info: null
 bodySection:
   body: |-
     ![OPA ART - Gossip, 2009](/media/events/vetro-la-mia-seconda-pelle-2018/OPA_ART_Gossip_-_2009.jpg "OPA ART - Gossip, 2009")

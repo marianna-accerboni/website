@@ -3,7 +3,6 @@ title: "Mostra Viaggio letterario e romantico nella Trieste di Svevo e di Saba d
 slug: bomben-incontro-24-febbraio-2012
 createdAt: 2026-11-21T16:22:00
 parent: furio-bomben-viaggio-letterario-svevo-saba-2012
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/ZI0uKPjHzLI" width="350" height="288"></iframe>

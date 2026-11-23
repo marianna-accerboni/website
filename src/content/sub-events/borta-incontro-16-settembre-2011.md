@@ -3,7 +3,6 @@ title: "Venerdì 16 settembre incontro con Gianni Borta alla Galleria Rettori Tr
 slug: borta-incontro-16-settembre-2011
 createdAt: 2026-11-21T16:34:00
 parent: gianni-borta-rettori-tribbio-2011
-info: null
 bodySection:
   body: |-
     Galleria Rettori Tribbio 2 · Trieste

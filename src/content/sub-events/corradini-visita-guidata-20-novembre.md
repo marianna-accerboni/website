@@ -3,7 +3,6 @@ title: "Sabato 20 novembre dalle 18.30 alla Galleria Rettori Tribbio di Trieste 
 slug: corradini-visita-guidata-20-novembre
 createdAt: 2026-10-16T09:16:00
 parent: pino-corradini-rettori-tribbio-2021
-info: null
 bodySection:
   body: |-
     (orario: feriali 10 · 12.30 e 17 · 19.30 / domenica 10 · 12/ venerdì pomeriggio e lunedì chiuso/ info 335 6750946).

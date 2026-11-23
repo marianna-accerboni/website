@@ -3,7 +3,6 @@ title: "Blumen mantra: venerdì 3 ottobre 2014 al Museo d'Arte Moderna Ugo Carà
 slug: vilardo-performance-cupidus-minimus-3-ottobre-2014
 createdAt: 2026-11-17T08:38:00
 parent: femi-vilardo-blumen-mantra-2014
-info: null
 bodySection:
   body: |-
     ![Aglais urticae](/media/events/femi-vilardo-blumen-mantra-2014/Aglais-urticae.jpg "Aglais urticae")

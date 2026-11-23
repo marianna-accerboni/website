@@ -3,7 +3,6 @@ title: "Percorsi: mercoledì 1 febbraio la pittrice Paola Gamba incontra il pubb
 slug: gamba-incontro-1-febbraio-2012
 createdAt: 2026-11-21T16:22:00
 parent: paola-gamba-percorsi-2012
-info: null
 bodySection:
   body: |-
     **Presente fino al 4 febbraio all'Antico Caffè Stella Polare con la sua prima personale triestina intitolata “Percorsi”, la pittrice veneta Paola Gamba incontrerà il pubblico mercoledì 1 febbraio dalle ore 18 in poi.** In mostra più di una trentina di opere: nella saletta interna i nudi e i ritratti composti tra il 1999 e il 2003 secondo il linguaggio espressionista figurativo, nella sala principale i dipinti più recenti, astratti eseguiti a collage e ad acrilico prevalentemente su tavola tra il 2008 e il 2011.

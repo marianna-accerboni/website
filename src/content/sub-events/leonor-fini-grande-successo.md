@@ -3,7 +3,6 @@ title: "In considerazione del grande successo di pubblico, la mostra “Leonor F
 slug: leonor-fini-grande-successo
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     In considerazione del grande successo di pubblico, la mostra “Leonor Fini. Memorie Triestine”, allestita al Magazzino 26 del Porto vecchio di Trieste, è stata prorogata fino al 19 settembre. in programma l’evento “Bacheche aperte”, il concorso “Il più bel gatto del mondo” per i giovanissimi e numerose visite guidate

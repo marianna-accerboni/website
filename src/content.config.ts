@@ -76,15 +76,7 @@ const subEvents = defineCollection({
     slug: z.string(),
     parent: z.string(),
     coverImage: z.string().optional(),
-    info: z
-      .object({
-        date: optionalDate,
-        venue: z.string().optional(),
-        time: z.string().optional(),
-        infoContacts: z.string().optional(),
-        invitations: z.array(z.string()).default([])
-      })
-      .nullable().optional(),
+    date: optionalDate,
     bodySection: z.object({ body: z.string().optional() }).nullable().optional(),
     draft: z.boolean().default(false)
   })

@@ -3,7 +3,6 @@ title: "Mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra: venerdì
 slug: dominioni-trieste-aperitivo-architettura-9-ottobre-2015
 createdAt: 2026-11-17T07:28:00
 parent: dominioni-trieste-nuovo-calendario-2015
-info: null
 bodySection:
   body: |-
     ![PCD Proprietà Formetini Casa della Fonte](/media/events/dominioni-trieste-nuovo-calendario-2015/foto.jpg "PCD Proprietà Formetini Casa della Fonte")

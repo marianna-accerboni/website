@@ -3,7 +3,6 @@ title: "Nel segno della luce: lunedì 5 settembre alla Galleria Rettori Tribbio 
 slug: mozina-allievi-incontro-5-settembre-2011
 createdAt: 2026-11-21T16:34:00
 parent: atelier-mozina-allievi-nel-segno-della-luce-2011
-info: null
 bodySection:
   body: |-
     Galleria Rettori Tribbio 2 · Trieste

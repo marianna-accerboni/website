@@ -3,7 +3,6 @@ title: "Il catalogo della mostra “Il segno rivelatore di Gillo”: i video del
 slug: gillo-dorfles-catalogo-video-2020
 createdAt: 2026-11-11T10:41:00
 parent: gillo-dorfles-catalogo-live-2020
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmarianna.accerboni%2Fvideos%2F3356447971079866%2F&show_text=0&width=350" width="350" height="342" allowfullscreen="true"></iframe>

@@ -3,7 +3,6 @@ title: "Domenica 11 ottobre alla Biblioteca Statale S. Crise di Trieste, per la 
 slug: dominioni-trieste-daverio-11-ottobre-2015
 createdAt: 2026-11-17T07:28:00
 parent: dominioni-trieste-nuovo-calendario-2015
-info: null
 bodySection:
   body: |-
     ![Mostra Dominioni: Nuovo calendario eventi](/media/events/dominioni-trieste-nuovo-calendario-2015/daverio2.jpg "Mostra Dominioni: Nuovo calendario eventi")

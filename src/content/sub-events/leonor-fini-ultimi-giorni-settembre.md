@@ -3,7 +3,6 @@ title: "Sabato 18 e domenica 19 settembre sono gli ultimi due giorni per visitar
 slug: leonor-fini-ultimi-giorni-settembre
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     La mostra “Leonor Fini. Memorie Triestine” è visitabile al Magazzino 26 del Porto vecchio di Trieste ancora sabato 18 e domenica 19 settembre, giornata in cui avrà luogo la premiazione del concorso “Il più bel gatto del mondo”. Le opere dei piccoli artisti partecipanti sono esposte in mostra. sono previste visite guidate

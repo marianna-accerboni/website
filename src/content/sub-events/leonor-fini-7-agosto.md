@@ -3,7 +3,6 @@ title: "sabato 7 agosto alle 18.30 al Magazzino 26 del "
 slug: leonor-fini-7-agosto
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     Sabato 7 agosto al Magazzino 26 del Porto vecchio di Trieste: la curatrice Marianna Accerboni terrà una visita guidata e una conversazione con il noto giornalista, imitatore ed eclettico autore e conduttore radiotelevisivo triestino Andro Merkù, grande amico dei gatti, soggetto prediletto da Leonor Fini.

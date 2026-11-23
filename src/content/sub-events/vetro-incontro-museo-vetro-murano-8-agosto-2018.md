@@ -3,7 +3,6 @@ title: "Al via l'8 agosto al Magazzino delle Idee di Trieste il secondo appuntam
 slug: vetro-incontro-museo-vetro-murano-8-agosto-2018
 createdAt: 2026-11-11T11:44:00
 parent: vetro-la-mia-seconda-pelle-2018
-info: null
 bodySection:
   body: |-
     ![Gordana Drinkovic](/media/events/vetro-la-mia-seconda-pelle-2018/Gordana_Drinkovic.jpg "Gordana Drinkovic")

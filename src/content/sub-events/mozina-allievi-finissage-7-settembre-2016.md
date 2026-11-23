@@ -3,7 +3,6 @@ title: "Mercoledì 7 settembre 2016 alla Galleria Rettori Tribbio di Trieste fin
 slug: mozina-allievi-finissage-7-settembre-2016
 createdAt: 2026-11-11T21:19:00
 parent: atelier-mozina-allievi-2016
-info: null
 bodySection:
   body: |-
     Mercoledì 7 settembre 2016 alle 18.30 alla Galleria Rettori Tribbio di Trieste avrà luogo il finissage della VII Mostra degli allievi dell'Atelier del pittore Livio Možina, curata dall'architetto Marianna Accerboni, che condurrà una visita guidata.

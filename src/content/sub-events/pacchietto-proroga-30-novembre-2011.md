@@ -3,7 +3,6 @@ title: "Prorogata fino al 30 novembre alla Lux Art Gallery e arricchita di nuove
 slug: pacchietto-proroga-30-novembre-2011
 createdAt: 2026-11-21T16:34:00
 parent: nello-pacchietto-dipingere-la-poesia-lux-art-gallery-2011
-info: null
 bodySection:
   body: |-
     **_IN MOSTRA LAVORI DEDICATI ALL'ISTRIA, A VENEZIA E AL MARE_**

@@ -3,7 +3,6 @@ title: "Fabio Colussi. Luce: mostra prorogata al Salone d'Arte di Trieste fino a
 slug: colussi-luce-proroga-31-gennaio-2016
 createdAt: 2026-11-14T10:59:00
 parent: fabio-colussi-luce-2015
-info: null
 bodySection:
   body: |-
     Prorogata per il grande successo fino al 31 gennaio **al Salone d'Arte (via della Zonta 2) la personale del pittore triestino Fabio Colussi**, intitolata **_Luce_ e introdotta dall'arch. Marianna Accerboni. Sabato 9 gennaio alle 18.30 visita guidata con la curatrice e l'artista:** in mostra **più di venti oli inediti e recenti, dedicati a Trieste, a Venezia e alla sua laguna. Di grande interesse anche due originali orologi-paesaggio.**

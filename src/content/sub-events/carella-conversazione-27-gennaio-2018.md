@@ -3,7 +3,6 @@ title: "Più di 1300 visitatori a Palazzo Costanzi per la mostra Nora Carella. L
 slug: carella-conversazione-27-gennaio-2018
 createdAt: 2026-11-11T12:22:00
 parent: nora-carella-luce-senza-tempo-2018
-info: null
 bodySection:
   body: |-
     **Nell'ambito della rassegna _Nora Carella. Luce senza tempo_, visitata finora da più di 1300 persone, sabato 27 gennaio alle 18.30 avrà luogo alla Sala Veruda di Palazzo Costanzi (piazza Piccola 2) una conversazione a più voci, condotta dalla curatrice Marianna Accerboni. Interverranno la presidente della Commissione Pari Opportunità del Comune di Trieste Laura Di Pinto, il presidente del Teatro Rossetti Sergio Pacor, il direttore della Biblioteca Statale Isontina di Gorizia Marco Menato, il presidente del Circolo della Stampa Pierluigi Sabatti e Raffaele Carella, uno dei figli della pittrice,. Sarà data la parola anche ad artisti e gente comune che conobbero l'artista, per approfondire più aspetti della sua vita e del _milieu_ culturale, sociale e artistico dell'epoca, con particolare riferimento alla condizione femminile nel '900. Seguirà un vin d'honneur con i vini della Tenuta Baroni del Mestri (Cormons, Gorizia).**

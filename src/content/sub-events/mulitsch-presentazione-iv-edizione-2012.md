@@ -3,7 +3,6 @@ title: "Presentata questa mattina a Gorizia nella Sala Bianca del Comune di Gori
 slug: mulitsch-presentazione-iv-edizione-2012
 createdAt: 2026-11-21T16:22:00
 parent: concorso-mulitsch-iv-edizione-presentazione-2012
-info: null
 bodySection:
   body: |-
     ![Comune Gorizia - da sin Assessore provinciale Cultura F. Portelli - C. Mulitsch - Sindaco E. Romoli - arch. M. Accerboni (foto I. Tassini)](/media/events/concorso-mulitsch-iv-edizione-presentazione-2012/Comune_Gorizia_-_da_sin_Assessore_provinciale_Cultura_F._Portelli_-_C._Mulitsch_-_Sindaco_E._Romoli_-_arch._M._Accerboni_foto_I._Tassini_03.jpg "Comune Gorizia - da sin Assessore provinciale Cultura F. Portelli - C. Mulitsch - Sindaco E. Romoli - arch. M. Accerboni (foto I. Tassini)")

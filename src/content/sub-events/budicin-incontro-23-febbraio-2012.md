@@ -3,7 +3,6 @@ title: "Mostra personale del pittore Roberto Budicin alla Galleria Rettori Tribb
 slug: budicin-incontro-23-febbraio-2012
 createdAt: 2026-11-21T16:22:00
 parent: roberto-budicin-paesaggio-e-poesia-2012
-info: null
 bodySection:
   body: |-
     Giovedì 23 febbraio dalle ore 18 il pittore Roberto Budicin incontrerà il pubblico alla Galleria Rettori Tribbio (piazza Vecchia 6) in occasione della mostra personale dell'artista-architetto triestino e visitabile fino a venerdì 24 febbraio: in mostra più di una quarantina tra oli, acquerelli e tecniche miste, per lo più inediti.

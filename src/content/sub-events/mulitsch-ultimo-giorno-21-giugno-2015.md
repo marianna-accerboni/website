@@ -3,7 +3,6 @@ title: "Domani domenica 21 giugno ultimo giorno per visitare la mostra del Premi
 slug: mulitsch-ultimo-giorno-21-giugno-2015
 createdAt: 2026-11-17T08:05:00
 parent: concorso-mulitsch-gorizia-2015
-info: null
 bodySection:
   body: |-
     ![Medaglia del Presidente della Repubblica 2015](/media/events/concorso-mulitsch-gorizia-2015/Medaglia_del_Presidente_della_Repubblica_2015.jpg "Medaglia del Presidente della Repubblica 2015")

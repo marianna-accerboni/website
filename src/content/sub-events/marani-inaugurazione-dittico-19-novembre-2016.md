@@ -3,7 +3,6 @@ title: "Inaugurato davanti a un folto pubblico al Palazzo Vescovile il dittico d
 slug: marani-inaugurazione-dittico-19-novembre-2016
 createdAt: 2026-11-11T13:17:00
 parent: paolo-marani-annunciazione-palazzo-vescovile-2016
-info: null
 bodySection:
   body: |-
     ![da sin Arcivescovo G.Crepaldi, Paolo Marani, Marianna Accerboni (ph Franco Viezzoli)](/media/events/paolo-marani-annunciazione-palazzo-vescovile-2016/da_sin_Arcivescovo_G.Crepaldi_Paolo_Marani_Marianna_Accerboni_ph_Franco_Viezzoli.jpg "da sin Arcivescovo G.Crepaldi, Paolo Marani, Marianna Accerboni (ph Franco Viezzoli)")

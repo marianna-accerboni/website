@@ -3,7 +3,6 @@ title: "Walter Starz. L'attimo: sabato 29 agosto alla Sala Comunale d'Arte di Tr
 slug: starz-finissage-29-agosto-2015
 createdAt: 2026-11-17T07:57:00
 parent: walter-starz-l-attimo-2015
-info: null
 bodySection:
   body: |-
     Sabato 29 agosto alle 19 alla Sala Comunale d'Arte di Trieste avrà luogo il finissage della mostra personale del pittore Walter Starz, intitolata _L'attimo_ e presentata dall'arch. Marianna Accerboni. In mostra una sequenza di originali e frizzanti tecniche miste realizzate tra il 2011 e il 2014, in cui vibra il senso della libertà, del divertissement e del ricordo.

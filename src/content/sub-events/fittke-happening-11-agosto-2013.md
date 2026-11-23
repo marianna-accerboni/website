@@ -3,7 +3,6 @@ title: "Domenica 11 agosto un happening di pittura e musica conclude alla sala F
 slug: fittke-happening-11-agosto-2013
 createdAt: 2026-11-21T14:19:00
 parent: arte-al-femminile-sala-fittke-2013
-info: null
 bodySection:
   body: |-
     Domenica 11 agosto un happening di pittura e musica, ideato dalla curatrice Marianna Accerboni, concluderà alla Sala “Arturo Fittke” di Trieste (piazza Piccola, 3), la 51° Rassegna Collettiva delle Socie F.I.D.A.P.A., organizzata dalla Sezione Storica di Trieste della Federazione Italiana Donne Arti Professioni Affari in collaborazione con il Comune: dalle 18 alle 20 le artiste saranno presenti in mostra dove eseguiranno in diretta davanti al pubblico un'opera a disegno o a pittura, spiegando le proprie tecniche e il proprio percorso creativo, accompagnate dalle musiche celtiche eseguite dal vivo dalla giovane e valente arpista Teodora Tommasi.

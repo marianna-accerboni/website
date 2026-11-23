@@ -3,7 +3,6 @@ title: "Conclusa con un omaggio austriaco a Trieste la mostra di Nora Carella a 
 slug: carella-conclusa-con-omaggio-austriaco-2012
 createdAt: 2026-11-21T16:34:00
 parent: nora-carella-luce-senza-tempo-bruxelles-ufficio-2011
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/YqvArNnbDac" width="350" height="288"></iframe>

@@ -4,7 +4,6 @@ slug: toni-zanussi-eventi-collaterali
 createdAt: 2026-09-26T22:09:00
 parent: toni-zanussi-l-anima-la-terra-il-colore
 coverImage: /media/events/anima-terra-colore/Citt_invisibile_2_2014_tecnica_mista_su_MDF_cm_45x90.jpg
-info: null
 bodySection:
   body: |-
     ![Covid 19, Invisibile creatura, 2020 - tecnica mista su MDF - cm. 120x90](/media/events/anima-terra-colore/Covid_19_Invisibile_creatura_2020_tecnica_mista_su_MDF_cm_120x90.jpg "Covid 19, Invisibile creatura, 2020 - tecnica mista su MDF - cm. 120x90")

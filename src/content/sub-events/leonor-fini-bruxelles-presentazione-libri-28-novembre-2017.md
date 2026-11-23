@@ -3,7 +3,6 @@ title: "Il 28 novembre all'Istituto Italiano di Cultura di Bruxelles presentazio
 slug: leonor-fini-bruxelles-presentazione-libri-28-novembre-2017
 createdAt: 2026-11-11T12:22:00
 parent: leonor-fini-memorie-triestine-bruxelles-2017
-info: null
 bodySection:
   body: |-
     ![copertine libri](/media/events/leonor-fini-memorie-triestine-bruxelles-2017/libri.jpg "copertine libri")

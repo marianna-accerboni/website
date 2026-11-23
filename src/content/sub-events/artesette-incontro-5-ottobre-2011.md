@@ -3,7 +3,6 @@ title: "IV edizione della mostra-concorso Vele e marine 2011: mercoledì 5 ottob
 slug: artesette-incontro-5-ottobre-2011
 createdAt: 2026-11-21T16:34:00
 parent: vele-e-marine-sala-fittke-2011
-info: null
 bodySection:
   body: |-
     **Mercoledì 5 ottobre alle ore 18.30 gli artisti partecipanti alla mostra _Vele e Marine_, allestita fino al 10 ottobre nella Sala Arturo _Fittke_ (piazza Piccola 3) di Trieste, incontreranno il pubblico assieme al critico Marianna Accerboni. La rassegna di pittura, scultura, grafica, mosaico e fotografia, organizzata dall'Associazione Culturale _Artesette_ presieduta da Bruno Dalfiume in collaborazione con l'Assessorato alla Cultura del Comune di Trieste, è stata visitata finora da più di 1500 persone (orario feriale e festivo: 10 -13 e 17 - 20).**

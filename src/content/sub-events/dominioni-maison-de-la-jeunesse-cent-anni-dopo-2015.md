@@ -3,7 +3,6 @@ title: "La mostra “Paolo Caccia Dominioni. Un artista sul fronte di guerra” 
 slug: dominioni-maison-de-la-jeunesse-cent-anni-dopo-2015
 createdAt: 2026-11-14T10:59:00
 parent: dominioni-bruxelles-terza-tappa-2015
-info: null
 bodySection:
   body: |-
     ![Delphi Morpurgo, Trieste (Italia) - Dispersi, 2014 - olio su tela - cm. 100x100](/media/events/dominioni-bruxelles-terza-tappa-2015/Delphi_Morpurgo_Trieste_Italia_-_Dispersi_2014_-_olio_su_tela_-_cm._100x100.jpg "Delphi Morpurgo, Trieste (Italia) - Dispersi, 2014 - olio su tela - cm. 100x100")

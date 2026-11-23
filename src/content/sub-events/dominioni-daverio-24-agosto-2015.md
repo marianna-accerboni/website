@@ -3,7 +3,6 @@ title: "Lunedì 24 agosto alla Biblioteca Statale S. Crise di Trieste incontro c
 slug: dominioni-daverio-24-agosto-2015
 createdAt: 2026-11-17T07:46:00
 parent: dominioni-trieste-biblioteca-crise-2015
-info: null
 bodySection:
   body: |-
     ![Philippe Daverio](/media/events/dominioni-trieste-biblioteca-crise-2015/daverio.jpg "Philippe Daverio")

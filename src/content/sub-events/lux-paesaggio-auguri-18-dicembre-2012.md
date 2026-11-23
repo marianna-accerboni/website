@@ -3,7 +3,6 @@ title: "Auguri di Natale e brindisi con visita guidata alla Lux Art Gallery di T
 slug: lux-paesaggio-auguri-18-dicembre-2012
 createdAt: 2026-11-21T14:43:00
 parent: mostra-del-paesaggio-45-lux-art-gallery-2012
-info: null
 bodySection:
   body: |-
     ![Inaugurazione (foto O. Micol)](/media/events/mostra-del-paesaggio-45-lux-art-gallery-2012/Inaugurazione_7.jpg "Inaugurazione (foto O. Micol)")

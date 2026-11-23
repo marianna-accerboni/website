@@ -3,7 +3,6 @@ title: "Prorogata a fine gennaio la mostra Paolo Caccia Dominioni. Un artista su
 slug: dominioni-proroga-11-gennaio-2016
 createdAt: 2026-11-14T10:59:00
 parent: dominioni-bruxelles-terza-tappa-2015
-info: null
 bodySection:
   body: |-
     **Espongono Chiara Bianco, Noa Salonicchio, Matteo Urbano, Ivan Santini, Gastone Bianchi, Delphi Morpurgo, Fabio Benatti, Giacomo Zorba, Carlo Nargiso, Anna Olivotto, Rossella D'Andrea, Audrey Di Fede, Margherita Avvisati, Ilaria Humar, Alessandra Tirel, Samuele Snidero, Alessia Zilli, Anna Ljubas, Florian Napetschnig, Nicole Quantschnig, Laura Legat, Luka Carlevaris, Matija Kos, Tami Kenda, Maja Koder.**

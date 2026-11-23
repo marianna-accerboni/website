@@ -3,7 +3,6 @@ title: "XVI edizione della mostra di pittura La bellezza per la bontà – L'art
 slug: bellezza-per-la-bonta-2015-sala-del-giubileo
 createdAt: 2026-11-14T10:58:00
 parent: bellezza-per-la-bonta-2015
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/1Il9B9eL8lM" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>

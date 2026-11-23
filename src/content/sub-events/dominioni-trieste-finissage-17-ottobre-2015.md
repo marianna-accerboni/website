@@ -3,7 +3,6 @@ title: "Sabato 17 ottobre alla Biblioteca Statale S. Crise di Trieste finissage 
 slug: dominioni-trieste-finissage-17-ottobre-2015
 createdAt: 2026-11-17T07:28:00
 parent: dominioni-trieste-nuovo-calendario-2015
-info: null
 bodySection:
   body: |-
     ![Mostra Dominioni: Nuovo calendario eventi](/media/events/dominioni-trieste-nuovo-calendario-2015/foto_Marcello_Crea_2.jpg "Mostra Dominioni: Nuovo calendario eventi")

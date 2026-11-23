@@ -3,7 +3,6 @@ title: "Mostra personale del pittore Fabio Colussi alla Sala Comunale d'Arte di 
 slug: colussi-incontro-23-gennaio-2013
 createdAt: 2026-11-21T14:43:00
 parent: fabio-colussi-sala-comunale-2013
-info: null
 bodySection:
   body: |-
     **Il 23 gennaio dalle 18.30 il pittore Fabio Colussi, nell'ambito della sua rassegna personale, incontrerà il pubblico alla Sala Comunale d'Arte**: in mostra **25 raffinati dipinti a olio del 2011-2012, dedicati al tema della veduta marina di Trieste.**

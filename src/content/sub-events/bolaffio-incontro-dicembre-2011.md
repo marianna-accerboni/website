@@ -3,7 +3,6 @@ title: "Uomini: mostra personale di Elisabetta Bolaffio alla Galleria Rettori Tr
 slug: bolaffio-incontro-dicembre-2011
 createdAt: 2026-11-21T16:22:00
 parent: elisabetta-bolaffio-uomini-2011
-info: null
 bodySection:
   body: |-
     **Reduci dal successo dell'affollatissima vernice della personale “Uomini”, fino al 30 dicembre alla Galleria Tribbio**, **la pittrice Elisabetta Bolaffio e la curatrice Marianna Accerboni incontreranno oggi alla 18 il pubblico**: in mostra 15 affascinanti e luminosi oli su tela recenti.

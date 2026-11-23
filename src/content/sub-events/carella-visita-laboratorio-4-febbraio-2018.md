@@ -3,7 +3,6 @@ title: "Domenica 4 febbraio visita guidata alla mostra Nora Carella. Luce Senza 
 slug: carella-visita-laboratorio-4-febbraio-2018
 createdAt: 2026-11-11T12:22:00
 parent: nora-carella-luce-senza-tempo-2018
-info: null
 bodySection:
   body: |-
     **Nell'ambito della rassegna _Nora Carella. Luce senza tempo_,** visitabile **alla Sala Veruda di Palazzo Costanzi** (piazza Piccola 2) fino al 12 febbraio, **domenica 4 febbraio dalle ore 11 alle ore 13 avranno luogo una visita guidata e un laboratorio di disegno e pittura gratuiti, ispirati all'arte di Nora e condotti dalla curatrice Marianna Accerboni.** Seguirà un **vin d'honneur** con i vini della **Tenuta Baroni del Mestri** (Cormons, Gorizia).

@@ -3,7 +3,6 @@ title: "Incontro alla Lux Art Gallery di Trieste con il grande architetto e arti
 slug: lux-dalisi-incontro-3-dicembre-2012
 createdAt: 2026-11-21T14:43:00
 parent: mostra-del-paesaggio-45-lux-art-gallery-2012
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/WTo5bhjOBS8" width="350" height="288"></iframe>

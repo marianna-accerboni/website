@@ -3,7 +3,6 @@ title: "Concorso 'Il più bel gatto del mondo': prorogate le iscrizioni al 16 se
 slug: concorso-gatto-proroga-16-settembre
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     Porto vecchio di Trieste, è stato prorogato al 16 settembre il termine per iscriversi al concorso ”Il più bel gatto del mondo”, aperto ai bambini dai 6 ai 12 anni e ispirato alla grande passione di Leonor Fini per questo animale, tema tra i principali della sua arte e protagonista della sua vita privata. I piccoli artisti possono ispirarsi in mostra, dove la figura del gatto è molto presente, e creare le loro opere nello stesso spazio espositivo, seguiti dalla curatrice, oppure a casa usando qualsiasi tecnica (info e iscrizioni 335 6750946).

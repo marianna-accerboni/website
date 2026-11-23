@@ -3,7 +3,6 @@ title: "Presentazione del video “Ritratto inedito in otto interviste” dedica
 slug: dominioni-video-otto-interviste-2015
 createdAt: 2026-11-17T07:46:00
 parent: dominioni-trieste-biblioteca-crise-2015
-info: null
 bodySection:
   body: |-
     **Nell'ambito della grande rassegna “Paolo Caccia Dominioni. Un artista sul fronte di guerra”, visitata finora da più di 2000 persone, la curatrice Marianna Accerboni ha presentato, davanti a un folto pubblico, alla Biblioteca Statale _S. Crise_ di Trieste il video _Ritratto inedito in otto interviste,_ dedicato al grande architetto, artista, scrittore e soldato.**

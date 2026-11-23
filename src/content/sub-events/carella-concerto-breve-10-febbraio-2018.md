@@ -3,7 +3,6 @@ title: "Sabato 10 febbraio a Palazzo Costanzi concerto breve per Nora Carella co
 slug: carella-concerto-breve-10-febbraio-2018
 createdAt: 2026-11-11T12:22:00
 parent: nora-carella-luce-senza-tempo-2018
-info: null
 bodySection:
   body: |-
     **Nell'ambito della rassegna _Nora Carella. Luce senza tempo_,** visitabile **alla Sala Veruda di Palazzo Costanzi** (piazza Piccola 2) fino al 12 febbraio, **sabato 10 febbraio alle ore 21 avrà luogo un concerto breve dedicato all'artista con l'esecuzione delle sue musiche predilette e una visita guidata, condotta dalla curatrice Marianna Accerboni, con l'interpretazione, attraverso la musica, dei dipinti esposti da parte del soprano Ilaria Zanetti, di Stefano Casaccia al flauto e Claudio Gasparoni alla viola da gamba.** Seguirà un **vin d'honneur** con i vini della **Tenuta Baroni del Mestri** (Cormons, Gorizia).

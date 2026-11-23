@@ -3,7 +3,6 @@ title: "Duplice evento espositivo per il pittore Roberto Budicin: dopo il succes
 slug: budicin-duplice-evento-trieste-udine-2012
 createdAt: 2026-11-21T16:22:00
 parent: roberto-budicin-paesaggio-e-poesia-2012
-info: null
 bodySection:
   body: |-
     ![Guardiani della scalinata - olio su tela - cm. 36x51](/media/events/roberto-budicin-paesaggio-e-poesia-2012/Guardiani_della_scalinata_-_olio_su_tela_-_cm._36x51.jpg "Guardiani della scalinata - olio su tela - cm. 36x51")

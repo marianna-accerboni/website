@@ -3,7 +3,6 @@ title: "Mostra prorogata fino al 6 gennaio a Gorizia in Prefettura, a Palazzo La
 slug: dominioni-proroga-6-gennaio-2014
 createdAt: 2026-11-21T12:24:00
 parent: dominioni-gorizia-mostra-diffusa-2013
-info: null
 bodySection:
   body: |-
     **Considerato il grande successo di pubblico e l'interesse suscitato in Regione e in tutta Italia dalla mostra _Paolo Caccia Dominioni. Un artista sul fronte di guerra_, diffusa in prestigiose sedi istituzionali a Gorizia, Redipuglia e Udine, e visitata finora da più di 3.000 persone, la rassegna viene prorogata a Gorizia in Prefettura e a Palazzo Lantieri e alla Stazione di Redipuglia fino al 6 gennaio 2014.**

@@ -2,8 +2,7 @@
 title: 'Venerdì 6 giugno al Magazzino 26 del Porto Vecchio di Trieste secondo evento collaterale: incontro con lo scrittore Diego Marani sul tema "Com''è cambiata oggi la percezione del confine?"'
 parent: confini-di-luce-magazzino-26-2025
 coverImage: /media/Nuova_grammatica_finlandese_Bompiani_2000__La_nave_di_Teseo_2022.jpg
-info:
-  date: 2025-06-06
+date: 2025-06-06
 bodySection:
   body: |-
     ![Diego Marani nel suo studio a Bruxelles](/media/Diego_Marani_nel_suo_studio_a_Bruxelles.jpg "Diego Marani nel suo studio a Bruxelles")

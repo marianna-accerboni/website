@@ -3,7 +3,6 @@ title: "sabato 21 agosto dalle 10.30 alle 13"
 slug: leonor-fini-21-agosto
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     Sabato 21 agosto al Magazzino 26 del Porto vecchio di Trieste, nell’ambito della mostra su Leonor Fini: un laboratorio d’illustrazione per adulti e un workshop di fumetto per bambini

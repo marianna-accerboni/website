@@ -2,8 +2,7 @@
 title: Sabato 31 maggio al Magazzino 26 del Porto Vecchio di Trieste primo evento collaterale con la proiezione del video "Un uomo un castello un incontro. Rilke. La poesia è musica" del maestro Silvio Donati
 parent: confini-di-luce-magazzino-26-2025
 coverImage: /media/Vista_dal_Castello_di_Duino_sul_castel_vecchio_di_Duino_la_prima_rocca_costruita_intorno_allXI_secolo_.jpg
-info:
-  date: 2025-05-31
+date: 2025-05-31
 bodySection:
   body: |-
     ![Il M° Silvio Donati al pianoforte](/media/Il_M_Silvio_Donati_al_pianoforte.jpg "Il M° Silvio Donati al pianoforte")

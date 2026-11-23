@@ -3,7 +3,6 @@ title: "Il Premio Mulitsch e la mostra al Castello di Gorizia a Sconfinamenti (R
 slug: concorso-mulitsch-sconfinamenti-rai-27-giugno-2019
 createdAt: 2026-11-11T11:21:00
 parent: concorso-mulitsch-gorizia-2019
-info: null
 bodySection:
   body: |-
     il 27 giugno alla RAI, nella trasmissione Sconfinamenti, si è parlato a lungo, anche con il Sindaco di Gorizia Rodolfo Ziberna e l'Assessore alla Cultura Fabrizio Oreti, del Premio Mulitsch e della mostra delle opere selezionate, visitabile ancora oggi e domani al Castello di Gorizia e dai primi giorni di luglio esposte nelle vetrine dei negozi del centro e nelle finestre del Palazzo Comunale di piazza Garibaldi.

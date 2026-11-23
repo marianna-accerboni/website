@@ -3,7 +3,6 @@ title: "Prorogata fino al 31 agosto nell'atelier di via Punta del Forno la mostr
 slug: del-frate-proroga-31-agosto-2011
 createdAt: 2026-11-21T16:47:00
 parent: roberto-del-frate-trieste-udine-2011
-info: null
 bodySection:
   body: |-
     **Viene prorogata fino al 31 agosto la personale del pittore Roberto del Frate dedicata al paesaggio urbano di Trieste, che ha inaugurato l'atelier dell'artista** in via Punta del Forno 3 (vicino Hotel Urban), **nel centro storico di Trieste, con una performance di luce ideata e curata, come la mostra nel capoluogo giuliano e a Udine, dall'architetto Marianna Accerboni.** E' questa infatti la seconda tappa del **duplice evento espositivo**, che vede l'impressionismo contemporaneo di Del Frate protagonista nella Regione Friuli Venezia Giulia con una ricca sequenza di dipinti inediti realizzati nell'ultimo anno a olio e tecnica mista su tavola e dedicati ai siti urbani più significativi di Trieste e di Udine, accanto a vedute di campagna e ad alcune delicate ma intense marine.

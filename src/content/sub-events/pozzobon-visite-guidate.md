@@ -1,8 +1,7 @@
 ---
 title: Sabato 7 e domenica 8 marzo ultimi giorni e visite guidate alla sala Veruda di palazzo Costanzi a Trieste, per la mostra antologica della pittrice veneta Francesca Pozzobon "Un infinito intrattenimento"
 parent: francesca-pozzobon-un-infinito-intrattenimento
-info:
-  date: 2026-03-07
+date: 2026-03-07
 bodySection:
   body: |-
     **Sabato 7 e domenica 8 marzo sono gli ultimi giorni per visitare alla Sala Veruda di Palazzo Costanzi di Trieste (piazza Piccola 2) la mostra antologica della pittrice veneta Francesca Pozzobon intitolata "Un infinito intrattenimento".**

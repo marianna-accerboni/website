@@ -3,7 +3,6 @@ title: "Prorogata fino al 26 luglio alla Galleria One San Nicolò di Trieste la 
 slug: spacal-proroga-26-luglio-2013
 createdAt: 2026-11-21T14:19:00
 parent: luigi-spacal-poetica-essenzialita-2013
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/FIQlTvagEu4" width="420" height="315"></iframe>

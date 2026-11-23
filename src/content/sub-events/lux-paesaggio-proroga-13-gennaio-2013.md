@@ -3,7 +3,6 @@ title: "Prorogata fino al 13 gennaio alla Lux Art Gallery la 45° Mostra del Pae
 slug: lux-paesaggio-proroga-13-gennaio-2013
 createdAt: 2026-11-21T14:43:00
 parent: mostra-del-paesaggio-45-lux-art-gallery-2012
-info: null
 bodySection:
   body: |-
     ![copertina catalogo2](/media/events/mostra-del-paesaggio-45-lux-art-gallery-2012/copertina_catalogo2.jpg "copertina catalogo2")

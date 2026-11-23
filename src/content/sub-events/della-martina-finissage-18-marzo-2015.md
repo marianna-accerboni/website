@@ -3,7 +3,6 @@ title: "Luce 2015: mercoledì 18 marzo alla Sala Comunale d'Arte di Trieste fini
 slug: della-martina-finissage-18-marzo-2015
 createdAt: 2026-11-17T08:26:00
 parent: alpina-della-martina-luce-2015
-info: null
 bodySection:
   body: |-
     Mercoledì 18 marzo alle 18.30 alla Sala Comunale d'Arte di Trieste avrà luogo il finissage della mostra personale della pittrice Alpina Della Martina, intitolata _Luce 2015_ e presentata dall'arch. Marianna Accerboni. In mostra una sequenza di essenziali acquerelli realizzati di recente prevalentemente sul tema del paesaggio e della natura morta.

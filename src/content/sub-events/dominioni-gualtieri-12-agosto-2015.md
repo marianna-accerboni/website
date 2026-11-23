@@ -3,7 +3,6 @@ title: "Mercoledì 12 agosto alla Biblioteca Statale S. Crise di Trieste incontr
 slug: dominioni-gualtieri-12-agosto-2015
 createdAt: 2026-11-17T07:46:00
 parent: dominioni-trieste-biblioteca-crise-2015
-info: null
 bodySection:
   body: |-
     ![conferenza - Alessandro Gualtieri e Marianna Accerboni](/media/events/dominioni-trieste-biblioteca-crise-2015/conferenza_5_-_Alessandro_Gualtieri_e_Marianna_Accerboni_foto_Franco_Viezzoli.jpg "conferenza - Alessandro Gualtieri e Marianna Accerboni")

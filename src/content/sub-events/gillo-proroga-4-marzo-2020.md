@@ -3,7 +3,6 @@ title: "Prorogata fino al 4 marzo 2020 alla Biblioteca statale di Trieste la mos
 slug: gillo-proroga-4-marzo-2020
 createdAt: 2026-11-11T11:21:00
 parent: il-segno-rivelatore-di-gillo-2019
-info: null
 bodySection:
   body: |-
     ![Etichetta per il vino Aglianico, 2010 (Azienda San Salvatore, Giungano, Salerno)](/media/events/il-segno-rivelatore-di-gillo-2019/Etichetta_per_il_vino_Aglianico_2010_Azienda_San_Salvatore_Giungano_Salerno.jpg "Etichetta per il vino Aglianico, 2010 (Azienda San Salvatore, Giungano, Salerno)")

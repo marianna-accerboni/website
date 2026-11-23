@@ -3,7 +3,6 @@ title: "Sabato 19 e mercoledì 23 novembre nell'ambito della Biennale 2011 - Lo 
 slug: mondadori-visite-guidate-19-23-novembre-2011
 createdAt: 2026-11-21T16:34:00
 parent: ieri-e-oggi-artisti-in-libreria-2011
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/_KywshA6jpU" width="350" height="288"></iframe>

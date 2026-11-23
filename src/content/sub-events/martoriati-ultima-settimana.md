@@ -1,7 +1,6 @@
 ---
 title: Ultima settimana per visitare la mostra “Mauro Martoriati. Bora e Tergesteo”
 parent: mauro-martoriati-bora-e-tergesteo
-info: null
 bodySection:
   body: |-
     Ultima settimana per visitare la mostra “Mauro Martoriati. Bora e Tergesteo”, che chiuderà domenica 25 settembre al Magazzino 26 del Porto Vecchio di Trieste. **Domani venerdì 23 alle 18.30**, in considerazione del consenso ottenuto nel precedente incontro, **l’attrice Marzia Postogna terrà nuovamente una lettura scenica dedicata all’antica e poetica leggenda, che racconta l’amore di Bora, figlia del Vento, per l’argonauta Tergesteo, che ha ispirato a Martoriati la scultura posizionata esternamente al Magazzino.** A seguire visita guidata con l’artista.

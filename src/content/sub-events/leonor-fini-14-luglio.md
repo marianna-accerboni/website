@@ -3,7 +3,6 @@ title: "Nell’ambito della mostra “Leonor Fini. Memorie triestine, mercoledì
 slug: leonor-fini-14-luglio
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     Mercoledì 14 luglio al Magazzino 26 del Porto vecchio di Trieste: “la penna visionaria di Leonor fini, Gillo Dorfles e Arturo Nathan”, terzo appuntamento collaterale nell’ambito della mostra ”Leonor Fini. memorie triestine”

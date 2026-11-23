@@ -3,7 +3,6 @@ title: "Dopo il grande successo alla Biblioteca Statale di Trieste, sabato 11 lu
 slug: dominioni-spaziocavana-la-ragione-e-il-sogno-2015
 createdAt: 2026-11-17T07:46:00
 parent: dominioni-trieste-biblioteca-crise-2015
-info: null
 bodySection:
   body: |-
     ![Progetto per il restauro di un palazzo settecentesco in via Ascoli a Gorizia per il Conte Michele Formentini (tavola 1)](/media/events/dominioni-trieste-biblioteca-crise-2015/foto2.jpg "Progetto per il restauro di un palazzo settecentesco in via Ascoli a Gorizia per il Conte Michele Formentini (tavola 1)")

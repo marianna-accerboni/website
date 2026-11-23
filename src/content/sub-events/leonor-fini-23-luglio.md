@@ -3,7 +3,6 @@ title: "Venerdì 23 luglio: 'Leonor Fini segreta' nel ricordo delle cugine Fraus
 slug: leonor-fini-23-luglio
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     Porto vecchio di Trieste, Lilly Frausin e Annamaria Frausin Sadar, cugine triestine  della pittrice e uniche parenti della Fini rimaste ancora in vita, verranno intervistate dalla curatrice Marianna Accerboni per svelare, in un racconto inedito, gli aspetti più personali del suo temperamento e di una vita d’eccezione. L’incontro si concluderà con una visita guidata e una degustazione di vini offerti da Zidarich (Prepotto, Duino Aurisina, Trieste).

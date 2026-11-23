@@ -3,7 +3,6 @@ title: "Giovedì 6 agosto alla Biblioteca Statale S. Crise di Trieste incontro c
 slug: dominioni-sanfelice-6-agosto-2015
 createdAt: 2026-11-17T07:46:00
 parent: dominioni-trieste-biblioteca-crise-2015
-info: null
 bodySection:
   body: |-
     ![Ferdinando Sanfelice di Monteforte](/media/events/dominioni-trieste-biblioteca-crise-2015/Ferdinando_Sanfelice_di_Monteforte.jpg "Ferdinando Sanfelice di Monteforte")

@@ -3,7 +3,6 @@ title: "Prosegue con successo fino al 31 ottobre la mostra Pittori amburghesi a 
 slug: amburghesi-visita-guidata-18-ottobre-2012
 createdAt: 2026-11-21T14:58:00
 parent: pittori-amburghesi-a-trieste-2012
-info: null
 bodySection:
   body: |-
     Prosegue con successo fino al 31 ottobre la mostra Pittori amburghesi a Trieste: giovedì 18 ottobre alle 18.30 l'arch. Marianna Accerboni e il designer Roberto Weck, curatori della mostra assieme all'arch. Krista Blassy, terranno una visita guidata alla Biblioteca Statale Stelio Crise di Trieste (Largo Papa Giovanni XXIII, 6 • 1° piano ).

@@ -3,7 +3,6 @@ title: "Prodotte nel 1951 dalla Società Ceramica Italiana-S.C.I. di Laveno-Momb
 slug: leonor-fini-ceramiche-1951
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     Venerdì 9 luglio al Magazzino 26 del Porto vecchio di Trieste: “Le misteriose porcellane di Leonor”, secondo appuntamento collaterale nell’ambito della mostra ”Leonor Fini. memorie triestine”

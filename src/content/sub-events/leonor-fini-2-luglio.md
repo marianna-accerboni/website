@@ -3,7 +3,6 @@ title: "Venerdì 2 luglio alle 18.30 alla Sala Luttazzi del Magazzino 26 del "
 slug: leonor-fini-2-luglio
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     Venerdì 2 luglio avrà luogo al Magazzino 26 del Porto vecchio di Trieste “Un profumo per Leonor”, primo appuntamento collaterale nell’ambito della mostra ”Leonor Fini. Memorie Triestine”

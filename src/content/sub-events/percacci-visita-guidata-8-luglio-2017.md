@@ -3,7 +3,6 @@ title: "Sabato 8 luglio 2017 nella sede della Comunità Evangelica Luterana di T
 slug: percacci-visita-guidata-8-luglio-2017
 createdAt: 2026-11-11T12:53:00
 parent: guido-percacci-antologica-2017
-info: null
 bodySection:
   body: |-
     **Sabato 8 luglio alle 18.30 alla Comunità Evangelica Luterana (via San Lazzaro 19) avrà luogo una visita guidata alla mostra del pittore triestino Guido Percacci, curata dall'arch. Marianna Accerboni.**

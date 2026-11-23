@@ -3,7 +3,6 @@ title: "Finissage della mostra con la presentazione del romanzo “Dalla parte d
 slug: dominioni-finissage-nidia-robba-2013
 createdAt: 2026-11-21T12:24:00
 parent: dominioni-gorizia-mostra-diffusa-2013
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/9_gCo-gad9w" width="350" height="288"></iframe>

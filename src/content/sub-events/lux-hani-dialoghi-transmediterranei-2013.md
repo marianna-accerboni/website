@@ -3,7 +3,6 @@ title: "Dal 12 gennaio alla Lux Art Gallery, nell'ambito della 45° Mostra del P
 slug: lux-hani-dialoghi-transmediterranei-2013
 createdAt: 2026-11-21T14:43:00
 parent: mostra-del-paesaggio-45-lux-art-gallery-2012
-info: null
 bodySection:
   body: |-
     ![foto](/media/events/mostra-del-paesaggio-45-lux-art-gallery-2012/foto.jpg "foto")

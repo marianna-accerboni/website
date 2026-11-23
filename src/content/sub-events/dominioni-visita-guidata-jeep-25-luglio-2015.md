@@ -3,7 +3,6 @@ title: "Sabato 25 luglio alla Biblioteca Statale S. Crise di Trieste visita guid
 slug: dominioni-visita-guidata-jeep-25-luglio-2015
 createdAt: 2026-11-17T07:46:00
 parent: dominioni-trieste-biblioteca-crise-2015
-info: null
 bodySection:
   body: |-
     ![Jeep MB Willys 1945 americana con livrea inglese del tipo usato da PCD nel deserto egiziano](/media/events/dominioni-trieste-biblioteca-crise-2015/foto1.JPG "Jeep MB Willys 1945 americana con livrea inglese del tipo usato da PCD nel deserto egiziano")

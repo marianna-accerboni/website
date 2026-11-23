@@ -3,7 +3,6 @@ title: "Presentata al Palazzo del Consiglio Regionale di Trieste l'antologica Cl
 slug: saccari-visita-guidata-23-dicembre-2014
 createdAt: 2026-11-17T08:26:00
 parent: claudio-saccari-antologica-2014
-info: null
 bodySection:
   body: |-
     Martedì 23 dicembre alle 16 avrà luogo al Palazzo del Consiglio Regionale FVG di Trieste (piazza Oberdan 6) una visita guidata all'antologica _Claudio Saccari 1964 - 2014. Cinquant'anni di Fotografia_, inaugurata di recente davanti a un folto pubblico dal vicepresidente Igor Gabrovec e da Emiliano Edera, componente dell'Ufficio di presidenza, alla presenza dell'Autore e della curatrice Marianna Accerboni.

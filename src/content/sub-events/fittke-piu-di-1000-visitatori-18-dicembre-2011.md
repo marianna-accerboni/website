@@ -3,7 +3,6 @@ title: "Più di 1000 visitatori per “L'arte al femminile”, 50° mostra colle
 slug: fittke-piu-di-1000-visitatori-18-dicembre-2011
 createdAt: 2026-11-21T16:34:00
 parent: arte-al-femminile-sala-fittke-2011
-info: null
 bodySection:
   body: |-
     Trieste ∙ Sala Arturo Fittke (Piazza Piccola, 3)

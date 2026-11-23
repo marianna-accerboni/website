@@ -2,7 +2,6 @@
 title: 'Ampio risalto da parte della stampa belga alla mostra "L''arte triestina al femminile nel ''900 d''avanguardia italiano ed europeo" aperta fino al 2 agosto all''Istituto Italiano di Cultura di Bruxelles: un seguito agli antichi legami tra Trieste e la capitale belga.'
 parent: arte-fvg-bruxelles
 coverImage: /media/arte-fvg-img-20240517-101930.jpg
-info: null
 bodySection:
   body: |-
     ![Copertina di Trieste è un isola di Francesco De Filippo](/media/arte-fvg-copertina-trieste-e-un-isola-francesco-de-filippo.jpg "Copertina di Trieste è un isola di Francesco De Filippo")

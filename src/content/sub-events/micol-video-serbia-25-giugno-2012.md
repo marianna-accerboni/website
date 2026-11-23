@@ -3,7 +3,6 @@ title: "Lunedì 25 giugno al Caffè Storico Tommaseo proiezione del video sul vi
 slug: micol-video-serbia-25-giugno-2012
 createdAt: 2026-11-21T16:22:00
 parent: olga-micol-la-serbia-al-caffe-tommaseo-2012
-info: null
 bodySection:
   body: |-
     **Lunedì 25 giugno alle ore 18.30 al Caffè Storico Tommaseo, nell'ambito della mostra _“Serbia: Trmbas campo profughi, speranza in un futuro migliore”_, curata da Marianna Accerboni, verrà proiettato il video completo sul viaggio compiuto in Serbia dall'autrice** con l'associazione Onlus _non bombe ma solo caramelle._

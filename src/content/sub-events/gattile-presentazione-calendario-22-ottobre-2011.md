@@ -3,7 +3,6 @@ title: "Al Gattile di via della Fontana sabato 22 ottobre si presenta il calenda
 slug: gattile-presentazione-calendario-22-ottobre-2011
 createdAt: 2026-11-21T16:34:00
 parent: gattile-poveri-ma-belli-2012-concorso-fotografico-2011
-info: null
 bodySection:
   body: |-
     **Sabato 22 ottobre 2011 alle ore 16 nella sede de Il Gattile** (via della Fontana 4) alle ore 16 **verrà presentato il calendario "Poveri ma belli 2012"**, dedicato quest'anno ai nipotini dell'Associazione, cioè a quei gatti già ricoverati perchè in pericolo di sopravvivenza, che poi hanno trovato una casa amorevole.

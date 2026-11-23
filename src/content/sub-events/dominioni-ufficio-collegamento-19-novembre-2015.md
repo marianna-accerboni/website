@@ -3,7 +3,6 @@ title: "Mostra Paolo Caccia Dominioni. Un Artista sul Fronte di Guerra: il 19 no
 slug: dominioni-ufficio-collegamento-19-novembre-2015
 createdAt: 2026-11-14T10:59:00
 parent: dominioni-bruxelles-terza-tappa-2015
-info: null
 bodySection:
   body: |-
     ![Baracca del 4 Bersaglieri - Ronzina 16 maggio - 28 giugno 1914 - disegno su carta - cm. 47.9x33](/media/events/dominioni-bruxelles-terza-tappa-2015/Baracca_del_4_Bersaglieri_-_Ronzina_16_maggio_-_28_giugno_1914_-_disegno_su_carta_-_cm._47.9x33.jpg "Baracca del 4 Bersaglieri - Ronzina 16 maggio - 28 giugno 1914 - disegno su carta - cm. 47.9x33")

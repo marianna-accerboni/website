@@ -3,7 +3,6 @@ title: "Tra ironia e metafisica: Aldo Bressanutti alla Galleria Rettori Tribbio 
 slug: bressanutti-incontro-6-ottobre-2011
 createdAt: 2026-11-21T16:34:00
 parent: aldo-bressanutti-tra-ironia-e-metafisica-2011
-info: null
 bodySection:
   body: |-
     Galleria Rettori Tribbio 2 · Trieste

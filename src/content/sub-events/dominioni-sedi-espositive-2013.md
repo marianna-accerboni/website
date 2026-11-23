@@ -3,7 +3,6 @@ title: "Sedi espositive"
 slug: dominioni-sedi-espositive-2013
 createdAt: 2026-11-21T12:24:00
 parent: dominioni-gorizia-mostra-diffusa-2013
-info: null
 bodySection:
   body: |-
     ![Fiaccola alpina della fraternità - Timau - Redipuglia, 4 Novembre 1956 - 1981](/media/events/dominioni-gorizia-mostra-diffusa-2013/Fiaccola_alpina_della_fraternita_-_Timau_-_Redipuglia_4_Novembre_1956_-_1981.jpg "Fiaccola alpina della fraternità - Timau - Redipuglia, 4 Novembre 1956 - 1981")

@@ -3,7 +3,6 @@ title: "Selezionati i vincitori della V° edizione del Concorso Internazionale d
 slug: mulitsch-artisti-premiati-6-giugno-2015
 createdAt: 2026-11-17T08:05:00
 parent: concorso-mulitsch-gorizia-2015
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/0q9ZS12sD_g" width="350" height="288" allowfullscreen="allowfullscreen"></iframe>

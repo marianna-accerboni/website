@@ -3,7 +3,6 @@ title: "Sabato 2 febbraio 2013 alla Lux Art Gallery finissage della mostra I Dia
 slug: lux-hani-finissage-2-febbraio-2013
 createdAt: 2026-11-21T14:43:00
 parent: mostra-del-paesaggio-45-lux-art-gallery-2012
-info: null
 bodySection:
   body: |-
     ![PSC21](/media/events/mostra-del-paesaggio-45-lux-art-gallery-2012/PSC21.jpg "PSC21")

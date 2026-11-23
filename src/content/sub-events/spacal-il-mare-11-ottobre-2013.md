@@ -3,7 +3,6 @@ title: "Il mare di Luigi Spacal: venerdì 11 ottobre alle 19 alla Galleria One S
 slug: spacal-il-mare-11-ottobre-2013
 createdAt: 2026-11-21T14:19:00
 parent: luigi-spacal-poetica-essenzialita-2013
-info: null
 bodySection:
   body: |-
     ![L. Spacal - Porto, 1940 - olio su tela su faesite - cm 46x32,5](/media/events/luigi-spacal-poetica-essenzialita-2013/L._Spacal_-_Porto_1940_-_olio_su_tela_su_faesite_-_cm_46x325.jpg "L. Spacal - Porto, 1940 - olio su tela su faesite - cm 46x32,5")

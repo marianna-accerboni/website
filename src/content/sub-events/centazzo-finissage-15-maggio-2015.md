@@ -3,7 +3,6 @@ title: "Venerdì 15 maggio 2015 alla Galleria Rettori Tribbio di Trieste finissa
 slug: centazzo-finissage-15-maggio-2015
 createdAt: 2026-11-17T08:11:00
 parent: giovanni-centazzo-terra-e-mare-2015
-info: null
 bodySection:
   body: |-
     **Venerdì 15 maggio alle 11.30 alla Galleria Rettori Tribbio di Trieste** (piazza Vecchia 6) avrà luogo con una visita guidata, **il finissage della personale del pittore Giovanni Centazzo, intitolata _Tra terra e mare_ e curata da Marianna Accerboni: in mostra quasi una trentina di oli prevalentemente del 2015.**

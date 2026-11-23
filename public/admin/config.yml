@@ -126,29 +126,7 @@ collections:
         search_fields: [title]
         dropdown_threshold: 0
       - { label: Immagine evento, name: coverImage, widget: image, required: false }
-      - label: Informazioni
-        name: info
-        widget: object
-        collapsed: true
-        required: false
-        fields:
-          - { label: Data, name: date, widget: datetime, date_format: YYYY-MM-DD, time_format: HH:mm, required: false }
-          - label: Sede
-            name: venue
-            widget: relation
-            collection: venues
-            value_field: name
-            display_fields: [name]
-            search_fields: [name]
-            dropdown_threshold: 0
-            required: false
-          - { label: Orario, name: time, widget: string, required: false }
-          - { label: Info e contatti, name: infoContacts, widget: markdown, required: false, minimal: true }
-          - label: Invito
-            name: invitations
-            widget: file
-            multiple: true
-            required: false
+      - { label: Data, name: date, widget: datetime, date_format: YYYY-MM-DD, time_format: HH:mm, required: false, hint: "Facoltativa. Se presente appare sopra il titolo della notizia." }
       - label: Testo
         name: bodySection
         widget: object

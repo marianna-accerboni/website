@@ -3,7 +3,6 @@ title: "La dimensione del sogno: mercoledì 25 aprile il pittore Elvio Zorzenon 
 slug: zorzenon-incontro-25-aprile-2012
 createdAt: 2026-11-21T16:22:00
 parent: elvio-zorzenon-la-dimensione-del-sogno-2012
-info: null
 bodySection:
   body: |-
     **Reduci dal successo dell'affollatissima vernice della personale “La dimensione del sogno”, fino al 29 aprile alla Sala Comunale d'Arte**, **mercoledì 25 aprile dalle ore 18 il pittore Elvio Zorzenon e la curatrice Marianna Accerboni incontreranno il pubblico**: in mostra **una quindicina di opere realizzate dall'artista aquileiese a tecnica mista su tela prevalentemente dal 2007 a oggi.**

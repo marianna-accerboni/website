@@ -3,7 +3,6 @@ title: "Prosegue fino al 21 ottobre alla Galleria Rettori Tribbio la mostra pers
 slug: mozina-incontro-18-ottobre-2011
 createdAt: 2026-11-21T16:34:00
 parent: livio-mozina-virtuosismo-luministico-e-cromatico-2011
-info: null
 bodySection:
   body: |-
     Autodidatta, e proprio per questo, nel suo caso, talento autentico, Možina - scrive Accerboni - si è costruito da più di quarant'anni a questa parte un linguaggio autonomo nell'ambito della pittura figurativa d'inclinazione narrativa, attingendo istintivamente, per certi versi, alla cultura dell'Est, cui in parte si possono ascrivere la sua ispirazione e la sua origine.

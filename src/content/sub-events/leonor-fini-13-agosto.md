@@ -3,7 +3,6 @@ title: "venerdì 13 agosto alle ore 18.30 al Magazzino 26 del "
 slug: leonor-fini-13-agosto
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     Venerdì 13 agosto al Magazzino 26 del Porto vecchio di Trieste incontro su “Leonor Fini, Gillo Dorfles e Arturo Nathan. Grafie a confronto”. Interviene il grafologo mauro galli. In programma anche visite guidate e laboratori

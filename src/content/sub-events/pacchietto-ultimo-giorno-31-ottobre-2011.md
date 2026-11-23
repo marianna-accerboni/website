@@ -3,7 +3,6 @@ title: "Lunedì 31 ottobre ultimo giorno per vedere alla Lux Art Gallery la most
 slug: pacchietto-ultimo-giorno-31-ottobre-2011
 createdAt: 2026-11-21T16:34:00
 parent: nello-pacchietto-dipingere-la-poesia-lux-art-gallery-2011
-info: null
 bodySection:
   body: |-
     **IN MOSTRA LAVORI DEDICATI ALL'ISTRIA, A VENEZIA E AL MARE**

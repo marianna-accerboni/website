@@ -3,7 +3,6 @@ title: "Venerdì 17 aprile 2015 alla Galleria Rettori Tribbio di Trieste finissa
 slug: budicin-finissage-17-aprile-2015
 createdAt: 2026-11-17T08:11:00
 parent: sergio-budicin-anatre-allo-stagno-2015
-info: null
 bodySection:
   body: |-
     **Venerdì 17 aprile alle 11.30 alla Galleria Rettori Tribbio di Trieste** (piazza Vecchia 6) avrà luogo con una visita guidata, **il finissage della personale del pittore Sergio Budicin, curata da Marianna Accerboni: in mostra una quarantina di opere in gran parte inedite, realizzate a olio su tela e su tavola negli ultimi tre anni.**

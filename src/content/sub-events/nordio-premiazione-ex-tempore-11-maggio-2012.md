@@ -3,7 +3,6 @@ title: "Assegnati il premio e le menzioni per l'ex tempore di pittura al liceo a
 slug: nordio-premiazione-ex-tempore-11-maggio-2012
 createdAt: 2026-11-21T16:22:00
 parent: ex-tempore-di-pittura-liceo-nordio-2012
-info: null
 bodySection:
   body: |-
     ![Premiazione - da sin Giampaolo Gei - Armando Polacco - Marianna Accerboni e Segio Ashiku](/media/events/ex-tempore-di-pittura-liceo-nordio-2012/Premiazione_-_da_sin_Giampaolo_Gei_-_Armando_Polacco_-_Marianna_Accerboni_e_Segio_Ashiku.JPG "Premiazione - da sin Giampaolo Gei - Armando Polacco - Marianna Accerboni e Segio Ashiku")

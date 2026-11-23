@@ -3,7 +3,6 @@ title: "Giovedì 16 ottobre 2014 alla Galleria Rettori Tribbio di Trieste visita
 slug: mozina-visita-guidata-16-ottobre-2014
 createdAt: 2026-11-17T08:38:00
 parent: livio-mozina-sogno-e-realta-2014
-info: null
 bodySection:
   body: |-
     **Giovedì 16 ottobre alle 18.30 alla Galleria Rettori Tribbio di Trieste** (piazza Vecchia 6) **l'architetto Marianna Accerboni, curatrice della mostra del pittore Livio Možina, terrà una visita guidata alla rassegna, che propone una trentina di oli su tavola inediti, realizzati dal 2011 a oggi. L'Artista sarà presente.**

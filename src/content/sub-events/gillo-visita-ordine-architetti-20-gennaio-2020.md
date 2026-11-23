@@ -3,7 +3,6 @@ title: "Visita guidata organizzata dall'Ordine Architetti"
 slug: gillo-visita-ordine-architetti-20-gennaio-2020
 createdAt: 2026-11-11T11:21:00
 parent: il-segno-rivelatore-di-gillo-2019
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/2iLGhz5ZHKk" width="450" height="300" allowfullscreen="allowfullscreen"></iframe>

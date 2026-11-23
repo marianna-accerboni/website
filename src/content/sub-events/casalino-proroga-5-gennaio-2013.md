@@ -3,7 +3,6 @@ title: "Prorogata fino al 5 gennaio all'Atelier WorkingART di Trieste la mostra 
 slug: casalino-proroga-5-gennaio-2013
 createdAt: 2026-11-21T14:43:00
 parent: armando-casalino-mitologicamente-2012
-info: null
 bodySection:
   body: |-
     ![flyer NEW orari web](/media/events/armando-casalino-mitologicamente-2012/flyer-NEW_orari_web.jpg "flyer NEW orari web")

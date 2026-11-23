@@ -3,7 +3,6 @@ title: "Giovedì 3 dicembre alla Maison de la Jeunesse di Bruxelles la terza tap
 slug: dominioni-maison-de-la-jeunesse-3-dicembre-2015
 createdAt: 2026-11-14T10:59:00
 parent: dominioni-bruxelles-terza-tappa-2015
-info: null
 bodySection:
   body: |-
     ![Dopo il grande successo di Gorizia e di Trieste prende il via il 3 novembre all'Istituto Italiano di Cultura di Bruxelles la terza tappa della mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra. Tre le sedi espositive](/media/events/dominioni-bruxelles-terza-tappa-2015/foto.jpg "Dopo il grande successo di Gorizia e di Trieste prende il via il 3 novembre all'Istituto Italiano di Cultura di Bruxelles la terza tappa della mostra Paolo Caccia Dominioni. Un artista sul fronte di guerra. Tre le sedi espositive")

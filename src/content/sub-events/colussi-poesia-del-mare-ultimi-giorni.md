@@ -1,7 +1,6 @@
 ---
 title: Ultimi giorni per visitare la mostra Fabio Colussi. Poesia del mare alla Sala Comunale d'Arte di Trieste fino al 30 marzo
 parent: fabio-colussi-poesia-del-mare-2022
-info: null
 bodySection:
   body: |-
     **Ancora pochi giorni per visitare alla Sala Comunale d'arte di Trieste (piazza dell'Unità d'Italia 4) la rassegna "Fabio Colussi. Poesia del mare", aperta fino al 30 marzo. Curata dall'architetto Marianna Accerboni, è dedicata dal pittore triestino al tema prediletto della veduta marina**: in mostra **più di una ventina di oli recenti su tela e su tavola per la maggior parte inediti.**

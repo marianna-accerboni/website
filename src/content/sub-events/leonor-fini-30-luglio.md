@@ -3,7 +3,6 @@ title: "venerdì 30 luglio alle ore 18.30 al Magazzino 26 del "
 slug: leonor-fini-30-luglio
 createdAt: 2026-09-27T10:03:00
 parent: trieste-leonor-fini-memorie-triestine
-info: null
 bodySection:
   body: |-
     Venerdì 30 luglio al Magazzino 26 del Porto vecchio di Trieste: Cristina Battocletti de Il sole 24 ore parlera’ su “Leonor fini; Bobi Bazlen, Gillo Dorfles e gli altri nella Trieste degli anni venti” e presentera’ in anteprima il suo libro su Giorgio Strehler

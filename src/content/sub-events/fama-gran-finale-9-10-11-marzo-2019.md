@@ -3,7 +3,6 @@ title: "Gran finale per la mostra di Aldo Famà al Palazzo Costanzi di Trieste: 
 slug: fama-gran-finale-9-10-11-marzo-2019
 createdAt: 2026-11-11T11:29:00
 parent: aldo-fama-lo-stato-dell-arte-2019
-info: null
 bodySection:
   body: |-
     [Ufficio Stampa Comune di Trieste: Ultimi giorni. Visita guidata alla mostra di Famà](/media/events/aldo-fama-lo-stato-dell-arte-2019/vg-fama3.pdf)

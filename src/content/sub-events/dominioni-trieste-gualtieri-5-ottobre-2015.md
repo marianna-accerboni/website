@@ -3,7 +3,6 @@ title: "Lunedì 5 ottobre alla Biblioteca Statale S. Crise di Trieste incontro c
 slug: dominioni-trieste-gualtieri-5-ottobre-2015
 createdAt: 2026-11-17T07:28:00
 parent: dominioni-trieste-nuovo-calendario-2015
-info: null
 bodySection:
   body: |-
     ![Alessandro Gualtieri](/media/events/dominioni-trieste-nuovo-calendario-2015/Alessandro_Gualtieri.jpg "Alessandro Gualtieri")

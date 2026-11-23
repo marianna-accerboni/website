@@ -3,7 +3,6 @@ title: "I papier collé di Maria Grazia Lazzari: ultimi giorni per visitare la m
 slug: lazzari-ultimi-giorni-22-23-giugno-2016
 createdAt: 2026-11-11T21:36:00
 parent: maria-grazia-lazzari-papier-colle-2016
-info: null
 bodySection:
   body: |-
     **Ultimi giorni per visitare alla Galleria Rettori Tribbio di Trieste (piazza Vecchia 6) la mostra intitolata _I papier collé di Maria Grazia Lazzari_, curata dall'architetto Marianna Accerboni: mercoledì 22 dalle 17 in poi e giovedì 23 giugno dalle 18.30 l'artista condurrà in galleria una visita guidata. Giovedì alle 18.30, nel corso del finissage, avrà anche luogo l'assegnazione delle tre opere a chi avrà fornito il titolo migliore per almeno una di queste.**

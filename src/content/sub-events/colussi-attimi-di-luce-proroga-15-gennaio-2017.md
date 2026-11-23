@@ -3,7 +3,6 @@ title: "Fabio Colussi. Attimi di luce: prorogata fino al 15 gennaio 2017 la most
 slug: colussi-attimi-di-luce-proroga-15-gennaio-2017
 createdAt: 2026-11-11T13:17:00
 parent: fabio-colussi-attimi-di-luce-2016
-info: null
 bodySection:
   body: |-
     In considerazione del grande successo di pubblico, la personale del pittore triestino Fabio Colussi **al Salone d'Arte Contemporanea di Trieste (via della Zonta 2)**, curata da Marianna Accerboni e visitata finora da più di 1500 persone, viene prorogata fino al 15 gennaio: in mostra **più di una ventina di oli su tela inediti, realizzati con grande maestria dall'artista tra il 2015 e il 2016.**

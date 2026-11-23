@@ -3,7 +3,6 @@ title: "Martedì 6 agosto alle 19.00 alla Sala Fittke Marianna Accerboni, curatr
 slug: fittke-visita-guidata-6-agosto-2013
 createdAt: 2026-11-21T14:19:00
 parent: arte-al-femminile-sala-fittke-2013
-info: null
 bodySection:
   body: |-
     ![Nora Carella - Venezia, Madonna della Salute, 2010 - olio su tela - cm. 100x70](/media/events/arte-al-femminile-sala-fittke-2013/Nora_Carella_-_Venezia_Madonna_della_Salute_-_2010_-_olio_su_tela_-_cm._100_x_70.jpg "Nora Carella - Venezia, Madonna della Salute, 2010 - olio su tela - cm. 100x70")

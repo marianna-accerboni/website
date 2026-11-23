@@ -2,7 +2,6 @@
 title: Giovedì 23 aprile alla sala Bobi Bazlen di palazzo Gopcevich a Trieste presentazione degli ultimi due libri di fotografie del fotografo poeta Giacomo Garzya
 parent: giacomo-garzya-flash-sulla-barcolana
 coverImage: /media/garzya-407/Ritratto_fotografico_di_Garzya.jpg
-info: null
 bodySection:
   body: |-
     ![Copertina Echi di pietra](/media/garzya-407/Copertina_Echi_di_pietra_22x30_6mm.jpg "Copertina Echi di pietra")

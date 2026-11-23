@@ -3,7 +3,6 @@ title: "Sabato 30 dicembre 2017 alla Galleria Rettori Tribbio di Trieste visita 
 slug: saldana-visita-guidata-30-dicembre-2017
 createdAt: 2026-11-11T12:22:00
 parent: otilia-saldana-angeli-2017
-info: null
 bodySection:
   body: |-
     **_Il 30 dicembre alle 18.30 alla Galleria Rettori Tribbio l'arch. Marianna Accerboni terrà una visita guidata alla personale di Otilia Saldana: in mostra dipinti inediti del 2017_**.

@@ -3,7 +3,6 @@ title: "Leopoldo Bon: sabato 3 febbraio 2018 alla Sala Comunale d'Arte di Triest
 slug: bon-finissage-3-febbraio-2018
 createdAt: 2026-11-11T12:22:00
 parent: leopoldo-bon-sala-comunale-2018
-info: null
 bodySection:
   body: |-
     **Sabato 3 febbraio 2018 alle 19 alla Sala Comunale d'Arte di Trieste, avrà luogo il finissage con visita guidata della mostra del fotografo-artista triestino Leopoldo Bon, curata da Marianna Accerboni, che si chiude il 4 febbraio.**

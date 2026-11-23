@@ -3,7 +3,6 @@ title: "Fabio Colussi da Trieste a Venezia: prorogata fino al 28 febbraio la mos
 slug: colussi-da-trieste-a-venezia-proroga-28-febbraio-2015
 createdAt: 2026-11-17T08:26:00
 parent: fabio-colussi-da-trieste-a-venezia-2014
-info: null
 bodySection:
   body: |-
     Dopo il grande successo della mostra di Venezia, è prorogata fino al 28 febbraio **al Salone d'Arte di Trieste (via della Zonta 2/ c) la personale del pittore triestino Fabio Colussi**, intitolata **Da Trieste a Venezia. Venerdì 6 febbraio alle 19 l'arch. Marianna Accerboni, curatrice della rassegna, terrà una visita guidata alla presenza dell'artista: in mostra più di una ventina di oli su tela inediti, realizzati con grande maestria dal pittore soprattutto nel 2014.**

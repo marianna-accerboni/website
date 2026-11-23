@@ -3,7 +3,6 @@ title: "I Krampus di Masa: sabato 27 dicembre 2014 si apre ufficialmente al Muse
 slug: krampus-masa-museo-antiquarium-27-dicembre-2014
 createdAt: 2026-11-17T08:20:00
 parent: davide-maset-i-krampus-di-masa-2014
-info: null
 bodySection:
   body: |-
     **Altre opere dell'artista sono visibili alla Torre Medioevale e nello Spazio Reporter's di Tarvisio fino all'11 gennaio 2015.**

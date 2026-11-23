@@ -3,7 +3,6 @@ title: "Lunedì 3 agosto alla Biblioteca Statale S. Crise di Trieste visita guid
 slug: dominioni-visita-guidata-3-agosto-2015
 createdAt: 2026-11-17T07:46:00
 parent: dominioni-trieste-biblioteca-crise-2015
-info: null
 bodySection:
   body: |-
     **Nell'ambito della grande rassegna “Paolo Caccia Dominioni. Un artista sul fronte di guerra”, lunedì 3 agosto alle 17.30 alla Biblioteca Statale _S. Crise_ di Trieste (Largo Papa Giovanni XXIII, 6) la curatrice Marianna Accerboni terrà una visita guidata con un focus su Dominioni scrittore pubblico e privato e presenterà alcune novità**: il carteggio inedito del poliedrico architetto-artista con la crocerossina donna Franca Vivaldi Pasqua e la sua presenza a Banne e Trieste l'8 settembre al comando di un battaglione del Genio Guastatori.

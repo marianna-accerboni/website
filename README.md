@@ -51,7 +51,7 @@ Le date sono scritte come ora locale e mostrate identiche su qualsiasi computer 
 
 ### Notizie collegate — `src/content/sub-events/*.md`
 
-Aggiornamenti legati a un evento (proroghe, visite guidate, finissage). Si collegano all'evento con `parent` (lo slug dell'evento) e compaiono nella scheda "Notizie" dell'evento come linea del tempo. Campi: titolo, immagine, testo, e facoltativamente `info` (data, sede, orario, info e contatti, inviti): se presente diventa una scheda sotto il titolo della notizia, e la data è mostrata sopra il titolo. Le immagini di una notizia vanno nella galleria dell'evento principale.
+Aggiornamenti legati a un evento (proroghe, visite guidate, finissage). Si collegano all'evento con `parent` (lo slug dell'evento) e compaiono nella scheda "Notizie" dell'evento come linea del tempo. Campi: titolo, immagine, testo e, facoltativamente, una data (con ora) mostrata sopra il titolo; senza data si usa quella eventualmente scritta all'inizio del titolo. Le immagini di una notizia vanno nella galleria dell'evento principale.
 
 ### Sedi — `src/data/venues/*.md`
 

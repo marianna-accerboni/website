@@ -1,7 +1,6 @@
 ---
 title: Nell’ambito della mostra “La Luna e Oltre” di Elizabeth Ruchti, mercoledì 31 giugno 2023 al mercato coperto di Trieste avrà luogo una visita guidata condotta dall’artista
 parent: elizabeth-ruchti-la-luna-e-oltre-2023
-info: null
 bodySection:
   body: |-
     **Nell’ambito della mostra “La luna e oltre”, che espone, a cura di Marianna Accerboni, le opere di Elizabeth Ruchti,** **mercoledì 31 maggio alle 12 al primo piano del Mercato Coperto** (via Carducci 36) avrà luogo **una visita guidata condotta dall’artista in italiano e inglese**. Nata a San Paolo del Brasile, Ruchti vive dal ‘71 in Italia, dove si è laureata in antropologia culturale, e dalla fine degli anni Ottanta fra Milano - dove ha frequentato, tra le altre, la scuola steineriana all’Accademia di San Luca - e Trieste.

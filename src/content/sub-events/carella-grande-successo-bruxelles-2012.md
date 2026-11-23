@@ -3,7 +3,6 @@ title: "Grande successo a Bruxelles per la mostra della pittrice Nora Carella, v
 slug: carella-grande-successo-bruxelles-2012
 createdAt: 2026-11-21T16:34:00
 parent: nora-carella-luce-senza-tempo-bruxelles-ufficio-2011
-info: null
 bodySection:
   body: |-
     ![Da sin. Giulio Papa, Marianna Accerboni, Flavio Tossi e Luisa Poclen](/media/events/nora-carella-luce-senza-tempo-bruxelles-ufficio-2011/__da_sin_Giulio_Papa_Marianna_Accerboni_Flavio_Tossi_e_Luisa_Poclen.jpg "Da sin. Giulio Papa, Marianna Accerboni, Flavio Tossi e Luisa Poclen")

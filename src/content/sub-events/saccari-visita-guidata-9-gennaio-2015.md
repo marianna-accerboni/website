@@ -3,7 +3,6 @@ title: "Venerdì 9 gennaio 2015 al Palazzo del Consiglio Regionale di Trieste vi
 slug: saccari-visita-guidata-9-gennaio-2015
 createdAt: 2026-11-17T08:26:00
 parent: claudio-saccari-antologica-2014
-info: null
 bodySection:
   body: |-
     Venerdì 9 gennaio 2015 alle 18.30 Marianna Accerboni, curatrice dell'antologica _Claudio Saccari 1964 - 2014. Cinquant'anni di Fotografi_, terrà una visita guidata alla rassegna, visitabile al Palazzo del Consiglio Regionale FVG di Trieste (piazza Oberdan 6) fino al 31 gennaio. Sarà presente l'Autore.

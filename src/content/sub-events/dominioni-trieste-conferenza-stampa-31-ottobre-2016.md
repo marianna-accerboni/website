@@ -3,7 +3,6 @@ title: "Dal 4 novembre 2016 alla Biblioteca statale S. Crise di Trieste la mostr
 slug: dominioni-trieste-conferenza-stampa-31-ottobre-2016
 createdAt: 2026-11-11T13:25:00
 parent: dominioni-trieste-inaugurazione-2016
-info: null
 bodySection:
   body: |-
     ![Comunicato stampa Comune di Trieste](/media/events/dominioni-trieste-inaugurazione-2016/c-trieste.jpg "Comunicato stampa Comune di Trieste")

@@ -3,7 +3,6 @@ title: "Incontro con la Scuola Mosaicisti del Friuli"
 slug: gillo-scuola-mosaicisti-12-febbraio-2020
 createdAt: 2026-11-11T11:21:00
 parent: il-segno-rivelatore-di-gillo-2019
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/CpCddGht6KQ" width="450" height="300" allowfullscreen="allowfullscreen"></iframe>

@@ -3,7 +3,6 @@ title: "Altri appuntamenti collaterali"
 slug: gillo-altri-appuntamenti-collaterali
 createdAt: 2026-11-11T11:21:00
 parent: il-segno-rivelatore-di-gillo-2019
-info: null
 bodySection:
   body: |-
     - **mercoledì 19 febbraio** ore 11: **visita guidata e laboratorio di disegno e pittura** ispirato all'arte e alla personalità di Dorfles **con la curatrice Marianna Accerboni, la docente Alessandra Zettin** e i giovani allievi della classe V C della Scuola primaria E. de Morpurgo. **Appuntamento aperto a tutti** (info e prenotazioni +39 335 6750946).

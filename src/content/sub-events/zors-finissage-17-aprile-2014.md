@@ -3,7 +3,6 @@ title: "Da Monaco di Baviera a Trieste: l'arte fantastica di Serena Zors alla Sa
 slug: zors-finissage-17-aprile-2014
 createdAt: 2026-11-17T08:51:00
 parent: serena-zors-sala-giubileo-2014
-info: null
 bodySection:
   body: |-
     **Finissage: giovedì 17 aprile · Sala del Giubileo (via Mazzini 3) · Trieste**

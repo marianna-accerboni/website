@@ -3,7 +3,6 @@ title: "È stato presentato a Cà Giustinian, sede della Biennale di Venezia, il
 slug: barozzi-presentazione-ca-giustinian-2011
 createdAt: 2026-11-21T16:34:00
 parent: paolo-barozzi-una-passione-per-l-arte-venezia-2011
-info: null
 bodySection:
   body: |-
     <iframe src="https://www.youtube.com/embed/cEWwH2zYddg" width="350" height="288"></iframe>

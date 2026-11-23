@@ -3,7 +3,6 @@ title: "Giovedì 21 novembre visita guidata alla mostra “Paolo Caccia Dominion
 slug: dominioni-visita-biblioteca-isontina-2013
 createdAt: 2026-11-21T12:24:00
 parent: dominioni-gorizia-mostra-diffusa-2013
-info: null
 bodySection:
   body: |-
     **Giovedì 21 novembre dalle ore 17 Marianna Accerboni accompagnerà il pubblico alla visita della mostra _Paolo Caccia Dominioni: la parola e il segno_ allestita nella Galleria d'arte Mario Di Iorio della Biblioteca Statale Isontina.**
