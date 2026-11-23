@@ -2,7 +2,8 @@
 title: Ultimo appuntamento domenica 13 luglio con il laboratorio di pittura a pastello secco diretto dal pittore Claudio Mario Feruglio. Alla scoperta della poetica del silenzio e della luce
 parent: confini-di-luce-magazzino-26-2025
 coverImage: /media/Ritratto_C.M.Feruglio.jpg
-info: null
+info:
+  date: 2025-07-13
 bodySection:
   body: |-
     ![Claudio Mario Feruglio - Profondità dell'anima, 2023 - acrilico su carta - cm. 100x163](/media/Claudio_Mario_Feruglio_-_Profondita_dellanima_2023_-_acrilico_su_carta_-_cm._100x163.jpg "Claudio Mario Feruglio - Profondità dell'anima, 2023 - acrilico su carta - cm. 100x163")
@@ -38,9 +39,7 @@ bodySection:
     Info: www.triestecultura.it
     Ufficio stampa Daniela Sartogo +39 342 855 1242
     +39 335 6750946 / marianna.accerboni@gmail.com
-gallerySection: null
 draft: false
-date: 2025-07-13
 slug: laboratorio-pastello-secco-feruglio
 createdAt: 2026-09-19T09:27:00
 ---

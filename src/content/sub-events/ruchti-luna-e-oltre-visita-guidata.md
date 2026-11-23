@@ -9,7 +9,6 @@ bodySection:
     **La rassegna propone una quarantina di opere dell’artista, realizzate tra il 2007 e oggi, che compongono una sorta di sintetica antologica.** I lavori vertono sul tema dell’inquinamento da plastiche marine e sul concetto del riuso espresso attraverso l’objet trouvé di tipo inquinante con il fine di denuncia ma anche di far rinascere gli scarti. In parallelo l’artista affronta il tema della luna e di altri pianeti come per esempio Marte, abilmente espressi dall’artista - influenzata dall’arte povera, materica e informale - attraverso l’impiego in chiave poetica di materiali semplici, di uso comune e quotidiano: soggetti che l’affascinano particolarmente e sono estremamente attuali soprattutto dal punto di vista tecnologico e scientifico.
 
     La mostra, ideata da Anita Cendon, è promossa da AIDIA sezione Trieste con il coordinamento di Lucia Krasovec-Lucas (fino al 10 giugno/ orario da lunedì a sabato ore 11- 14/ info 335 6750946, eliruchti@gmail.com).
-gallerySection: null
 draft: false
 slug: ruchti-luna-e-oltre-visita-guidata
 createdAt: 2026-09-20T20:27:00

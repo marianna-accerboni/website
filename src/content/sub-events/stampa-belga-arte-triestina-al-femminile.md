@@ -96,7 +96,6 @@ bodySection:
 
     conferenza stampa
     28 marzo ore 11 / Palazzo della Regione Trieste / Sala Predonzani / via dell’Orologio 1
-gallerySection: null
 draft: false
 slug: stampa-belga-arte-triestina-al-femminile
 createdAt: 2026-09-20T07:25:00

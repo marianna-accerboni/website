@@ -2,6 +2,8 @@
 title: 'Venerdì 4 luglio al Magazzino 26 del Porto Vecchio di Trieste quarto evento collaterale: presentazione, con la partecipazione dell''autore, di "È notte sul confine", ultimo libro dello scrittore e giornalista Pietro Spirito'
 parent: confini-di-luce-magazzino-26-2025
 coverImage: /media/copertina_libro_Spirito.jpg
+info:
+  date: 2025-07-04
 bodySection:
   body: |-
     Nell'ambito della mostra **OPEN. Confini di luce per un mondo di pace**, promossa e organizzata dal Comune di Trieste – Assessorato alle Politiche della Cultura e del Turismo e curata da Marianna Accerboni, nella Sala _Carlo Sbisà_ **del Magazzino 26 del Porto Vecchio di Trieste, venerdì 4 luglio** **alle 18.30** avrà luogo il quarto evento collaterale della rassegna: protagonista **Pietro Spirito**, scrittore e giornalista di fama, che presenterà con la curatrice il suo ultimo libro intitolato **_È notte sul confine_** (Guanda). **Tema** **perfettamente in linea** **con il filo conduttore della mostra OPEN, progetto espositivo multimediale di arte visiva e musica che, attraverso la multiforme creatività di sette artisti contemporanei del Nord Est e dei territori limitrofi, di matrici culturali diverse - Paolo Cervi Kervischer, Claudio Mario Feruglio, Jasna Merkù, Zoran Music, Luigi Spacal, Carlo Vidoni, Toni Zanussi -, affronta il tema del confine, suggerendo, nello spirito e nel contesto borderless di GO! 2025 – Gorizia e Nova Gorica Capitale europea della cultura, di cui fa parte, il suo superamento in un mondo di pace e di condivisione.**
@@ -16,7 +18,6 @@ bodySection:
 
     Seguirà una **visita guidata** alla mostra OPEN e una **degustazione di vini** dell'Azienda Agricola **Zidarich** (Prepotto, Duino Aurisina).
 draft: false
-date: 2025-07-04
 slug: confini-di-luce-libro-spirito-4-luglio
 createdAt: 2026-09-19T09:27:00
 ---

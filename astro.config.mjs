@@ -1,7 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-import vue from '@astrojs/vue';
 import rehypeRaw from 'rehype-raw';
 import { visit } from 'unist-util-visit';
 
@@ -25,13 +24,9 @@ function rehypeBaseUrls() {
 export default defineConfig({
   site: 'https://marianna-accerboni.github.io',
   base,
-  integrations: [vue()],
   markdown: {
     // rehype-raw lets raw HTML in Markdown (e.g. CMS-inserted images) render,
     // so rehypeBaseUrls can rewrite their URLs with the site base path.
     rehypePlugins: [rehypeRaw, rehypeBaseUrls]
-  },
-  redirects: {
-    '/admin': `${base}admin/index.html`
   }
 });

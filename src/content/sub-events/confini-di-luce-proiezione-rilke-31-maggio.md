@@ -2,7 +2,8 @@
 title: Sabato 31 maggio al Magazzino 26 del Porto Vecchio di Trieste primo evento collaterale con la proiezione del video "Un uomo un castello un incontro. Rilke. La poesia è musica" del maestro Silvio Donati
 parent: confini-di-luce-magazzino-26-2025
 coverImage: /media/Vista_dal_Castello_di_Duino_sul_castel_vecchio_di_Duino_la_prima_rocca_costruita_intorno_allXI_secolo_.jpg
-info: null
+info:
+  date: 2025-05-31
 bodySection:
   body: |-
     ![Il M° Silvio Donati al pianoforte](/media/Il_M_Silvio_Donati_al_pianoforte.jpg "Il M° Silvio Donati al pianoforte")
@@ -48,9 +49,7 @@ bodySection:
     Molto noto per le colonne sonore di film e documentari, nel 2017 ha composto le musiche per il film _I dimenticati della Transiberiana_, prodotto dalla Prelude Media di Parigi per la regia della francese Christiane Rosato, che le ha definite "l'anima del film", il quale scopre la grande epopea dei trecento friulani che all'inizio del secolo scorso parteciparono alla costruzione della linea ferroviaria che attraversa la Russia da Ovest a Est.
 
     Seguirà una **visita guidata** alla mostra OPEN e una **degustazione di vini** dell'Azienda Agricola **Zidarich** (Prepotto, Duino Aurisina).
-gallerySection: null
 draft: false
-date: 2025-05-31
 slug: confini-di-luce-proiezione-rilke-31-maggio
 createdAt: 2026-09-19T09:27:00
 ---

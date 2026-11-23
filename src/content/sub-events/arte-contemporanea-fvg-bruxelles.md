@@ -51,7 +51,6 @@ bodySection:
     Partner e sponsor
 
     Il progetto espositivo è promosso e sostenuto da Regione Autonoma Friuli Venezia Giulia e Associazione Foemina APS di Trieste e realizzato in coproduzione con Istituto Italiano di Cultura di Bruxelles, con il patrocinio del Comune di Trieste,  media partner  Il Piccolo, quotidiano di Trieste, e in collaborazione con Associazione Giuliani nel Mondo e il suo Circolo di Bruxelles, Ente Friuli nel Mondo e Fogolâr Furlan di Bruxelles e il contributo di Fondazione CRTrieste, Ciaccio Arte - Big Broker Insurance Group (Mila
-gallerySection: null
 draft: false
 slug: arte-contemporanea-fvg-bruxelles
 createdAt: 2026-09-20T07:25:00

@@ -156,20 +156,6 @@ collections:
         required: false
         fields:
           - { label: Testo, name: body, widget: markdown, required: false }
-      - label: Galleria
-        name: gallerySection
-        widget: object
-        collapsed: true
-        required: false
-        fields:
-          - label: Galleria immagini
-            name: gallery
-            widget: list
-            required: false
-            fields:
-              - { label: Immagine, name: image, widget: image }
-              - { label: Alt text, name: alt, widget: string, required: false }
-              - { label: Titolo, name: title, widget: string, required: false }
       - label: Bozza
         name: draft
         widget: boolean

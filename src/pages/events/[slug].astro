@@ -57,13 +57,24 @@ const pressHtml = await renderMarkdown(press?.pressRelease);
 const eventYear = yearOf(sortDate(entry));
 const subEvents = await getSubEvents(entry);
 const news = await Promise.all(
-  subEvents.map(async (s) => ({
-    id: s.data.slug,
-    title: s.data.title,
-    date: newsDateLabel(s.data.title, eventYear),
-    cover: s.data.coverImage ? href(s.data.coverImage) : null,
-    html: await renderMarkdown(s.data.bodySection?.body)
-  }))
+  subEvents.map(async (s) => {
+    const si = s.data.info;
+    const cardRows: { label: string; html: string }[] = [];
+    if (si?.venue) cardRows.push({ label: 'Sede', html: await renderInline(si.venue) });
+    if (si?.time) cardRows.push({ label: 'Orario', html: await renderInline(si.time) });
+    if (si?.infoContacts) cardRows.push({ label: 'Info e contatti', html: await renderContacts(si.infoContacts) });
+    const docs = (si?.invitations ?? []).filter(Boolean);
+    const when = si?.date ? [formatDate(si.date), formatTime(si.date)].filter(Boolean).join(', ') : '';
+    return {
+      id: s.data.slug,
+      title: s.data.title,
+      date: when || newsDateLabel(s.data.title, eventYear),
+      cover: s.data.coverImage ? href(s.data.coverImage) : null,
+      cardRows,
+      docs,
+      html: await renderMarkdown(s.data.bodySection?.body)
+    };
+  })
 );
 const hasNews = news.length > 0;
 const hasPress = !!pressHtml;
@@ -181,6 +192,31 @@ const description = excerpt(press?.pressRelease, 160) || title;
                     <div class="timeline__mark" aria-hidden="true" />
                     {n.date && <p class="timeline__date">{n.date}</p>}
                     <h3 class="timeline__title">{n.title}</h3>
+                    {(n.cardRows.length > 0 || n.docs.length > 0) && (
+                      <div class="prose timeline__card">
+                        <section class="scheda">
+                          <dl class="scheda__rows">
+                            {n.cardRows.map((r) => (
+                              <div class="scheda__row">
+                                <dt>{r.label}</dt>
+                                <dd set:html={r.html} />
+                              </div>
+                            ))}
+                            {n.docs.length > 0 && (
+                              <div class="scheda__row scheda__row--plain">
+                                <dd>
+                                  {n.docs.map((file, i) => (
+                                    <a class="pill" href={href(file)} target="_blank" rel="noopener">
+                                      {n.docs.length === 1 ? 'Scarica l’invito' : `Scarica l’invito ${i + 1}`}
+                                    </a>
+                                  ))}
+                                </dd>
+                              </div>
+                            )}
+                          </dl>
+                        </section>
+                      </div>
+                    )}
                     {n.cover && <img class="timeline__cover" src={n.cover} alt="" loading="lazy" />}
                     {n.html && <div class="prose prose--news" set:html={n.html} />}
                   </li>
@@ -624,6 +660,14 @@ const description = excerpt(press?.pressRelease, 160) || title;
 
   .timeline__cover {
     margin-top: 24px;
+  }
+
+  .timeline__card {
+    margin-top: 16px;
+  }
+
+  .timeline__card .pill {
+    margin: 0 8px 6px 0;
   }
 
   .prose--news {

@@ -20,6 +20,5 @@ bodySection:
     Toni Zanussi (Qualso, Udine, 1952), rimasto precocemente orfano dei genitori, s’imbarca giovanissimo su navi da crociera e la sua personalità artistica si va formando nel corso dei suoi viaggi. Definito dal grande critico e artista Gillo Dorfles “Pittore della cosmogonia e della contaminazione tra materia e realtà sociale, artista del recupero degli sprechi e poeta”, raccoglie da oltre quarant’anni sempre crescenti successi: le sue opere sono state raccontate da molti scrittori e intellettuali, da Duccio Trombadori e Tullio Avoledo a Toni Capuozzo e David Maria Turoldo, da Pino Roveredo a Marisa Vescovo de “La Stampa”, Elio Bartolini, Amedeo Giacomini e Gianfranco Ravasi. Ha esposto a livello internazionale, da Venezia a Parigi.    
 
     Per raggiungere il Magazzino 26 sono disponibili i bus linea 6, fermata Polo museale, e linea 81 (info 335 6750946).
-gallerySection: null
 draft: false
 ---

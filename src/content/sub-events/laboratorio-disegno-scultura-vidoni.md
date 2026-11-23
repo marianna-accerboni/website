@@ -2,6 +2,8 @@
 title: Domenica 29 giugno laboratorio di disegno per la scultura con lo scultore e fotografo Carlo Vidoni al Magazzino 26 del Porto Vecchio di Trieste
 parent: confini-di-luce-magazzino-26-2025
 coverImage: /media/Carlo_Vidoni_2.jpg
+info:
+  date: 2025-06-29
 bodySection:
   body: |-
     Domenica 29 giugno
@@ -38,7 +40,6 @@ bodySection:
 
     Espongono Paolo Cervi Kervischer, Claudio Mario Feruglio, Jasna Merkù, Zoran Music, Luigi Spacal, Carlo Vidoni, Toni Zanussi
 draft: false
-date: 2025-06-29
 slug: laboratorio-disegno-scultura-vidoni
 createdAt: 2026-09-19T09:27:00
 ---

@@ -130,16 +130,6 @@ input {
   padding-inline: var(--gutter);
 }
 
-/* Small uppercase label used for metadata and section names */
-.eyebrow {
-  font-family: var(--font-sans);
-  font-size: 12px;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-
 /* ---------- Long-form text (press releases, news) ---------- */
 
 .prose {

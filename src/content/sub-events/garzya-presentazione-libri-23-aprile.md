@@ -20,7 +20,6 @@ bodySection:
     Il volume intitolato **_Mare_.** **_Sponde e onde dal mondo_**, che si avvale della prefazione di Fabio Curcio e Maurizio Ribera d'Alcalà, presenta oltre 500 scatti, realizzati dal 1988 a oggi con il mezzo analogico e dal 2009 digitale, e suddivisi in 13 sezioni, che testimoniano la passione per i viaggi di Garzya, fotografo molto colto e sensibile: dal volo libero dei gabbiani sul Tirreno al mare che non si vede, ai paesaggi marini di Napoli, Trieste e Venezia, alle emozioni capresi. Per arrivare alla **Costa delle sirene sulla costiera amalfitana, alle Egadi, a Malta con le attigue isole di Gozo e Comino, al calcare tra Jonio ed Egeo** e al Salento, alla Dalmazia e al Montenegro, agli oceani Atlantico, Indiano e Pacifico e al lago d'Aral.
 
     Il volume **_Echi di pietra sulle rotte delle sirene. Gli ellenismi nel Mediterraneo_**, introdotto da Chiara Spatuzzi, propone invece, attraverso oltre un centinaio di fotografie realizzate dal 1982 a oggi e suddivise nelle sezioni _Echi di pietra_, _Gli ellenismi nel Mediterraneo_ e _Le sirene_, un affascinante viaggio visivo tra i luoghi simbolo della civiltà greca e magnogreca, dalla Magna Grecia alla Grecia odierna, dalla Sicilia alla Puglia, dalla Campania alla Calabria, con incursioni in Albania, Montenegro e Turchia.
-gallerySection: null
 draft: false
 slug: garzya-presentazione-libri-23-aprile
 createdAt: 2026-09-19T09:27:00

@@ -10,7 +10,7 @@ const MONTHS = [
 const MONTHS_SHORT = ['gen', 'feb', 'mar', 'apr', 'mag', 'giu', 'lug', 'ago', 'set', 'ott', 'nov', 'dic'];
 
 /** Dates are wall-clock values stored in UTC (see content.config.ts); 00:00 means "no time given". */
-export const isDateOnly = (d: Date) => d.getUTCHours() === 0 && d.getUTCMinutes() === 0;
+const isDateOnly = (d: Date) => d.getUTCHours() === 0 && d.getUTCMinutes() === 0;
 
 function parts(d: Date) {
   const dateOnly = isDateOnly(d);

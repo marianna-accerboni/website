@@ -12,8 +12,6 @@ bodySection:
     **Fabio Colussi** nasce nel 1957 a Trieste, dove vive e opera. È in un certo senso autodidatta, poiché si è formato studiando i grandi pittori triestini del passato, sospesi tra la lezione artistica della pittura veneziana e quella proveniente dalla cultura mitteleuropea. Dipinge i primi acquerelli a quattro anni, i temi sono paesaggi, boschi e figure realizzati anche a pastelli a cera; più tardi approccia la tempera e l’acrilico, per poi passare nei primi anni Novanta all’olio su tela e su tavola, tecnica affrontata secondo i parametri antichi, che è rimasta la prediletta. Per realizzare i suoi lavori, trae spunto dagli schizzi annotati su un taccuino che porta sempre con sé e che talvolta sono implementati, per quanto riguarda le architetture, da appunti fotografici.
 
     Colussi è presente con le sue opere in collezioni private in Italia e all'estero (Stati Uniti, Germania, Inghilterra, Spagna, Australia, Dubai, Belgio e Romania). Ha esposto a Bruxelles, in Croazia e Montenegro e ripetutamente a Venezia e Trieste, suscitando grande consenso.
-gallerySection:
-  gallery: []
 draft: false
 slug: colussi-orizzonti-di-luce-visita-guidata
 createdAt: 2026-09-19T09:27:00

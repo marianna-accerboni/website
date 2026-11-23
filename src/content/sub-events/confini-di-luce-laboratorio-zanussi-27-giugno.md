@@ -2,7 +2,8 @@
 title: Venerdì 27 giugno laboratorio di pittura emozionale con il pittore Toni Zanussi al Magazzino 26 del Porto Vecchio di Trieste
 parent: confini-di-luce-magazzino-26-2025
 coverImage: /media/laboratori_pittura_e_disegno.jpg
-info: null
+info:
+  date: 2025-06-27
 bodySection:
   body: |-
     **Venerdì 27 giugno** Laboratorio di pittura emozionale con il pittore **Toni Zanussi**.
@@ -36,9 +37,7 @@ bodySection:
     Espongono **Paolo Cervi Kervischer, Claudio Mario Feruglio, Jasna Merkù, Zoran Music, Luigi Spacal, Carlo Vidoni, Toni Zanussi**
 
     A conclusione del laboratorio, seguiranno una **visita guidata alla mostra condotta dalla curatrice** e una **degustazione dei vini pregiati** dell'**Azienda Agricola Zidarich** (Prepotto, Duino Aurisina).
-gallerySection: null
 draft: false
-date: 2025-06-27
 slug: confini-di-luce-laboratorio-zanussi-27-giugno
 createdAt: 2026-09-19T09:27:00
 ---

@@ -86,19 +86,8 @@ const subEvents = defineCollection({
       })
       .nullable().optional(),
     bodySection: z.object({ body: z.string().optional() }).nullable().optional(),
-    gallerySection: gallerySection.optional(),
     draft: z.boolean().default(false)
   })
 });
 
-// Option banks feeding the Sede / Curatela dropdowns
-const optionBankSchema = z.object({
-  name: z.string()
-});
-
-const venues = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/data/venues' }),
-  schema: optionBankSchema
-});
-
-export const collections = { events, subEvents, venues };
+export const collections = { events, subEvents };

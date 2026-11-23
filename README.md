@@ -1,77 +1,95 @@
-# Marianna Accerboni — Art Exhibitions Website
+# Marianna Accerboni
 
-Bilingual (English default, Italian at `/it/`) art-exhibitions website built with
-**Astro** (SSG) + **Vue** components, **Sveltia CMS** for content administration,
-and **GitHub Pages** for hosting. No database, no server — content lives as
-Markdown in this repository.
+Sito di Marianna Accerboni, critica e curatrice d'arte: un archivio di eventi (mostre, inaugurazioni, presentazioni) con comunicato stampa, notizie collegate, scheda informativa e galleria. Tutto in italiano, con tema scuro e chiaro.
 
-## Stack
+È un sito statico (Astro, una pagina HTML per evento), senza database e senza server. I contenuti sono file Markdown in questo repository e si modificano da un pannello di amministrazione.
 
-| Concern | Technology |
+- Sito: https://marianna-accerboni.github.io/website/
+- Amministrazione: https://marianna-accerboni.github.io/website/admin/
+
+## Tecnologie
+
+| Cosa | Con cosa |
 |---|---|
-| Front-end | Astro (static site generation) + Vue islands |
-| Admin / CMS | Sveltia CMS at `/admin/` (GitHub backend) |
-| Content | Markdown files in `src/content/exhibitions/{en,it}/` |
-| Media | `public/media/` (committed to the repo) |
-| Hosting | GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`) |
-| i18n | English at `/`, Italian at `/it/` |
+| Sito | Astro (generazione statica), HTML, CSS e piccoli script, nessun framework |
+| Contenuti | Markdown con frontmatter in `src/content/` |
+| Amministrazione | Sveltia CMS in `public/admin/` (accesso con GitHub) |
+| Accesso al CMS | Piccolo servizio OAuth su Cloudflare Workers in `oauth-worker/` |
+| Immagini e PDF | `public/media/`, nel repository |
+| Pubblicazione | GitHub Pages, tramite GitHub Actions (`.github/workflows/deploy.yml`) a ogni push su `main` |
 
-## Commands
+## Comandi
 
-Requires Node.js ≥ 22.12.
+Serve Node.js 22.12 o successivo.
 
 ```sh
-npm install        # install dependencies
-npm run dev        # local dev server at localhost:4321
-npm run build      # production build to ./dist/
-npm run preview    # preview the production build
+npm install        # installa le dipendenze
+npm run dev        # sito locale su http://localhost:4321/website/
+npm run build      # build di produzione in ./dist/
+npm run preview    # anteprima della build
 ```
 
-## Content model
+Il server locale ascolta solo su IPv6: per l'amministrazione in locale aprire `http://[::1]:4321/website/admin/index.html`.
 
-Each exhibition is one Markdown file per locale with frontmatter:
+## Contenuti
 
-```yaml
----
-title: "Exhibition title"
-slug: "unique-slug"          # same slug in EN and IT files
-locale: "en"                  # or "it"
-artists: ["Artist Name"]
-venue: "Gallery name"
-city: "City"
-startDate: 2026-11-15         # drives the "Coming exhibitions" section
-endDate: 2027-01-10           # optional
-coverImage: "/media/..."      # optional
-gallery: ["/media/..."]       # optional
-attachments:                  # optional PDFs etc.
-  - { label: "Press release", file: "/media/press.pdf" }
-videos: ["https://www.youtube.com/embed/..."]  # optional embeds
-draft: false
----
+### Eventi — `src/content/events/*.md`
 
-Body text in Markdown.
+Un file per evento. Campi principali:
+
+- `title`, `slug`, `createdAt` (data dell'articolo originale, usata per l'ordinamento quando mancano date).
+- `coverImage`: immagine di copertina.
+- `info`: scheda dell'evento. Data di inaugurazione, periodo, sede, orario, curatela, catalogo, info e contatti, inviti da scaricare.
+- `press.pressRelease`: comunicato stampa in Markdown.
+- `gallerySection.gallery`: immagini della galleria (titolo e testo alternativo opzionali).
+- `subEvents`: titoli delle notizie collegate, nell'ordine in cui compaiono.
+- `draft`: se vero l'evento non viene pubblicato.
+
+L'ordine in elenco segue la data di inaugurazione, poi l'inizio del periodo, poi `createdAt`. Un evento con `createdAt` nel futuro compare nel riquadro "Prossimi eventi" della home (al massimo tre).
+
+Le date sono scritte come ora locale e mostrate identiche su qualsiasi computer (internamente sono trattate come UTC). L'ora 00:00 significa "ora non indicata".
+
+### Notizie collegate — `src/content/sub-events/*.md`
+
+Aggiornamenti legati a un evento (proroghe, visite guidate, finissage). Si collegano all'evento con `parent` (lo slug dell'evento) e compaiono nella scheda "Notizie" dell'evento come linea del tempo. Campi: titolo, immagine, testo, e facoltativamente `info` (data, sede, orario, info e contatti, inviti): se presente diventa una scheda sotto il titolo della notizia, e la data è mostrata sopra il titolo. Le immagini di una notizia vanno nella galleria dell'evento principale.
+
+### Sedi — `src/data/venues/*.md`
+
+Elenco delle sedi usato solo dal menu a tendina "Sede" dell'amministrazione, per evitare doppioni. Per aggiungere una sede si crea una voce nella raccolta "Sedi".
+
+## Testi lunghi
+
+Nel Markdown dei testi, una riga in grassetto seguita da un elenco di voci `Etichetta: valore` diventa una scheda:
+
+```md
+**Titolo della scheda**
+
+- Sede: Galleria X
+- Orario: 10–18
+- Info: 040 123456
 ```
 
-## Setup steps still required (not done yet)
+Altre convenzioni: un'immagine isolata in un paragrafo diventa una figura (la didascalia è il titolo dell'immagine); due o più video di seguito si affiancano; le immagini nel testo si ingrandiscono al clic.
 
-1. **Create the GitHub repository** and push this project.
-2. **Enable GitHub Pages**: repo Settings → Pages → Source: "GitHub Actions".
-3. **OAuth gateway for the CMS**: Sveltia CMS with the GitHub backend needs a
-   small OAuth endpoint. Deploy a free serverless gateway (e.g.
-   [`decap-cms-github-oauth`](https://github.com/ukutaht/decap-cms-github-oauth)
-   or equivalent on Vercel/Cloudflare Workers free tier), then update
-   `public/admin/config.yml`:
-   - `backend.repo`: `YOUR_GITHUB_USERNAME/YOUR_REPO`
-   - `backend.base_url`: your OAuth gateway URL
-4. **Register a GitHub OAuth App** (Settings → Developer settings → OAuth Apps)
-   with the gateway's callback URL, and configure the gateway with the
-   client ID/secret.
+## Struttura
 
-## Notes
+```
+src/
+  content/        eventi e notizie collegate
+  data/venues/    sedi per il menu dell'amministrazione
+  layouts/        BaseLayout (testata, ricerca, tema, piè di pagina)
+  lib/            date, ordinamento, estratti e conversione del Markdown
+  pages/          home (index.astro) e pagina evento (events/[slug].astro)
+  styles/         variabili dei temi e stili dei testi
+public/
+  admin/          Sveltia CMS (index.html, config.yml, custom.js, custom.css)
+  media/          immagini e PDF
+oauth-worker/     servizio di accesso per il CMS
+.claude/skills/   strumento per importare articoli dal vecchio sito
+```
 
-- Publishing a change through the CMS commits to the repo, which triggers a
-  rebuild (~1–2 min before the change is live).
-- Prefer YouTube/Vimeo embeds for videos instead of uploading video files
-  (GitHub Pages has a 1 GB site size limit).
-- The CMS admin UI is set to Italian (`locale: it` in
-  `public/admin/config.yml`).
+## Pubblicazione e accesso al CMS
+
+Ogni push su `main` avvia `npm ci` e `npm run build` e pubblica la cartella `dist/` su GitHub Pages (Settings → Pages → Source: GitHub Actions).
+
+Il CMS usa il backend GitHub e quindi ha bisogno di un endpoint OAuth: è il Worker in `oauth-worker/`, il cui indirizzo è indicato in `public/admin/config.yml` (`base_url`). Le credenziali dell'app OAuth di GitHub sono segreti del Worker e non stanno nel repository.

@@ -65,7 +65,6 @@ bodySection:
     **Nell’ambito della mostra “Mauro Martoriati. Bora e Tergesteo”, allestita fino al 25 settembre al Magazzino 26 del Porto Vecchio di Trieste, giovedì 1 settembre alle 18.30 avrà luogo una visita guidata condotta dall’artista. Altre visite guidate sono previste alle 18.30 di giovedì 8, 15 e 22 settembre e alle 10.30 di domenica** **4, 11, 18 e 25 settembre. Dopo la visita guidata domenicale Martoriati terrà dalle** ore 11 alle 13 un **laboratorio di pittura e disegno**. La mostra - promossa **dall’Associazione M.A.R.T. Movimento Artistico Roma / Trieste**, **realizzata in coorganizzazione con il Comune e curata da Marianna Accerboni con l’organizzazione generale di Maria Clara Palazzini Finetti e la linea grafica di Riccardo Moro** - testimonia **l’intenso lavoro svolto dall’artista a Trieste, città in cui si è trasferito nel 2013.**
 
     (Info mostra, visite guidate e laboratori: +39 328 9683335 / +39 329 3947761 / info@mauromartoriati.it. Orario mostra: giov e ven ore 17-20, sab e dom 10-13 e 17-20. Bus linea 6, fermata Polo museale. Ingresso a pagamento: biglietto intero € 5,00 / bambini fino ai 10 anni gratis).
-gallerySection: null
 draft: false
 slug: martoriati-ultima-settimana
 createdAt: 2026-09-20T21:16:00
