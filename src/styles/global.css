@@ -210,6 +210,10 @@ input {
   background: var(--bg-sunken);
 }
 
+.prose .zoomable {
+  cursor: zoom-in;
+}
+
 .prose figcaption {
   margin-top: 12px;
   font-family: var(--font-sans);
@@ -384,6 +388,10 @@ input {
     grid-template-columns: minmax(0, 1fr);
     gap: 2px;
   }
+}
+
+.timeline__cover.zoomable {
+  cursor: zoom-in;
 }
 
 @media (max-width: 727px) {

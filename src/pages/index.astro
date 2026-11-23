@@ -42,7 +42,6 @@ const items = events.map(({ entry, number }) => {
     startISO: start ? start.toISOString() : '',
     endISO: end ? end.toISOString() : '',
     search: searchable(d.title, d.info?.venue, d.info?.curator, String(yearOf(sortDate(entry))), excerpt(d.press?.pressRelease, 600)),
-    hasNews: (d.subEvents ?? []).length > 0,
     createdISO: d.createdAt ? d.createdAt.toISOString() : '',
     tile: dateTile(d.info?.openingDate ?? d.createdAt ?? sortDate(entry)),
     tileTime: formatTime(d.info?.openingDate ?? null)
@@ -177,7 +176,6 @@ for (const it of items) {
                     </p>
                     <h4 class="entry__title">{it.title}</h4>
                     {it.excerpt && <p class="entry__excerpt">{it.excerpt}</p>}
-                    {it.hasNews && <p class="entry__tag">Con notizie</p>}
                   </div>
                 </a>
               </li>
@@ -702,18 +700,6 @@ for (const it of items) {
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-  }
-
-  .entry__tag {
-    display: inline-block;
-    margin: 12px 0 0;
-    padding: 3px 8px;
-    border: 1px solid var(--line-strong);
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--text-2);
   }
 
   /* grid view (default) */

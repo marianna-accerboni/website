@@ -8,7 +8,6 @@ import {
   sortDate,
   yearOf,
   formatDate,
-  formatDateShort,
   formatTime,
   formatRange,
   dateTile,
@@ -19,18 +18,13 @@ import {
 
 export async function getStaticPaths() {
   const events = await getEvents();
-  return events.map(({ entry, number }, i) => ({
+  return events.map(({ entry, number }) => ({
     params: { slug: entry.data.slug },
-    props: {
-      entry,
-      number,
-      newer: i > 0 ? events[i - 1].entry : null,
-      older: i < events.length - 1 ? events[i + 1].entry : null
-    }
+    props: { entry, number }
   }));
 }
 
-const { entry, number, newer, older } = Astro.props;
+const { entry, number } = Astro.props;
 const { title, coverImage, info, press, gallerySection } = entry.data;
 
 // ----- info sheet ("Scheda") -----
@@ -262,41 +256,20 @@ const description = excerpt(press?.pressRelease, 160) || title;
               </ul>
             </dialog>
           )}
-          <dialog class="lightbox" data-lightbox-dialog aria-label="Galleria">
-            <figure class="lightbox__figure">
-              <img data-lightbox-img alt="" />
-              <figcaption data-lightbox-caption />
-            </figure>
-            <p class="lightbox__count" data-lightbox-count />
-            <button type="button" class="lightbox__btn lightbox__close" data-lightbox-close aria-label="Chiudi">✕</button>
-            <button type="button" class="lightbox__btn lightbox__prev" data-lightbox-prev aria-label="Immagine precedente">←</button>
-            <button type="button" class="lightbox__btn lightbox__next" data-lightbox-next aria-label="Immagine successiva">→</button>
-          </dialog>
           <script type="application/json" data-lightbox-data set:html={JSON.stringify(gallery)} />
         </section>
       )
     }
-
-    <nav class="wrap pager" aria-label="Altri eventi">
-      {
-        older ? (
-          <a class="pager__link" href={href(`/events/${older.data.slug}/`)}>
-            <span class="pager__label">← Evento precedente</span>
-            <span class="pager__title">{older.data.title}</span>
-            <span class="pager__date">{formatDateShort(sortDate(older))}</span>
-          </a>
-        ) : <span />
-      }
-      {
-        newer ? (
-          <a class="pager__link pager__link--next" href={href(`/events/${newer.data.slug}/`)}>
-            <span class="pager__label">Evento successivo →</span>
-            <span class="pager__title">{newer.data.title}</span>
-            <span class="pager__date">{formatDateShort(sortDate(newer))}</span>
-          </a>
-        ) : <span />
-      }
-    </nav>
+    <dialog class="lightbox" data-lightbox-dialog aria-label="Immagine ingrandita">
+      <figure class="lightbox__figure">
+        <img data-lightbox-img alt="" />
+        <figcaption data-lightbox-caption />
+      </figure>
+      <p class="lightbox__count" data-lightbox-count />
+      <button type="button" class="lightbox__btn lightbox__close" data-lightbox-close aria-label="Chiudi">✕</button>
+      <button type="button" class="lightbox__btn lightbox__prev" data-lightbox-prev aria-label="Immagine precedente">←</button>
+      <button type="button" class="lightbox__btn lightbox__next" data-lightbox-next aria-label="Immagine successiva">→</button>
+    </dialog>
   </article>
 </BaseLayout>
 
@@ -808,58 +781,6 @@ const description = excerpt(press?.pressRelease, 160) || title;
     right: 16px;
   }
 
-  /* ---------- pager ---------- */
-  .pager {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 32px;
-    margin-top: 96px;
-    padding-top: 32px;
-    border-top: 1px solid var(--line);
-  }
-
-  .pager__link {
-    display: grid;
-    gap: 6px;
-    text-decoration: none;
-    max-width: 440px;
-  }
-
-  .pager__link--next {
-    justify-self: end;
-    text-align: right;
-  }
-
-  .pager__label {
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--muted);
-  }
-
-  .pager__title {
-    font-size: 17px;
-    line-height: 1.35;
-    font-weight: 600;
-    letter-spacing: -0.01em;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-
-  .pager__link:hover .pager__title {
-    text-decoration: underline;
-    text-underline-offset: 4px;
-    text-decoration-thickness: 1px;
-  }
-
-  .pager__date {
-    font-size: 13px;
-    color: var(--muted);
-  }
-
 
   /* ---------- layout: reading column + sticky info column ---------- */
   .layout {
@@ -1051,6 +972,7 @@ const description = excerpt(press?.pressRelease, 160) || title;
     background: var(--bg);
     color: var(--text);
     overflow-y: auto;
+    overscroll-behavior: contain;
   }
 
   .gview::backdrop {
@@ -1215,21 +1137,23 @@ const description = excerpt(press?.pressRelease, 160) || title;
       padding: 56px 12px 24px;
     }
 
+    /* on a phone the images are changed by swiping: no arrow buttons */
     .lightbox__prev,
     .lightbox__next {
-      top: auto;
-      bottom: 12px;
-      transform: none;
+      display: none !important;
     }
+  }
 
-    .pager {
-      grid-template-columns: 1fr;
+  /* touch screens (tablets too): swipe instead of arrows */
+  @media (pointer: coarse) {
+    .lightbox__prev,
+    .lightbox__next {
+      display: none !important;
     }
+  }
 
-    .pager__link--next {
-      justify-self: start;
-      text-align: left;
-    }
+  .lightbox__figure img {
+    touch-action: pan-y pinch-zoom;
   }
 </style>
 
@@ -1272,6 +1196,38 @@ const description = excerpt(press?.pressRelease, 160) || title;
     }
   });
 
+  // ----- swipe down to close a full-screen sheet (gallery view, image viewer) -----
+  function swipeDownToClose(dlg: HTMLDialogElement | null, onlyAtTop: boolean) {
+    if (!dlg) return;
+    let sx = 0, sy = 0, dragging = false;
+    const reset = () => { dlg.style.transition = ''; dlg.style.transform = ''; dlg.style.opacity = ''; };
+    dlg.addEventListener('touchstart', (e) => {
+      dragging = e.touches.length === 1 && (!onlyAtTop || dlg.scrollTop <= 0);
+      sx = e.touches[0].clientX; sy = e.touches[0].clientY;
+      dlg.style.transition = 'none';
+    }, { passive: true });
+    dlg.addEventListener('touchmove', (e) => {
+      if (!dragging) return;
+      const dx = e.touches[0].clientX - sx, dy = e.touches[0].clientY - sy;
+      if (dy > 12 && dy > Math.abs(dx) * 1.4 && (!onlyAtTop || dlg.scrollTop <= 0)) {
+        dlg.style.transform = `translateY(${dy * 0.6}px)`;
+        dlg.style.opacity = String(Math.max(0.4, 1 - dy / 600));
+      }
+    }, { passive: true });
+    dlg.addEventListener('touchend', (e) => {
+      if (!dragging) return;
+      dragging = false;
+      const dx = e.changedTouches[0].clientX - sx, dy = e.changedTouches[0].clientY - sy;
+      dlg.style.transition = 'transform 0.18s ease, opacity 0.18s ease';
+      if (dy > 90 && dy > Math.abs(dx) * 1.4 && (!onlyAtTop || dlg.scrollTop <= 0)) {
+        dlg.close();
+        setTimeout(reset, 200);
+      } else {
+        reset();
+      }
+    }, { passive: true });
+  }
+
   // ----- focused gallery view -----
   const gview = document.querySelector<HTMLDialogElement>('[data-gallery-view]');
   document.querySelectorAll('[data-gallery-open]').forEach((b) =>
@@ -1281,6 +1237,7 @@ const description = excerpt(press?.pressRelease, 160) || title;
     })
   );
   document.querySelector('[data-gallery-close]')?.addEventListener('click', () => gview?.close());
+  swipeDownToClose(gview, true);
   // keep the page behind still while a full-screen view is open
   document.querySelectorAll('dialog').forEach((d) => {
     new MutationObserver(() => {
@@ -1288,38 +1245,89 @@ const description = excerpt(press?.pressRelease, 160) || title;
     }).observe(d, { attributes: true, attributeFilter: ['open'] });
   });
 
-  // ----- gallery lightbox -----
+  // ----- zoomed image viewer: gallery images and images inside the texts -----
   const dialog = document.querySelector<HTMLDialogElement>('[data-lightbox-dialog]');
-  const dataEl = document.querySelector('[data-lightbox-data]');
-  if (dialog && dataEl) {
-    const items: { src: string; caption: string }[] = JSON.parse(dataEl.textContent || '[]');
+  if (dialog) {
+    type Item = { src: string; caption: string };
+    const galleryEl = document.querySelector('[data-lightbox-data]');
+    const galleryItems: Item[] = galleryEl ? JSON.parse(galleryEl.textContent || '[]') : [];
     const img = dialog.querySelector<HTMLImageElement>('[data-lightbox-img]')!;
     const cap = dialog.querySelector<HTMLElement>('[data-lightbox-caption]')!;
     const count = dialog.querySelector<HTMLElement>('[data-lightbox-count]')!;
+    const prev = dialog.querySelector<HTMLElement>('[data-lightbox-prev]')!;
+    const next = dialog.querySelector<HTMLElement>('[data-lightbox-next]')!;
+    let items: Item[] = galleryItems;
     let current = 0;
     const show = (i: number) => {
       current = (i + items.length) % items.length;
       img.src = items[current].src;
       img.alt = items[current].caption;
       cap.textContent = items[current].caption;
-      count.textContent = `${current + 1} / ${items.length}`;
+      count.textContent = items.length > 1 ? `${current + 1} / ${items.length}` : '';
+      prev.hidden = next.hidden = items.length < 2;
     };
+    const open = (list: Item[], i: number) => {
+      items = list;
+      show(i);
+      dialog.showModal();
+    };
+
+    // gallery tiles
     document.querySelectorAll<HTMLElement>('[data-lightbox]').forEach((b) =>
-      b.addEventListener('click', () => {
-        show(Number(b.dataset.lightbox));
-        dialog.showModal();
-      })
+      b.addEventListener('click', () => open(galleryItems, Number(b.dataset.lightbox)))
     );
+
+    // images inside the press release and the news: zoom the ones of the open tab, in reading order
+    const bodyImages = [...document.querySelectorAll<HTMLImageElement>('.prose .art-figure img, .timeline__cover')];
+    const itemOf = (el: HTMLImageElement): Item => ({
+      src: el.currentSrc || el.src,
+      caption: el.closest('figure')?.querySelector('figcaption')?.textContent?.trim() || ''
+    });
+    bodyImages.forEach((el) => {
+      el.classList.add('zoomable');
+      el.tabIndex = 0;
+      el.setAttribute('role', 'button');
+      el.setAttribute('aria-label', 'Ingrandisci immagine');
+      const go = () => {
+        const scope = el.closest('.panel') || document;
+        const group = bodyImages.filter((x) => scope.contains(x));
+        open(group.map(itemOf), group.indexOf(el));
+      };
+      el.addEventListener('click', go);
+      el.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); }
+      });
+    });
+
     dialog.querySelector('[data-lightbox-close]')?.addEventListener('click', () => dialog.close());
-    dialog.querySelector('[data-lightbox-prev]')?.addEventListener('click', () => show(current - 1));
-    dialog.querySelector('[data-lightbox-next]')?.addEventListener('click', () => show(current + 1));
+    prev.addEventListener('click', () => show(current - 1));
+    next.addEventListener('click', () => show(current + 1));
     dialog.addEventListener('click', (e) => {
       if (e.target === dialog) dialog.close();
     });
+
+    swipeDownToClose(dialog, false);
+
+    // swipe left / right to change image (the arrow buttons are hidden on touch screens)
+    let sx = 0, sy = 0, tracking = false;
+    dialog.addEventListener('touchstart', (e) => {
+      if (e.touches.length !== 1) { tracking = false; return; }
+      tracking = true;
+      sx = e.touches[0].clientX;
+      sy = e.touches[0].clientY;
+    }, { passive: true });
+    dialog.addEventListener('touchend', (e) => {
+      if (!tracking || items.length < 2) return;
+      tracking = false;
+      const dx = e.changedTouches[0].clientX - sx;
+      const dy = e.changedTouches[0].clientY - sy;
+      // a clear, mostly horizontal movement
+      if (Math.abs(dx) > 48 && Math.abs(dx) > Math.abs(dy) * 1.4) show(current + (dx < 0 ? 1 : -1));
+    }, { passive: true });
+
     dialog.addEventListener('keydown', (e) => {
-      if (e.key === 'ArrowRight') show(current + 1);
-      if (e.key === 'ArrowLeft') show(current - 1);
+      if (e.key === 'ArrowRight' && items.length > 1) show(current + 1);
+      if (e.key === 'ArrowLeft' && items.length > 1) show(current - 1);
     });
-    if (items.length < 2) dialog.querySelectorAll<HTMLElement>('[data-lightbox-prev],[data-lightbox-next]').forEach((b) => (b.hidden = true));
   }
 </script>
