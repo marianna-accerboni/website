@@ -203,6 +203,13 @@ const desc = description || 'Mostre, presentazioni ed eventi curati da Marianna 
     transition: border-color 0.15s;
   }
 
+  /* iPhone Safari zooms the page when a field under 16px gets focus: keep it at 16px on touch screens */
+  @media (pointer: coarse), (max-width: 760px) {
+    .search input {
+      font-size: 16px;
+    }
+  }
+
   .search input::placeholder {
     color: var(--muted);
   }
