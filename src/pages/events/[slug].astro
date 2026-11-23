@@ -261,10 +261,18 @@ const description = excerpt(press?.pressRelease, 160) || title;
       )
     }
     <dialog class="lightbox" data-lightbox-dialog aria-label="Immagine ingrandita">
-      <figure class="lightbox__figure">
-        <img data-lightbox-img alt="" />
-        <figcaption data-lightbox-caption />
-      </figure>
+      <div class="lightbox__stage">
+        <div class="lightbox__slides" data-lightbox-slides>
+          {[0, 1, 2].map(() => (
+            <div class="lightbox__slide">
+              <figure class="lightbox__figure">
+                <img alt="" />
+                <figcaption />
+              </figure>
+            </div>
+          ))}
+        </div>
+      </div>
       <p class="lightbox__count" data-lightbox-count />
       <button type="button" class="lightbox__btn lightbox__close" data-lightbox-close aria-label="Chiudi">✕</button>
       <button type="button" class="lightbox__btn lightbox__prev" data-lightbox-prev aria-label="Immagine precedente">←</button>
@@ -698,20 +706,40 @@ const description = excerpt(press?.pressRelease, 160) || title;
     max-width: none;
     max-height: none;
     margin: 0;
-    padding: 56px 72px 40px;
+    padding: 0;
     border: 0;
     background: var(--overlay);
     color: var(--text);
+    overflow: hidden;
   }
 
   .lightbox::backdrop {
     background: var(--scrim);
   }
 
-  .lightbox[open] {
+  /* three slides (previous / current / next) side by side: the strip follows the finger */
+  .lightbox__stage {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+  }
+
+  .lightbox__slides {
+    display: flex;
+    width: 300%;
+    height: 100%;
+    transform: translateX(-33.3333%);
+    will-change: transform;
+  }
+
+  .lightbox__slide {
+    flex: 0 0 33.3333%;
     display: flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
+    height: 100%;
+    padding: 56px 72px 40px;
   }
 
   .lightbox__figure {
@@ -1133,7 +1161,7 @@ const description = excerpt(press?.pressRelease, 160) || title;
       line-height: 27px;
     }
 
-    .lightbox {
+    .lightbox__slide {
       padding: 56px 12px 24px;
     }
 
@@ -1251,23 +1279,59 @@ const description = excerpt(press?.pressRelease, 160) || title;
     type Item = { src: string; caption: string };
     const galleryEl = document.querySelector('[data-lightbox-data]');
     const galleryItems: Item[] = galleryEl ? JSON.parse(galleryEl.textContent || '[]') : [];
-    const img = dialog.querySelector<HTMLImageElement>('[data-lightbox-img]')!;
-    const cap = dialog.querySelector<HTMLElement>('[data-lightbox-caption]')!;
+    const slides = dialog.querySelector<HTMLElement>('[data-lightbox-slides]')!;
+    const cells = [...slides.querySelectorAll<HTMLElement>('.lightbox__slide')].map((el) => ({
+      img: el.querySelector('img')!,
+      cap: el.querySelector('figcaption')!
+    }));
     const count = dialog.querySelector<HTMLElement>('[data-lightbox-count]')!;
     const prev = dialog.querySelector<HTMLElement>('[data-lightbox-prev]')!;
     const next = dialog.querySelector<HTMLElement>('[data-lightbox-next]')!;
+    const REST = -100 / 3; // percent of the strip: the middle slide
     let items: Item[] = galleryItems;
     let current = 0;
-    const show = (i: number) => {
-      current = (i + items.length) % items.length;
-      img.src = items[current].src;
-      img.alt = items[current].caption;
-      cap.textContent = items[current].caption;
+    let busy = false;
+    const at = (i: number) => items[((i % items.length) + items.length) % items.length];
+    const place = (x = '') => {
+      slides.style.transform = `translateX(calc(${REST}% ${x}))`;
+    };
+    const fill = () => {
+      // previous / current / next; the neighbours are loaded ahead of time
+      [-1, 0, 1].forEach((d, k) => {
+        const it = at(current + d);
+        cells[k].img.src = it.src;
+        cells[k].img.alt = it.caption;
+        cells[k].cap.textContent = it.caption;
+      });
       count.textContent = items.length > 1 ? `${current + 1} / ${items.length}` : '';
       prev.hidden = next.hidden = items.length < 2;
     };
+    const show = (i: number) => {
+      current = ((i % items.length) + items.length) % items.length;
+      slides.style.transition = 'none';
+      place();
+      fill();
+    };
+    // slide to the previous (-1) or next (+1) image, then settle
+    const go = (dir: number) => {
+      if (busy || items.length < 2) return;
+      busy = true;
+      slides.style.transition = 'transform 0.28s cubic-bezier(0.2, 0.7, 0.2, 1)';
+      slides.style.transform = `translateX(${REST - dir * (100 / 3)}%)`;
+      const done = () => {
+        slides.removeEventListener('transitionend', done);
+        current = (current + dir + items.length) % items.length;
+        slides.style.transition = 'none';
+        place();
+        fill();
+        busy = false;
+      };
+      slides.addEventListener('transitionend', done);
+      setTimeout(() => busy && done(), 400); // safety if no transition fires
+    };
     const open = (list: Item[], i: number) => {
       items = list;
+      busy = false;
       show(i);
       dialog.showModal();
     };
@@ -1288,46 +1352,72 @@ const description = excerpt(press?.pressRelease, 160) || title;
       el.tabIndex = 0;
       el.setAttribute('role', 'button');
       el.setAttribute('aria-label', 'Ingrandisci immagine');
-      const go = () => {
+      const start = () => {
         const scope = el.closest('.panel') || document;
         const group = bodyImages.filter((x) => scope.contains(x));
         open(group.map(itemOf), group.indexOf(el));
       };
-      el.addEventListener('click', go);
+      el.addEventListener('click', start);
       el.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); }
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); start(); }
       });
     });
 
     dialog.querySelector('[data-lightbox-close]')?.addEventListener('click', () => dialog.close());
-    prev.addEventListener('click', () => show(current - 1));
-    next.addEventListener('click', () => show(current + 1));
+    prev.addEventListener('click', () => go(-1));
+    next.addEventListener('click', () => go(1));
     dialog.addEventListener('click', (e) => {
-      if (e.target === dialog) dialog.close();
+      // a click on the empty area closes the viewer
+      if (!(e.target as HTMLElement).closest('img, figcaption, button')) dialog.close();
     });
-
     swipeDownToClose(dialog, false);
 
-    // swipe left / right to change image (the arrow buttons are hidden on touch screens)
-    let sx = 0, sy = 0, tracking = false;
+    // drag sideways: the images follow the finger; release to change image or spring back
+    let sx = 0, sy = 0, st = 0, axis: '' | 'x' | 'y' = '', track = false;
     dialog.addEventListener('touchstart', (e) => {
-      if (e.touches.length !== 1) { tracking = false; return; }
-      tracking = true;
-      sx = e.touches[0].clientX;
-      sy = e.touches[0].clientY;
+      track = e.touches.length === 1 && !busy;
+      axis = '';
+      sx = e.touches[0].clientX; sy = e.touches[0].clientY; st = e.timeStamp;
+    }, { passive: true });
+    dialog.addEventListener('touchmove', (e) => {
+      if (!track || items.length < 2) return;
+      const dx = e.touches[0].clientX - sx, dy = e.touches[0].clientY - sy;
+      if (!axis && (Math.abs(dx) > 8 || Math.abs(dy) > 8)) axis = Math.abs(dx) > Math.abs(dy) * 1.2 ? 'x' : 'y';
+      if (axis === 'x') {
+        slides.style.transition = 'none';
+        place(`+ ${dx}px`);
+      }
     }, { passive: true });
     dialog.addEventListener('touchend', (e) => {
-      if (!tracking || items.length < 2) return;
-      tracking = false;
+      if (!track || axis !== 'x' || items.length < 2) { track = false; return; }
+      track = false;
       const dx = e.changedTouches[0].clientX - sx;
-      const dy = e.changedTouches[0].clientY - sy;
-      // a clear, mostly horizontal movement
-      if (Math.abs(dx) > 48 && Math.abs(dx) > Math.abs(dy) * 1.4) show(current + (dx < 0 ? 1 : -1));
+      const speed = Math.abs(dx) / Math.max(1, e.timeStamp - st); // px per ms
+      if (Math.abs(dx) > window.innerWidth * 0.22 || (speed > 0.45 && Math.abs(dx) > 30)) {
+        // finish the movement from where the finger left it
+        busy = true;
+        const dir = dx < 0 ? 1 : -1;
+        slides.style.transition = 'transform 0.24s cubic-bezier(0.2, 0.7, 0.2, 1)';
+        slides.style.transform = `translateX(${REST - dir * (100 / 3)}%)`;
+        const done = () => {
+          slides.removeEventListener('transitionend', done);
+          current = (current + dir + items.length) % items.length;
+          slides.style.transition = 'none';
+          place();
+          fill();
+          busy = false;
+        };
+        slides.addEventListener('transitionend', done);
+        setTimeout(() => busy && done(), 400);
+      } else {
+        slides.style.transition = 'transform 0.22s cubic-bezier(0.2, 0.7, 0.2, 1)';
+        place();
+      }
     }, { passive: true });
 
     dialog.addEventListener('keydown', (e) => {
-      if (e.key === 'ArrowRight' && items.length > 1) show(current + 1);
-      if (e.key === 'ArrowLeft' && items.length > 1) show(current - 1);
+      if (e.key === 'ArrowRight') go(1);
+      if (e.key === 'ArrowLeft') go(-1);
     });
   }
 </script>
