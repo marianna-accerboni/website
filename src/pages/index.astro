@@ -71,8 +71,8 @@ for (const it of items) {
 <BaseLayout>
   {
     coming.length > 0 && (
-      <section class="wrap coming" data-coming aria-labelledby="prossimi">
-        <div class="coming__panel">
+      <section class="coming" data-coming aria-labelledby="prossimi">
+        <div class="wrap coming__panel">
           <header class="coming__head">
             <h2 class="coming__title" id="prossimi">Prossimi eventi</h2>
           </header>
@@ -226,33 +226,30 @@ for (const it of items) {
 
 
   /* ---------- prossimi eventi ---------- */
+  /* full-width band in a lighter cool grey, with hairlines top and bottom */
   .coming {
-    padding-top: 40px;
+    padding-block: 40px 52px;
+    background: var(--band);
+    border-block: 1px solid var(--band-line);
   }
 
   .coming[hidden] {
     display: none;
   }
 
-  .coming__panel {
-    position: relative;
-    padding: 28px 32px 32px;
-    background: var(--bg-raised);
-    border: 1px solid var(--line);
-    border-top: 2px solid var(--accent);
-  }
-
   .coming__head {
-    margin-bottom: 24px;
+    margin-bottom: 28px;
   }
 
+  /* same look as the "Ultimi eventi" title */
   .coming__title {
     margin: 0;
+    font-family: var(--font-sans);
     font-size: 13px;
     font-weight: 600;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: var(--accent-ink);
+    color: var(--text);
   }
 
   .coming__grid {
@@ -378,6 +375,10 @@ for (const it of items) {
     padding-top: 56px;
   }
 
+  .next__day {
+    color: var(--text);
+  }
+
   @media (max-width: 860px) {
     .coming__grid--3 {
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -386,11 +387,7 @@ for (const it of items) {
 
   @media (max-width: 760px) {
     .coming {
-      padding-top: 24px;
-    }
-
-    .coming__panel {
-      padding: 22px 18px 24px;
+      padding-block: 28px 36px;
     }
 
     .coming__grid--2,

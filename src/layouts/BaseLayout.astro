@@ -24,17 +24,16 @@ const desc = description || 'Mostre, presentazioni ed eventi curati da Marianna 
     <meta property="og:title" content={title || siteTitle} />
     <meta property="og:description" content={desc} />
     {image && <meta property="og:image" content={new URL(href(image), Astro.site).toString()} />}
-    <meta name="theme-color" content="#121110" />
+    <meta name="theme-color" content="#111316" />
     <script is:inline>
-      // A theme chosen with the header switch is kept in the "tema" cookie and wins on every visit.
-      // Without a choice: light by day (7:00–19:00), dark in the evening.
+      // The theme is whatever was last chosen with the header switch (saved in the "tema" cookie).
+      // First visit: dark.
       (function () {
         var m = document.cookie.match(/(?:^|; )tema=(light|dark)/);
-        var h = new Date().getHours();
-        var theme = m ? m[1] : h >= 7 && h < 19 ? 'light' : 'dark';
+        var theme = m ? m[1] : 'dark';
         document.documentElement.dataset.theme = theme;
         var meta = document.querySelector('meta[name="theme-color"]');
-        if (meta) meta.content = theme === 'light' ? '#faf8f4' : '#121110';
+        if (meta) meta.content = theme === 'light' ? '#f7f8fa' : '#111316';
       })();
     </script>
     <link rel="icon" type="image/svg+xml" href={href('/favicon.svg')} />
@@ -276,17 +275,12 @@ const desc = description || 'Mostre, presentazioni ed eventi curati da Marianna 
   // ----- light / dark switch -----
   const root = document.documentElement;
   const toggle = document.querySelector<HTMLButtonElement>('[data-theme-toggle]');
-  const autoTheme = () => {
-    const h = new Date().getHours();
-    return h >= 7 && h < 19 ? 'light' : 'dark';
-  };
-  const savedTheme = () => document.cookie.match(/(?:^|; )tema=(light|dark)/)?.[1] || null;
   const apply = (theme: string) => {
     root.dataset.theme = theme;
-    document.querySelector<HTMLMetaElement>('meta[name="theme-color"]')?.setAttribute('content', theme === 'light' ? '#faf8f4' : '#121110');
+    document.querySelector<HTMLMetaElement>('meta[name="theme-color"]')?.setAttribute('content', theme === 'light' ? '#f7f8fa' : '#111316');
     toggle?.setAttribute('aria-label', theme === 'light' ? 'Passa al tema scuro' : 'Passa al tema chiaro');
   };
-  apply(root.dataset.theme || savedTheme() || autoTheme());
+  apply(root.dataset.theme || 'dark');
   toggle?.addEventListener('click', () => {
     const next = root.dataset.theme === 'light' ? 'dark' : 'light';
     apply(next);
@@ -294,11 +288,6 @@ const desc = description || 'Mostre, presentazioni ed eventi curati da Marianna 
     const secure = location.protocol === 'https:' ? '; Secure' : '';
     document.cookie = `tema=${next}; Max-Age=31536000; Path=/; SameSite=Lax${secure}`;
   });
-  // without a manual choice, a page left open across 7:00 / 19:00 follows the time of day
-  setInterval(() => {
-    if (!savedTheme() && root.dataset.theme !== autoTheme()) apply(autoTheme());
-  }, 60 * 1000);
-
   // On pages other than the home, the search form simply goes to the home with ?q=.
   // On the home, index.astro listens to the same input and filters live.
   const input = document.querySelector<HTMLInputElement>('[data-search-input]');

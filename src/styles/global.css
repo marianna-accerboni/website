@@ -1,42 +1,46 @@
 /* Marianna Accerboni — design tokens and base styles.
-   Dark is the only theme for now; a light one only needs a second [data-theme] block. */
+   Two themes (dark / light) share the same cool neutral greys; only the vermilion accent is warm. */
 
 :root,
 :root[data-theme='dark'] {
   color-scheme: dark;
-  --bg: #121110;
-  --bg-raised: #1a1917;
-  --bg-sunken: #0d0c0b;
-  --line: #2a2825;
-  --line-strong: #3a3733;
-  --text: #ece8e1;
-  --text-2: #bdb7ad;
-  --muted: #8b857b;
+  --bg: #111316;
+  --bg-raised: #181b1f;
+  --bg-sunken: #0c0e10;
+  --line: #262a30;
+  --line-strong: #373c44;
+  --text: #e8eaed;
+  --text-2: #b6bbc2;
+  --muted: #858b94;
   --accent: #e0573d; /* vermilion, used sparingly */
   --accent-ink: #ff8a6e;
-  --focus: #f1b39f;
-  --year: #5a5650; /* big year numbers in the archive */
-  --overlay: rgba(8, 8, 7, 0.97); /* full-screen image viewer */
+  --focus: #9db4d1;
+  --band: #1c2025; /* "Prossimi eventi": a faint lift over the page */
+  --band-line: #2b3037;
+  --year: #4d535b; /* big year numbers in the archive */
+  --overlay: rgba(9, 10, 12, 0.97); /* full-screen image viewer */
   --scrim: rgba(0, 0, 0, 0.7);
 }
 
-/* Light theme: warm paper, near-black ink, the same vermilion slightly deeper */
+/* Light theme: cool paper-grey, near-black ink, the same vermilion slightly deeper */
 :root[data-theme='light'] {
   color-scheme: light;
-  --bg: #faf8f4;
-  --bg-raised: #f2eee7;
-  --bg-sunken: #ebe6dd;
-  --line: #e3ded4;
-  --line-strong: #cec6b8;
-  --text: #1c1a17;
-  --text-2: #4a4640;
-  --muted: #7a7469;
+  --bg: #f7f8fa;
+  --bg-raised: #eff1f4;
+  --bg-sunken: #e5e8ec;
+  --line: #dfe3e8;
+  --line-strong: #c9cfd6;
+  --text: #181a1d;
+  --text-2: #444a52;
+  --muted: #737a84;
   --accent: #c8432a;
   --accent-ink: #b23a22;
-  --focus: #c8432a;
-  --year: #c2bbaf;
-  --overlay: rgba(250, 248, 244, 0.97);
-  --scrim: rgba(28, 26, 23, 0.35);
+  --focus: #3d5f8f;
+  --band: #eaecef;
+  --band-line: #d8dce1;
+  --year: #b9c0c8;
+  --overlay: rgba(247, 248, 250, 0.97);
+  --scrim: rgba(24, 26, 29, 0.35);
 }
 
 :root {
