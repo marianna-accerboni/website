@@ -18,7 +18,7 @@
   --band: #1c2025; /* "Prossimi eventi": a faint lift over the page */
   --band-line: #2b3037;
   --year: #4d535b; /* big year numbers in the archive */
-  --overlay: rgba(9, 10, 12, 0.97); /* full-screen image viewer */
+  --overlay: #090a0c; /* full-screen image viewer */
   --scrim: rgba(0, 0, 0, 0.7);
 }
 
@@ -39,7 +39,7 @@
   --band: #eaecef;
   --band-line: #d8dce1;
   --year: #b9c0c8;
-  --overlay: rgba(247, 248, 250, 0.97);
+  --overlay: #f7f8fa;
   --scrim: rgba(24, 26, 29, 0.35);
 }
 

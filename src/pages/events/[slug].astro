@@ -703,6 +703,7 @@ const description = excerpt(press?.pressRelease, 160) || title;
   .lightbox {
     width: 100vw;
     height: 100vh;
+    height: 100dvh;
     max-width: none;
     max-height: none;
     margin: 0;
@@ -992,6 +993,7 @@ const description = excerpt(press?.pressRelease, 160) || title;
   .gview {
     width: 100vw;
     height: 100vh;
+    height: 100dvh;
     max-width: none;
     max-height: none;
     margin: 0;
@@ -1249,11 +1251,16 @@ const description = excerpt(press?.pressRelease, 160) || title;
       dlg.style.transition = 'transform 0.18s ease, opacity 0.18s ease';
       if (dy > 90 && dy > Math.abs(dx) * 1.4 && (!onlyAtTop || dlg.scrollTop <= 0)) {
         dlg.close();
-        setTimeout(reset, 200);
       } else {
         reset();
       }
     }, { passive: true });
+    // the browser can take a gesture over (scroll, system swipe) and send "touchcancel" instead of
+    // "touchend": never leave the sheet half faded or half moved
+    dlg.addEventListener('touchcancel', () => { dragging = false; reset(); }, { passive: true });
+    // and always start and finish clean
+    dlg.addEventListener('close', () => setTimeout(reset, 200));
+    new MutationObserver(() => { if (dlg.open) reset(); }).observe(dlg, { attributes: true, attributeFilter: ['open'] });
   }
 
   // ----- focused gallery view -----
