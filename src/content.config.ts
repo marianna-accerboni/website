@@ -53,7 +53,7 @@ const events = defineCollection({
     createdAt: optionalDate,
     coverImage: z.string().optional(),
     info: infoSection.nullable().optional(),
-    press: pressSection.optional(),
+    press: pressSection.nullable().optional(),
     gallerySection: gallerySection.optional(),
     subEvents: z
       .preprocess(

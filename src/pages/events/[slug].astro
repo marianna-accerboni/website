@@ -1292,6 +1292,7 @@ const description = excerpt(press?.pressRelease, 160) || title;
     const galleryItems: Item[] = galleryEl ? JSON.parse(galleryEl.textContent || '[]') : [];
     const slides = dialog.querySelector<HTMLElement>('[data-lightbox-slides]')!;
     const cells = [...slides.querySelectorAll<HTMLElement>('.lightbox__slide')].map((el) => ({
+      el,
       img: el.querySelector('img')!,
       cap: el.querySelector('figcaption')!
     }));
@@ -1317,6 +1318,21 @@ const description = excerpt(press?.pressRelease, 160) || title;
       count.textContent = items.length > 1 ? `${current + 1} / ${items.length}` : '';
       prev.hidden = next.hidden = items.length < 2;
     };
+    // after the slide: rotate the three slides instead of swapping their pictures, so the image
+    // that was sliding in is already on screen and decoded (no flash of the previous one)
+    const settle = (dir: number) => {
+      current = (current + dir + items.length) % items.length;
+      const c = dir > 0 ? cells.shift()! : cells.pop()!;
+      if (dir > 0) { slides.appendChild(c.el); cells.push(c); } else { slides.insertBefore(c.el, slides.firstChild); cells.unshift(c); }
+      const it = at(current + (dir > 0 ? 1 : -1));
+      c.img.src = it.src;
+      c.img.alt = it.caption;
+      c.cap.textContent = it.caption;
+      slides.style.transition = 'none';
+      place();
+      count.textContent = `${current + 1} / ${items.length}`;
+      busy = false;
+    };
     const show = (i: number) => {
       current = ((i % items.length) + items.length) % items.length;
       slides.style.transition = 'none';
@@ -1331,11 +1347,7 @@ const description = excerpt(press?.pressRelease, 160) || title;
       slides.style.transform = `translateX(${REST - dir * (100 / 3)}%)`;
       const done = () => {
         slides.removeEventListener('transitionend', done);
-        current = (current + dir + items.length) % items.length;
-        slides.style.transition = 'none';
-        place();
-        fill();
-        busy = false;
+        settle(dir);
       };
       slides.addEventListener('transitionend', done);
       setTimeout(() => busy && done(), 400); // safety if no transition fires
@@ -1412,11 +1424,7 @@ const description = excerpt(press?.pressRelease, 160) || title;
         slides.style.transform = `translateX(${REST - dir * (100 / 3)}%)`;
         const done = () => {
           slides.removeEventListener('transitionend', done);
-          current = (current + dir + items.length) % items.length;
-          slides.style.transition = 'none';
-          place();
-          fill();
-          busy = false;
+          settle(dir);
         };
         slides.addEventListener('transitionend', done);
         setTimeout(() => busy && done(), 400);

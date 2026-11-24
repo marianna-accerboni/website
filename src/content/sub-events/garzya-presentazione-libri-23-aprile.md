@@ -1,10 +1,10 @@
 ---
 title: Giovedì 23 aprile alla sala Bobi Bazlen di palazzo Gopcevich a Trieste presentazione degli ultimi due libri di fotografie del fotografo poeta Giacomo Garzya
 parent: giacomo-garzya-flash-sulla-barcolana
-coverImage: /media/garzya-407/Ritratto_fotografico_di_Garzya.jpg
+coverImage: /media/events/giacomo-garzya-flash-sulla-barcolana/Ritratto_fotografico_di_Garzya.jpg
 bodySection:
   body: |-
-    ![Copertina Echi di pietra](/media/garzya-407/Copertina_Echi_di_pietra_22x30_6mm.jpg "Copertina Echi di pietra")
+    ![Copertina Echi di pietra](/media/events/giacomo-garzya-flash-sulla-barcolana/Copertina_Echi_di_pietra_22x30_6mm.jpg "Copertina Echi di pietra")
 
     **Giovedì 23 aprile** alle ore 17.30 avrà luogo alla **Sala Bobi Bazlen di Palazzo Gopcevich** la presentazione degli **ultimi due libri di fotografie del fotografo poeta Giacomo Garzya**: **_Mare_.** **_Sponde e onde dal mondo_**(Napoli 2026, _Iuppiter_ edizioni, pp. 320, € 40) ed **_Echi di pietra sulle rotte delle sirene. Gli ellenismi nel Mediterraneo_**(_Napoli 2026, Iuppiter_ edizioni, pp. 80, € 20). L'incontro è curato da **Claudia Colecchia**, responsabile Fototeca dei Civici Musei del Comune di Trieste, e dall'architetto **Marianna Accerboni** e vi parteciperà anche Garzya, che da sei anni si è trasferito da Napoli a Trieste.
 
@@ -14,7 +14,7 @@ bodySection:
 
     _Durante l'incontro_ – scrive Marianna Accerboni - saranno proiettate numerose delle centinaia di immagini pubblicate nei due accurati e ampi volumi, stampati full color su carta Gardamatt, che riassumono l'attività del fotografo dal 1982 a oggi, citando anche dei versi intensi su Capri: luogo dell'anima, fondamentale per comprendere l'autore, che nelle foto riesce quasi magicamente a instillare una sorta di energia mediterranea che, enfatizzando i contrappunti di luce e i cromatismi, offre per esempio un'interpretazione insolita e meno 'algida' della Barcolana, motivo forse del grande apprezzamento del pubblico verso la mostra. Pagine che ci avvicinano a un artista capace di fermare l'attimo fuggente senza necessità d'intervenire in fase di postfazione, salvo qualche calibratura della luce, aderendo al concetto di sintesi, suggerito a Garzya dal grande fotografo Pepi Merisio, che già nel 1995 lo invitò a collaborare e a esporre insieme a Napoli nella prestigiosa sede dell'Oratorio dei Nobili in piazza del Gesù.
 
-    ![Copertina Mare. Sponde e onde dal mondo](/media/garzya-407/Copertina_Mare._sponde.jpg "Copertina Mare. Sponde e onde dal mondo")
+    ![Copertina Mare. Sponde e onde dal mondo](/media/events/giacomo-garzya-flash-sulla-barcolana/Copertina_Mare._sponde.jpg "Copertina Mare. Sponde e onde dal mondo")
 
     Il volume intitolato **_Mare_.** **_Sponde e onde dal mondo_**, che si avvale della prefazione di Fabio Curcio e Maurizio Ribera d'Alcalà, presenta oltre 500 scatti, realizzati dal 1988 a oggi con il mezzo analogico e dal 2009 digitale, e suddivisi in 13 sezioni, che testimoniano la passione per i viaggi di Garzya, fotografo molto colto e sensibile: dal volo libero dei gabbiani sul Tirreno al mare che non si vede, ai paesaggi marini di Napoli, Trieste e Venezia, alle emozioni capresi. Per arrivare alla **Costa delle sirene sulla costiera amalfitana, alle Egadi, a Malta con le attigue isole di Gozo e Comino, al calcare tra Jonio ed Egeo** e al Salento, alla Dalmazia e al Montenegro, agli oceani Atlantico, Indiano e Pacifico e al lago d'Aral.
 

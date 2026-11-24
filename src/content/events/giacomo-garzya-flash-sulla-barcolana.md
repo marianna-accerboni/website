@@ -60,40 +60,40 @@ gallerySection:
     - image: /media/garzya-Trieste___Molo_Audace_4_Barcolana_57_8_ottobre_2025___foto_digitale.jpg
       alt: Trieste molo audace 4 barcolana 57 8 ottobre 2025 foto digitale
       title: Trieste molo audace 4 barcolana 57 8 ottobre 2025 foto digitale
-    - image: /media/garzya-407/Baia_di_Jeranto___Veduta_sui_Faraglioni_di_Capri___2013.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Baia_di_Jeranto___Veduta_sui_Faraglioni_di_Capri___2013.jpg
       alt: Baia di Jeranto - Veduta sui Faraglioni di Capri - 2013
       title: Baia di Jeranto - Veduta sui Faraglioni di Capri - 2013
-    - image: /media/garzya-407/Canale_di_Procida_2___Gabbiani___2024.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Canale_di_Procida_2___Gabbiani___2024.jpg
       alt: Canale di Procida 2 - Gabbiani - 2024
       title: Canale di Procida 2 - Gabbiani - 2024
-    - image: /media/garzya-407/Canale_di_Procida_3___Gabbiani___2024.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Canale_di_Procida_3___Gabbiani___2024.jpg
       alt: Canale di Procida 3 - Gabbiani - 2024
       title: Canale di Procida 3 - Gabbiani - 2024
-    - image: /media/garzya-407/Canale_di_Procida___Gabbiani___2024.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Canale_di_Procida___Gabbiani___2024.jpg
       alt: Canale di Procida - Gabbiani - 2024
       title: Canale di Procida - Gabbiani - 2024
-    - image: /media/garzya-407/Copertina_Echi_di_pietra_22x30_6mm.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Copertina_Echi_di_pietra_22x30_6mm.jpg
       alt: Copertina Echi di pietra 22x30 6mm
       title: Copertina Echi di pietra 22x30 6mm
-    - image: /media/garzya-407/Copertina_Mare._sponde.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Copertina_Mare._sponde.jpg
       alt: Copertina Mare. sponde
       title: Copertina Mare. sponde
-    - image: /media/garzya-407/Giacomo_Garzya.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Giacomo_Garzya.jpg
       alt: Giacomo Garzya
       title: Giacomo Garzya
-    - image: /media/garzya-407/Napoli___Montagna_di_sale_di_Mimo_Paladino___1996.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Napoli___Montagna_di_sale_di_Mimo_Paladino___1996.jpg
       alt: Napoli - Montagna di sale di Mimo Paladino - 1996
       title: Napoli - Montagna di sale di Mimo Paladino - 1996
-    - image: /media/garzya-407/Napoli___Vesuvio_allalba___1997.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Napoli___Vesuvio_allalba___1997.jpg
       alt: Napoli - Vesuvio all'alba - 1997
       title: Napoli - Vesuvio all'alba - 1997
-    - image: /media/garzya-407/Ritratto_fotografico_di_Garzya.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/Ritratto_fotografico_di_Garzya.jpg
       alt: Ritratto fotografico di Garzya
       title: Ritratto fotografico di Garzya
-    - image: /media/garzya-407/inaugurazione_1.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/inaugurazione_1.jpg
       alt: Inaugurazione 1
       title: Inaugurazione 1
-    - image: /media/garzya-407/inaugurazione_2.jpg
+    - image: /media/events/giacomo-garzya-flash-sulla-barcolana/inaugurazione_2.jpg
       alt: Inaugurazione 2
       title: Inaugurazione 2
 draft: false

@@ -3,7 +3,7 @@ title: "Giacomo Garzya. Flash sulla Barcolana: Alle Luci della Sera. Più di mil
 slug: garzya-barcolana-mille-visitatori
 createdAt: 2026-09-19T09:27:00
 parent: giacomo-garzya-flash-sulla-barcolana
-coverImage: /media/garzya-407/inaugurazione_1.jpg
+coverImage: /media/events/giacomo-garzya-flash-sulla-barcolana/inaugurazione_1.jpg
 bodySection:
   body: |-
     **Più di mille persone hanno visitato in meno di due settimane alla Sala Comunale d'Arte** (piazza Unità d'Italia 4) **di Trieste, la mostra personale del fotografo e poeta napoletano Giacomo Garzya, curata da Marianna Accerboni. La rassegna, intitolata "Flash sulla Barcolana: alle luci della sera", è stata oggetto di grande apprezzamento da parte del pubblico e della critica, in particolare per l'interpretazione insolita e "mediterranea" della storica regata: vi è esposta fino al 4 maggio una selezione di immagini fotografiche realizzate dall'autore con il mezzo digitale nel 2025 e nel 2024** (orario ogni giorno 10 - 13 e 17 – 20 / +39 339 1051815 - +39 335 6750946).

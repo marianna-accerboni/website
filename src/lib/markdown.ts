@@ -58,7 +58,7 @@ function rehypeArt() {
         parent.children[index] = wrapIframe(node);
         return SKIP;
       }
-      if (node.tagName === 'a' && typeof node.properties?.href === 'string' && /^https?:/.test(node.properties.href)) {
+      if (node.tagName === 'a' && typeof node.properties?.href === 'string' && (/^https?:/.test(node.properties.href) || /\.pdf(\?|#|$)/i.test(node.properties.href))) {
         node.properties.target = '_blank';
         node.properties.rel = 'noopener';
       }
